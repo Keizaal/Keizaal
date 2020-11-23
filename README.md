@@ -7,7 +7,7 @@ Current version: 11/21/2020 3.2.2
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Installer%20Banner.png)
 
-## What is Keizaal?
+# What is Keizaal?
 
 Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011.  
 
@@ -18,7 +18,7 @@ Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without c
 
 You can find a full list of the mods included in Keizaal [here](https://modwat.ch/u/Keizaal/). If you're still curious about what exactly Keizaal has in store for you, have a look at the overview [here](https://www.wabbajack.org/#/modlists/info?machineURL=keizaal).
 
-## Table of Contents
+# Table of Contents
 - [Setup and Information](#setup-and-information)
 - [Clean Install](#clean-install)
   - [Reinstalling Skyrim](#reinstalling-skyrim)
