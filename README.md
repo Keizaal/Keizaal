@@ -37,7 +37,8 @@ Install the latest version of Wabbajack from the #builds channel in the [Wabbaja
 
 Create a new folder called “Wabbajack” in the root of your main drive, the default is (C:). Extract Wabbjack.exe into this folder.
 
-![](https://lh3.googleusercontent.com/J2TSlfEol5ph4dQ1satHzWZS4B3JGHuGCTguSnDv7PBs0CI61psyN3LNZ2xVW-lslGcSbix65cU4_joIjYO5Hz0OGET8Rjlev0Oi7bxLNOzkRXdvxBDAK7d058LanhUJWb9MPG6M)
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Installing%20Wabbajack.png)
+
 This modlist was developed on a system running [these specs](https://pcpartpicker.com/list/7JD9n7), on this system a stable and consistent 45 - 50FPS is the norm. Your mileage may vary, there is nothing I can do if you experience poor performance.
 
 ### Clean Install
@@ -82,7 +83,8 @@ Select the Keizaal modlist from the Wabbajack UI.
 
 Once the installation window opens ensure that the “Installation Location” matches the Keizaal folder you just created (default should be C:\Keizaal\). The download location should populate automatically
 
-![](https://lh4.googleusercontent.com/P7t5u3IoiDj4ERKY-KInr3n5eBEgJqiqgBk4wJgpI4nqCL6OX1OhcDhW_7VGfnpNwN3wVwLwPYTGNAuybSh6Mx08ImAs6LXayiwInRbbrH3Y4-hVDE0lPql49Qm7LCLQGbKfZs4a)
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Installing%20Keizaal.png)
+
 When you’re ready press the triangular start button.
 
 After starting the installation a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log into and authorize Wabbajack on Nexus and the installation will proceed. Wabbajack will now install the modlist, this will take a while so be patient. When the installation is done the left panel should say “Installation Complete '' at the button. At this time it is safe to close Wabbajack.
@@ -95,14 +97,16 @@ If you have an older or less powerful machine you may skip this step.
 
 Download the most recent version of ENB. Once the archive is downloaded, open it and open the “WrapperVersion” folder.
 
-![](https://lh6.googleusercontent.com/SPfkD5mRAFwiXKdriV7B2GvDdcqs7wLS4DeF1eHO-gzGd--AHX1tavpmxRA8GFnCpyrqcZ-vCyo0IdgrShtZWXmcadYFaLyBfFMZjLFqJiGrDQFrYhFxffWIqOL5gsSD0VSRqq06)
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Installing%20ENB.png)
+
 Extract everything in “WrapperVersion” to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe).
 
 ## Playing Keizaal
 
 Navigate to your Keizaal installation folder (default is C:\Keizaal\) and open the “Game Folder Files” folder.
 
-![](https://lh5.googleusercontent.com/AcN_DN0Xr133rwF-ntqbHbcv6e7GVs0ChBY7as__v_EkTaoGotVkR6E_JCDzO0m-QHmpjGqT7WG74cikRaYKOb2Ojr_O8aZ4I-A6He-CxjWkQ-tUB7G8a3uMRPj7lJQ0934U-_q5)
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Installing%20Game%20Folder%20Files.png)
+
 Extract everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe). Keizaal is ready to play!
 
 Now that Keizaal has been installed you will need to launch Skyrim in a slightly different way.
@@ -111,7 +115,8 @@ Navigate back to your Keizaal installation folder and run ModOrganizer.exe.
 
 You should now be on a screen that displays all of your installed mods on the left and all of your .esp files on the right.
 
-![](https://lh4.googleusercontent.com/_bSzqh7vA4QHZ3m7cnCj2s0-hW-LqXU8vLryDidqN0DDNa4MhOV7HupaDjEEBdIztDf0qg9FHeotUEqIjdhrQg2xddNM33TMQIIvwX0yzSQCphBtwdGT7vRzfb-Wv2j64CPY_K02)
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Playing%20Keizaal.png)
+
 You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the .esp plugins and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
 
 ### Optional Mods
