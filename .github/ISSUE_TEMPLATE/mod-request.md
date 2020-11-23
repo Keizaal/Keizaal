@@ -1,5 +1,5 @@
 ---
-name: Mod Request
+name: Mod request
 about: Suggest a mod for Keizaal
 title: ''
 labels: enhancement
