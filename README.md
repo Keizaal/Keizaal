@@ -17,6 +17,18 @@ Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without c
 
 You can find a full list of the mods included in Keizaal [here](https://modwat.ch/u/Keizaal/). If you're still curious about what exactly Keizaal has in store for you, have a look at the overview [here](https://www.wabbajack.org/#/modlists/info?machineURL=keizaal).
 
+# Table of Contents
+- [Setup and Information](#setup-and-information)
+- [Clean Install](#clean-install)
+  - [Reinstalling Skyrim](#reinstalling-skyrim)
+  - [Creation Club Update Protection](#creation-club-update-protection)
+- [Keizaal Installation](#keizaal-installation)
+  - [Installing the ENB (Optional)](#installing-the-enb-optional)
+- [Playing Keizaal](#playing-keizaal)
+  - [Optional Mods](#optional-mods)
+- [Troubleshooting](#troubleshooting)
+- [Credits](#credits)
+
 ## Setup and Information
 
 This modlist takes up 100GB of harddrive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice.
@@ -50,7 +62,7 @@ Reinstall Skyrim in the root of your main drive, the default is (C:). **It is no
 
 Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
 
-### Creation Club Updating Protection
+### Creation Club Update Protection
 
 Every time the Creation Club releases new content SKSE breaks. A fixed version of SKSE usually releases fast, but to ensure your game isn’t broken for a few days follow these steps:
 
