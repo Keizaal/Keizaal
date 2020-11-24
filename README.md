@@ -130,7 +130,7 @@ There are a handful of mods that I have included that are disabled by default. T
 
 Download the [.Net Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net48). Be sure to restart your computer afterward.
 
-A mod fails to download.
+**A mod fails to download.**
 
 If a mod fails to download Keizaal may be down and require a recompile. Check the Wabbjack Discord and be patient as an update is made.
 
@@ -142,26 +142,18 @@ Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invit
 
 ## Credits
 
-**Simon Magus**
-for tolerating my constant badgering about my load order
+**Simon Magus** for tolerating my constant badgering about my load order
 
-**Paleo the Parrot**, **VictorF**, and **ElectricSparx**
-for helping me understand xEdit
+**Paleo the Parrot**, **VictorF**, and **ElectricSparx** for helping me understand xEdit
 
-**Shade088**
-for all his help getting Keizaal’s graphical suite operational
+**Shade088** for all his help getting Keizaal’s graphical suite operational
 
-**Total**,  **Lively**, and **Double Dog**
-for helping me get the Wabbajack installer operational over several long nights
+**Total**,  **Lively**, and **Double Dog** for helping me get the Wabbajack installer operational over several long nights
 
-**uggcaveman**
-for saving Keizaal that one time
+**uggcaveman** for saving Keizaal that one time
 
-**Dylan James**
-for helping me understand what I wanted out of this modlist
+**Dylan James** for helping me understand what I wanted out of this modlist
 
-**halgari** and entire **Wabbajack Team**
-for creating such a fantastic resource
+**halgari** and entire **Wabbajack Team** for creating such a fantastic resource
 
-The wonderful **mod authors**
-for making this modlist possible
+The wonderful **mod authors** for making this modlist possible
