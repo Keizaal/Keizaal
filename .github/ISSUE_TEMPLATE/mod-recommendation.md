@@ -2,7 +2,7 @@
 name: Mod recommendation
 about: Suggest a mod for Keizaal.
 title: ''
-labels: mod-recommendation
+labels: "mod recommendation"
 assignees: ''
 
 ---
