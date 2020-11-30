@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help improve Keizaal.
+about: Create a bug report to help improve Keizaal.
 title: ''
 labels: bug
 assignees: ''
