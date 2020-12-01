@@ -3,7 +3,7 @@ name: Bug report
 about: Create a bug report to help improve Keizaal.
 title: ''
 labels: bug
-assignees: "Pierre Despereaux"
+assignees: PierreDespereaux
 
 ---
 
