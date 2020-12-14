@@ -131,7 +131,7 @@ Several mods in Keizaal's Mod Organizer have notes attached to them. If the note
 
 Here is an example of one such note:
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Notes.PNG)
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Notes.png)
 
 ## Troubleshooting
 
