@@ -5,7 +5,7 @@ Current version: 12/11/2020 3.4.2
 
 # Installation Guide
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Installer%20Banner.png)
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Keizaal%20Banner.png)
 
 # What is Keizaal?
 
