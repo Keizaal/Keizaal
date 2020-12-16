@@ -1,4 +1,4 @@
-Current version: 12/11/2020 3.4.2
+Current version: 12/12/2020 3.4.3
 
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/keizaal/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/keizaal/badge.json)
@@ -27,6 +27,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
   - [Installing the ENB (Optional)](#installing-the-enb-optional)
 - [Playing Keizaal](#playing-keizaal)
   - [Optional Mods](#optional-mods)
+  - [Mod Notes](#mod-notes)
 - [Troubleshooting](#troubleshooting)
 - [Credits](#credits)
 
@@ -123,6 +124,14 @@ You will now have to launch Skyrim by selecting “Keizaal” from the drop-down
 ### Optional Mods
 
 There are a handful of mods that I have included that are disabled by default. These mods aren’t part of the main Keizaal package and are mainly made up of mods that rely on Creation Club content in order to function. I will try to assist you in enabling these optional mods, however if you make changes to Keizaal outside of these few mods I will not be able to help you. Any personal edits you make to this list must be done independently.
+
+### Mod Notes
+
+Several mods in Keizaal's Mod Organizer have notes attached to them. If the note icon appears next to a mod, hover over it to read the notes I've added. These notes will give you some additional context about how I have configured the mod.
+
+Here is an example of one such note:
+
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Notes.png)
 
 ## Troubleshooting
 
