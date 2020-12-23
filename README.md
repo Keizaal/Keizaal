@@ -24,7 +24,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
   - [Reinstalling Skyrim](#reinstalling-skyrim)
   - [Creation Club Update Protection](#creation-club-update-protection)
 - [Keizaal Installation](#keizaal-installation)
-  - [Installing the ENB (Optional)](#installing-the-enb-optional)
+  - [Installing the ENB (Optional)](#installing-the-enb-binaries-optional)
 - [Playing Keizaal](#playing-keizaal)
   - [Optional Mods](#optional-mods)
   - [Mod Notes](#mod-notes)
@@ -91,17 +91,19 @@ When you’re ready press the triangular start button.
 
 After starting the installation a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log into and authorize Wabbajack on Nexus and the installation will proceed. Wabbajack will now install the modlist, this will take a while so be patient. When the installation is done the left panel should say “Installation Complete '' at the button. At this time it is safe to close Wabbajack.
 
-### Installing the ENB (Optional)
+### Installing the ENB Binaries (Optional)
 
 If you have an older or less powerful machine you may skip this step.
 
 [Click here to go to enbdev.com.](http://enbdev.com/download_mod_tesskyrimse.htm)
 
-Download the most recent version of ENB. Once the archive is downloaded, open it and open the “WrapperVersion” folder.
+Download the most recent version of the ENB binaries. Once the archive is downloaded, open it and open the “WrapperVersion” folder.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Installing%20ENB.png)
 
 Extract everything in “WrapperVersion” to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe).
+
+Keizaal comes with its own prepackaged ENB preset. If, for whatever reason, you don't want to use this prepackaged preset I *urge* you to at least use an ENB that doesn't break IMODs. I believe any ENB that breaks IMODs is automatically bad, no matter how pretty it may look.
 
 ## Playing Keizaal
 
