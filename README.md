@@ -103,7 +103,7 @@ Download the most recent version of the ENB binaries. Once the archive is downlo
 
 Extract everything in “WrapperVersion” to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe).
 
-Keizaal comes with its own prepackaged ENB preset. If, for whatever reason, you don't want to use this prepackaged preset I *urge* you to at least use an ENB that doesn't break IMODs. I believe any ENB that breaks IMODs is automatically bad, no matter how pretty it may look.
+Keizaal comes with its own prepackaged ENB preset. If, for whatever reason, you don't want to use this prepackaged preset I *urge* you to at least use an ENB that doesn't break imagespace modifiers. I believe any ENB that breaks imagespace modifiers is automatically bad, no matter how pretty it may look.
 
 ## Playing Keizaal
 
