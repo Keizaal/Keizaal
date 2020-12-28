@@ -139,7 +139,7 @@ Here is an example of one such note:
 
 **Wabbajack throws an error after authorizing through Nexus.**
 
-Download the [.Net Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net48). Be sure to restart your computer afterward.
+Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkId=2085155). Be sure to restart your computer afterward.
 
 **A mod fails to download.**
 
@@ -147,11 +147,7 @@ If a mod fails to download Keizaal may be down and require a recompile. Check th
 
 **ModOrganizer.exe throws an error when trying to launch.**
 
-Download the x64 version of the [MSVC 2019 Runtime Library](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Be sure to restart your computer afterward.
-
-**Keizaal is experiencing crashes to desktop during play.**
-
-Please download and install [Visual C++](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
+Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
 
 Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance.
 
