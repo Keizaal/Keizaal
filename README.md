@@ -149,6 +149,10 @@ If a mod fails to download Keizaal may be down and require a recompile. Check th
 
 Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
 
+**Skyrim can't seem to get past character creation without crashing.**
+
+Try [changing your Windows regional format](https://support.microsoft.com/en-us/office/change-the-windows-regional-settings-to-modify-the-appearance-of-some-data-types-edf41006-f6e2-4360-bc1b-30e9e8a54989) to "English (United States)", as seem below.
+
 Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance.
 
 ## Credits
