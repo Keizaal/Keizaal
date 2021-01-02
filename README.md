@@ -153,7 +153,7 @@ Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_re
 
 Try [changing your Windows regional format](https://support.microsoft.com/en-us/office/change-the-windows-regional-settings-to-modify-the-appearance-of-some-data-types-edf41006-f6e2-4360-bc1b-30e9e8a54989) to "English (United States)", as seem below.
 
-![]https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Troubleshooting%20Regional%20Format.png
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Troubleshooting%20Regional%20Format.png)
 
 Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance.
 
