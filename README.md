@@ -37,7 +37,7 @@ Please note that manual installations are <ins>**NOT SUPPORTED**</ins>. There ar
 
 This modlist takes up 200GB of hard drive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice.
 
-Install the latest version of Wabbajack from the #builds channel in the [Wabbajack Discord](https://discordapp.com/invite/wabbajack).
+Install the latest version of Wabbajack from it's [GitHub page](https://github.com/wabbajack-tools/wabbajack/releases).
 
 Create a new folder called “Wabbajack” in the root of your main drive, the default is (C:). Extract Wabbjack.exe into this folder.
 
