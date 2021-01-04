@@ -33,8 +33,6 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
 
 ## Setup and Information
 
-Please note that manual installations are <ins>**NOT SUPPORTED**</ins>. There are simply too many variables that go on during manual installations; attempting to troubleshoot each user individually is simply not realistic and will likely be a waste of everyone's time.
-
 This modlist takes up 200GB of hard drive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice.
 
 Install the latest version of Wabbajack from it's [GitHub page](https://github.com/wabbajack-tools/wabbajack/releases).
@@ -151,13 +149,15 @@ If a mod fails to download Keizaal may be down and require a recompile. Check th
 
 Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
 
-**Skyrim can't seem to get past character creation without crashing.**
+**Skyrim can't get past character creation without crashing.**
 
 Change your Windows regional format to "English (United States)", as seem below.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Troubleshooting%20Regional%20Format.png)
 
-Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance.
+Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance. If you make modifications to this modlist, you do so at your own risk. No support will be provided.
+
+Please note that manual installations are <ins>**NOT SUPPORTED**</ins>. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone's time.
 
 ## Credits
 
