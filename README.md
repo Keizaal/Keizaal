@@ -33,7 +33,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
 
 ## Setup and Information
 
-Please note that manual installation are <ins>**NOT SUPPORTED**</ins>. There are simply too many variables that go on during manual installations; attempting to troubleshoot each user individually is simply not realistic and will likely be a waste of everyone's time.
+Please note that manual installations are <ins>**NOT SUPPORTED**</ins>. There are simply too many variables that go on during manual installations; attempting to troubleshoot each user individually is simply not realistic and will likely be a waste of everyone's time.
 
 This modlist takes up 200GB of hard drive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice.
 
