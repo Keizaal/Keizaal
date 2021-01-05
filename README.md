@@ -1,4 +1,4 @@
-Current version: 01/01/21 3.4.0
+Current version: 12/28/2020 3.3.4.3
 
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/keizaal/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/keizaal/badge.json)
@@ -9,7 +9,7 @@ Current version: 01/01/21 3.4.0
 
 # What is Keizaal?
 
-Keizaal is a simple modlist that focuses on improving what is already presented to us in vanilla Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011.
+Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011.  
 
 1.  This modlist is lite and intends to maintain the Vanilla feel. A lot of the time modlists can become ridiculously huge and bloated, but this modlist wants to be nice and lean. Less is more. 
 2.  Immersion is paramount. I'm a lore buff and immersion is very important to me. If a mod is not lore accurate or takes me out of the game in any way it will be excluded. Consistency also falls into this category, if a mod has a completely different aesthetic from Vanilla or any of my other mods then it will probably not be included.
@@ -33,15 +33,15 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
 
 ## Setup and Information
 
-This modlist takes up 200GB of hard drive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice.
+This modlist takes up 100GB of harddrive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice.
 
-Install the latest version of Wabbajack from it's [GitHub page](https://github.com/wabbajack-tools/wabbajack/releases).
+Install the latest version of Wabbajack from the #builds channel in the [Wabbajack Discord](https://discordapp.com/invite/wabbajack).
 
 Create a new folder called “Wabbajack” in the root of your main drive, the default is (C:). Extract Wabbjack.exe into this folder.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Installing%20Wabbajack.png)
 
-This modlist was developed on a system running [these specs](https://pcpartpicker.com/list/s8MYfP), on this system a stable and consistent 45 - 50FPS is the norm. Your mileage may vary, there is nothing I can do if you experience poor performance.
+This modlist was developed on a system running [these specs](https://pcpartpicker.com/list/7JD9n7), on this system a stable and consistent 45 - 50FPS is the norm. Your mileage may vary, there is nothing I can do if you experience poor performance.
 
 ### Clean Install
 
@@ -139,25 +139,21 @@ Here is an example of one such note:
 
 **Wabbajack throws an error after authorizing through Nexus.**
 
-Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkId=2085155). Be sure to restart your computer afterward.
+Download the [.Net Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net48). Be sure to restart your computer afterward.
 
-**Keizaal fails to install.**
+**A mod fails to download.**
 
 If a mod fails to download Keizaal may be down and require a recompile. Check the Wabbjack Discord and be patient as an update is made.
 
 **ModOrganizer.exe throws an error when trying to launch.**
 
-Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
+Download the x64 version of the [MSVC 2019 Runtime Library](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Be sure to restart your computer afterward.
 
-**Skyrim can't get past character creation without crashing.**
+**Keizaal is experiencing crashes to desktop during play.**
 
-Change your Windows regional format to "English (United States)", as seem below.
+Please download and install [Visual C++](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Troubleshooting%20Regional%20Format.png)
-
-Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance. If you make modifications to Keizaal, you do so at your own risk. No support will be provided.
-
-Please note that manual installations are <ins>**NOT SUPPORTED**</ins>. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone's time.
+Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance.
 
 ## Credits
 
