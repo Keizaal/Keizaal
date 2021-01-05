@@ -5,7 +5,7 @@ Current version: 12/28/2020 3.3.4.3
 
 # Installation Guide
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Keizaal%20Banner.png)
+![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Keizaal%20Banner.png)
 
 # What is Keizaal?
 
@@ -39,7 +39,7 @@ Install the latest version of Wabbajack from the #builds channel in the [Wabbaja
 
 Create a new folder called “Wabbajack” in the root of your main drive, the default is (C:). Extract Wabbjack.exe into this folder.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Installing%20Wabbajack.png)
+![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Installing%20Wabbajack.png)
 
 This modlist was developed on a system running [these specs](https://pcpartpicker.com/list/7JD9n7), on this system a stable and consistent 45 - 50FPS is the norm. Your mileage may vary, there is nothing I can do if you experience poor performance.
 
@@ -85,7 +85,7 @@ Select the Keizaal modlist from the Wabbajack UI.
 
 Once the installation window opens ensure that the “Installation Location” matches the Keizaal folder you just created (default should be C:\Keizaal\). The download location should populate automatically
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Installing%20Keizaal.png)
+![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Installing%20Keizaal.png)
 
 When you’re ready press the triangular start button.
 
@@ -99,7 +99,7 @@ If you have an older or less powerful machine you may skip this step.
 
 Download the most recent version of the ENB binaries. Once the archive is downloaded, open it and open the “WrapperVersion” folder.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Installing%20ENB.png)
+![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Installing%20ENB.png)
 
 Extract everything in “WrapperVersion” to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe).
 
@@ -109,7 +109,7 @@ Keizaal comes with its own prepackaged ENB preset. If, for whatever reason, you 
 
 Navigate to your Keizaal installation folder (default is C:\Keizaal\) and open the “Game Folder Files” folder.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Installing%20Game%20Folder%20Files.png)
+![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Installing%20Game%20Folder%20Files.png)
 
 Extract everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe). Keizaal is ready to play!
 
@@ -119,7 +119,7 @@ Navigate back to your Keizaal installation folder and run ModOrganizer.exe.
 
 You should now be on a screen that displays all of your installed mods on the left and all of your .esp files on the right.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Playing%20Keizaal.png)
+![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Playing%20Keizaal.png)
 
 You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the .esp plugins and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
 
@@ -133,7 +133,7 @@ Several mods in Keizaal's Mod Organizer have notes attached to them. If the note
 
 Here is an example of one such note:
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Notes.png)
+![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Notes.png)
 
 ## Troubleshooting
 
