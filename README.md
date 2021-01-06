@@ -139,21 +139,25 @@ Here is an example of one such note:
 
 **Wabbajack throws an error after authorizing through Nexus.**
 
-Download the [.Net Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net48). Be sure to restart your computer afterward.
+Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkId=2085155). Be sure to restart your computer afterward.
 
-**A mod fails to download.**
+**Keizaal fails to install.**
 
 If a mod fails to download Keizaal may be down and require a recompile. Check the Wabbjack Discord and be patient as an update is made.
 
 **ModOrganizer.exe throws an error when trying to launch.**
 
-Download the x64 version of the [MSVC 2019 Runtime Library](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Be sure to restart your computer afterward.
+Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
 
-**Keizaal is experiencing crashes to desktop during play.**
+**Skyrim can't get past character creation without crashing.**
 
-Please download and install [Visual C++](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
+Change your Windows regional format to "English (United States)", as seem below.
 
-Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance.
+![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Troubleshooting%20Regional%20Format.png)
+
+Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance. If you make modifications to Keizaal, you do so at your own risk. No support will be provided.
+
+Please note that manual installations are <ins>**NOT SUPPORTED**</ins>. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone's time.
 
 ## Credits
 
