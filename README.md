@@ -33,7 +33,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
 
 ## Setup and Information
 
-This modlist takes up 100GB of harddrive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice.
+This modlist takes up 200GB of hard drive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice.
 
 Install the latest version of Wabbajack from the #builds channel in the [Wabbajack Discord](https://discordapp.com/invite/wabbajack).
 
@@ -134,6 +134,16 @@ Several mods in Keizaal's Mod Organizer have notes attached to them. If the note
 Here is an example of one such note:
 
 ![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Notes.png)
+
+### Updating
+
+If this Modlist receives an update, please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
+
+**Wabbajack will delete all files that are not part of the Modlist when updating!**
+
+This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
+
+Updating is like installing. You only have to make sure that you select the same path and tick the overwrite existing Modlist button.
 
 ## Troubleshooting
 
