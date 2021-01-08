@@ -151,9 +151,51 @@ Updating is like installing. You only have to make sure that you select the same
 
 Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkId=2085155). Be sure to restart your computer afterward.
 
-**Keizaal fails to install.**
+**A mod fails to install.**
 
-If a mod fails to download Keizaal may be down and require a recompile. Check the Wabbjack Discord and be patient as an update is made.
+If Wabbajack fails to download a mod, try downloading them manually. Place these in your downloads folder where the other Wabbajack downloads are. Do not extract them. Note that some of these are big files and may take a while.
+
+*Bearnado Markarth Mashup*
+https://drive.google.com/file/d/1D139AzjXYuiTMjboFa_gmT3mXrmsR0zG/view?usp=sharing
+
+*Skyrim Realistic Overhaul Links*
+Part One: https://www.moddb.com/downloads/start/116891?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads
+Part Two: https://www.moddb.com/downloads/start/116927?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads
+Part Three: https://www.moddb.com/downloads/start/116934?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads
+1.8 Update: https://www.moddb.com/downloads/start/139489?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads
+
+*WiZkiD Candle Flames*
+https://drive.google.com/file/d/1ZA8r-McnBcxjCdUBnA4wRW1jZzhHciO2/view?usp=sharing
+
+*WiZkiD DynDOLOD Bright Waterfalls Meshes Fix*
+https://drive.google.com/file/d/1g54xGhVezDVOEGjOIoXowSG0XbKeGu57/view?usp=sharing
+
+*WiZkiD DynDOLOD Ultra Detailed Ships LOD*
+https://drive.google.com/file/d/1gmJtL0zhCC-hax-S2nuhvMXnKZlPrZQw/view?usp=sharing
+
+*WiZkiD High Poly Alchemy Table*
+https://drive.google.com/file/d/1Z8oJLvXwwXDdQULW_7RW1NG8N6l3H17B/view?usp=sharing
+
+*WiZkiD Sky Textures*
+https://drive.google.com/file/d/1lsg11a3blf825KVZsKaevKB5-khmaP9l/view?usp=sharing
+
+*WiZkiD Storm Lighting Improved Thunder Sounds*
+https://drive.google.com/file/d/1Fg-w1TQgC7WIYOSsOXNFd02egFgn6u3R/view?usp=sharing
+
+*WiZkiD Tree Selection*
+https://drive.google.com/file/d/1BhxtOpeaEHEkli6QKLrhi1bQyNYIdgXG/view?usp=sharing
+
+*WiZkiD Unique Flowers and Plants*
+https://drive.google.com/file/d/1_KjVdxNr5v08uU3xudaNXaRWwyTfe38M/view?usp=sharing
+
+*WiZkiD Variety*
+https://drive.google.com/file/d/1g5yCvLG0Fw-WvPOzEDNMaqBdTwT6eg65/view?usp=sharing
+
+*WiZkiD Water Wells with Real Water*
+https://drive.google.com/file/d/1wnWsbLND5rxgJV-keeJG4Ev33XkROugI/view?usp=sharing
+
+*Telvanni Reborn*
+https://www.dl.dropboxusercontent.com/s/3vr91f0l2ju1fyu/Telvanni%20Reborn-34601-1.7z?dl=0
 
 **ModOrganizer.exe throws an error when trying to launch.**
 
