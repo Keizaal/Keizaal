@@ -1,11 +1,11 @@
-Current version: 12/28/2020 3.3.4.3
+Current version: 01/08/21 3.4.1
 
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/keizaal/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/keizaal/badge.json)
 
 # Installation Guide
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Keizaal%20Banner.png)
+![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Keizaal%20Banner.png)
 
 # What is Keizaal?
 
@@ -33,13 +33,13 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
 
 ## Setup and Information
 
-This modlist takes up 100GB of harddrive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice.
+This modlist takes up 200GB of hard drive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice.
 
-Install the latest version of Wabbajack from the #builds channel in the [Wabbajack Discord](https://discordapp.com/invite/wabbajack).
+Install the latest version of Wabbajack from it's [GitHub page](https://github.com/wabbajack-tools/wabbajack/releases).
 
 Create a new folder called “Wabbajack” in the root of your main drive, the default is (C:). Extract Wabbjack.exe into this folder.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Installing%20Wabbajack.png)
+![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Installing%20Wabbajack.png)
 
 This modlist was developed on a system running [these specs](https://pcpartpicker.com/list/7JD9n7), on this system a stable and consistent 45 - 50FPS is the norm. Your mileage may vary, there is nothing I can do if you experience poor performance.
 
@@ -85,7 +85,7 @@ Select the Keizaal modlist from the Wabbajack UI.
 
 Once the installation window opens ensure that the “Installation Location” matches the Keizaal folder you just created (default should be C:\Keizaal\). The download location should populate automatically
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Installing%20Keizaal.png)
+![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Installing%20Keizaal.png)
 
 When you’re ready press the triangular start button.
 
@@ -99,7 +99,7 @@ If you have an older or less powerful machine you may skip this step.
 
 Download the most recent version of the ENB binaries. Once the archive is downloaded, open it and open the “WrapperVersion” folder.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Installing%20ENB.png)
+![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Installing%20ENB.png)
 
 Extract everything in “WrapperVersion” to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe).
 
@@ -109,7 +109,7 @@ Keizaal comes with its own prepackaged ENB preset. If, for whatever reason, you 
 
 Navigate to your Keizaal installation folder (default is C:\Keizaal\) and open the “Game Folder Files” folder.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Installing%20Game%20Folder%20Files.png)
+![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Installing%20Game%20Folder%20Files.png)
 
 Extract everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe). Keizaal is ready to play!
 
@@ -119,7 +119,7 @@ Navigate back to your Keizaal installation folder and run ModOrganizer.exe.
 
 You should now be on a screen that displays all of your installed mods on the left and all of your .esp files on the right.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Playing%20Keizaal.png)
+![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Playing%20Keizaal.png)
 
 You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the .esp plugins and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
 
@@ -133,27 +133,41 @@ Several mods in Keizaal's Mod Organizer have notes attached to them. If the note
 
 Here is an example of one such note:
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/images/Notes.png)
+![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Notes.png)
+
+### Updating
+
+If this Modlist receives an update, please check the Changelog before doing anything. Always backup your saves or start a new game after updating.
+
+**Wabbajack will delete all files that are not part of the Modlist when updating!**
+
+This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
+
+Updating is like installing. You only have to make sure that you select the same path and tick the overwrite existing Modlist button.
 
 ## Troubleshooting
 
 **Wabbajack throws an error after authorizing through Nexus.**
 
-Download the [.Net Framework 4.8 Runtime](https://dotnet.microsoft.com/download/dotnet-framework/net48). Be sure to restart your computer afterward.
+Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkId=2085155). Be sure to restart your computer afterward.
 
-**A mod fails to download.**
+**Keizaal fails to install.**
 
 If a mod fails to download Keizaal may be down and require a recompile. Check the Wabbjack Discord and be patient as an update is made.
 
 **ModOrganizer.exe throws an error when trying to launch.**
 
-Download the x64 version of the [MSVC 2019 Runtime Library](https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads). Be sure to restart your computer afterward.
+Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
 
-**Keizaal is experiencing crashes to desktop during play.**
+**Skyrim can't get past character creation without crashing.**
 
-Please download and install [Visual C++](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
+Change your Windows regional format to "English (United States)", as seem below.
 
-Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance.
+![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Troubleshooting%20Regional%20Format.png)
+
+Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance. If you make modifications to Keizaal, you do so at your own risk. No support will be provided.
+
+Please note that manual installations are <ins>**NOT SUPPORTED**</ins>. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone's time.
 
 ## Credits
 
