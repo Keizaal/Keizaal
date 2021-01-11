@@ -140,7 +140,7 @@ All of the Mod Configuration Menus menus and .inis in Keizaal have been pre-conf
 
 ### BethINI
 
-BethINI is a powerful tool that replaces the Vanilla settings menu in the Skyrim launcher. You can use it to tweak the game's settings to your heart's desire. In order to use it, select it from the dropdown in Mod Organizer, then start it the same way you'd launch Skyrim. After you have launched BethINI be sure to close Mod Organizer before you change any settings!
+BethINI is a powerful tool that replaces the Vanilla Skyrim launcher's settings menu, you can utilize it to tweak the game's settings to your heart's desire. In order to use it, select it from the dropdown in the top right-hand corner of Mod Organizer, then start it the same way you'd launch Skyrim. After you have launched BethINI, be sure to close Mod Organizer before you change any settings!
 
 ### Updating
 
