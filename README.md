@@ -181,7 +181,7 @@ Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_re
 
 <ins>**Skyrim can't get past Character Creation without crashing**</ins>
 
-Change your Windows regional format to "English (United States)", as seen below.
+Change your Windows regional format to "English (United States)", as seen below:
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Troubleshooting%20Regional%20Format.png)
 
