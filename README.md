@@ -115,7 +115,9 @@ You will now have to launch Skyrim by selecting “Keizaal” from the drop-down
 
 ### Optional Mods
 
-There are a handful of mods that I have included that are disabled by default. These mods aren’t part of the main Keizaal package and are mainly made up of mods that rely on Creation Club content in order to function. I will try to assist you in enabling these optional mods, however if you make changes to Keizaal outside of these few mods I will not be able to help you. Any personal edits you make to this list must be done independently.
+There are a handful of mods that I have included that are disabled by default. These mods aren’t part of the main Keizaal package and are mainly made up of mods that rely on Creation Club content in order to function. When you active an optional mod, be sure to move the mod's plugin (on the right pane of MO2) **above** all of the plugins with the "Keizaal" prefix, unless otherwise instructed in the mod's notes.
+
+I will try to assist you in enabling these optional mods, however if you make changes to Keizaal outside of these few mods I will not be able to help you. Any personal edits you make to this list must be done independently.
 
 ### Mod Notes
 
@@ -124,6 +126,10 @@ Several mods in Keizaal's Mod Organizer have notes attached to them. If the note
 Here is an example of one such note:
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Notes.png)
+
+### Mod Configuration Menus and .inis
+
+All of the MCM menus and .inis in Keizaal have been pre-configured to my recommended settings. All you nee to do when you start a new game is play.
 
 ### Updating
 
