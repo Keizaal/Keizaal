@@ -183,7 +183,7 @@ Change your Windows regional format to "English (United States)", as seem below.
 
 **Keizaal is acting strangely after automatically sorting the load order.**
 
-**NEVER USE LOOT OR MO2 TO AUTOMATICALLY SORT YOUR LOAD ORDER!** Keizaal's plugins have been carefully sorted manually to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfiet all support I would normally provide until you restore your load order to Keizaal's default. You should be able to find a backup of the lists' load order in Profiles/Keizaal inside your MO2 installation folder.
+<ins>**NEVER USE LOOT OR MO2 TO AUTOMATICALLY SORT YOUR LOAD ORDER!**</ins> Keizaal's plugins have been carefully sorted manually to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfiet all support I would normally provide until you restore your load order to Keizaal's default. You should be able to find a backup of the lists' load order in Profiles/Keizaal inside your MO2 installation folder.
 
 Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance. If you make modifications to Keizaal, you do so at your own risk. No support will be provided.
 
