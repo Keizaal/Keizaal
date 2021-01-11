@@ -45,17 +45,7 @@ This modlist was developed on a system running [these specs](https://pcpartpicke
 
 ### Clean Install
 
-Wabbajack requires a clean install of Skyrim to work properly, this step is only necessary once.
-
-Delete the following directories:
-
-1.  C:\Program Files (x86)\Steam\steamapps\common\Skyrim Special Edition
-2.  Open Windows Search and copy/paste %LOCALAPPDATA%
-3.  Delete the Skyrim Special Edition folder
-4.  Navigate to Users\YOURNAME\Documents\My Games\
-5.  Delete the Skyrim Special Edition folder
-
-If you cannot find these directories you either didn’t have Skyrim installed or had it installed to a non-default location.
+To completely reinstall Skyrim, it is advised that you use the [Skyrim Shredder](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=113028&game_id=1704) tool to completely delete the game. It will remove Skyrim and data related to it, but not the modlist.
 
 ### Reinstalling Skyrim
 
