@@ -25,7 +25,9 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
   - [Creation Club Update Protection](#creation-club-update-protection)
 - [Keizaal Installation](#keizaal-installation)
   - [Installing the ENB (Optional)](#installing-the-enb-binaries-optional)
+  - [Copying Game Folder Files](#copying-game-folder-files
 - [Playing Keizaal](#playing-keizaal)
+- [Additional Configuration](#additional-configuration)
   - [Optional Mods](#optional-mods)
   - [Mod Notes](#mod-notes)
   - [Mod Configuration Menu and .inis](#mod-configuration-menus-and-inis)
@@ -97,13 +99,15 @@ Extract everything in “WrapperVersion” to your Skyrim Special Edition direct
 
 Keizaal comes with its own prepackaged ENB preset. If, for whatever reason, you don't want to use this prepackaged preset I *urge* you to at least use an ENB that doesn't break imagespace modifiers. I believe any ENB that breaks imagespace modifiers is automatically bad, no matter how pretty it may look.
 
-## Playing Keizaal
+### Copying the Game Folder Files
 
 Navigate to your Keizaal installation folder (default is C:\Keizaal\) and open the “Game Folder Files” folder.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Installing%20Game%20Folder%20Files.png)
 
-Extract everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe). Keizaal is ready to play!
+Copy everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe). Keizaal is ready to play!
+
+## Playing Keizaal
 
 Now that Keizaal has been installed you will need to launch Skyrim in a slightly different way.
 
@@ -114,6 +118,8 @@ You should now be on a screen that displays all of your installed mods on the le
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Playing%20Keizaal.png)
 
 You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the right plugins pane and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
+
+## Addtional Configuration
 
 ### Optional Mods
 
