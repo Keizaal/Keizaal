@@ -129,7 +129,7 @@ Here is an example of one such note:
 
 ### Mod Configuration Menus and .inis
 
-All of the MCM menus and .inis in Keizaal have been pre-configured to my recommended settings. All you nee to do when you start a new game is play.
+All of the MCM menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
 
 ### Updating
 
