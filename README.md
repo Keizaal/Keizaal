@@ -28,7 +28,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
 - [Playing Keizaal](#playing-keizaal)
   - [Optional Mods](#optional-mods)
   - [Mod Notes](#mod-notes)
-  - [Mod Configuration Menu and .inis](#mod-configuration-menu-and-.inis)
+  - [Mod Configuration Menu and .inis](#mod-configuration-menus-and-inis)
   - [Updating](#updating)
 - [Troubleshooting](#troubleshooting)
 - [Credits](#credits)
