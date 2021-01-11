@@ -31,6 +31,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
   - [Optional Mods](#optional-mods)
   - [Mod Notes](#mod-notes)
   - [Mod Configuration](#mod-configuration)
+  - [BethINI](#bethini)
   - [Updating](#updating)
 - [Troubleshooting](#troubleshooting)
 - [Credits](#credits)
