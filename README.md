@@ -121,7 +121,7 @@ You will now have to launch Skyrim by selecting “Keizaal” from the drop-down
 
 ### Optional Mods
 
-There are a handful of mods that I have included that are disabled by default. These mods aren’t part of the main Keizaal package and are mainly made up of mods that rely on Creation Club content in order to function. If you choose to activate an optional mod, be sure to move the mod's plugin (on the right pane of MO2) **above all** of the plugins with the "Keizaal" prefix, unless otherwise instructed in the mod's notes.
+There are a handful of mods that I have included that are disabled by default. These mods aren’t part of the main Keizaal package and are mainly made up of mods that rely on Creation Club content in order to function. If you choose to activate an optional mod, be sure to move the mod's plugin (on the right pane of Mod Organizer) **above all** of the plugins with the "Keizaal" prefix, unless otherwise instructed in the mod's notes.
 
 I will try to assist you in enabling these optional mods, however if you make changes to Keizaal outside of these few mods I will not be able to help you. Any personal edits you make to this list must be done independently.
 
@@ -135,7 +135,7 @@ Here is an example of one such note:
 
 ### Mod Configuration Menus and .inis
 
-All of the MCM menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
+All of the Mod Configuration Menus menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
 
 ### Updating
 
@@ -187,7 +187,7 @@ Change your Windows regional format to "English (United States)", as seen below.
 
 <ins>**Keizaal is acting strangely after automatically sorting the load order.**</ins>
 
-**NEVER USE LOOT OR MO2 TO AUTOMATICALLY SORT YOUR LOAD ORDER!** Keizaal's plugins have been carefully sorted manually to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfeit all support I would normally provide until you restore your load order to Keizaal's default. You should be able to find a backup of the lists' load order in Profiles/Keizaal inside your MO2 installation folder.
+**NEVER USE LOOT OR MOD ORGANIZER TO AUTOMATICALLY SORT YOUR LOAD ORDER!** Keizaal's plugins have been carefully sorted manually to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfeit all support I would normally provide until you restore your load order to Keizaal's default. You should be able to find a backup of the lists' load order in Profiles/Keizaal inside your Mod Organizer installation folder.
 
 Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance. If you make modifications to Keizaal, you do so at your own risk. No support will be provided.
 
