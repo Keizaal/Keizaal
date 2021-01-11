@@ -51,9 +51,9 @@ To completely reinstall Skyrim, it is advised that you use the [Skyrim Shredder]
 
 ### Reinstalling Skyrim
 
-Open Steam and ensure that Skyrim is uninstalled through on it.
+Open Steam and ensure that Skyrim is completely uninstalled.
 
-Reinstall Skyrim in the root of your main drive, the default is (C:). **It is not recommended to install Skyrim in your Program Files folder**.
+Reinstall Skyrim in the root of your main drive, the default is (C:). **It MUST NOT be installed in the Program Files folder**.
 
 Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
 
@@ -62,7 +62,7 @@ Run the Skyrim: Special Edition launcher through Steam and let it detect your se
 Every time the Creation Club releases new content SKSE breaks. A fixed version of SKSE usually releases fast, but to ensure your game isn’t broken for a few days follow these steps:
 
 1.  Open your Steam Library
-2.  Find The Elder Scrolls V: Skyrim Special Edition and open the properties
+2.  Find The Elder Scrolls V: Skyrim Special Edition and right-click it
 3.  Click Properties
 4.  Click the Updates tab
 5.  Under the Automatic Updates section, select “Only update the game when I launch it”
@@ -177,13 +177,13 @@ Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_re
 
 <ins>**Skyrim can't get past character creation without crashing.**</ins>
 
-Change your Windows regional format to "English (United States)", as seem below.
+Change your Windows regional format to "English (United States)", as seen below.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Troubleshooting%20Regional%20Format.png)
 
 <ins>**Keizaal is acting strangely after automatically sorting the load order.**</ins>
 
-**NEVER USE LOOT OR MO2 TO AUTOMATICALLY SORT YOUR LOAD ORDER!** Keizaal's plugins have been carefully sorted manually to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfiet all support I would normally provide until you restore your load order to Keizaal's default. You should be able to find a backup of the lists' load order in Profiles/Keizaal inside your MO2 installation folder.
+**NEVER USE LOOT OR MO2 TO AUTOMATICALLY SORT YOUR LOAD ORDER!** Keizaal's plugins have been carefully sorted manually to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfeit all support I would normally provide until you restore your load order to Keizaal's default. You should be able to find a backup of the lists' load order in Profiles/Keizaal inside your MO2 installation folder.
 
 Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance. If you make modifications to Keizaal, you do so at your own risk. No support will be provided.
 
