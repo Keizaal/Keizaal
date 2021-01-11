@@ -30,7 +30,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
 - [Additional Configuration](#additional-configuration)
   - [Optional Mods](#optional-mods)
   - [Mod Notes](#mod-notes)
-  - [Mod Configuration Menu and .inis](#mod-configuration-menus-and-inis)
+  - [Mod Configuration](#mod-configuration)
   - [Updating](#updating)
 - [Troubleshooting](#troubleshooting)
 - [Credits](#credits)
@@ -133,7 +133,7 @@ Here is an example of one such note:
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Notes.png)
 
-### Mod Configuration Menus and .inis
+### Mod Configuration
 
 All of the Mod Configuration Menus menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
 
