@@ -149,11 +149,11 @@ Updating is like installing. You only have to make sure that you select the same
 
 ## Troubleshooting
 
-<ins>**Wabbajack throws an error after authorizing through Nexus.**</ins>
+<ins>**Wabbajack Throws an Error After Authorizing Through Nexus**</ins>
 
 Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkId=2085155). Be sure to restart your computer afterward.
 
-<ins>**A mod fails to install.**</ins>
+<ins>**A Mod Fails to Install**</ins>
 
 If Wabbajack fails to download a mod, try downloading them manually. Place these in your downloads folder where the other Wabbajack downloads are. Do not extract them. Note that some of these are big files and may take a while.
 
@@ -175,17 +175,17 @@ If Wabbajack fails to download a mod, try downloading them manually. Place these
 - [WiZkiD Water Wells with Real Water](https://drive.google.com/uc?export=download&id=1wnWsbLND5rxgJV-keeJG4Ev33XkROugI)
 - [Telvanni Reborn](https://www.dl.dropboxusercontent.com/s/3vr91f0l2ju1fyu/Telvanni%20Reborn-34601-1.7z?dl=0)
 
-<ins>**ModOrganizer.exe throws an error when trying to launch.**</ins>
+<ins>**ModOrganizer.exe Throws an Error When Trying to Launch**</ins>
 
 Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
 
-<ins>**Skyrim can't get past character creation without crashing.**</ins>
+<ins>**Skyrim Can't Get Past Character Creation Without Crashing**</ins>
 
 Change your Windows regional format to "English (United States)", as seen below.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Troubleshooting%20Regional%20Format.png)
 
-<ins>**Keizaal is acting strangely after automatically sorting the load order.**</ins>
+<ins>**Keizaal is Acting Strangely After Automatically Sorting the Load Order**</ins>
 
 **NEVER USE LOOT OR MOD ORGANIZER TO AUTOMATICALLY SORT YOUR LOAD ORDER!** Keizaal's plugins have been carefully sorted manually to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfeit all support I would normally provide until you restore your load order to Keizaal's default. You should be able to find a backup of the lists' load order in Profiles/Keizaal inside your Mod Organizer installation folder.
 
