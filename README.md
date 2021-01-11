@@ -59,7 +59,7 @@ Run the Skyrim: Special Edition launcher through Steam and let it detect your se
 
 ### Creation Club Update Protection
 
-Every time the Creation Club releases new content SKSE breaks. A fixed version of SKSE usually releases fast, but to ensure your game isn’t broken for a few days follow these steps:
+Every time the Creation Club releases new content, SKSE breaks. A fixed version of SKSE usually releases fast, but to ensure your game isn’t broken for a few days follow these steps:
 
 1.  Open your Steam Library
 2.  Find The Elder Scrolls V: Skyrim Special Edition and right-click it
