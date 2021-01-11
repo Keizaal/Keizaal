@@ -41,7 +41,7 @@ Create a new folder called “Wabbajack” in the root of your main drive, the d
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Installing%20Wabbajack.png)
 
-This modlist was developed on a system running [these specs](https://pcpartpicker.com/list/7JD9n7), on this system a stable and consistent 45 - 50FPS is the norm. Your mileage may vary, there is nothing I can do if you experience poor performance.
+This modlist was developed on a computer running [these specs](https://pcpartpicker.com/list/Xg7trr), on this system a stable and consistent 50 - 60 FPS is the norm. Your mileage may vary, there is nothing I can do if you experience poor performance.
 
 ### Clean Install
 
