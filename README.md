@@ -109,15 +109,15 @@ Now that Keizaal has been installed you will need to launch Skyrim in a slightly
 
 Navigate back to your Keizaal installation folder and run ModOrganizer.exe.
 
-You should now be on a screen that displays all of your installed mods on the left and all of your .esp files on the right.
+You should now be on a screen that displays all of your installed mods on the left and all of your plugin files on the right.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Playing%20Keizaal.png)
 
-You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the .esp plugins and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
+You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the right plugins pane and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
 
 ### Optional Mods
 
-There are a handful of mods that I have included that are disabled by default. These mods aren’t part of the main Keizaal package and are mainly made up of mods that rely on Creation Club content in order to function. When you active an optional mod, be sure to move the mod's plugin (on the right pane of MO2) **above** all of the plugins with the "Keizaal" prefix, unless otherwise instructed in the mod's notes.
+There are a handful of mods that I have included that are disabled by default. These mods aren’t part of the main Keizaal package and are mainly made up of mods that rely on Creation Club content in order to function. If you choose to activate an optional mod, be sure to move the mod's plugin (on the right pane of MO2) **above all** of the plugins with the "Keizaal" prefix, unless otherwise instructed in the mod's notes.
 
 I will try to assist you in enabling these optional mods, however if you make changes to Keizaal outside of these few mods I will not be able to help you. Any personal edits you make to this list must be done independently.
 
@@ -180,6 +180,10 @@ Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_re
 Change your Windows regional format to "English (United States)", as seem below.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Troubleshooting%20Regional%20Format.png)
+
+**Keizaal is acting strangely after automatically sorting the load order.**
+
+**NEVER USE LOOT OR MO2 TO AUTOMATICALLY SORT YOUR LOAD ORDER!** Keizaal's plugins have been carefully sorted manually to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfiet all support I would normally provide until you restore your load order to Keizaal's default. You should be able to find a backup of the lists' load order in Profiles/Keizaal inside your MO2 installation folder.
 
 Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance. If you make modifications to Keizaal, you do so at your own risk. No support will be provided.
 
