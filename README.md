@@ -25,7 +25,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
   - [Creation Club Update Protection](#creation-club-update-protection)
 - [Keizaal Installation](#keizaal-installation)
   - [Installing the ENB (Optional)](#installing-the-enb-binaries-optional)
-  - [Copying Game Folder Files](#copying-game-folder-files)
+  - [Copying the Game Folder Files](#copying-the-game-folder-files)
 - [Playing Keizaal](#playing-keizaal)
 - [Additional Configuration](#additional-configuration)
   - [Optional Mods](#optional-mods)
