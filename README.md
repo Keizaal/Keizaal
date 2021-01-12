@@ -194,7 +194,7 @@ Change your Windows regional format to "English (United States)", as seen below:
 
 **NEVER USE LOOT OR MOD ORGANIZER TO AUTOMATICALLY SORT YOUR LOAD ORDER!** Keizaal's plugins have been carefully sorted manually to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfeit all support I would normally provide until you restore your load order to Keizaal's default. You should be able to find a backup of the lists' load order in Profiles/Keizaal inside your Mod Organizer installation folder.
 
-<ins>**Skyrim is capped at 60 FPS</ins>
+<ins>**Skyrim is capped at 60 FPS**</ins>
 
 The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped it to 60 FPS to prevent that. If you don't think Movement Behavior Overhaul is worth the capped framerate then disable it in Mod Organzier and update your framerate with BethINI.
 ______________________________________________________________________________________________________________________________________________________________________
