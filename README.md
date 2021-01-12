@@ -100,6 +100,8 @@ Extract everything in “WrapperVersion” to your Skyrim Special Edition direct
 
 Keizaal comes with its own prepackaged ENB preset. If, for whatever reason, you don't want to use this prepackaged preset I *urge* you to at least use an ENB that doesn't break imagespace modifiers. I believe any ENB that breaks imagespace modifiers is automatically bad, no matter how pretty it may look.
 
+[ENB and ReShade Manager](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=76937&game_id=1704) is a great tool for easily switching between ENB presets. If you decide against using Keziaal's preset, I recommend this program to easily remove all traces of the preset from your Skyrim directory.
+
 ### Copying the Game Folder Files
 
 Navigate to your Keizaal installation folder (default is C:\Keizaal\) and open the “Game Folder Files” folder.
@@ -203,7 +205,7 @@ Change your Windows regional format to "English (United States)", as seen below:
 
 <ins>**Skyrim is capped at 60 FPS**</ins>
 
-The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped it to 60 FPS to prevent that. If you don't think Movement Behavior Overhaul is worth the capped framerate then disable it in Mod Organzier and update your framerate with BethINI.
+The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped it to 60 FPS to prevent that.
 
 ______________________________________________________________________________________________________________________________________________________________________
 
