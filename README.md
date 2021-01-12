@@ -148,7 +148,7 @@ BethINI is a powerful tool that replaces the Vanilla Skyrim launcher's settings 
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/BethINI.PNG)
 
-After you have launched BethINI, be sure to close Mod Organizer before you change any settings!
+After you have launched BethINI, be sure to **close Mod Organizer before you change any settings**!
 
 ### Updating
 
