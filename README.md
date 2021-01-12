@@ -68,6 +68,8 @@ Every time the Creation Club releases new content, SKSE breaks. A fixed version 
 4.  Click the Updates tab
 5.  Under the Automatic Updates section, select “Only update the game when I launch it”
 
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Creation%20Club%20Protection.PNG)
+
 ## Keizaal Installation
 
 Create a new folder called “Keizaal” in the root of your main drive, the default is (C:).
@@ -202,7 +204,9 @@ Change your Windows regional format to "English (United States)", as seen below:
 <ins>**Skyrim is capped at 60 FPS**</ins>
 
 The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped it to 60 FPS to prevent that. If you don't think Movement Behavior Overhaul is worth the capped framerate then disable it in Mod Organzier and update your framerate with BethINI.
+
 ______________________________________________________________________________________________________________________________________________________________________
+
 
 Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance. If you make modifications to Keizaal, you do so at your own risk. No support will be provided.
 
