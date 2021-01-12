@@ -68,6 +68,8 @@ Every time the Creation Club releases new content, SKSE breaks. A fixed version 
 4.  Click the Updates tab
 5.  Under the Automatic Updates section, select “Only update the game when I launch it”
 
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Creation%20Club%20Protection.PNG)
+
 ## Keizaal Installation
 
 Create a new folder called “Keizaal” in the root of your main drive, the default is (C:).
