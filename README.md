@@ -129,7 +129,7 @@ This following section outlines some additional, optional confiurations. Nothing
 
 ### Switching the ENB
 
-Keizaal comes with its own prepackaged ENB preset. If, for whatever reason, you don't want to use this prepackaged preset I urge you to at least use an ENB that doesn't break imagespace modifiers. I believe any ENB that breaks imagespace modifiers is automatically bad, no matter how pretty it may look.
+Keizaal comes with its own prepackaged ENB preset. If, for whatever reason, you don't want to use this prepackaged preset, I urge you to at least use an ENB that doesn't break imagespace modifiers. I believe any ENB that breaks imagespace modifiers is automatically bad, no matter how pretty it may look.
 
 [ENB and ReShade Manager](https://cf-files.nexusmods.com/cdn/1704/4143/ENB%20and%20ReShade%20Manager-4143-5-1-1-1546376234.exe?md5=31MgQh-dPFbDWhAgPB7iVg&expires=1610558049&user_id=61720101&rip=24.172.142.82) is a great tool for easily switching between ENB presets. If you decide against using Keziaal's preset, I recommend this program to easily remove all traces of the preset from your Skyrim directory.
 
