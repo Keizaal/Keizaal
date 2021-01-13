@@ -170,7 +170,7 @@ Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkI
 
 If Wabbajack fails to download a mod, try downloading them manually. Place these in your downloads folder where the other Wabbajack downloads are. Do not extract them. Note that some of these are big files and may take a while.
 
-- [Bearnado Markarth Mashup](https://drive.google.com/u/0/uc?export=download&confirm=UOYW&id=1D139AzjXYuiTMjboFa_gmT3mXrmsR0zG)
+- [Bearnado Markarth Mashup](https://drive.google.com/u/0/uc?export=download&confirm=Jziu&id=1D139AzjXYuiTMjboFa_gmT3mXrmsR0zG)
 - Skyrim Realistic Overhaul
   - [Part One](https://www.moddb.com/downloads/mirror/116891/115/ea88b6ee1be4e4dc113c728ac1141c01/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
   - [Part Two](https://www.moddb.com/downloads/mirror/116927/115/ff9f0ed254a97a3b4672701f2abc0cb3/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
