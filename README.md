@@ -27,7 +27,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
   - [Installing the ENB (Optional)](#installing-the-enb-binaries-optional)
   - [Copying the Game Folder Files](#copying-the-game-folder-files)
 - [Playing Keizaal](#playing-keizaal)
-- [Additional Configuration](#additional-configuration-optional)
+- [Additional Configuration (Optional)](#additional-configuration-optional)
   - [Optional Mods](#optional-mods)
   - [Mod Notes](#mod-notes)
   - [Mod Configuration](#mod-configuration)
