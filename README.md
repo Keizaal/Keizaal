@@ -49,7 +49,7 @@ Create a new folder called “Wabbajack” in the root of your main drive, the d
 
 ### Clean Install
 
-To completely reinstall Skyrim, it is advised that you use the [Skyrim Shredder](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=113028&game_id=1704) tool to completely delete the game. It will remove Skyrim and data related to it, but not the modlist.
+To completely reinstall Skyrim, it is advised that you use the [Skyrim Shredder](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=113028&game_id=1704){:target="_blank" rel="noopener"} tool to completely delete the game. It will remove Skyrim and data related to it, but not the modlist.
 
 ### Reinstalling Skyrim
 
