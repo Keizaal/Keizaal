@@ -27,12 +27,12 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
   - [Installing the ENB (Optional)](#installing-the-enb-binaries-optional)
   - [Copying the Game Folder Files](#copying-the-game-folder-files)
 - [Playing Keizaal](#playing-keizaal)
-- [Additional Configuration](#additional-configuration)
+- [Additional Configuration](#additional-configuration-optional)
   - [Optional Mods](#optional-mods)
   - [Mod Notes](#mod-notes)
   - [Mod Configuration](#mod-configuration)
   - [BethINI](#bethini)
-  - [Updating](#updating)
+- [Updating](#updating)
 - [Troubleshooting](#troubleshooting)
 - [Credits](#credits)
 
@@ -98,10 +98,6 @@ Download the most recent version of the ENB binaries. Once the archive is downlo
 
 Extract everything in “WrapperVersion” to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe).
 
-Keizaal comes with its own prepackaged ENB preset. If, for whatever reason, you don't want to use this prepackaged preset I *urge* you to at least use an ENB that doesn't break imagespace modifiers. I believe any ENB that breaks imagespace modifiers is automatically bad, no matter how pretty it may look.
-
-[ENB and ReShade Manager](<https://cf-files.nexusmods.com/cdn/1704/4143/ENB and ReShade Manager-4143-5-1-1-1546376234.exe?md5=31MgQh-dPFbDWhAgPB7iVg&expires=1610558049&user_id=61720101&rip=24.172.142.82>) is a great tool for easily switching between ENB presets. If you decide against using Keziaal's preset, I recommend this program to easily remove all traces of the preset from your Skyrim directory.
-
 ### Copying the Game Folder Files
 
 Navigate to your Keizaal installation folder (default is C:\Keizaal\) and open the “Game Folder Files” folder.
@@ -122,7 +118,19 @@ You should now be on a screen that displays all of your installed mods on the le
 
 You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the right plugins pane and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
 
-## Additional Configuration
+### Mod Configuration
+
+All of the Mod Configuration Menus menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
+
+## Additional Configuration (Optional)
+
+This following section outlines some additional, optional confiurations. Nothing here is necessary, but it may be of some interest to users who like to tweak.
+
+### Switching the ENB
+
+Keizaal comes with its own prepackaged ENB preset. If, for whatever reason, you don't want to use this prepackaged preset I urge you to at least use an ENB that doesn't break imagespace modifiers. I believe any ENB that breaks imagespace modifiers is automatically bad, no matter how pretty it may look.
+
+ENB and ReShade Manager is a great tool for easily switching between ENB presets. If you decide against using Keziaal's preset, I recommend this program to easily remove all traces of the preset from your Skyrim directory.
 
 ### Optional Mods
 
@@ -138,10 +146,6 @@ Here is an example of one such note:
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Notes.png)
 
-### Mod Configuration
-
-All of the Mod Configuration Menus menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
-
 ### BethINI
 
 BethINI is a powerful tool that replaces the Vanilla Skyrim launcher's settings menu, you can utilize it to tweak the game's settings to your heart's desire. In order to use it, select it from the dropdown in the top right-hand corner of Mod Organizer, then start it the same way you'd launch Skyrim. 
@@ -150,7 +154,7 @@ BethINI is a powerful tool that replaces the Vanilla Skyrim launcher's settings 
 
 After you have launched BethINI, be sure to **close Mod Organizer before you change any settings**!
 
-### Updating
+## Updating
 
 If this Modlist receives an update, please check the changelog before doing anything. Always backup your saves or start a new game after updating.
 
