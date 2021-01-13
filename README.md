@@ -49,7 +49,7 @@ Create a new folder called “Wabbajack” in the root of your main drive, the d
 
 ### Clean Install
 
-To completely reinstall Skyrim, it is advised that you use the [Skyrim Shredder](<https://cf-files.nexusmods.com/cdn/1704/30133/Skyrim Shredder-30133-1-6-1573384017.exe?md5=XQwZeZaIVRojHMGZZUtTyg&expires=1610557930&user_id=61720101&rip=24.172.142.82>) tool to completely delete the game. It will remove Skyrim and data related to it, but not the modlist.
+To completely reinstall Skyrim, it is advised that you use the [Skyrim Shredder](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=113028&game_id=1704) tool to completely delete the game. It will remove Skyrim and data related to it, but not the modlist.
 
 ### Reinstalling Skyrim
 
@@ -131,7 +131,7 @@ This following section outlines some additional, optional confiurations. Nothing
 
 Keizaal comes with its own prepackaged ENB preset. If, for whatever reason, you don't want to use this prepackaged preset, I urge you to at least use an ENB that doesn't break imagespace modifiers. I believe any ENB that breaks imagespace modifiers is automatically bad, no matter how pretty it may look.
 
-[ENB and ReShade Manager](https://cf-files.nexusmods.com/cdn/1704/4143/ENB%20and%20ReShade%20Manager-4143-5-1-1-1546376234.exe?md5=31MgQh-dPFbDWhAgPB7iVg&expires=1610558049&user_id=61720101&rip=24.172.142.82) is a great tool for easily switching between ENB presets. If you decide against using Keziaal's preset, I recommend this program to easily remove all traces of the preset from your Skyrim directory.
+[ENB and ReShade Manager](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=76937&game_id=1704) is a great tool for easily switching between ENB presets. If you decide against using Keziaal's preset, I recommend this program to easily remove all traces of the preset from your Skyrim directory.
 
 ### Optional Mods
 
