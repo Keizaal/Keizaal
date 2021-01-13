@@ -16,7 +16,7 @@ Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without c
 3.  Mods must have decent longevity. This modlist wants to be somewhat relevant, in theory, forever.
 4.  Stability is the most important thing. This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
 
-You can find a full list of the mods included in Keizaal [here](https://modwat.ch/u/Keizaal/). If you're still curious about what exactly Keizaal has in store for you, have a look at the overview [here](https://www.wabbajack.org/#/modlists/info?machineURL=keizaal).
+You can find a full list of the mods included in Keizaal [here](https://modwat.ch/u/Keizaal/){:target="_blank" rel="noopener"}. If you're still curious about what exactly Keizaal has in store for you, have a look at the overview [here](https://www.wabbajack.org/#/modlists/info?machineURL=keizaal){:target="_blank" rel="noopener"}.
 
 # Table of Contents
 - [Setup and Information](#setup-and-information)
@@ -41,7 +41,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
 
 Keizaal takes up 200GB of hard drive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice. This modlist was developed on a computer running [these specs](https://pcpartpicker.com/list/3ygt4d), on this system a stable and consistent 50 - 60 FPS is the norm. Your mileage may vary, there is nothing I can do if you experience poor performance.
 
-Install the latest version of Wabbajack from its [GitHub page](https://github.com/wabbajack-tools/wabbajack/releases).
+Install the latest version of Wabbajack from its [GitHub page](https://github.com/wabbajack-tools/wabbajack/releases){:target="_blank" rel="noopener"}.
 
 Create a new folder called “Wabbajack” in the root of your main drive, the default is (C:). Extract Wabbjack.exe into this folder.
 
@@ -91,7 +91,7 @@ After starting the installation a window will pop up and ask for you to authoriz
 
 If you have an older or less powerful machine you may skip this step.
 
-[Click here to go to enbdev.com.](http://enbdev.com/download_mod_tesskyrimse.htm)
+[Click here to go to enbdev.com.](http://enbdev.com/download_mod_tesskyrimse.htm){:target="_blank" rel="noopener"}
 
 Download the most recent version of the ENB binaries. Once the archive is downloaded, open it and open the “WrapperVersion” folder.
 
@@ -131,7 +131,7 @@ This following section outlines some additional, optional confiurations. Nothing
 
 Keizaal comes with its own prepackaged ENB preset. If, for whatever reason, you don't want to use this prepackaged preset, I urge you to at least use an ENB that doesn't break imagespace modifiers. I believe any ENB that breaks imagespace modifiers is automatically bad, no matter how pretty it may look.
 
-[ENB and ReShade Manager](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=76937&game_id=1704) is a great tool for easily switching between ENB presets. If you decide against using Keziaal's preset, I recommend this program to easily remove all traces of the preset from your Skyrim directory.
+[ENB and ReShade Manager](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=76937&game_id=1704){:target="_blank" rel="noopener"} is a great tool for easily switching between ENB presets. If you decide against using Keziaal's preset, I recommend this program to easily remove all traces of the preset from your Skyrim directory.
 
 ### Optional Mods
 
@@ -169,34 +169,34 @@ Updating is like installing. You only have to make sure that you select the same
 
 <ins>**Wabbajack throws an error after authorizing through Nexus**</ins>
 
-Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkId=2085155). Be sure to restart your computer afterward.
+Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkId=2085155){:target="_blank" rel="noopener"}. Be sure to restart your computer afterward.
 
 <ins>**A mod fails to download**</ins>
 
 If Wabbajack fails to download a mod, try downloading them manually. Place these in your downloads folder where the other Wabbajack downloads are. Do not extract them. Note that some of these are big files and may take a while.
 
-- [Bearnado Markarth Mashup](https://drive.google.com/u/0/uc?export=download&confirm=Jziu&id=1D139AzjXYuiTMjboFa_gmT3mXrmsR0zG)
+- [Bearnado Markarth Mashup](https://drive.google.com/u/0/uc?export=download&confirm=Jziu&id=1D139AzjXYuiTMjboFa_gmT3mXrmsR0zG){:target="_blank" rel="noopener"}
 - Skyrim Realistic Overhaul
   - [Part One](https://www.moddb.com/downloads/mirror/116891/115/ea88b6ee1be4e4dc113c728ac1141c01/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
   - [Part Two](https://www.moddb.com/downloads/mirror/116927/115/ff9f0ed254a97a3b4672701f2abc0cb3/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
   - [Part Three](https://www.moddb.com/downloads/mirror/116934/115/dd0443c28b63ffa5fb054ae033671f0d/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
   - [1.8 Update](https://www.moddb.com/downloads/mirror/139489/115/03ef3a07ee60da9e5a895c08fac9f949/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
-- [WiZkiD Candle Flames](https://drive.google.com/uc?export=download&id=1ZA8r-McnBcxjCdUBnA4wRW1jZzhHciO2)
-- [WiZkiD DynDOLOD Bright Waterfalls Meshes Fix](https://drive.google.com/uc?export=download&id=1g54xGhVezDVOEGjOIoXowSG0XbKeGu57)
-- [WiZkiD DynDOLOD Ultra Detailed Ships LOD](https://drive.google.com/uc?export=download&id=1g54xGhVezDVOEGjOIoXowSG0XbKeGu57)
-- [WiZkiD Grass and Landscape](https://drive.google.com/u/0/uc?export=download&confirm=qk9_&id=18rmerskUeBZecsdeU_QRpG1QXrIylyA9)
-- [WiZkiD High Poly Alchemy Table](https://drive.google.com/u/0/uc?export=download&confirm=aUnj&id=1Z8oJLvXwwXDdQULW_7RW1NG8N6l3H17B)
-- [WiZkiD Sky Textures](https://drive.google.com/u/0/uc?export=download&confirm=XM-E&id=1lsg11a3blf825KVZsKaevKB5-khmaP9l)
-- [WiZkiD Storm Lighting Improved Thunder Sounds](https://drive.google.com/u/0/uc?export=download&confirm=VB0Q&id=1Fg-w1TQgC7WIYOSsOXNFd02egFgn6u3R)
-- [WiZkiD Tree Selection](https://drive.google.com/u/0/uc?export=download&confirm=MIlo&id=1BhxtOpeaEHEkli6QKLrhi1bQyNYIdgXG)
-- [WiZkiD Unique Flowers and Plants](https://drive.google.com/u/0/uc?export=download&confirm=x3Uw&id=1_KjVdxNr5v08uU3xudaNXaRWwyTfe38M)
-- [WiZkiD Variety](https://drive.google.com/u/0/uc?export=download&confirm=l4nJ&id=1g5yCvLG0Fw-WvPOzEDNMaqBdTwT6eg65)
-- [WiZkiD Water Wells with Real Water](https://drive.google.com/uc?export=download&id=1wnWsbLND5rxgJV-keeJG4Ev33XkROugI)
-- [Telvanni Reborn](https://www.dl.dropboxusercontent.com/s/3vr91f0l2ju1fyu/Telvanni%20Reborn-34601-1.7z?dl=0)
+- [WiZkiD Candle Flames](https://drive.google.com/uc?export=download&id=1ZA8r-McnBcxjCdUBnA4wRW1jZzhHciO2){:target="_blank" rel="noopener"}
+- [WiZkiD DynDOLOD Bright Waterfalls Meshes Fix](https://drive.google.com/uc?export=download&id=1g54xGhVezDVOEGjOIoXowSG0XbKeGu57){:target="_blank" rel="noopener"}
+- [WiZkiD DynDOLOD Ultra Detailed Ships LOD](https://drive.google.com/uc?export=download&id=1g54xGhVezDVOEGjOIoXowSG0XbKeGu57){:target="_blank" rel="noopener"}
+- [WiZkiD Grass and Landscape](https://drive.google.com/u/0/uc?export=download&confirm=qk9_&id=18rmerskUeBZecsdeU_QRpG1QXrIylyA9){:target="_blank" rel="noopener"}
+- [WiZkiD High Poly Alchemy Table](https://drive.google.com/u/0/uc?export=download&confirm=aUnj&id=1Z8oJLvXwwXDdQULW_7RW1NG8N6l3H17B){:target="_blank" rel="noopener"}
+- [WiZkiD Sky Textures](https://drive.google.com/u/0/uc?export=download&confirm=XM-E&id=1lsg11a3blf825KVZsKaevKB5-khmaP9l){:target="_blank" rel="noopener"}
+- [WiZkiD Storm Lighting Improved Thunder Sounds](https://drive.google.com/u/0/uc?export=download&confirm=VB0Q&id=1Fg-w1TQgC7WIYOSsOXNFd02egFgn6u3R){:target="_blank" rel="noopener"}
+- [WiZkiD Tree Selection](https://drive.google.com/u/0/uc?export=download&confirm=MIlo&id=1BhxtOpeaEHEkli6QKLrhi1bQyNYIdgXG){:target="_blank" rel="noopener"}
+- [WiZkiD Unique Flowers and Plants](https://drive.google.com/u/0/uc?export=download&confirm=x3Uw&id=1_KjVdxNr5v08uU3xudaNXaRWwyTfe38M){:target="_blank" rel="noopener"}
+- [WiZkiD Variety](https://drive.google.com/u/0/uc?export=download&confirm=l4nJ&id=1g5yCvLG0Fw-WvPOzEDNMaqBdTwT6eg65){:target="_blank" rel="noopener"}
+- [WiZkiD Water Wells with Real Water](https://drive.google.com/uc?export=download&id=1wnWsbLND5rxgJV-keeJG4Ev33XkROugI){:target="_blank" rel="noopener"}
+- [Telvanni Reborn](https://www.dl.dropboxusercontent.com/s/3vr91f0l2ju1fyu/Telvanni%20Reborn-34601-1.7z?dl=0){:target="_blank" rel="noopener"}
 
 <ins>**ModOrganizer.exe throws and error when trying to launch**</ins>
 
-Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
+Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe){:target="_blank" rel="noopener"}. Be sure to restart your computer afterward.
 
 <ins>**Skyrim can't get past Character Creation without crashing**</ins>
 
@@ -222,7 +222,7 @@ For ease-of-use I have placed all the custom .inis for every mod in Keizaal with
 ______________________________________________________________________________________________________________________________________________________________________
 
 
-Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord server for individual help and guidance. If you make modifications to Keizaal, you do so at your own risk. No support will be provided.
+Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack){:target="_blank" rel="noopener"} or [Keizaal](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} Discord server for individual help and guidance. If you make modifications to Keizaal, you do so at your own risk. No support will be provided.
 
 Please note that manual installations are **NOT SUPPORTED**. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone's time.
 
