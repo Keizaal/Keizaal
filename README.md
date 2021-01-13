@@ -39,7 +39,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
 
 ## Setup and Information
 
-Keizaal takes up 200GB of hard drive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice. This modlist was developed on a computer running [these specs](https://pcpartpicker.com/list/3ygt4d), on this system a stable and consistent 50 - 60 FPS is the norm. Your mileage may vary, there is nothing I can do if you experience poor performance.
+Keizaal takes up 200GB of hard drive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice. This modlist was developed on a computer running [these specs](https://pcpartpicker.com/list/3ygt4d){:target="_blank" rel="noopener"}, on this system a stable and consistent 50 - 60 FPS is the norm. Your mileage may vary, there is nothing I can do if you experience poor performance.
 
 Install the latest version of Wabbajack from its [GitHub page](https://github.com/wabbajack-tools/wabbajack/releases){:target="_blank" rel="noopener"}.
 
@@ -169,7 +169,7 @@ Updating is like installing. You only have to make sure that you select the same
 
 <ins>**Wabbajack throws an error after authorizing through Nexus**</ins>
 
-Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkId=2085155){:target="_blank" rel="noopener"}. Be sure to restart your computer afterward.
+Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkId=2085155). Be sure to restart your computer afterward.
 
 <ins>**A mod fails to download**</ins>
 
@@ -181,9 +181,9 @@ If Wabbajack fails to download a mod, try downloading them manually. Place these
   - [Part Two](https://www.moddb.com/downloads/mirror/116927/115/ff9f0ed254a97a3b4672701f2abc0cb3/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
   - [Part Three](https://www.moddb.com/downloads/mirror/116934/115/dd0443c28b63ffa5fb054ae033671f0d/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
   - [1.8 Update](https://www.moddb.com/downloads/mirror/139489/115/03ef3a07ee60da9e5a895c08fac9f949/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
-- [WiZkiD Candle Flames](https://drive.google.com/uc?export=download&id=1ZA8r-McnBcxjCdUBnA4wRW1jZzhHciO2){:target="_blank" rel="noopener"}
-- [WiZkiD DynDOLOD Bright Waterfalls Meshes Fix](https://drive.google.com/uc?export=download&id=1g54xGhVezDVOEGjOIoXowSG0XbKeGu57){:target="_blank" rel="noopener"}
-- [WiZkiD DynDOLOD Ultra Detailed Ships LOD](https://drive.google.com/uc?export=download&id=1g54xGhVezDVOEGjOIoXowSG0XbKeGu57){:target="_blank" rel="noopener"}
+- [WiZkiD Candle Flames](https://drive.google.com/uc?export=download&id=1ZA8r-McnBcxjCdUBnA4wRW1jZzhHciO2)
+- [WiZkiD DynDOLOD Bright Waterfalls Meshes Fix](https://drive.google.com/uc?export=download&id=1g54xGhVezDVOEGjOIoXowSG0XbKeGu57)
+- [WiZkiD DynDOLOD Ultra Detailed Ships LOD](https://drive.google.com/uc?export=download&id=1g54xGhVezDVOEGjOIoXowSG0XbKeGu57)
 - [WiZkiD Grass and Landscape](https://drive.google.com/u/0/uc?export=download&confirm=qk9_&id=18rmerskUeBZecsdeU_QRpG1QXrIylyA9){:target="_blank" rel="noopener"}
 - [WiZkiD High Poly Alchemy Table](https://drive.google.com/u/0/uc?export=download&confirm=aUnj&id=1Z8oJLvXwwXDdQULW_7RW1NG8N6l3H17B){:target="_blank" rel="noopener"}
 - [WiZkiD Sky Textures](https://drive.google.com/u/0/uc?export=download&confirm=XM-E&id=1lsg11a3blf825KVZsKaevKB5-khmaP9l){:target="_blank" rel="noopener"}
@@ -191,12 +191,12 @@ If Wabbajack fails to download a mod, try downloading them manually. Place these
 - [WiZkiD Tree Selection](https://drive.google.com/u/0/uc?export=download&confirm=MIlo&id=1BhxtOpeaEHEkli6QKLrhi1bQyNYIdgXG){:target="_blank" rel="noopener"}
 - [WiZkiD Unique Flowers and Plants](https://drive.google.com/u/0/uc?export=download&confirm=x3Uw&id=1_KjVdxNr5v08uU3xudaNXaRWwyTfe38M){:target="_blank" rel="noopener"}
 - [WiZkiD Variety](https://drive.google.com/u/0/uc?export=download&confirm=l4nJ&id=1g5yCvLG0Fw-WvPOzEDNMaqBdTwT6eg65){:target="_blank" rel="noopener"}
-- [WiZkiD Water Wells with Real Water](https://drive.google.com/uc?export=download&id=1wnWsbLND5rxgJV-keeJG4Ev33XkROugI){:target="_blank" rel="noopener"}
-- [Telvanni Reborn](https://www.dl.dropboxusercontent.com/s/3vr91f0l2ju1fyu/Telvanni%20Reborn-34601-1.7z?dl=0){:target="_blank" rel="noopener"}
+- [WiZkiD Water Wells with Real Water](https://drive.google.com/uc?export=download&id=1wnWsbLND5rxgJV-keeJG4Ev33XkROugI)
+- [Telvanni Reborn](https://www.dl.dropboxusercontent.com/s/3vr91f0l2ju1fyu/Telvanni%20Reborn-34601-1.7z?dl=0)
 
 <ins>**ModOrganizer.exe throws and error when trying to launch**</ins>
 
-Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe){:target="_blank" rel="noopener"}. Be sure to restart your computer afterward.
+Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
 
 <ins>**Skyrim can't get past Character Creation without crashing**</ins>
 
