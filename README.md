@@ -41,7 +41,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
 
 Keizaal takes up 200GB of hard drive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice. This modlist was developed on a computer running [these specs](https://pcpartpicker.com/list/3ygt4d){:target="_blank" rel="noopener"}, on this system a stable and consistent 50 - 60 FPS is the norm. Your mileage may vary, there is nothing I can do if you experience poor performance.
 
-Install the latest version of Wabbajack from its [GitHub page](https://github.com/wabbajack-tools/wabbajack/releases){:target="_blank" rel="noopener"}.
+Install the latest version of Wabbajack from its [GitHub page](https://www.github.com/wabbajack-tools/wabbajack/releases/latest){:target="_blank" rel="noopener"}.
 
 Create a new folder called “Wabbajack” in the root of your main drive, the default is (C:). Extract Wabbjack.exe into this folder.
 
