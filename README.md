@@ -181,7 +181,7 @@ If Wabbajack fails to download a mod, try downloading them manually. Place these
 - [WiZkiD DynDOLOD Ultra Detailed Ships LOD](https://drive.google.com/uc?export=download&id=1g54xGhVezDVOEGjOIoXowSG0XbKeGu57)
 - [WiZkiD Grass and Landscape](https://drive.google.com/u/0/uc?export=download&confirm=qk9_&id=18rmerskUeBZecsdeU_QRpG1QXrIylyA9)
 - [WiZkiD High Poly Alchemy Table](https://drive.google.com/u/0/uc?export=download&confirm=aUnj&id=1Z8oJLvXwwXDdQULW_7RW1NG8N6l3H17B)
-- [WiZkiD Sky Textures](https://drive.google.com/u/0/uc?export=download&confirm=iiAJ&id=1lsg11a3blf825KVZsKaevKB5-khmaP9l)
+- [WiZkiD Sky Textures](https://drive.google.com/u/0/uc?export=download&confirm=XM-E&id=1lsg11a3blf825KVZsKaevKB5-khmaP9l)
 - [WiZkiD Storm Lighting Improved Thunder Sounds](https://drive.google.com/u/0/uc?export=download&confirm=VB0Q&id=1Fg-w1TQgC7WIYOSsOXNFd02egFgn6u3R)
 - [WiZkiD Tree Selection](https://drive.google.com/u/0/uc?export=download&confirm=MIlo&id=1BhxtOpeaEHEkli6QKLrhi1bQyNYIdgXG)
 - [WiZkiD Unique Flowers and Plants](https://drive.google.com/u/0/uc?export=download&confirm=x3Uw&id=1_KjVdxNr5v08uU3xudaNXaRWwyTfe38M)
