@@ -170,7 +170,7 @@ Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkI
 
 If Wabbajack fails to download a mod, try downloading them manually. Place these in your downloads folder where the other Wabbajack downloads are. Do not extract them. Note that some of these are big files and may take a while.
 
-- [Bearnado Markarth Mashup](https://drive.google.com/uc?export=download&id=1D139AzjXYuiTMjboFa_gmT3mXrmsR0zG)
+- [Bearnado Markarth Mashup](https://drive.google.com/u/0/uc?export=download&confirm=UOYW&id=1D139AzjXYuiTMjboFa_gmT3mXrmsR0zG)
 - Skyrim Realistic Overhaul
   - [Part One](https://www.moddb.com/downloads/mirror/116891/115/ea88b6ee1be4e4dc113c728ac1141c01/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
   - [Part Two](https://www.moddb.com/downloads/mirror/116927/115/ff9f0ed254a97a3b4672701f2abc0cb3/?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads)
@@ -179,13 +179,13 @@ If Wabbajack fails to download a mod, try downloading them manually. Place these
 - [WiZkiD Candle Flames](https://drive.google.com/uc?export=download&id=1ZA8r-McnBcxjCdUBnA4wRW1jZzhHciO2)
 - [WiZkiD DynDOLOD Bright Waterfalls Meshes Fix](https://drive.google.com/uc?export=download&id=1g54xGhVezDVOEGjOIoXowSG0XbKeGu57)
 - [WiZkiD DynDOLOD Ultra Detailed Ships LOD](https://drive.google.com/uc?export=download&id=1g54xGhVezDVOEGjOIoXowSG0XbKeGu57)
-- [WiZkiD Grass and Landscape](https://drive.google.com/uc?export=download&id=18rmerskUeBZecsdeU_QRpG1QXrIylyA9)
+- [WiZkiD Grass and Landscape](https://drive.google.com/u/0/uc?export=download&confirm=evW6&id=18rmerskUeBZecsdeU_QRpG1QXrIylyA9)
 - [WiZkiD High Poly Alchemy Table](https://drive.google.com/uc?export=download&id=1Z8oJLvXwwXDdQULW_7RW1NG8N6l3H17B)
-- [WiZkiD Sky Textures](https://drive.google.com/uc?export=download&id=1lsg11a3blf825KVZsKaevKB5-khmaP9l)
-- [WiZkiD Storm Lighting Improved Thunder Sounds](https://drive.google.com/uc?export=download&id=1Fg-w1TQgC7WIYOSsOXNFd02egFgn6u3R)
-- [WiZkiD Tree Selection](https://drive.google.com/uc?export=download&id=1BhxtOpeaEHEkli6QKLrhi1bQyNYIdgXG)
-- [WiZkiD Unique Flowers and Plants](https://drive.google.com/uc?export=download&id=1_KjVdxNr5v08uU3xudaNXaRWwyTfe38M)
-- [WiZkiD Variety](https://drive.google.com/uc?export=download&id=1g5yCvLG0Fw-WvPOzEDNMaqBdTwT6eg65)
+- [WiZkiD Sky Textures](https://drive.google.com/u/0/uc?export=download&confirm=iiAJ&id=1lsg11a3blf825KVZsKaevKB5-khmaP9l)
+- [WiZkiD Storm Lighting Improved Thunder Sounds](https://drive.google.com/u/0/uc?export=download&confirm=Kvtn&id=1Fg-w1TQgC7WIYOSsOXNFd02egFgn6u3R)
+- [WiZkiD Tree Selection](https://drive.google.com/u/0/uc?export=download&confirm=scgD&id=1BhxtOpeaEHEkli6QKLrhi1bQyNYIdgXG)
+- [WiZkiD Unique Flowers and Plants](https://drive.google.com/u/0/uc?export=download&confirm=drVZ&id=1_KjVdxNr5v08uU3xudaNXaRWwyTfe38M)
+- [WiZkiD Variety](https://drive.google.com/u/0/uc?export=download&confirm=ARc4&id=1g5yCvLG0Fw-WvPOzEDNMaqBdTwT6eg65)
 - [WiZkiD Water Wells with Real Water](https://drive.google.com/uc?export=download&id=1wnWsbLND5rxgJV-keeJG4Ev33XkROugI)
 - [Telvanni Reborn](https://www.dl.dropboxusercontent.com/s/3vr91f0l2ju1fyu/Telvanni%20Reborn-34601-1.7z?dl=0)
 
