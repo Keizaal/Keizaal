@@ -207,6 +207,13 @@ Change your Windows regional format to "English (United States)", as seen below:
 
 The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped it to 60 FPS to prevent that.
 
+<ins>**Tweaks made with BethINI aren't corrently changing the settings in-game**</ins>
+
+BethINI can handle the majority of tweaks that you would generally want to make. However, some of the more niche settings may be handled by .inis that BethINI can't edit. These will need to be manually edited.
+
+For ease-of-use I have placed all the custom .inis for every mod in Keizaal within a mod called "Keizaal Settings" at the bottom of Mod Organizer.
+
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Keizaal%20Settings.png)
 ______________________________________________________________________________________________________________________________________________________________________
 
 
