@@ -210,7 +210,7 @@ Change your Windows regional format to "English (United States)", as seen below:
 
 <ins>**Skyrim is capped at 60 FPS**</ins>
 
-The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped it to 60 FPS to prevent that.
+The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 60 in order to prevent that.
 
 <ins>**Tweaks made with BethINI aren't correctly changing the settings in-game**</ins>
 
