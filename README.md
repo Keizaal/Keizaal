@@ -227,6 +227,7 @@ BethINI can handle the majority of tweaks that you would generally want to make.
 For ease-of-use I have placed all the custom .inis for every mod in Keizaal within a mod called "Keizaal Settings" at the bottom of Mod Organizer.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Keizaal%20Settings.png)
+
 ______________________________________________________________________________________________________________________________________________________________________
 
 
