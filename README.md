@@ -204,13 +204,21 @@ Change your Windows regional format to "English (United States)", as seen below:
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Troubleshooting%20Regional%20Format.png)
 
-<ins>**Skyrim is acting strangely after automatically sorting the load order**</ins>
+<ins>**"SkyUI Error Code 1" keeps popping up**</ins>
 
-**NEVER USE LOOT OR MOD ORGANIZER TO AUTOMATICALLY SORT YOUR LOAD ORDER!** Keizaal's plugins have been carefully sorted manually in order to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfeit all support I would normally provide until you restore your load order to Keizaal's default. You should be able to find a backup of the lists' load order in Profiles/Keizaal inside your Mod Organizer installation folder.
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/SkyUI%20Error.png)
+ 
+If you are getthing this error it means that you did not correctly copy the Game Folder Files.
+
+Please refer to [this section](copying-the-game-folder-files) for information on how to do so.
 
 <ins>**Skyrim is capped at 60 FPS**</ins>
 
 The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 60 in order to prevent that.
+
+<ins>**Skyrim is acting strangely after automatically sorting the load order**</ins>
+
+**NEVER USE LOOT OR MOD ORGANIZER TO AUTOMATICALLY SORT YOUR LOAD ORDER!** Keizaal's plugins have been carefully sorted manually in order to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfeit all support I would normally provide until you restore your load order to Keizaal's default. You should be able to find a backup of the lists' load order in Profiles/Keizaal inside your Mod Organizer installation folder.
 
 <ins>**Tweaks made with BethINI aren't correctly changing the settings in-game**</ins>
 
