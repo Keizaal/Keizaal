@@ -210,7 +210,7 @@ Change your Windows regional format to "English (United States)", as seen below:
  
 If you are getthing this error it means that you did not correctly copy the Game Folder Files.
 
-Please refer to [this section](copying-the-game-folder-files) for information on how to do so.
+Please refer to [this section](#copying-the-game-folder-files) for information on how to do so.
 
 <ins>**Skyrim is capped at 60 FPS**</ins>
 
