@@ -208,7 +208,7 @@ Change your Windows regional format to "English (United States)", as seen below:
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/SkyUI%20Error.png)
  
-If you are getthing this error it means that you did not correctly copy the Game Folder Files.
+If you are getting this error it means that you did not correctly copy the Game Folder Files.
 
 Please refer to [this section](#copying-the-game-folder-files) for information on how to do so.
 
