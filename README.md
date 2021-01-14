@@ -149,7 +149,7 @@ Here is an example of one such note:
 
 ### BethINI
 
-BethINI is a powerful tool that replaces the Vanilla Skyrim launcher's settings menu, you can utilize it to tweak the game's settings to your heart's desire. In order to use it, select it from the dropdown in the top right-hand corner of Mod Organizer, then start it the same way you'd launch Skyrim. 
+BethINI is a powerful tool that replaces Skyrim's Vanilla launcher settings menu, you can utilize it to tweak the game's settings. In order to use it, select it from the dropdown in the top right-hand corner of Mod Organizer, then start it the same way you'd launch Skyrim. 
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/BethINI.PNG)
 
