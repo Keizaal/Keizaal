@@ -49,10 +49,6 @@ Create a new folder called “Wabbajack” in the root of your main drive, the d
 
 To completely reinstall Skyrim, it is advised that you use the [Skyrim Shredder](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=113028&game_id=1704){:target="_blank" rel="noopener"} tool to completely delete the game. It will remove Skyrim and data related to it, but not the modlist.
 
-### Reinstalling Skyrim
-
-Open Steam and ensure that Skyrim is completely uninstalled.
-
 Reinstall Skyrim in the root of your main drive, the default is (C:). **It MUST NOT be installed in the Program Files folder**.
 
 Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
