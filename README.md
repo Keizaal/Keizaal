@@ -165,7 +165,7 @@ Change your Windows regional format to "English (United States)", as seen below:
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Troubleshooting%20Regional%20Format.png)
 
-<ins>**The NPCs during the Helgen intro are just standing in place.**</ins>
+<ins>**The NPCs during the Helgen intro are just standing in place**</ins>
  
 Make sure you correctly copied the Game Folder Files over to your Skyrim directory.
 
