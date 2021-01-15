@@ -136,6 +136,8 @@ Keizaal uses semantic versioning in order to quickly determine the size of an up
 - 1.1.<ins>**1**</ins> = An update that **IS** savegame compatible.
 - 1.1.1.<ins>**1**</ins> = A small hotfix that **IS** savegame compatible.
 
+You can find your current version of Keizaal at the top of Mod Organizer. If the version isn't listed you're probably using a pre-3.4.0 version.
+
 ## Troubleshooting
 
 <ins>**Wabbajack throws an error after authorizing through Nexus**</ins>
