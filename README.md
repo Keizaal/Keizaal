@@ -1,4 +1,4 @@
-Current version: 01/11/21 3.5.0
+Current version: 01/15/21 3.5.1
 
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/keizaal/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/keizaal/badge.json)
@@ -165,11 +165,9 @@ Change your Windows regional format to "English (United States)", as seen below:
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Troubleshooting%20Regional%20Format.png)
 
-<ins>**"SkyUI Error Code 1" keeps popping up**</ins>
-
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/SkyUI%20Error.png)
+<ins>**The NPCs during the Helgen intro are just standing in place**</ins>
  
-If you are getting this error it means that you did not correctly copy the Game Folder Files.
+Make sure you correctly copied the Game Folder Files over to your Skyrim directory.
 
 Please refer to [this section](#copying-the-game-folder-files) for information on how to do so.
 
