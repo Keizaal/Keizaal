@@ -31,7 +31,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
   - [Mod Notes](#mod-notes)
   - [BethINI](#bethini)
 - [Updating](#updating)
-  - [Semantic Versioning](semantic-versioning)
+  - [Semantic Versioning](#semantic-versioning)
 - [Troubleshooting](#troubleshooting)
 - [Credits](#credits)
 
