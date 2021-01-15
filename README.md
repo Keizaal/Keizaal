@@ -31,6 +31,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
   - [Mod Notes](#mod-notes)
   - [BethINI](#bethini)
 - [Updating](#updating)
+  - [Semantic Versioning](semantic-versioning)
 - [Troubleshooting](#troubleshooting)
 - [Credits](#credits)
 
@@ -125,6 +126,15 @@ If this Modlist receives an update, please check the changelog before doing anyt
 This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
 
 Updating is like installing. You only have to make sure that you select the same path and tick the overwrite existing Modlist button.
+
+### Semantic Versioning
+
+Keizaal uses semantic versioning in order to quickly determine the size of an update and if it is savegame compatible or not. This is what the version numbers actually mean:
+
+1.0.0 = A large update that is **NOT** savegame compatible and fundamentally changes the list.
+1.1.0 = An update that is **NOT** savegame compatible.
+1.1.1 = An update that **IS** savegame compatible.
+1.1.1.1 = A small hotfix that **IS** savegame compatible.
 
 ## Troubleshooting
 
