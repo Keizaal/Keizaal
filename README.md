@@ -69,6 +69,14 @@ When you’re ready press the triangular start button.
 
 After starting the installation a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log into and authorize Wabbajack on Nexus and the installation will proceed. Wabbajack will now install the modlist, this will take a while so be patient. When Wabbajack is finished, the left panel should say "Installation Complete". At this time it is safe to close Wabbajack.
 
+### Copying the Game Folder Files
+
+Navigate to your Keizaal installation folder (default is C:\Keizaal) and open the “Game Folder Files” folder.
+
+![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Installing%20Game%20Folder%20Files.png?raw=true)
+
+Copy everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe). Keizaal is ready to play!
+
 ## Playing Keizaal
 
 Now that Keizaal has been installed you will need to launch Skyrim in a slightly different way.
@@ -135,6 +143,8 @@ Keizaal uses semantic versioning in order to quickly determine the size of an up
 - 1.<ins>**1**</ins>.0 = An update that is **NOT** savegame compatible.
 - 1.1.<ins>**1**</ins> = An update that **IS** savegame compatible.
 - 1.1.1.<ins>**1**</ins> = A small hotfix that **IS** savegame compatible.
+
+You can find your current version of Keizaal at the top of Mod Organizer. If the version isn't listed you're probably using a pre-3.4.0 version.
 
 ## Troubleshooting
 
