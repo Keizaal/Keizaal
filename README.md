@@ -20,8 +20,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
 
 # Table of Contents
 - [Setup and Information](#setup-and-information)
-- [Clean Install](#clean-install)
-  - [Reinstalling Skyrim](#reinstalling-skyrim)
+  - [Clean Install](#clean-install)
 - [Keizaal Installation](#keizaal-installation)
   - [Copying the Game Folder Files](#copying-the-game-folder-files)
 - [Playing Keizaal](#playing-keizaal)
