@@ -131,10 +131,10 @@ Updating is like installing. You only have to make sure that you select the same
 
 Keizaal uses semantic versioning in order to quickly determine the size of an update and if it is savegame compatible or not. This is what the version numbers mean:
 
-- 1.0.0 = A large update that is **NOT** savegame compatible and fundamentally changes the list.
-- 1.1.0 = An update that is **NOT** savegame compatible.
-- 1.1.1 = An update that **IS** savegame compatible.
-- 1.1.1.1 = A small hotfix that **IS** savegame compatible.
+- **1**.0.0 = A large update that is **NOT** savegame compatible and fundamentally changes the list.
+- 1.**1**.0 = An update that is **NOT** savegame compatible.
+- 1.1.**1** = An update that **IS** savegame compatible.
+- 1.1.1.**1** = A small hotfix that **IS** savegame compatible.
 
 ## Troubleshooting
 
