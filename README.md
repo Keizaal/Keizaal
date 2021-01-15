@@ -59,18 +59,6 @@ Reinstall Skyrim in the root of your main drive, the default is (C:). **It MUST 
 
 Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
 
-### Creation Club Update Protection
-
-Every time the Creation Club releases new content, SKSE breaks. A fixed version of SKSE usually releases fast, but to ensure your game isn’t broken for a few days follow these steps:
-
-1.  Open your Steam Library
-2.  Find The Elder Scrolls V: Skyrim Special Edition and right-click it
-3.  Click Properties
-4.  Click the Updates tab
-5.  Under the Automatic Updates section, select “Only update the game when I launch it”
-
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Creation%20Club%20Protection.PNG)
-
 ## Keizaal Installation
 
 Create a new folder called “Keizaal” in the root of your main drive, the default is (C:).
@@ -86,26 +74,6 @@ Once the installation window opens ensure that the “Installation Location” m
 When you’re ready press the triangular start button.
 
 After starting the installation a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log into and authorize Wabbajack on Nexus and the installation will proceed. Wabbajack will now install the modlist, this will take a while so be patient. When Wabbajack is finished, the left panel should say "Installation Complete". At this time it is safe to close Wabbajack.
-
-### Installing the ENB Binaries (Optional)
-
-If you have an older or less powerful machine you may skip this step.
-
-[Click here to go to enbdev.com.](http://enbdev.com/download_mod_tesskyrimse.htm){:target="_blank" rel="noopener"}
-
-Download the most recent version of the ENB binaries. Once the archive is downloaded, open it and open the “WrapperVersion” folder.
-
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Installing%20ENB.png)
-
-Extract everything in “WrapperVersion” to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe).
-
-### Copying the Game Folder Files
-
-Navigate to your Keizaal installation folder (default is C:\Keizaal\) and open the “Game Folder Files” folder.
-
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Installing%20Game%20Folder%20Files.png)
-
-Copy everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe). Keizaal is ready to play!
 
 ## Playing Keizaal
 
