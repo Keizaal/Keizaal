@@ -1,21 +1,7 @@
-MIT License
+# License: WML 1.0 Modify and Redistribute, Share Alike (Resource)
 
-Copyright (c) 2021 Pierre Despereaux
+-  You are free to redistribute this work in unmodified form.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+-  You are free to include this work as a resource within another work, so long as you: 1) give the author(s) credit, and 2) make it clear to the recipients of the final work that this work may not be further modified except under the terms stated here.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+-  You are free to modify and re-distribute this work, so long as you: 1) give the author(s) credit proportional to their contribution to the final work, and 2) distribute the final work under the same terms.

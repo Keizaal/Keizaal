@@ -1,4 +1,4 @@
-Current version: 01/15/21 3.5.1
+Current version: 01/16/21 3.5.1.2
 
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/keizaal/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/keizaal/badge.json)
@@ -33,6 +33,13 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
 - [Updating](#updating)
   - [Semantic Versioning](#semantic-versioning)
 - [Troubleshooting](#troubleshooting)
+  - ["Wabbajack throws an error after authorizing through Nexus."](#wabbajack-throws-an-error-after-authorizing-through-nexus)
+  - ["A mod fails to download."](#a-mod-fails-to-download)
+  - ["ModOrganizer.exe throws and error when trying to launch."](#modorganizerexe-throws-and-error-when-trying-to-launch)
+  - ["The NPCs during the Helgen intro are just standing in place."](#the-npcs-during-the-helgen-intro-are-just-standing-in-place)
+  - ["Skyrim is capped at 60 FPS."](#skyrim-is-capped-at-60-fps)
+  - ["Skyrim is acting strangely after automatically sorting the load order."](#skyrim-is-acting-strangely-after-automatically-sorting-the-load-order)
+  - ["Tweaks made with BethINI aren't correctly changing the settings in-game."](#tweaks-made-with-bethini-arent-correctly-changing-the-settings-in-game)
 - [Credits](#credits)
 
 ## Setup and Information
@@ -148,11 +155,11 @@ You can find your current version of Keizaal at the top of Mod Organizer. If the
 
 ## Troubleshooting
 
-<ins>**Wabbajack throws an error after authorizing through Nexus**</ins>
+### "*Wabbajack throws an error after authorizing through Nexus.*"
 
 Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkId=2085155). Be sure to restart your computer afterward.
 
-<ins>**A mod fails to download**</ins>
+### "*A mod fails to download.*"
 
 If Wabbajack fails to download a mod, try downloading them manually. Place these in your downloads folder where the other Wabbajack downloads are. Do not extract them. Note that some of these are big files and may take a while.
 
@@ -175,31 +182,25 @@ If Wabbajack fails to download a mod, try downloading them manually. Place these
 - [WiZkiD Water Wells with Real Water](https://drive.google.com/uc?export=download&id=1wnWsbLND5rxgJV-keeJG4Ev33XkROugI)
 - [Telvanni Reborn](https://www.dl.dropboxusercontent.com/s/3vr91f0l2ju1fyu/Telvanni%20Reborn-34601-1.7z?dl=0)
 
-<ins>**ModOrganizer.exe throws and error when trying to launch**</ins>
+### "*ModOrganizer.exe throws and error when trying to launch.*"
 
 Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
 
-<ins>**Skyrim can't get past Character Creation without crashing**</ins>
-
-Change your Windows regional format to "English (United States)", as seen below:
-
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Troubleshooting%20Regional%20Format.png)
-
-<ins>**The NPCs during the Helgen intro are just standing in place**</ins>
+### "*The NPCs during the Helgen intro are just standing in place*."
  
 Make sure you correctly copied the Game Folder Files over to your Skyrim directory.
 
 Please refer to [this section](#copying-the-game-folder-files) for information on how to do so.
 
-<ins>**Skyrim is capped at 60 FPS**</ins>
+### "*Skyrim is capped at 60 FPS.*"
 
 The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 60 in order to prevent that.
 
-<ins>**Skyrim is acting strangely after automatically sorting the load order**</ins>
+### "*Skyrim is acting strangely after automatically sorting the load order.*"
 
-**NEVER USE LOOT OR MOD ORGANIZER TO AUTOMATICALLY SORT YOUR LOAD ORDER!** Keizaal's plugins have been carefully sorted manually in order to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfeit all support I would normally provide until you restore your load order to Keizaal's default. You should be able to find a backup of the lists' load order in Profiles/Keizaal inside your Mod Organizer installation folder.
+**NEVER USE LOOT OR MOD ORGANIZER TO AUTOMATICALLY SORT YOUR LOAD ORDER!** Keizaal's plugins have been carefully sorted manually in order to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfeit all support I would normally provide until you restore your load order to Keizaal's default. You should be able to restore your load order to default by pressing the yellow directly above your plugin list.
 
-<ins>**Tweaks made with BethINI aren't correctly changing the settings in-game**</ins>
+### "*Tweaks made with BethINI aren't correctly changing the settings in-game.*"
 
 BethINI can handle the majority of tweaks that you would generally want to make. However, some of the more niche settings may be handled by .inis that BethINI can't edit. These will need to be edited manually.
 
