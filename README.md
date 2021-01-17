@@ -33,14 +33,14 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
 - [Updating](#updating)
   - [Semantic Versioning](#semantic-versioning)
 - [Troubleshooting](#troubleshooting)
-  - Wabbajack throws an error after authorizing through Nexus
-  - A mod fails to download
-  - ModOrganizer.exe throws and error when trying to launch
-  - Skyrim can't get past Character Creation without crashing
-  - The NPCs during the Helgen intro are just standing in place
-  - Skyrim is capped at 60 FPS
-  - Skyrim is acting strangely after automatically sorting the load order
-  - Tweaks made with BethINI aren't correctly changing the settings in-game
+  - ["Wabbajack throws an error after authorizing through Nexus."](#wabbajack-throws-an-error-after-authorizing-through-nexus)
+  - ["A mod fails to download."](#a-mod-fails-to-download)
+  - ["ModOrganizer.exe throws and error when trying to launch."](#modorganizerexe-throws-and-error-when-trying-to-launch)
+  - ["Skyrim can't get past Character Creation without crashing."](#skyrim-cant-get-past-character-creation-without-crashing)
+  - ["The NPCs during the Helgen intro are just standing in place."](#the-npcs-during-the-helgen-intro-are-just-standing-in-place)
+  - ["Skyrim is capped at 60 FPS."](#skyrim-is-capped-at-60-fps)
+  - ["Skyrim is acting strangely after automatically sorting the load order."](#skyrim-is-acting-strangely-after-automatically-sorting-the-load-order)
+  - ["Tweaks made with BethINI aren't correctly changing the settings in-game."](#tweaks-made-with-bethini-arent-correctly-changing-the-settings-in-game)
 - [Credits](#credits)
 
 ## Setup and Information
@@ -187,7 +187,7 @@ If Wabbajack fails to download a mod, try downloading them manually. Place these
 
 Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
 
-### "**Skyrim can't get past Character Creation without crashing**."
+### "*Skyrim can't get past Character Creation without crashing*."
 
 Change your Windows regional format to "English (United States)", as seen below:
 
