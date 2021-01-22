@@ -78,7 +78,7 @@ After starting the installation a window will pop up and ask for you to authoriz
 
 ### Copying the Game Folder Files
 
-Navigate to your Keizaal installation folder (default is C:\Keizaal) and open the “Game Folder Files” folder.
+Navigate to your Keizaal installation folder (default is C:\Keizaal) and open the “Game Folder Files” folder. This folder contains the list's ENB and all the necessary systems files to ensure Keizaal works properly.
 
 ![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Installing%20Game%20Folder%20Files.png?raw=true)
 
