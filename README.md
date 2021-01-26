@@ -179,7 +179,7 @@ If Wabbajack fails to download a mod, try downloading them manually. Place these
 - [WiZkiD Sky Textures](https://drive.google.com/u/0/uc?export=download&confirm=XM-E&id=1lsg11a3blf825KVZsKaevKB5-khmaP9l){:target="_blank" rel="noopener"}
 - [WiZkiD Storm Lighting Improved Thunder Sounds](https://drive.google.com/u/0/uc?export=download&confirm=VB0Q&id=1Fg-w1TQgC7WIYOSsOXNFd02egFgn6u3R){:target="_blank" rel="noopener"}
 - [WiZkiD Tree Selection](https://drive.google.com/u/0/uc?export=download&confirm=MIlo&id=1BhxtOpeaEHEkli6QKLrhi1bQyNYIdgXG){:target="_blank" rel="noopener"}
-- [WiZkiD Unique Flowers and Plants](https://drive.google.com/u/0/uc?export=download&confirm=x3Uw&id=1_KjVdxNr5v08uU3xudaNXaRWwyTfe38M){:target="_blank" rel="noopener"}
+- [WiZkiD Unique Flowers and Plants](https://drive.google.com/uc?export=download&id=1MPW2y4cjL31B2Oncx1OMeuTITartQ4q-)
 - [WiZkiD Variety](https://drive.google.com/u/0/uc?export=download&confirm=l4nJ&id=1g5yCvLG0Fw-WvPOzEDNMaqBdTwT6eg65){:target="_blank" rel="noopener"}
 - [WiZkiD Water Wells with Real Water](https://drive.google.com/uc?export=download&id=1wnWsbLND5rxgJV-keeJG4Ev33XkROugI)
 
