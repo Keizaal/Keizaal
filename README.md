@@ -37,7 +37,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
   - ["A mod fails to download."](#a-mod-fails-to-download)
   - ["ModOrganizer.exe throws and error when trying to launch."](#modorganizerexe-throws-and-error-when-trying-to-launch)
   - ["The NPCs during the Helgen intro are just standing in place."](#the-npcs-during-the-helgen-intro-are-just-standing-in-place)
-  - ["Skyrim is capped at 60 FPS."](#skyrim-is-capped-at-60-fps)
+  - ["Skyrim is capped at 72 FPS."](#skyrim-is-capped-at-72-fps)
   - ["Skyrim is acting strangely after automatically sorting the load order."](#skyrim-is-acting-strangely-after-automatically-sorting-the-load-order)
   - ["Tweaks made with BethINI aren't correctly changing the settings in-game."](#tweaks-made-with-bethini-arent-correctly-changing-the-settings-in-game)
 - [Credits](#credits)
