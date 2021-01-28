@@ -40,7 +40,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
   - ["Skyrim is capped at 72 FPS."](#skyrim-is-capped-at-72-fps)
   - ["Skyrim is acting strangely after automatically sorting the load order."](#skyrim-is-acting-strangely-after-automatically-sorting-the-load-order)
   - ["Tweaks made with BethINI aren't correctly changing the settings in-game."](#tweaks-made-with-bethini-arent-correctly-changing-the-settings-in-game)
-  - ["Manual .ini tweaks aren't correctly changing the settings in-game."](#manual-.ini-tweaks-arent-correctly-changing-the-settings-in-game)
+  - ["Manual .ini tweaks aren't correctly changing the settings in-game."](#manual-ini-tweaks-arent-correctly-changing-the-settings-in-game)
 - [Credits](#credits)
 
 ## Setup and Information
