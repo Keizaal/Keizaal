@@ -193,9 +193,9 @@ Make sure you correctly copied the Game Folder Files over to your Skyrim directo
 
 Please refer to [this section](#copying-the-game-folder-files) for information on how to do so.
 
-### "*Skyrim is capped at 60 FPS.*"
+### "*Skyrim is capped at 72 FPS.*"
 
-The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 60 in order to prevent that.
+The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 72 in order to prevent that.
 
 ### "*Skyrim is acting strangely after automatically sorting the load order.*"
 
