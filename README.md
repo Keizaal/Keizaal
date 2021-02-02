@@ -165,13 +165,12 @@ Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkI
 If Wabbajack fails to download a mod, try downloading them manually. Place these in your downloads folder where the other Wabbajack downloads are. Do not extract them. Note that some of these are big files and may take a while.
 
 - [Bearnado Markarth Mashup](https://drive.google.com/u/0/uc?export=download&confirm=Jziu&id=1D139AzjXYuiTMjboFa_gmT3mXrmsR0zG){:target="_blank" rel="noopener"}
-- [Keizaal Resources](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.0/Keizaal.Resources.7z)
+- [Keizaal Resources](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.0.1/Keizaal.Resources.7z)
 - Skyrim Realistic Overhaul
   - [Part One](https://www.moddb.com/downloads/start/116891?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads){:target="_blank" rel="noopener"}
   - [Part Two](https://www.moddb.com/downloads/start/116927?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads){:target="_blank" rel="noopener"}
   - [Part Three](https://www.moddb.com/downloads/start/116934?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads){:target="_blank" rel="noopener"}
   - [1.8 Update](https://www.moddb.com/downloads/start/139489?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads){:target="_blank" rel="noopener"}
-- [Telvanni Reborn](https://www.dl.dropboxusercontent.com/s/3vr91f0l2ju1fyu/Telvanni%20Reborn-34601-1.7z?dl=0)
 - [WiZkiD Candle Flames](https://drive.google.com/uc?export=download&id=1ZA8r-McnBcxjCdUBnA4wRW1jZzhHciO2)
 - [WiZkiD DynDOLOD Bright Waterfalls Meshes Fix](https://drive.google.com/uc?export=download&id=1g54xGhVezDVOEGjOIoXowSG0XbKeGu57)
 - [WiZkiD DynDOLOD Ultra Detailed Ships LOD](https://drive.google.com/uc?export=download&id=1g54xGhVezDVOEGjOIoXowSG0XbKeGu57)
