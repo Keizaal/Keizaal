@@ -1,4 +1,4 @@
-Current version: 01/16/21 3.5.1.2
+Current version: 02/02/21 4.0.1
 
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/keizaal/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/keizaal/badge.json)
@@ -37,14 +37,15 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
   - ["A mod fails to download."](#a-mod-fails-to-download)
   - ["ModOrganizer.exe throws and error when trying to launch."](#modorganizerexe-throws-and-error-when-trying-to-launch)
   - ["The NPCs during the Helgen intro are just standing in place."](#the-npcs-during-the-helgen-intro-are-just-standing-in-place)
-  - ["Skyrim is capped at 60 FPS."](#skyrim-is-capped-at-60-fps)
+  - ["Skyrim is capped at 72 FPS."](#skyrim-is-capped-at-72-fps)
   - ["Skyrim is acting strangely after automatically sorting the load order."](#skyrim-is-acting-strangely-after-automatically-sorting-the-load-order)
   - ["Tweaks made with BethINI aren't correctly changing the settings in-game."](#tweaks-made-with-bethini-arent-correctly-changing-the-settings-in-game)
+  - ["Manual .ini tweaks aren't correctly changing the settings in-game."](#manual-ini-tweaks-arent-correctly-changing-the-settings-in-game)
 - [Credits](#credits)
 
 ## Setup and Information
 
-Keizaal takes up 200GB of hard drive space and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice. This modlist was developed on a computer running [these specs](https://pcpartpicker.com/list/3ygt4d){:target="_blank" rel="noopener"}, on this system a stable and consistent 50 - 60 FPS is the norm. Your mileage may vary, there is nothing I can do if you experience poor performance.
+Keizaal takes up 188GB of hard drive space (114GB installation with 74GB of downloads) and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice. This modlist was developed on a computer running [these specs](https://pcpartpicker.com/list/3ygt4d){:target="_blank" rel="noopener"}, on this system a stable and consistent 50 - 60 FPS is the norm. Your mileage may vary, there is nothing I can do if you experience poor performance.
 
 Install the latest version of Wabbajack from its [GitHub page](https://www.github.com/wabbajack-tools/wabbajack/releases/latest){:target="_blank" rel="noopener"}.
 
@@ -78,7 +79,7 @@ After starting the installation a window will pop up and ask for you to authoriz
 
 ### Copying the Game Folder Files
 
-Navigate to your Keizaal installation folder (default is C:\Keizaal) and open the “Game Folder Files” folder.
+Navigate to your Keizaal installation folder (default is C:\Keizaal) and open the “Game Folder Files” folder. This folder contains the list's ENB and all the necessary systems files to ensure Keizaal works properly.
 
 ![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Installing%20Game%20Folder%20Files.png?raw=true)
 
@@ -112,7 +113,7 @@ Keizaal comes with its own prepackaged ENB preset. If, for whatever reason, you 
 
 ### Optional Mods
 
-There are a handful of mods that I have included that are disabled by default. These mods aren’t part of the main Keizaal package and are mainly made up of mods that rely on Creation Club content in order to function. If you choose to activate an optional mod, be sure to move the mod's plugin (on the right pane of Mod Organizer) **above all** of the plugins with the "Keizaal" prefix, unless otherwise instructed in the mod's notes.
+There are a handful of mods that I have included that are disabled by default; these mods aren’t part of the main Keizaal package. If you choose to activate an optional mod, be sure to move the mod's plugin (on the right pane of Mod Organizer) **above all** of the plugins with the "Keizaal" prefix unless otherwise instructed in the mod's notes.
 
 I will try to assist you in enabling these optional mods, however if you make changes to Keizaal outside of these few mods I will not be able to help you. Any personal edits you make to this list must be done independently.
 
@@ -164,6 +165,7 @@ Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkI
 If Wabbajack fails to download a mod, try downloading them manually. Place these in your downloads folder where the other Wabbajack downloads are. Do not extract them. Note that some of these are big files and may take a while.
 
 - [Bearnado Markarth Mashup](https://drive.google.com/u/0/uc?export=download&confirm=Jziu&id=1D139AzjXYuiTMjboFa_gmT3mXrmsR0zG){:target="_blank" rel="noopener"}
+- [Keizaal Resources](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1/Keizaal.Resources.7z)
 - Skyrim Realistic Overhaul
   - [Part One](https://www.moddb.com/downloads/start/116891?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads){:target="_blank" rel="noopener"}
   - [Part Two](https://www.moddb.com/downloads/start/116927?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads){:target="_blank" rel="noopener"}
@@ -173,14 +175,12 @@ If Wabbajack fails to download a mod, try downloading them manually. Place these
 - [WiZkiD DynDOLOD Bright Waterfalls Meshes Fix](https://drive.google.com/uc?export=download&id=1g54xGhVezDVOEGjOIoXowSG0XbKeGu57)
 - [WiZkiD DynDOLOD Ultra Detailed Ships LOD](https://drive.google.com/uc?export=download&id=1g54xGhVezDVOEGjOIoXowSG0XbKeGu57)
 - [WiZkiD Grass and Landscape](https://drive.google.com/u/0/uc?export=download&confirm=qk9_&id=18rmerskUeBZecsdeU_QRpG1QXrIylyA9){:target="_blank" rel="noopener"}
-- [WiZkiD High Poly Alchemy Table](https://drive.google.com/u/0/uc?export=download&confirm=aUnj&id=1Z8oJLvXwwXDdQULW_7RW1NG8N6l3H17B){:target="_blank" rel="noopener"}
 - [WiZkiD Sky Textures](https://drive.google.com/u/0/uc?export=download&confirm=XM-E&id=1lsg11a3blf825KVZsKaevKB5-khmaP9l){:target="_blank" rel="noopener"}
 - [WiZkiD Storm Lighting Improved Thunder Sounds](https://drive.google.com/u/0/uc?export=download&confirm=VB0Q&id=1Fg-w1TQgC7WIYOSsOXNFd02egFgn6u3R){:target="_blank" rel="noopener"}
 - [WiZkiD Tree Selection](https://drive.google.com/u/0/uc?export=download&confirm=MIlo&id=1BhxtOpeaEHEkli6QKLrhi1bQyNYIdgXG){:target="_blank" rel="noopener"}
-- [WiZkiD Unique Flowers and Plants](https://drive.google.com/u/0/uc?export=download&confirm=x3Uw&id=1_KjVdxNr5v08uU3xudaNXaRWwyTfe38M){:target="_blank" rel="noopener"}
+- [WiZkiD Unique Flowers and Plants](https://drive.google.com/uc?export=download&id=1MPW2y4cjL31B2Oncx1OMeuTITartQ4q-)
 - [WiZkiD Variety](https://drive.google.com/u/0/uc?export=download&confirm=l4nJ&id=1g5yCvLG0Fw-WvPOzEDNMaqBdTwT6eg65){:target="_blank" rel="noopener"}
 - [WiZkiD Water Wells with Real Water](https://drive.google.com/uc?export=download&id=1wnWsbLND5rxgJV-keeJG4Ev33XkROugI)
-- [Telvanni Reborn](https://www.dl.dropboxusercontent.com/s/3vr91f0l2ju1fyu/Telvanni%20Reborn-34601-1.7z?dl=0)
 
 ### "*ModOrganizer.exe throws and error when trying to launch.*"
 
@@ -192,17 +192,19 @@ Make sure you correctly copied the Game Folder Files over to your Skyrim directo
 
 Please refer to [this section](#copying-the-game-folder-files) for information on how to do so.
 
-### "*Skyrim is capped at 60 FPS.*"
+### "*Skyrim is capped at 72 FPS.*"
 
-The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 60 in order to prevent that.
+The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 72 in order to prevent that.
 
 ### "*Skyrim is acting strangely after automatically sorting the load order.*"
 
-**NEVER USE LOOT OR MOD ORGANIZER TO AUTOMATICALLY SORT YOUR LOAD ORDER!** Keizaal's plugins have been carefully sorted manually in order to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfeit all support I would normally provide until you restore your load order to Keizaal's default. You should be able to restore your load order to default by pressing the yellow directly above your plugin list.
+**NEVER USE LOOT OR MOD ORGANIZER TO AUTOMATICALLY SORT YOUR LOAD ORDER!** Keizaal's plugins have been carefully sorted manually in order to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfeit all support I would normally provide until you restore your load order to Keizaal's default. You should be able to restore your load order to default by pressing the yellow arrow directly above your plugin list.
 
 ### "*Tweaks made with BethINI aren't correctly changing the settings in-game.*"
 
 BethINI can handle the majority of tweaks that you would generally want to make. However, some of the more niche settings may be handled by .inis that BethINI can't edit. These will need to be edited manually.
+
+### "*Manual .ini tweaks aren't correctly changing the settings in-game.*"
 
 For ease-of-use I have placed all the custom .inis for every mod in Keizaal within a mod called "Keizaal Settings" at the bottom of Mod Organizer.
 
@@ -217,9 +219,11 @@ Please note that manual installations are **NOT SUPPORTED**. There are simply to
 
 ## Credits
 
+**VictorF** for his constant support and helpful criticism regarding both Keizaal and my own mods
+
 **Simon Magus** for tolerating my constant badgering about my load order
 
-**Paleo the Parrot**, **VictorF**, and **ElectricSparx** for helping me understand xEdit
+**Paleo the Parrot** and **ElectricSparx** for helping me understand xEdit
 
 **Shade088** for all his help getting Keizaal’s graphical suite operational
 
