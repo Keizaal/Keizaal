@@ -9,8 +9,7 @@ github:
   modlist_url: https://github.com/EzioTheDeadPoet/Tales-from-the-Northern-Lands/releases/download/v1.0/Tales.from.Skyrim.s.Holds.wabbajack
 pages:
   mainpage_url: https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/
-  screenshots_url: https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/SCREENSHOTSDISPLAY.html
-  contribute_url: https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/HOWTOCONTRIBUTE.html
+  installationguide_url: https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/INSTALLATIONGUIDE.html
   changelog_url: https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/CHANGELOG.html
 reshade:
   license: https://eziothedeadpoet.github.io/Tales-from-the-Northern-Lands/ReShade/RESHADELICENSE.html
