@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="image" property="og:image" content="https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Keizaal%20Logo.png">
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <link rel="icon" href="https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Keizaal%20Logo.png"  type="image/x-icon">
+  <body>
+    <div class="wrapper">
+      <header>
+        <div class="headertext">
+          <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
+          <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+        </div>
+        <div class="header">
+          <a class="buttons aboutMe" href="https://eziothedeadpoet.github.io/AboutMe/">About Me</a>
+          <p>My Personal Projects:</p>
+          <a class="buttons mainpage" href="https://pierredespereaux.github.io/Keizaal/">Keizaal</a>
+          <a class="buttons mainpage" href="https://www.nexusmods.com/users/61720101?tab=user+files">Released Mods</a>
+          <a class="buttons mainpage" href="https://github.com/Asyala-Development-Group/Asyala-the-Nordic-Khajiit">Asya'la the Nordic Kahjiit</a>
+          <a class="buttons mainpage" href="https://github.com/PierreDespereaux/Canis-Hysteria">Canis Hysteira</a>
+          <a class="buttons mainpage" href="https://github.com/PierreDespereaux/C.O.I.N.">C.O.I.N</a>
+          <a class="buttons mainpage" href="https://github.com/PierreDespereaux/Knights-of-the-Nine">Knights of the Nine</a>
+        </div>
+      </header>
+
+      <section>
+        {{ content }}
+      </section>
+
+    </div>
+  </body>
+</html>
