@@ -41,7 +41,7 @@ a.aboutMe {
 
 body {
 	color: #FBF8F1;
-	background-color: #101010;
+	background-color: #222222;
 	padding: 0 5% 0 0
   
 }
@@ -59,7 +59,7 @@ header {
 	order: 1;
 	flex-direction: column;
 	position: relative;
-	background-color: #222222;
+	background-color: #101010;
 	color: #FBF8F1;
 }
 
@@ -92,7 +92,7 @@ div.socials {
 }
 
 h1, h2, h3, h4, h5, h6 {
-	color:#FBF8F1;
+	color:#D58546;
 }
 
 h1, h2, h3, h4 {
@@ -200,7 +200,7 @@ div .highlighter-rouge {
 }
 
 pre.highlight {
-	background-color: #101010;
+	background-color: #526B67;
 }
 
 .highlight .nv {
@@ -208,13 +208,13 @@ pre.highlight {
 }
 
 .highlight {
-	background: #101010;
+	background: #526B67;
 	border-radius:4px;
 }
 
 .highlight .err {
     color: #FBF8F1;
-       background: #101010;
+       background: #526B67;
 }
 /*
 td li.buttons {
@@ -224,6 +224,7 @@ td li.buttons {
 	margin-bottom: 12px;
 	line-height: 1em;
 	padding: 6px 6px 6px 7px;
+
 	background: #D58546;
 	background: -moz-linear-gradient(top, #D58546 0%, #af540f 100%);
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#8DAEB5), color-stop(100%,#8DAEB5));
@@ -359,6 +360,7 @@ img {
 	header ul li.contribute {
 		display:none;
 	}
+
 	header ul li.changelog {
 		display:none;
 	}
@@ -368,6 +370,7 @@ img {
 //to overwrite the original settings as well
 /*
 @media print, screen and (max-width: 960px) {
+
 	div.wrapper {
 		width:initial;
 		margin:0;
@@ -395,5 +398,7 @@ img {
 	header ul {
 	  	position: initial;
 	}
+
 }
+
 */
