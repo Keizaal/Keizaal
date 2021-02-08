@@ -14,7 +14,7 @@ Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without c
 3.  Mods must have decent longevity. This modlist wants to be somewhat relevant, in theory, forever.
 4.  Stability is the most important thing. This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
 
-You can find a full list of the mods included in Keizaal [here](https://modwat.ch/u/Keizaal/){:target="_blank" rel="noopener"}. If you're still curious about what exactly Keizaal has in store for you, have a look at the overview [here](https://www.wabbajack.org/#/modlists/info?machineURL=keizaal){:target="_blank" rel="noopener"}.
+You can find a full list of the mods included in Keizaal [here](https://modwat.ch/u/Keizaal/){:target="_blank" rel="noopener"}. If you're still curious about what exactly Keizaal has in store for you, have a look at the overview [here](https://pierredespereaux.github.io/Keizaal/).
 
 # Table of Contents
 - [Setup and Information](#setup-and-information)
