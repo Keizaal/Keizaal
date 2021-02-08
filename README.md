@@ -1,223 +1,82 @@
-# Installation Guide
-
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Keizaal%20Banner.png)
-
-Current version: 02/08/2021 4.0.2.4
-
 ![total-installs](https://img.shields.io/endpoint?label=Total%20Installs&style=for-the-badge&url=https://build.wabbajack.org/metrics/badge/keizaal/total_installs_badge.json)  
 ![build-status](https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/keizaal/badge.json)
 
-# What is Keizaal?
+## Preamble
 
-Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011.  
+1. **This modlist is lite and intends to maintain the Vanilla feel.** A lot of the time modlists can become ridiculously huge and bloated, but this modlist wants to be nice and lean. Less is more.
+2. **Immersion is paramount.** I'm a lore buff and immersion is very important to me. If a mod is not lore accurate or takes me out of the game in any way it will be excluded. Consistency also falls into this category, if a mod has a completely different aesthetic from Vanilla or any of my other mods then it will probably not be included.  
+3. **Mods must have decent longevity.** This modlist wants to be somewhat relevant, in theory, forever.  
+4. **Stability is the most important thing.** This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
 
-1.  This modlist is lite and intends to maintain the Vanilla feel. A lot of the time modlists can become ridiculously huge and bloated, but this modlist wants to be nice and lean. Less is more. 
-2.  Immersion is paramount. I'm a lore buff and immersion is very important to me. If a mod is not lore accurate or takes me out of the game in any way it will be excluded. Consistency also falls into this category, if a mod has a completely different aesthetic from Vanilla or any of my other mods then it will probably not be included.
-3.  Mods must have decent longevity. This modlist wants to be somewhat relevant, in theory, forever.
-4.  Stability is the most important thing. This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
+You can find a full list of the mods included in Keizaal [here](https://modwat.ch/u/Keizaal/). If you feel like this modlist is for you, click [here](https://pierredespereaux.github.io/Keizaal/) to go straight to the installation guide.
 
-You can find a full list of the mods included in Keizaal [here](https://modwat.ch/u/Keizaal/){:target="_blank" rel="noopener"}. If you're still curious about what exactly Keizaal has in store for you, have a look at the overview [here](https://www.wabbajack.org/#/modlists/info?machineURL=keizaal){:target="_blank" rel="noopener"}.
+If you're still curious about what Keizaal has in store for you, I have provided a brief overview below.
 
-# Table of Contents
-- [Setup and Information](#setup-and-information)
-  - [Clean Install](#clean-install)
-- [Keizaal Installation](#keizaal-installation)
-  - [Copying the Game Folder Files](#copying-the-game-folder-files)
-- [Playing Keizaal](#playing-keizaal)
-  - [Mod Configuration](#mod-configuration)
-- [Additional Configuration (Optional)](#additional-configuration-optional)
-  - [Switching the ENB](#switching-the-enb)
-  - [Optional Mods](#optional-mods)
-  - [Mod Notes](#mod-notes)
-  - [BethINI](#bethini)
-- [Updating](#updating)
-  - [Semantic Versioning](#semantic-versioning)
-- [Troubleshooting](#troubleshooting)
-  - ["Wabbajack throws an error after authorizing through Nexus."](#wabbajack-throws-an-error-after-authorizing-through-nexus)
-  - ["A mod fails to download."](#a-mod-fails-to-download)
-  - ["ModOrganizer.exe throws and error when trying to launch."](#modorganizerexe-throws-and-error-when-trying-to-launch)
-  - ["The NPCs during the Helgen intro are just standing in place."](#the-npcs-during-the-helgen-intro-are-just-standing-in-place)
-  - ["Skyrim is capped at 72 FPS."](#skyrim-is-capped-at-72-fps)
-  - ["Skyrim is acting strangely after automatically sorting the load order."](#skyrim-is-acting-strangely-after-automatically-sorting-the-load-order)
-  - ["Tweaks made with BethINI aren't correctly changing the settings in-game."](#tweaks-made-with-bethini-arent-correctly-changing-the-settings-in-game)
-  - ["Manual .ini tweaks aren't correctly changing the settings in-game."](#manual-ini-tweaks-arent-correctly-changing-the-settings-in-game)
-- [Credits](#credits)
+## Essentials
 
-## Setup and Information
+![Keizaal 2.5.0](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Essentials%20Banner.png)
 
-Keizaal takes up 188GB of hard drive space (114GB installation with 74GB of downloads) and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice. This modlist was developed on a computer running [these specs](https://pcpartpicker.com/list/3ygt4d){:target="_blank" rel="noopener"}, on this system a stable and consistent 50 - 60 FPS is the norm. Your mileage may vary, there is nothing I can do if you experience poor performance.
+There are some mods that every installation of Skyrim just needs to have. This includes a ton of fixes from [SKSE64](https://skse.silverlock.org/) to [meh321](https://www.nexusmods.com/skyrimspecialedition/users/2964753?tab=user+files)'s various engine-level fixes. I won't spend time talking much about this because I'm sure you're all aware of this and know what to expect. However, I will highlight some of the inclusions unique to Keizaal.
 
-Install the latest version of Wabbajack from its [GitHub page](https://www.github.com/wabbajack-tools/wabbajack/releases/latest){:target="_blank" rel="noopener"}.
+UI is very important because it affects all players. [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) and [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) is a natural inclusion in virtually every installation of Skyrim on PC; however, some lesser-known UI extensions have been included in Keizaal. First and foremost is [moreHUD](https://www.nexusmods.com/skyrimspecialedition/mods/12688), a great mod that gives the player more information outside of menus. This mostly comes in the form of tooltips before you pick up objects or the display of enemy level and soul size, this mod just gives players access to more information on the fly without needing to dig into more menus. [Extended UI](https://www.nexusmods.com/skyrim/mods/57873/) helps more easily digest the rather clunky skills menu, it places all the stats nicely on the bottom of the screen so it's easy to see you skill levels all at once. Lastly [Main Menu Design Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/30810) just gives a different feel to the main menu we've been using all these years.
 
-Create a new folder called “Wabbajack” in the root of your main drive, the default is (C:). Extract Wabbjack.exe into this folder.
+I like to cater to a lot of different people who want to play the game in different ways. One example of this is perspective. I don't think it's wrong to say that most people prefer to play in first-person, but I know there are many, including my wife, who actually like third person better. As such I've included a package of mods aimed to make the third-person experience feel more digestible. [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252) is the heavy-hitter in this category, it completely changes how the third-person camera behaves. It is much more fluid and natural, making Skyrim feel so much better when playing in third-person.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Installing%20Wabbajack.png)
+Lastly I have a short list of miscellaneous mods I wanted to talk about in this section. [BlockSteal](https://www.nexusmods.com/skyrimspecialedition/mods/18732) prevents the player from stealing any object unless they are actively sneaking, this is a very nice how to prevent you from accidentally stealing some bread in front of the bartender and immediately getting arrested. [GIST - Genuinely Intelligent Soul Trap](https://www.nexusmods.com/skyrimspecialedition/mods/15755) improves the logic that the game uses when deciding which soul gem to place the soul you captured in, no longer will you have a bunch of Grand Soul Gems with Skeever souls. [To Your Face](https://www.nexusmods.com/skyrimspecialedition/mods/24720) adjusts NPC behavior so they won't blurt out random comments while you pass them in the street unless you're directly facing them.
 
-### Clean Install
+## Graphics
 
-To completely reinstall Skyrim, it is advised that you use the [Skyrim Shredder](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=113028&game_id=1704){:target="_blank" rel="noopener"} tool to completely delete the game. It will remove Skyrim and data related to it, but not the modlist.
+![Keizaal 3.0.0](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Graphics%20Banner.png)
 
-Reinstall Skyrim in the root of your main drive, the default is (C:). **It MUST NOT be installed in the Program Files folder**.
+Keizaal contains a large visual package to improve the visual fidelity of the game while sticking true to the original art style that Bethesda presented us. I use a mixture of [Skyrim Realistic Overhaul](https://www.moddb.com/mods/skyrim-realistic-overhaul), [Project Clarity](https://www.nexusmods.com/skyrimspecialedition/search/?RH_ModList=nav:true,home:false,type:0,user_id:0,game_id:1704,advfilt:true,search%5Bfilename%5D:Project+Clarity,include_adult:true,page_size:20,show_game_filter:false), [Skyland AIO](https://www.nexusmods.com/skyrimspecialedition/mods/34179), and [aMidianBorn Book of Silence](https://www.nexusmods.com/skyrimspecialedition/mods/35382) as a base to build off of. From there I add on a wide array of texture and mesh replacer that are too numerous to list here individually. I will discuss some of the more noteworthy inclusions.
 
-Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
+The [Static Mesh Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/659) serves as the base of my mesh replacers. It reworks a ton of Vanilla models to make them more three-dimensional and believable. The [High Poly Project](https://www.nexusmods.com/skyrimspecialedition/mods/12029) covers a lot of other items that SMIM misses with a large selection of new models and textures. In addition to these mods there are several individual mesh replacers that help to complete the package, this includes but is not limited to mods such as [Cathedral 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312), [3D Pine Grass](https://www.nexusmods.com/skyrimspecialedition/mods/42032), and [3D Snowberries](https://www.nexusmods.com/skyrimspecialedition/mods/42033).
 
-## Keizaal Installation
+Good lighting is the key to sell anything graphical. You can have the prettiest textures and the most well crafted models there is, but they will suffer severely if you do not provide good lighting for them to be displayed in. That being said I did not want to go overboard on the lighting and make an exceptionally dark game. The backbone of my lighting in the [Truth ENB](https://www.nexusmods.com/skyrimspecialedition/mods/9162). It adds a lot of new visual effects to the game to make it look more modern, but stays within the realm of Vanilla. On top of that I have a combination of [ELFX](https://www.nexusmods.com/skyrimspecialedition/mods/2424), [Tamriel Master Lights](https://www.nexusmods.com/skyrimspecialedition/mods/36726), and [ENB Light](https://www.nexusmods.com/skyrimspecialedition/mods/22574) to improve the visual fidelity of lighting. I could be amiss to not mention [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125); while it is not strictly a lighting mod it effects the weathers and they have a big impact on how light looks in exterior locations.
 
-Create a new folder called “Keizaal” in the root of your main drive, the default is (C:).
+Besides for the mods listed above Gamwich's [Rustic](https://www.nexusmods.com/skyrimspecialedition/search/?BH=0&RH_ModList=nav:true,home:false,type:0,user_id:0,game_id:1704,advfilt:true,search%5Bfilename%5D:Rustic,search%5Bauthor%5D:Gamwich,include_adult:true,page_size:20,show_game_filter:false,open:true) series covers a large swath of texture replacers alongside other authors such as [FrankFamily](https://www.nexusmods.com/skyrimspecialedition/users/2531318?tab=user+files) and [ElSopa](https://www.nexusmods.com/skyrimspecialedition/users/6960827?tab=user+files). Nearly all of my water is handled by the wonderful [Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061) by mindflux.
 
-Open Wabbajack.exe, it should be in the Wabbajack folder in the root of your main drive.
+## Gameplay
 
-Select the Keizaal modlist from the Wabbajack UI.
+![Keizaal 3.4.1.2](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Gameplay%20Banner.png)
 
-Once the installation window opens ensure that the “Installation Location” matches the Keizaal folder you just created (default should be C:\Keizaal\). The download location should populate automatically
+Next up we will be discussing perhaps the most important part of a modlist, the gameplay! Keizaal is largely built around [Simon Magus](https://www.nexusmods.com/skyrimspecialedition/users/67410746?tab=user+files)' overhaul mods (affectionately referred to as "SimonRim"), they are a great series of mods that lines up perfectly with what I'm trying to accomplish with this list. Simon doesn't attempt to change Skyrim completely, but rather to take what it gives us and enhance it to be the best version that it can be. [Adamant](https://www.nexusmods.com/skyrimspecialedition/mods/30191) is the backbone for this entire experience. It is a perk overhaul that attempts to make every tree worthwhile and introduce new and fun play styles to build around, all without becoming too bloated or straying too far away from what Skyrim is. [Blade and Blunt](https://www.nexusmods.com/skyrimspecialedition/mods/34549) is a combat overhaul that tries to make Skyrim combat more active and engaging without turning it into a Dark Souls clone. Both Simon and I have a pet peeve for combat mods that try to emulate Souls-likes, not because we don't enjoy those games, but rather because we don't think it fits Skyrim's gameplay very well. Blade and Blunt puts a particular emphasis on power attacks and adequate resource management of your health, magicka, and stamina. I would be remiss not to mention perhaps Simon's most famous mod: [Mysticism](https://www.nexusmods.com/skyrimspecialedition/mods/27839). This mod aims to overhaul magic in Skyrim and fill gaps in Vanilla progression. A lot of new spells have been seamlessly integrated into leveled lists and many more spells have been re-balanced to better fit into the progression that Simon has established. Each of these overhaul mods are a great addition to Keizaal and serve to improve on areas of Skyrim without changing it to be completely unrecognizable.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Installing%20Keizaal.png)
+Beyond Simon's mods I have also taken time to make some changes to the various factions around Skyrim. In Vanilla virtually any character can play through the Thieves Guild or Companions without ever investing into the faction's respective skills. [Thieves Guild Requitements](https://www.nexusmods.com/skyrimspecialedition/mods/33256) and [Enhanced Skyrim Factions - The Companions Guild](https://www.nexusmods.com/skyrim/mods/22650/) places skill barriers in the player's way before they can join each faction. A thief trying to join the Companions or a warrior trying to join the Thieves Guild is going to have a bad time. You actually have to practice the skills the faction encourages if you want to progress. Additionally this modlist features [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514) which is a combination of a faction and location overhaul! This mod features a beautiful overhaul to the College of Winterhold while sticking true to the base game's aesthetic; new sections of the college are added and other parts are completely overhauled. Additionally the location has a lot more functionality for players that join the faction such as a new training hall and alchemy instructor.
 
-When you’re ready press the triangular start button.
+[Lawbringer](https://www.nexusmods.com/skyrimspecialedition/mods/29882) introduces a new layer to dungeon delving. In Vanilla every bandit location would be repopulated with bandits after around 30 days. Lawbringer gives the player some more options when it comes to tackling hostile locations. At certain points around the world you will find a flag in a hostile location. After clearing out all the enemies you can activate the flag and claim the location for a faction of your choice. Any player can claim a location for the government of the hold they are in, but Imperial and Stormcloak players can also claim locations for their respective factions. You can even take a handful places in the Reach for the Forsworn if you met certain quest requirements!
 
-After starting the installation a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log into and authorize Wabbajack on Nexus and the installation will proceed. Wabbajack will now install the modlist, this will take a while so be patient. When Wabbajack is finished, the left panel should say "Installation Complete". At this time it is safe to close Wabbajack.
+When designing Keizaal I found it important to give the player more choice when it came to accepting or declining quests; I've gone to great lengths to give the player more agency as to what goes into their quest journal. [The Choice is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/3850/) serves as the backbone of this change. It edits several quests to not trigger until you properly accept them, giving you a lot of control over exactly how cluttered your journal becomes. In addition I use both [Somebody Else's Problem](https://www.nexusmods.com/skyrimspecialedition/mods/43850) and [The Paarthurnax Resolution](https://www.nexusmods.com/skyrimspecialedition/mods/43766) to give you the option to just say "No!" to Eltrys and Delphine, automatically ending their respective quests before they even properly start. Some may wonder why I don't use a mod that allows you to continue working with the Blades while also getting to spare Paarthurnax. Simply, I thought it was important to preserve the choice that the player was given in that quest.
 
-### Copying the Game Folder Files
+I have a series of other gameplay mods that are on a much smaller scale. The kings of this category are [EpicCrab](https://www.nexusmods.com/skyrimspecialedition/users/4117328?tab=user+files) (of Lawbringer fame) and [Parapets](https://www.nexusmods.com/skyrimspecialedition/users/39501725?tab=user+files). Both of these authors have a lot of high quality gameplay mods that make neat little changes that have a big impact. EpicCrab's [Forsworn Skinchangers](https://www.nexusmods.com/skyrimspecialedition/mods/34900) and [Forsworn Gravesingers](https://www.nexusmods.com/skyrimspecialedition/mods/40143) add new enemy types among the Forsworn's ranks; skinchangers are lycanthropes that swear fealty to Hircine and transform into their beastial form when entering combat and gravesingers are power necromancers that use old plant-based Reach magic to bring creatures back from the dead. Both of these new enemy types are really unique and help to really define the Forsworn and the Reach. Parapets specializes in small questline tweaks aimed at bringing more options to how the player tackles certain situations. [Save the Icerunner - Lights Out Alternative Routes](https://www.nexusmods.com/skyrimspecialedition/mods/34681) is probably my favorite mod that he has made. In Vanilla the Lights Out quest was fairly linear and didn't have a path for a good character to take (except not doing the quest) but with this mod you have multiple different ways to tackle the situation, even one that results in the Icerunner successfully making it to port in Solitude! [Thugs Not Assassins](https://www.nexusmods.com/skyrimspecialedition/mods/34028) is another great mod by Parapets that changes Hired Thugs to intimidate you rather that try to kill you, after all they are *not assassins*! There are many other small mods I have from these two authors such as [Improved Companions - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300) and [Contraband Confiscation](https://www.nexusmods.com/skyrimspecialedition/mods/34903), but I have hit the big mods, I'll let you discover the rest for yourself.
 
-Navigate to your Keizaal installation folder (default is C:\Keizaal) and open the “Game Folder Files” folder. This folder contains the list's ENB and all the necessary systems files to ensure Keizaal works properly.
+## Miscellaneous
 
-![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Installing%20Game%20Folder%20Files.png?raw=true)
+![Keizaal 2.5.7](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Miscellaneous%20Banner.png)
 
-Copy everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe). Keizaal is ready to play!
+Now onto our final category: the miscellaneous mods! Now that's not to say that these mods are any less than the ones I have categorized, quite the opposite, some of my favorite mods are here, rather these don't fit easily into the sections I have laid out above.
 
-## Playing Keizaal
+If there is one area that Fallout 4 really improved upon after Skyrim it is in their followers. Skyrim has a ton of companions that can join you on your quests, but the vast majority of them are rather dull and uninspiried. The only Vanilla follower really worth their salt was Serana, and an entire DLC was built around her! Let me introduce [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035), the best follower mod avalible for Skyrim. Lucien is a young imperial scholar who has come to Skyrim to study the numerous Dwemer ruins in the area. What makes this follower so speical is his fun personality, and legitimate character growth. Lucien will change the longer you travel with him, he may start as a cowardly student but by the end of the game he will be a much more confident warrior-scribe. Additionally Lucien has a ton of quest-related dialouge and conversatiosn that will trigger under certain conditions, he even has integration with a few other mods that will add new banter unique to the mod in question. However, one of my favorite features of Lucien is his conversation he has with other followers. While on the road he may have a few conversations with followers such as Lydia or Delphine, this serves to really cement Lucien into the world and have him feel like he's there. A lot of follower mods have an issue where the followers feel like phantoms in the world because no one reacts to their presence, Lucien certainly does not have that problem. This is the only follower mod I use and, frankly, the only one I need. Lucien fits perfectly into Skyrim and feels like he could have been part of the game all along, I hope Elder Scrolls VI has companions like Lucien.
 
-Now that Keizaal has been installed you will need to launch Skyrim in a slightly different way.
+For years I have been content with Vanilla cities. No overhaul mods really caught my eye or really gave me a reason to keep it in my game for an extended period of time. However, that has changed. The [Capital Expansion Series](https://www.nexusmods.com/skyrimspecialedition/search/?BH=0&RH_ModList=nav:true,home:false,type:0,user_id:0,game_id:1704,advfilt:true,include_adult:true,page_size:20,show_game_filter:false,open:true,search%5Bfilename%5D:Capital+Expansion,search%5Bauthor%5D:Surjamte) have the honor of being the first city overhauls that have made me abandon Vanilla cities. There is so much love put into these overhaul. Not only have cities have been expanded and new districts added, but new NPCs have been given unique dialogue and various new quests are avalible for the player to take part in. These overhauls really feel like they fit in the world, moreso than any I've tried in the past. I am in love.
 
-Navigate back to your Keizaal installation folder and run ModOrganizer.exe.
+The major cities aren't the only ones to get some love though. Minor holds have long been hindered by the fact that four of the nine holds use generic farmhouse architecture. It's a real shame that Bethesda didn't give unique models to places such as Dawnstar or Winterhold, especially since Oblivion had ten cities all with distinct tilesets. [Cities of the Noth](https://www.nexusmods.com/skyrimspecialedition/search/?BH=1&RH_ModList=nav:true,home:false,type:0,user_id:0,game_id:1704,advfilt:true,search%5Bfilename%5D:Cities+of+the+North,search%5Bauthor%5D:JPSteel2,search%5BOLD_mname%5D:JPSteel2,include_adult:true,page_size:20,show_game_filter:false,open:true) changes this by replacing the architecture of these smaller holds with brand new models designed by the mod author. This does a lot to bring life to these cities that formly felt rather samey. Dawnstar now feels like a proper port town while Morthal feels properly creepy for its closeness to the swamps. This mod does a straight model swap of the existing buildings and doesn't redesign the locations much so it's very compatible with a lot of different mods. Winterhold does bring a small design change, but it's a much welcome one. It always felt odd that the jarl of the former capital of Skyrim would reign from a simple longhouse. Replacing the old longhouse is an imposing mountaintop keep. I just love the feeling it gives Winterhold; I've always had a soft spot for the city and always felt like it was a missed opportunity in Vanilla, it has finally been done justice.
 
-You should now be on a screen that displays all of your installed mods on the left and all of your plugin files on the right.
+opusGlass makes a lot of great creature mods, Keizaal includes both [The Falkreath Hauntings](https://www.nexusmods.com/skyrimspecialedition/mods/20733) and [Bogmort - Mud Monsters of Morthal Swamp](https://www.nexusmods.com/skyrimspecialedition/mods/22447) which both add a lot of atmosphere to their respective locations with these unique new enemies. Howver, my absolute favorite mods of his is the [Bloodmoon Creature Restoration Project](https://www.nexusmods.com/skyrimspecialedition/search/?RH_ModList=nav:true,home:false,type:0,user_id:0,game_id:1704,advfilt:true,search%5Bfilename%5D:Bloodmoon+Creature+Restoration+Project,include_adult:true,page_size:20,show_game_filter:false) series. These mods give some much needed love to the island of Solstheim, they overhaul the visuals of the draugr, horkers, and trolls to be more akin to their Morrowind counterparts. What I really love about these mods is how they add more differences between mainland Skyrim and Solstheim. I really want them to feel like two different, but connected, worlds. [Briraka's Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188) is a fantastic companion piece to opusGlass' mods. This mod gives a unique aesthetic to every named boss draugr, Olaf One-Eye looks like a proper one-eyed king now! Additionally it introduces a new high-level draugr, the Winter King, and replaces the Ebony weapons higher tier draugr use with Stalhrim! These two mods really bring a lot of new life to some of the creatures you encounter around the world.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Playing%20Keizaal.png)
+[All Geared Up Derivative](https://www.nexusmods.com/skyrimspecialedition/mods/28833) is a small mod with a big impact. It simply allows your shield to appear on back and your off-hand weapon to appear on your character (along with any favorited weapons) when sheathed. This small effect usually requires endless patching to work that would usually make you unwilling to use it, but AllGUD has some incredibly easy-to-use xEdit scripts that do all the work for you! As someone who used to use Dual Sheath Redux, this process was shockingly easy and I couldn't believe that this mod didn't require external patches. I'm very impressed by this mdo and it is definitely the best in its class.
 
-You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the right plugins pane and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
+The last few mods I want to highlight bring some uniqueness to some of Skyrim's reused assets. [Unique Uniques](https://www.nexusmods.com/skyrimspecialedition/mods/3334), [Book Covers Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/901), and [Thrones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/41198) all give items that used generic assets a beautiful makeover. Really just looking at the modpage will tell you everything you need to know. I can't imagine playing Skyrim without these mods.
 
-### Mod Configuration
+## Afterword
 
-All of the Mod Configuration Menus menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
+![Keizaal 2.5.1](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Credits%20Banner.png)
 
-## Additional Configuration (Optional)
+I have highlighted only a fraction of the mods available in the list but I do hope this overview gave you a good idea of what to expect when you play Keizaal. If you have any inquiries about the list feel free to @ me on the [Wabbajack](https://discord.gg/wabbajack) or [Keizaal](https://discord.gg/eYZJFP8) Discord Servers, I'll do my best to help you out. I hope you enjoy my modlist!
 
-This following section outlines some additional, optional confiurations. Nothing here is necessary, but it may be of some interest to users who like to tweak.
-
-### Switching the ENB
-
-Keizaal comes with its own prepackaged ENB preset. If, for whatever reason, you don't want to use this prepackaged preset, I urge you to at least use an ENB that doesn't break imagespace modifiers. I believe any ENB that breaks imagespace modifiers is automatically bad, no matter how pretty it may look.
-
-[ENB and ReShade Manager](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=76937&game_id=1704){:target="_blank" rel="noopener"} is a great tool for easily switching between ENB presets. If you decide against using Keziaal's preset, I recommend this program to easily remove all traces of the preset from your Skyrim directory.
-
-### Optional Mods
-
-There are a handful of mods that I have included that are disabled by default; these mods aren’t part of the main Keizaal package. If you choose to activate an optional mod, be sure to move the mod's plugin (on the right pane of Mod Organizer) **above all** of the plugins with the "Keizaal" prefix unless otherwise instructed in the mod's notes.
-
-I will try to assist you in enabling these optional mods, however if you make changes to Keizaal outside of these few mods I will not be able to help you. Any personal edits you make to this list must be done independently.
-
-### Mod Notes
-
-Several mods in Keizaal's Mod Organizer have notes attached to them. If the note icon appears next to a mod, hover over it to read the notes I've added. These notes will give you some additional context about how I have configured the mod.
-
-Here is an example of one such note:
-
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Notes.png)
-
-### BethINI
-
-BethINI is a powerful tool that replaces Skyrim's Vanilla launcher settings menu, you can utilize it to tweak the game's settings. In order to use it, select it from the dropdown in the top right-hand corner of Mod Organizer, then start it the same way you'd launch Skyrim. 
-
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/BethINI.PNG)
-
-After you have launched BethINI, be sure to **close Mod Organizer before you change any settings**!
-
-## Updating
-
-If this Modlist receives an update, please check the changelog before doing anything. Always backup your saves or start a new game after updating.
-
-**Wabbajack will delete all files that are not part of the Modlist when updating!**
-
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
-
-Updating is like installing. You only have to make sure that you select the same path and tick the overwrite existing Modlist button.
-
-### Semantic Versioning
-
-Keizaal uses semantic versioning in order to quickly determine the size of an update and if it is savegame compatible or not. This is what the version numbers mean:
-
-- <ins>**1**</ins>.0.0 = A large update that is **NOT** savegame compatible and fundamentally changes the list.
-- 1.<ins>**1**</ins>.0 = An update that is **NOT** savegame compatible.
-- 1.1.<ins>**1**</ins> = An update that **IS** savegame compatible.
-- 1.1.1.<ins>**1**</ins> = A small hotfix that **IS** savegame compatible.
-
-You can find your current version of Keizaal at the top of Mod Organizer. If the version isn't listed you're probably using a pre-3.4.0 version.
-
-## Troubleshooting
-
-### "*Wabbajack throws an error after authorizing through Nexus.*"
-
-Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkId=2085155). Be sure to restart your computer afterward.
-
-### "*A mod fails to download.*"
-
-If Wabbajack fails to download a mod, try downloading them manually. Place these in your downloads folder where the other Wabbajack downloads are. Do not extract them. Note that some of these are big files and may take a while.
-
-- [Bearnado Markarth Mashup](https://drive.google.com/u/0/uc?export=download&confirm=Jziu&id=1D139AzjXYuiTMjboFa_gmT3mXrmsR0zG){:target="_blank" rel="noopener"}
-- [Keizaal Resources](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1/Keizaal.Resources.7z)
-- Skyrim Realistic Overhaul
-  - [Part One](https://www.moddb.com/downloads/start/116891?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads){:target="_blank" rel="noopener"}
-  - [Part Two](https://www.moddb.com/downloads/start/116927?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads){:target="_blank" rel="noopener"}
-  - [Part Three](https://www.moddb.com/downloads/start/116934?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads){:target="_blank" rel="noopener"}
-  - [1.8 Update](https://www.moddb.com/downloads/start/139489?referer=https%3A%2F%2Fwww.moddb.com%2Fmods%2Fskyrim-realistic-overhaul%2Fdownloads){:target="_blank" rel="noopener"}
-- [WiZkiD Candle Flames](https://drive.google.com/uc?export=download&id=1ZA8r-McnBcxjCdUBnA4wRW1jZzhHciO2)
-- [WiZkiD DynDOLOD Bright Waterfalls Meshes Fix](https://drive.google.com/uc?export=download&id=1g54xGhVezDVOEGjOIoXowSG0XbKeGu57)
-- [WiZkiD DynDOLOD Ultra Detailed Ships LOD](https://drive.google.com/uc?export=download&id=1g54xGhVezDVOEGjOIoXowSG0XbKeGu57)
-- [WiZkiD Grass and Landscape](https://drive.google.com/u/0/uc?export=download&confirm=qk9_&id=18rmerskUeBZecsdeU_QRpG1QXrIylyA9){:target="_blank" rel="noopener"}
-- [WiZkiD Sky Textures](https://drive.google.com/u/0/uc?export=download&confirm=XM-E&id=1lsg11a3blf825KVZsKaevKB5-khmaP9l){:target="_blank" rel="noopener"}
-- [WiZkiD Storm Lighting Improved Thunder Sounds](https://drive.google.com/u/0/uc?export=download&confirm=VB0Q&id=1Fg-w1TQgC7WIYOSsOXNFd02egFgn6u3R){:target="_blank" rel="noopener"}
-- [WiZkiD Tree Selection](https://drive.google.com/u/0/uc?export=download&confirm=MIlo&id=1BhxtOpeaEHEkli6QKLrhi1bQyNYIdgXG){:target="_blank" rel="noopener"}
-- [WiZkiD Unique Flowers and Plants](https://drive.google.com/uc?export=download&id=1MPW2y4cjL31B2Oncx1OMeuTITartQ4q-)
-- [WiZkiD Variety](https://drive.google.com/u/0/uc?export=download&confirm=l4nJ&id=1g5yCvLG0Fw-WvPOzEDNMaqBdTwT6eg65){:target="_blank" rel="noopener"}
-- [WiZkiD Water Wells with Real Water](https://drive.google.com/uc?export=download&id=1wnWsbLND5rxgJV-keeJG4Ev33XkROugI)
-
-### "*ModOrganizer.exe throws and error when trying to launch.*"
-
-Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
-
-### "*The NPCs during the Helgen intro are just standing in place*."
- 
-Make sure you correctly copied the Game Folder Files over to your Skyrim directory.
-
-Please refer to [this section](#copying-the-game-folder-files) for information on how to do so.
-
-### "*Skyrim is capped at 72 FPS.*"
-
-The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 72 in order to prevent that.
-
-### "*Skyrim is acting strangely after automatically sorting the load order.*"
-
-**NEVER USE LOOT OR MOD ORGANIZER TO AUTOMATICALLY SORT YOUR LOAD ORDER!** Keizaal's plugins have been carefully sorted manually in order to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfeit all support I would normally provide until you restore your load order to Keizaal's default. You should be able to restore your load order to default by rerunning Wabbajack.
-
-### "*Tweaks made with BethINI aren't correctly changing the settings in-game.*"
-
-BethINI can handle the majority of tweaks that you would generally want to make. However, some of the more niche settings may be handled by .inis that BethINI can't edit. These will need to be edited manually.
-
-### "*Manual .ini tweaks aren't correctly changing the settings in-game.*"
-
-For ease-of-use I have placed all the custom .inis for every mod in Keizaal within a mod called "Keizaal Settings" at the bottom of Mod Organizer.
-
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Keizaal%20Settings.png)
+I'd like to individually thank a few people for their contributions in making Keizaal what it is.
 
 ______________________________________________________________________________________________________________________________________________________________________
-
-
-Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack){:target="_blank" rel="noopener"} or [Keizaal](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} Discord server for individual help and guidance. If you make modifications to Keizaal, you do so at your own risk. No support will be provided.
-
-Please note that manual installations are **NOT SUPPORTED**. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone's time.
-
-## Credits
 
 **VictorF** for his constant support and helpful criticism regarding both Keizaal and my own mods
 
