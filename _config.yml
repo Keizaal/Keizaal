@@ -1,2 +1,6 @@
-theme: jekyll-theme-midnight
-markdown: kramdown
+theme: jekyll-theme-dinky
+title: Keizaal
+description: A simple modlist.
+show_downloads: true
+wabbajack:
+  wabbajack_url: https://www.wabbajack.org/#/
