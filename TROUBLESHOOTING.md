@@ -34,7 +34,7 @@ Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_re
  
 Make sure you correctly copied the Game Folder Files over to your Skyrim directory.
 
-Please refer to [this section](#copying-the-game-folder-files) for information on how to do so.
+Please refer to [this section](https://pierredespereaux.github.io/Keizaal/INSTALLATIONGUIDE.html#copying-the-game-folder-files) for information on how to do so.
 
 ### "*Skyrim is capped at 72 FPS.*"
 
