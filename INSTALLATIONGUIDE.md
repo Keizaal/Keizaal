@@ -1,13 +1,6 @@
 # Installation Guide
 
-1.  This modlist is lite and intends to maintain the Vanilla feel. A lot of the time modlists can become ridiculously huge and bloated, but this modlist wants to be nice and lean. Less is more. 
-2.  Immersion is paramount. I'm a lore buff and immersion is very important to me. If a mod is not lore accurate or takes me out of the game in any way it will be excluded. Consistency also falls into this category, if a mod has a completely different aesthetic from Vanilla or any of my other mods then it will probably not be included.
-3.  Mods must have decent longevity. This modlist wants to be somewhat relevant, in theory, forever.
-4.  Stability is the most important thing. This rule basically supersedes all the above. If a mod introduces major stability concerns it will be quickly cut.
-
-You can find a full list of the mods included in Keizaal [here](https://modwat.ch/u/Keizaal/){:target="_blank" rel="noopener"}. If you're still curious about what exactly Keizaal has in store for you, have a look at the overview [here](https://pierredespereaux.github.io/Keizaal/).
-
-# Table of Contents
+## Table of Contents
 - [Setup and Information](#setup-and-information)
   - [Clean Install](#clean-install)
 - [Keizaal Installation](#keizaal-installation)
