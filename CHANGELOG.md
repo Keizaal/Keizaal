@@ -54,7 +54,7 @@
 - Fixed CTD issue in Riften (hopefully)
 - Fixed misc landscape issues
 
-## [4.0.1.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1.1/Keizaal.wabbajack{:target="_blank" rel="noopener"}
+## [4.0.1.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 
 - Fixed Serenity and Tactical Valtheim being excluded from the .wabbajack.
 
@@ -82,7 +82,7 @@
 - Removed Forgotten Retexture Project
 - Fixed CTD issue outside Riften
 
-## [4.0.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.0/Keizaal.wabbajack{:target="_blank" rel="noopener"}
+## [4.0.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 
 - Updated Engine Fixes
 - Updated Dlizzio's Mesh Fixes
