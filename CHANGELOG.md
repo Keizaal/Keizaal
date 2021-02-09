@@ -54,7 +54,7 @@
 - Fixed CTD issue in Riften (hopefully)
 - Fixed misc landscape issues
 
-## 4.0.1.1
+## [4.0.1.1](https://github.com/PierreDespereaux/Keizaal/releases/tag/4.0.1.1)
 
 - Fixed Serenity and Tactical Valtheim being excluded from the .wabbajack.
 
