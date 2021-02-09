@@ -49,7 +49,7 @@ Install the latest version of Wabbajack from its [GitHub page](https://www.githu
 
 Create a new folder called “Wabbajack” in the root of your main drive, the default is (C:). Extract Wabbjack.exe into this folder.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Installing%20Wabbajack.png)
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/1.%20Installing%20Wabbajack.png)
 
 ### Clean Install
 
@@ -69,7 +69,7 @@ Select the Keizaal modlist from the Wabbajack UI.
 
 Once the installation window opens ensure that the “Installation Location” matches the Keizaal folder you just created (default should be C:\Keizaal\). The download location should populate automatically
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Installing%20Keizaal.png)
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/2.%20Installing%20Keizaal.png)
 
 When you’re ready press the triangular start button.
 
@@ -79,7 +79,7 @@ After starting the installation a window will pop up and ask for you to authoriz
 
 Navigate to your Keizaal installation folder (default is C:\Keizaal) and open the “Game Folder Files” folder. This folder contains the list's ENB and all the necessary systems files to ensure Keizaal works properly.
 
-![](https://github.com/PierreDespereaux/Keizaal/blob/main/Images/Installing%20Game%20Folder%20Files.png?raw=true)
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/3.%20Game%20Folder%20Files.png)
 
 Copy everything in it to your Skyrim Special Edition directory (the folder containing SkyrimSE.exe). Keizaal is ready to play!
 
@@ -91,7 +91,7 @@ Navigate back to your Keizaal installation folder and run ModOrganizer.exe.
 
 You should now be on a screen that displays all of your installed mods on the left and all of your plugin files on the right.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Playing%20Keizaal.png)
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/4.%20Playing%20Keizaal.png)
 
 You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the right plugins pane and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
 
@@ -121,13 +121,13 @@ Several mods in Keizaal's Mod Organizer have notes attached to them. If the note
 
 Here is an example of one such note:
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Notes.png)
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/4.%20Playing%20Keizaal.png)
 
 ### BethINI
 
 BethINI is a powerful tool that replaces Skyrim's Vanilla launcher settings menu, you can utilize it to tweak the game's settings. In order to use it, select it from the dropdown in the top right-hand corner of Mod Organizer, then start it the same way you'd launch Skyrim. 
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/BethINI.PNG)
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/6.%20BethINI.png)
 
 After you have launched BethINI, be sure to **close Mod Organizer before you change any settings**!
 
@@ -206,7 +206,7 @@ BethINI can handle the majority of tweaks that you would generally want to make.
 
 For ease-of-use I have placed all the custom .inis for every mod in Keizaal within a mod called "Keizaal Settings" at the bottom of Mod Organizer.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/Images/Keizaal%20Settings.png)
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/7.%20Keizaal%20Settings.png)
 
 ______________________________________________________________________________________________________________________________________________________________________
 
