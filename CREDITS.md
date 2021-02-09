@@ -1,3 +1,5 @@
+# Credits
+
 **VictorF** for his constant support and helpful criticism regarding both Keizaal and my own mods
 
 **Simon Magus** for tolerating my constant badgering about my load order
