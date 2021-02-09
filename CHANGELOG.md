@@ -32,7 +32,7 @@
 - Fixed missing properties in a few quests around Whiterun
 - Fixed dark af lighting.
 
-## [4.0.2.1]
+## 4.0.2.1
 
 - Added Practical Pirate Armor
 - Added Practical Pirate Armor Distribution
