@@ -1,6 +1,6 @@
 # Changelog
 
-## [4.0.2.4](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.4/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+## [4.0.2.4](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.4/Keizaal.wabbajack)
 
 - Updated More Craftable Equipment
 - Updated Blade and Blunt
@@ -15,7 +15,7 @@
 - Added PraedythXVI's ENB Light Staves
 - Fixed "Running Wild" quest in Whiterun, previously it was broken and uncompletable
 
-## [4.0.2.3](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.3/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+## [4.0.2.3](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.3/Keizaal.wabbajack)
 
 - Updated Assorted Mesh Fixes
 - Added No Sunlight Through Mountains
@@ -24,7 +24,7 @@
 - Added Iconic's Saerek and Torsten Skull Key
 - Fixed the Riften Crash
 
-## [4.0.2.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+## [4.0.2.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.2/Keizaal.wabbajack)
 
 - Updated Assorted Mesh Fixes
 - Added Morrowind Threads - A Netch Leather Integration Mod
@@ -39,7 +39,7 @@
 - Removed Simple Weapon Parrying due to CTD issues
 - Fixed mesh issues with Light Thalmor Armor
 
-## [4.0.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+## [4.0.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2/Keizaal.wabbajack)
 
 - Updated Cathedral HMB
 - Updated Markarth - A Mountainous Experience
@@ -54,11 +54,11 @@
 - Fixed CTD issue in Riften (hopefully)
 - Fixed misc landscape issues
 
-## [4.0.1.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+## [4.0.1.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1.1/Keizaal.wabbajack)
 
 - Fixed Serenity and Tactical Valtheim being excluded from the .wabbajack.
 
-## [4.0.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+## [4.0.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1/Keizaal.wabbajack)
 
 - Updated po3's Papyrus Extender
 - Updated moreHUD
@@ -82,7 +82,7 @@
 - Removed Forgotten Retexture Project
 - Fixed CTD issue outside Riften
 
-## [4.0.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+## [4.0.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.0/Keizaal.wabbajack)
 
 - Updated Engine Fixes
 - Updated Dlizzio's Mesh Fixes
