@@ -4,9 +4,14 @@ description: Keizaal is a simple modlist that seeks to enhance and expand on Sky
 show_downloads: true
 wabbajack:
   wabbajack_url: https://www.wabbajack.org/#/
+github:
+  modlistrelases_url: https://github.com/PierreDespereaux/Keizaal/releases
+  modlist_url: https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.4/Keizaal.wabbajack
 pages:
   mainpage_url: https://pierredespereaux.github.io/Keizaal/
   installationguide_url: https://pierredespereaux.github.io/Keizaal/INSTALLATIONGUIDE.html
   troubleshooting_url: https://pierredespereaux.github.io/Keizaal/TROUBLESHOOTING.html
   changelog_url: https://pierredespereaux.github.io/Keizaal//CHANGELOG.html
   credits_url: https://pierredespereaux.github.io/Keizaal/CREDITS.html
+reshade:
+  license:
