@@ -1,4 +1,4 @@
-# Overview
+# Keizaal - A Simple Modlist
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/Keizaal%20Banner.png)
 
