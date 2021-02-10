@@ -1,5 +1,7 @@
 theme: jekyll-theme-dinky
 title: Keizaal
+description: A Simple Modlist
+show_downloads: true
 wabbajack:
   wabbajack_url: https://www.wabbajack.org/#/
 pages:
