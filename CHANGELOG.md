@@ -1,5 +1,22 @@
 # Changelog
 
+## [4.0.2.5](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.5/Keizaal.wabbajack)
+
+- Updated Radiant Requiremnets
+- Updated OnHit Animations Framework
+- Updated Adamant
+- Updated Aetherius
+- Updated Mundus
+- Added Project Clarity - Landscapes
+- Added Vanilla NPCS SSE Ruhmastered
+- Added Tempered Skins for Males and Females
+- Added Coverkhajiits
+- Added Enhanced Vanilla Trees
+- Added Red Mountain Volcano - Tamriel's Natural Wonder
+- Removed Ashbringer
+- Removed Cathedral - Humans, Mer, and Beastfolk
+- Removed various graphics mods in preperation for graphical rework
+
 ## [4.0.2.4](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.4/Keizaal.wabbajack)
 
 - Updated More Craftable Equipment
@@ -32,7 +49,7 @@
 - Fixed missing properties in a few quests around Whiterun
 - Fixed dark af lighting.
 
-## 4.0.2.1
+## [4.0.2.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.1/Keizaal.wabbajack)
 
 - Added Practical Pirate Armor
 - Added Practical Pirate Armor Distribution
