@@ -1,5 +1,3 @@
-# Keizaal
-
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/Keizaal%20Banner.png)
 
 ## Preamble
