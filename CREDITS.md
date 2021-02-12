@@ -1,3 +1,6 @@
+
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png)
+
 # Credits
 
 ![](https://cdn.discordapp.com/avatars/362250920786132993/06571be48b5f295302e4e71e8e03e8d6.png?size=128) 
