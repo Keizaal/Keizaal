@@ -3,6 +3,29 @@
 
 # Changelog
 
+## [4.0.3](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.3/Keizaal.wabbajack)
+
+- Added Iconic's Windcaller Tomb and Horn
+- Added Whiterun - Skyforge Reforged
+- Added Skyrim 3D Plants
+- Added Superior Lore-Friendly Hairs
+- Added Mild Hair Colors
+- Added Beards
+- Added Improved Short Hair
+- Added True Faces
+- Added Natural Teeth
+- Added Improved Eye Reflections
+- Added Natural Eyes High Res
+- Added Brows
+- Added Dwemer Gates Don't Reset
+- Added Scathcaw HD
+- Added Skygazer Moons
+- Added Deathbell HD
+- Added Paragon of Mannimaro
+- Added Better Windhelm Ground Meshes
+- Iconic's Gray Fox Bust
+- Added Horses for Followers
+
 ## [4.0.2.5](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.5/Keizaal.wabbajack)
 
 - Updated Radiant Requiremnets
