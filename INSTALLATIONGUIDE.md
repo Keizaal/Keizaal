@@ -106,6 +106,10 @@ BethINI is a powerful tool that replaces Skyrim's Vanilla launcher settings menu
 
 After you have launched BethINI, be sure to **close Mod Organizer before you change any settings**!
 
+Alternatively, you can manually edit your base game's .ini files. You can do so by navigating to the top of Mod Organizer, clicking on the puzzle piece, then selecting ".ini Editor".
+
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/7.%20Manual%20.inis.png)
+
 ## Updating
 
 If this Modlist receives an update, please check the changelog before doing anything. Always backup your saves or start a new game after updating.
