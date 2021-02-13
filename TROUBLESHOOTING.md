@@ -33,7 +33,7 @@ BethINI can handle the majority of tweaks that you would generally want to make.
 
 In order to manually edit the .inis you will first need to find the "Keizaal Settings" mod in the left pane of Mod Organizer. It should be near the bottom. Once you find it, right click on it and select "Information.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/78.%20Keizaal%20Settings.png)
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/8.%20Keizaal%20Settings.PNG)
 
 Once you have have that a window should pop up. Once that window appears select the ".ini Files" tab at the top.
 
