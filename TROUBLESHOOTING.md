@@ -1,8 +1,6 @@
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png)
 
-# Troubleshooting
-
 ### "*Wabbajack throws an error after authorizing through Nexus.*"
 
 Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkId=2085155). Be sure to restart your computer afterward.
@@ -42,6 +40,6 @@ For ease-of-use I have placed all the custom .inis for every mod in Keizaal with
 ______________________________________________________________________________________________________________________________________________________________________
 
 
-Contact Pierre Despereaux on either the [Wabbajack](https://discordapp.com/invite/wabbajack){:target="_blank" rel="noopener"} or [Keizaal](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} Discord server for individual help and guidance. If you make modifications to Keizaal, you do so at your own risk. No support will be provided.
+Contact Pierre Despereaux on the [Keizaal Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} for individual help and guidance. If you make modifications to Keizaal, you do so at your own risk. No support will be provided.
 
 Please note that manual installations are **NOT SUPPORTED**. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone's time.
