@@ -108,7 +108,7 @@ After you have launched BethINI, be sure to **close Mod Organizer before you cha
 
 Alternatively, you can manually edit your base game's .ini files. You can do so by navigating to the top of Mod Organizer, clicking on the puzzle piece, then selecting ".ini Editor".
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/7.%20Manual%20.inis.png)
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/7.%20Manual%20.inis.PNG)
 
 ## Updating
 
