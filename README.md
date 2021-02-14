@@ -1,7 +1,7 @@
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png)
 
-## Preamble
+# Preamble
 
 Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. The following are the core pillars of this list:
 
@@ -14,7 +14,7 @@ You can find a full list of the mods included in Keizaal [here](https://modwat.c
 
 If you're still curious about what Keizaal has in store for you, I have provided a brief overview below.
 
-## Essentials
+# Essentials
 
 ![Keizaal 2.5.0](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/overview/1.%20Essentials%20Banner.png)
 
@@ -26,7 +26,7 @@ I like to cater to a lot of different people who want to play the game in differ
 
 Lastly I have a short list of miscellaneous mods I wanted to talk about in this section. [BlockSteal](https://www.nexusmods.com/skyrimspecialedition/mods/18732){:target="_blank" rel="noopener"} prevents the player from stealing any object unless they are actively sneaking, this is a very nice how to prevent you from accidentally stealing some bread in front of the bartender and immediately getting arrested. [GIST - Genuinely Intelligent Soul Trap](https://www.nexusmods.com/skyrimspecialedition/mods/15755){:target="_blank" rel="noopener"} improves the logic that the game uses when deciding which soul gem to place the soul you captured in, no longer will you have a bunch of Grand Soul Gems with Skeever souls. [To Your Face](https://www.nexusmods.com/skyrimspecialedition/mods/24720){:target="_blank" rel="noopener"} adjusts NPC behavior so they won't blurt out random comments while you pass them in the street unless you're directly facing them.
 
-## Graphics
+# Graphics
 
 ![Keizaal 3.0.0](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/overview/2.%20Graphics%20Banner.png)
 
@@ -38,7 +38,7 @@ Good lighting is the key to sell anything graphical. You can have the prettiest 
 
 Besides for the mods listed above Gamwich's [Rustic](https://www.nexusmods.com/skyrimspecialedition/search/?BH=0&RH_ModList=nav:true,home:false,type:0,user_id:0,game_id:1704,advfilt:true,search%5Bfilename%5D:Rustic,search%5Bauthor%5D:Gamwich,include_adult:true,page_size:20,show_game_filter:false,open:true){:target="_blank" rel="noopener"} series covers a large swath of texture replacers alongside other authors such as [FrankFamily](https://www.nexusmods.com/skyrimspecialedition/users/2531318?tab=user+files){:target="_blank" rel="noopener"} and [ElSopa](https://www.nexusmods.com/skyrimspecialedition/users/6960827?tab=user+files){:target="_blank" rel="noopener"}. Nearly all of my water is handled by the wonderful [Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061){:target="_blank" rel="noopener"} by mindflux.
 
-## Gameplay
+# Gameplay
 
 ![Keizaal 3.4.1.2](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/overview/3.%20Gameplay%20Banner.png)
 
@@ -52,7 +52,7 @@ When designing Keizaal I found it important to give the player more choice when 
 
 I have a series of other gameplay mods that are on a much smaller scale. The kings of this category are [EpicCrab](https://www.nexusmods.com/skyrimspecialedition/users/4117328?tab=user+files){:target="_blank" rel="noopener"} (of Lawbringer fame) and [Parapets](https://www.nexusmods.com/skyrimspecialedition/users/39501725?tab=user+files){:target="_blank" rel="noopener"}. Both of these authors have a lot of high quality gameplay mods that make neat little changes that have a big impact. EpicCrab's [Forsworn Skinchangers](https://www.nexusmods.com/skyrimspecialedition/mods/34900){:target="_blank" rel="noopener"} and [Forsworn Gravesingers](https://www.nexusmods.com/skyrimspecialedition/mods/40143){:target="_blank" rel="noopener"} add new enemy types among the Forsworn's ranks; skinchangers are lycanthropes that swear fealty to Hircine and transform into their beastial form when entering combat and gravesingers are power necromancers that use old plant-based Reach magic to bring creatures back from the dead. Both of these new enemy types are really unique and help to really define the Forsworn and the Reach. Parapets specializes in small questline tweaks aimed at bringing more options to how the player tackles certain situations. [Save the Icerunner - Lights Out Alternative Routes](https://www.nexusmods.com/skyrimspecialedition/mods/34681){:target="_blank" rel="noopener"} is probably my favorite mod that he has made. In Vanilla the Lights Out quest was fairly linear and didn't have a path for a good character to take (except not doing the quest) but with this mod you have multiple different ways to tackle the situation, even one that results in the Icerunner successfully making it to port in Solitude! [Thugs Not Assassins](https://www.nexusmods.com/skyrimspecialedition/mods/34028){:target="_blank" rel="noopener"} is another great mod by Parapets that changes Hired Thugs to intimidate you rather that try to kill you, after all they are *not assassins*! There are many other small mods I have from these two authors such as [Improved Companions - Questline Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/22300){:target="_blank" rel="noopener"} and [Contraband Confiscation](https://www.nexusmods.com/skyrimspecialedition/mods/34903){:target="_blank" rel="noopener"}, but I have hit the big mods, I'll let you discover the rest for yourself.
 
-## Miscellaneous
+# Miscellaneous
 
 ![Keizaal 2.5.7](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/overview/4.%20Miscellaneous%20Banner.png)
 
@@ -70,6 +70,6 @@ opusGlass makes a lot of great creature mods, Keizaal includes both [The Falkrea
 
 The last few mods I want to highlight bring some uniqueness to some of Skyrim's reused assets. [Unique Uniques](https://www.nexusmods.com/skyrimspecialedition/mods/3334){:target="_blank" rel="noopener"}, [Book Covers Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/901){:target="_blank" rel="noopener"}, and [Thrones of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/41198){:target="_blank" rel="noopener"} all give items that used generic assets a beautiful makeover. Really just looking at the modpage will tell you everything you need to know. I can't imagine playing Skyrim without these mods.
 
-## Afterword
+# Afterword
 
 I have highlighted only a fraction of the mods available in the list but I do hope this overview gave you a good idea of what to expect when you play Keizaal. If you have any inquiries about the list feel free to @ me on the [Wabbajack](https://discord.gg/wabbajack){:target="_blank" rel="noopener"} or [Keizaal](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} Discord Servers, I'll do my best to help you out. I hope you enjoy my modlist!
