@@ -1,6 +1,42 @@
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png)
 
+## [4.0.4](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.4/Keizaal.wabbajack)
+
+- Updated CHADD Uncapper
+- Updated Blade and Blunt
+- Updated Real Rabbits HD
+- Updated Flinching
+- Updated Cathedral 3D Pine Grass
+- Updated Landscape Fixes for Grass Mods
+- Updated Rodryk's Dragon Bridge
+- Added UHD - Argonian Khajiit and Human Eyes
+- Added Argonian - Khajiit FabULook Eyes
+- Added SUEMR Eyes
+- Added Kala's Eyes
+- Added Eye Normal Map Fix
+- Added Delphine's Map Reveals Dragon Mounds
+- Added Round Farmhouse Posts
+- Added Solstheim Lighthouse Interior
+- Added Northborn Scars
+- Added High Res Warpaint and Dirtmaps for Men
+- Added PAINTERLY - a High Res Vanilla Warpaint Retexture
+- Added Vanilla Body with UNP Textures
+- Added Cloaks and Capes
+- Added HDT-SMP
+- Added Artesian Cloaks of Skyrim
+- Added Halted Stream Mine
+- Added Delphine Makeover
+- Added Real Snow and Ice
+- Added R3 Farmhouses
+- Added Iconic's Paragon Gems
+- Added Cloaks and Capes Consistency Patch
+- Added Complete Widescreen Fixes
+- Manually compared various texture mods and kitbashed textures for Whiterun, Riften, the College, farmhouses, can Cities of the North Holds. Markarth and Windhelm will remain unchanged. Solitude and misc architecture is currently being reviewed.
+- Removed Nordic Snow
+- Removed Dynamic Sun Shadows
+- Removed Dynamic Mountain Fog
+
 ## [4.0.3](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.3/Keizaal.wabbajack)
 
 - Added Iconic's Windcaller Tomb and Horn
