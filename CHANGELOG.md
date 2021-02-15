@@ -1,7 +1,7 @@
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png)
 
-## [4.0.4](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.4/Keizaal.wabbajack)
+### [4.0.4](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.4/Keizaal.wabbajack)
 
 - Updated CHADD Uncapper
 - Updated Blade and Blunt
@@ -37,7 +37,7 @@
 - Removed Dynamic Sun Shadows
 - Removed Dynamic Mountain Fog
 
-## [4.0.3](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.3/Keizaal.wabbajack)
+### [4.0.3](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.3/Keizaal.wabbajack)
 
 - Added Iconic's Windcaller Tomb and Horn
 - Added Whiterun - Skyforge Reforged
@@ -77,7 +77,7 @@
 - Removed Cathedral - Humans, Mer, and Beastfolk
 - Removed various graphics mods in preperation for graphical rework
 
-### [4.0.2.4](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.4/Keizaal.wabbajack)
+#### [4.0.2.4](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.4/Keizaal.wabbajack)
 
 - Updated More Craftable Equipment
 - Updated Blade and Blunt
@@ -92,7 +92,7 @@
 - Added PraedythXVI's ENB Light Staves
 - Fixed "Running Wild" quest in Whiterun, previously it was broken and uncompletable
 
-### [4.0.2.3](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.3/Keizaal.wabbajack)
+#### [4.0.2.3](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.3/Keizaal.wabbajack)
 
 - Updated Assorted Mesh Fixes
 - Added No Sunlight Through Mountains
@@ -101,7 +101,7 @@
 - Added Iconic's Saerek and Torsten Skull Key
 - Fixed the Riften Crash
 
-### [4.0.2.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.2/Keizaal.wabbajack)
+#### [4.0.2.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.2/Keizaal.wabbajack)
 
 - Updated Assorted Mesh Fixes
 - Added Morrowind Threads - A Netch Leather Integration Mod
@@ -109,14 +109,14 @@
 - Fixed missing properties in a few quests around Whiterun
 - Fixed dark af lighting.
 
-### [4.0.2.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.1/Keizaal.wabbajack)
+#### [4.0.2.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.1/Keizaal.wabbajack)
 
 - Added Practical Pirate Armor
 - Added Practical Pirate Armor Distribution
 - Removed Simple Weapon Parrying due to CTD issues
 - Fixed mesh issues with Light Thalmor Armor
 
-## [4.0.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2/Keizaal.wabbajack)
+### [4.0.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2/Keizaal.wabbajack)
 
 - Updated Cathedral HMB
 - Updated Markarth - A Mountainous Experience
@@ -131,11 +131,11 @@
 - Fixed CTD issue in Riften (hopefully)
 - Fixed misc landscape issues
 
-### [4.0.1.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1.1/Keizaal.wabbajack)
+#### [4.0.1.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1.1/Keizaal.wabbajack)
 
 - Fixed Serenity and Tactical Valtheim being excluded from the .wabbajack.
 
-## [4.0.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1/Keizaal.wabbajack)
+### [4.0.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1/Keizaal.wabbajack)
 
 - Updated po3's Papyrus Extender
 - Updated moreHUD
