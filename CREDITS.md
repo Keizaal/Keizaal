@@ -48,3 +48,35 @@
 ![](https://cdn.discordapp.com/icons/232168805038686208/2273d95710a760db58c52c675368b325.png?size=128)
 
 The wonderful **mod authors** for making this modlist possible
+
+# Deyra - $10 Patrons
+
+Huntears
+
+![](https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/39326879/f7548d1234364695bbfb96804fa5abad/1.jpeg?token-time=2145916800&token-hash=fbwATh21JsEZNSitq9G8dkl9phXVdaIHBXA5oG_Toz4%3D)
+
+Dave Coleman
+
+![](https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/584051/1a6aec8ba88c47db9653e9d5b29f6354/1.jpg?token-time=2145916800&token-hash=bq2poXGDJtJsawiXMNF5OaTNUEpALHdE-v4gqPTIGLo%3D)
+
+# Dovah - $5 Patrons
+
+-
+
+# Joor - $1 Patrons
+
+Seb Fry
+
+![](https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/50665745/999fed3a231c4fbebc3e81c117101093/1.jpeg?token-time=2145916800&token-hash=Yf3Pfmkb9BSmniUYmkD2CAcjA5Em7sFqkbkqDlGVGD0%3D)
+
+Ryley Larson
+
+![](https://c8.patreon.com/2/200/14965472)
+
+GR
+
+![](https://c8.patreon.com/2/200/13042021)
+
+Aosana
+
+![](https://c10.patreonusercontent.com/3/eyJ3IjoyMDB9/patreon-media/p/user/42772585/de0a67ef33d14c10868f89a350870495/1.png?token-time=2145916800&token-hash=o8MUUbuYcT--qxl7EQlr69KXXJxH90lGDIspWkSdOFw%3D)
