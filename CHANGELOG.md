@@ -60,7 +60,7 @@
 - Iconic's Gray Fox Bust
 - Added Horses for Followers
 
-### [4.0.2.5](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.5/Keizaal.wabbajack)
+#### [4.0.2.5](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.5/Keizaal.wabbajack)
 
 - Updated Radiant Requiremnets
 - Updated OnHit Animations Framework
