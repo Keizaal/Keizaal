@@ -1,6 +1,17 @@
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png)
 
+#### [4.0.4.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.4.1/Keizaal.wabbajack)
+
+- Updated R.A.S.S
+- Updated Iconic's Paragon Gems
+- Added More Lights for ENB - Paragon Gems
+- Added FusaFusa
+- Add Project Clarity AIO
+- Removed individual Project Clarity modules
+- Removed Better Bears
+- Fixed Godawful LODs
+
 ### [4.0.4](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.4/Keizaal.wabbajack)
 
 - Updated CHADD Uncapper
