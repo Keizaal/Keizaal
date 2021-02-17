@@ -35,7 +35,7 @@ In order to manually edit the .inis you will first need to find the "Keizaal Set
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/8.%20Keizaal%20Settings.PNG)
 
-Once you have have that a window should pop up. Once that window appears select the ".ini Files" tab at the top.
+Once you have done that a window should pop up. Once that window appears select the ".ini Files" tab at the top.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/9.%20Navigate%20to%20.inis.PNG)
 
