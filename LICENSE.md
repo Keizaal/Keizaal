@@ -19,12 +19,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
----
-
-Addendum
-
-While the license above allows open distribution and modification, the following courtesies are requested:
-
-- If you use assets from this software in your own software, please release it with the same or similar open-source license if possible.
-- Please do not distribute assets from this software commercially without permission from me first.
