@@ -1,6 +1,34 @@
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png)
 
+### [4.0.5](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.5/Keizaal.wabbajack)
+
+- Updated Iconic's Paragon Gems
+- Updated Extended Encounters
+- Updated Assorted Mesh Fixes
+- Updated Guard Dialogue Overhaul
+- Updated Project Clarity
+- Added Rudy HQ - More Lights for ENB
+- Added Particle Lights for ENB - Bugs in a Jar
+- Added ENB Particle Lights - Dwemer Lanterns
+- Added Iconic's Moon Crest
+- Added Masks of the Dovah Sonaak
+- Added Particle Lights for ENB - Paragon Gems
+- Added HD Skeevers
+- Added HD Highland Cow
+- Added HD Goat
+- Added Alchemist's Cookbook
+- Added Mesh Patch for Various Mods
+- Added Unofficial Material Fix
+- Added Bandit Brawlers
+- Added Cross and Jab
+- Added Cross and Jab Speed Fix
+- Removed Diverse Skyrim
+- Fixed some shields not appearing on back
+- Fixed Lost Legends not triggering correctly
+- Fixed the Battle of Whiterun (Imperial) not progressing correctly
+- Fixed some holes
+
 #### [4.0.4.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.4.1/Keizaal.wabbajack)
 
 - Updated R.A.S.S
