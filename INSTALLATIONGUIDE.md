@@ -22,21 +22,21 @@ Keizaal takes up 188GB of hard drive space (114GB installation with 74GB of down
 
 Install the latest version of Wabbajack from its [GitHub page](https://www.github.com/wabbajack-tools/wabbajack/releases/latest){:target="_blank" rel="noopener"}.
 
-Create a new folder called “Wabbajack” in a location **outside of the program folders**. Extract Wabbjack.exe into this folder.
+Create a new folder called “Wabbajack” in a location **outside of the Program Files**. Extract Wabbjack.exe into this folder.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/1.%20Installing%20Wabbajack.png)
 
 ### Clean Install
 
-To completely reinstall Skyrim, it is advised that you use the [Skyrim Shredder](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=113028&game_id=1704){:target="_blank" rel="noopener"} tool to completely delete the game. It will remove Skyrim and data related to it, but not the modlist.
+To completely reinstall Skyrim, it is advised that you use the [Skyrim Shredder](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=113028&game_id=1704){:target="_blank" rel="noopener"}. It will remove Skyrim and all data related to it, but not the modlist.
 
-Reinstall Skyrim in a location **outside of the program folders**. If you have issues reinstalling Skyrim outside of Program Files, try using the [Steam Library Setup Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide){:target="_blank" rel="noopener"}.
+Reinstall Skyrim in a location **outside of the Program Files**. If you have issues reinstalling Skyrim outside of Program Files, try using the [Steam Library Setup Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide){:target="_blank" rel="noopener"}.
 
 Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
 
 ## Keizaal Installation
 
-Create a new folder called “Keizaal” in a location **outside of the program folders**.
+Create a new folder called “Keizaal” in a location **outside of the Program Files**.
 
 Open Wabbajack.exe, it should be in the Wabbajack folder in the root of your main drive.
 
