@@ -24,7 +24,7 @@ Keizaal takes up 188GB of hard drive space (114GB installation with 74GB of down
 
 Please note that automated downloads from Nexus are only available through Wabbajack with an active premium membership. If you do not have a premium membership, Wabbajack will prompt you to manually download the necessary files.
 
-Support for installing Keizaal manually is **NOT OFFERED**. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone’s time.
+Support for manual installations is **NOT OFFERED**. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone’s time.
 
 ## Setup
 
