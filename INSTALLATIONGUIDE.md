@@ -22,7 +22,7 @@ Keizaal takes up 188GB of hard drive space (114GB installation with 74GB of down
 
 Install the latest version of Wabbajack from its [GitHub page](https://www.github.com/wabbajack-tools/wabbajack/releases/latest){:target="_blank" rel="noopener"}.
 
-Create a new folder called “Wabbajack” in the root of your main drive, the default is (C:). Extract Wabbjack.exe into this folder.
+Create a new folder called “Wabbajack” in a location **outside of the program folders**. Extract Wabbjack.exe into this folder.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/1.%20Installing%20Wabbajack.png)
 
@@ -30,19 +30,19 @@ Create a new folder called “Wabbajack” in the root of your main drive, the d
 
 To completely reinstall Skyrim, it is advised that you use the [Skyrim Shredder](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=113028&game_id=1704){:target="_blank" rel="noopener"} tool to completely delete the game. It will remove Skyrim and data related to it, but not the modlist.
 
-Reinstall Skyrim in the root of your main drive, the default is (C:). **It MUST NOT be installed in the Program Files folder**.
+Reinstall Skyrim in a location **outside of the program folders**. If you have issues reinstalling Skyrim outside of Program Files, try using the [Steam Library Setup Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide){:target="_blank" rel="noopener"}.
 
 Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
 
 ## Keizaal Installation
 
-Create a new folder called “Keizaal” in the root of your main drive, the default is (C:).
+Create a new folder called “Keizaal” in a location **outside of the program folders**.
 
 Open Wabbajack.exe, it should be in the Wabbajack folder in the root of your main drive.
 
 Select the Keizaal modlist from the Wabbajack UI.
 
-Once the installation window opens ensure that the “Installation Location” matches the Keizaal folder you just created (default should be C:\Keizaal\). The download location should populate automatically
+Once the installation window opens ensure that the “Installation Location” matches the Keizaal folder you just created. The download location should populate automatically
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/2.%20Installing%20Keizaal.png)
 
@@ -52,7 +52,7 @@ After starting the installation a window will pop up and ask for you to authoriz
 
 ### Copying the Game Folder Files
 
-Navigate to your Keizaal installation folder (default is C:\Keizaal) and open the “Game Folder Files” folder. This folder contains the list's ENB and all the necessary systems files to ensure Keizaal works properly.
+Navigate to your Keizaal installation folder and open the “Game Folder Files” folder. This folder contains the list's ENB and all the necessary systems files to ensure Keizaal works properly.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/3.%20Game%20Folder%20Files.png)
 
