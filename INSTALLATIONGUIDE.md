@@ -3,6 +3,7 @@
 
 # Table of Contents
 - [Information](#information)
+
 - [Setup](#setup)
   - [Clean Install](#clean-install)
 - [Keizaal Installation](#keizaal-installation)
