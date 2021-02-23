@@ -35,7 +35,7 @@ The mod Movement Behavior Overhaul will cause animations to break if the framera
 
 BethINI can handle the majority of tweaks that you would generally want to make. However, some of the more niche settings may be handled by .inis that BethINI can't edit. These will need to be edited manually.
 
-In order to manually edit the .inis you will first need to find the "Keizaal Settings" mod in the left pane of Mod Organizer. It should be near the bottom. Once you find it, right click on it and select "Information.
+In order to manually edit the .inis you will first need to find the "Keizaal Settings" mod in the left pane of Mod Organizer. It should be near the bottom. Once you find it, right click on it and select "Information".
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/8.%20Keizaal%20Settings.PNG)
 
@@ -46,6 +46,8 @@ Once you have done that a window should pop up. Once that window appears select 
 You should now see a list of all the .ini files present in Keizaal. You can edit and save these settings from this interface.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/10.%20Edit%20.inis.PNG)
+
+Some configuration settings may be stored in a non-.ini format. If that is the case you can edit them through the "Text Files" tab.
 ______________________________________________________________________________________________________________________________________________________________________
 
 
