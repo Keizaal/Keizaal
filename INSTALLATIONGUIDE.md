@@ -16,9 +16,15 @@
 - [Updating](#updating)
   - [Semantic Versioning](#semantic-versioning)
 
-## Setup and Information
+## Information
 
 Keizaal takes up 188GB of hard drive space (114GB installation with 74GB of downloads) and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance, but a standard hard disk drive will suffice. This modlist was developed on a computer running [these specs](https://pcpartpicker.com/list/3ygt4d){:target="_blank" rel="noopener"}, on this system a stable and consistent 50 - 60 FPS is the norm. Your mileage may vary, there is nothing I can do if you experience poor performance.
+
+Please note that automated downloads from Nexus are only available through Wabbajack with an active premium membership. If you do not have a premium membership, Wabbajack will prompt you to manually download the necessary files.
+
+Support for installing Keizaal manually is **NOT OFFERED**. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone’s time.
+
+## Setup
 
 Install the latest version of Wabbajack from its [GitHub page](https://www.github.com/wabbajack-tools/wabbajack/releases/latest){:target="_blank" rel="noopener"}.
 
@@ -38,9 +44,7 @@ Run the Skyrim: Special Edition launcher through Steam and let it detect your se
 
 Create a new folder called “Keizaal” in a location **outside of the Program Files**.
 
-Open Wabbajack.exe, it should be in the Wabbajack folder in the root of your main drive.
-
-Select the Keizaal modlist from the Wabbajack UI.
+Open Wabbajack.exe and select the Keizaal modlist from the Wabbajack UI.
 
 Once the installation window opens ensure that the “Installation Location” matches the Keizaal folder you just created. The download location should populate automatically
 
