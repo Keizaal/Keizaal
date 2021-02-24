@@ -1,6 +1,8 @@
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png)
 
+---
+
 ![](https://cdn.discordapp.com/avatars/362250920786132993/06571be48b5f295302e4e71e8e03e8d6.png?size=128) 
 
 **VictorF** for his constant support and helpful criticism regarding both Keizaal and my own mods
