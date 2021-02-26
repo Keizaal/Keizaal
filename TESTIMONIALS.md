@@ -11,7 +11,7 @@
 
 [<img src="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/testimonials/4.PNG">](https://discord.com/channels/678433649430888448/678433650865602602/813309977024004138)
 
-[<img src="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/testimonials/5.PNG>](https://discord.com/channels/678433649430888448/678433650865602602/801861354755588166)
+[<img src="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/testimonials/5.PNG">](https://discord.com/channels/678433649430888448/678433650865602602/801861354755588166)
 
 [<img src="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/testimonials/6.PNG">](https://discord.com/channels/678433649430888448/678433650865602602/810551495485030431)
 
