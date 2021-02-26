@@ -36,6 +36,7 @@
 - Added Dragonborn Presence
 - Removed Bugfix Compilation
 - Removed Improved Close-faced Helmets
+- Removed Voltage - Violet Victory
 - Fixed invisible helmets from aMidianBorn Content Addon
 - Fixed Capital Whiterun Expansion's Courier from following you around and not giving you and mail
 - Fixed texture issues with Vampire Armor
