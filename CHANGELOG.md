@@ -3,6 +3,45 @@
 
 ---
 
+### [4.0.6](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6/Keizaal.wabbajack)
+
+- Updated Dlizzio's Mesh Fixes
+- Updated High Poly Sweet Roll
+- Updated Script-free Flinching
+- Updated Mod Organizer 2
+- Updated Horses for Followers
+- Updated Scarecrows of Skyrim
+- Updated Adamant
+- Updated Capital Windhelm Expansion
+- Added Iconic's Blackreach Crystals
+- Added Iconic's Moon Crests
+- Add Mari's Flora
+- Added Nordic Snow
+- Added Thunderbolt
+- Added Sensible Draugr Speech Zone Restrictions
+- Added Northern Ice
+- Added Skyrim Textures Redone - Skyhaven Temple
+- Added Remiros' Fort Dawnguard
+- Added Remiro's Castle Volkihar
+- Added Ancient Dwemer Metal
+- Added Arri's Snow Elf Ruins
+- Added Rally's Solstheim Plants
+- Added The Halls of the Greybeards
+- Added Chris2021's Whiteurn
+- Added Skyrim 3D High Hrothgar Steps
+- Added Skyrim Landscape Overhaul - Stone Walls
+- Added Engorged Robber's Gorge
+- Added WiZkiD's Pinewatch
+- Added No Crime Teleport
+- Added Dragonborn Presence
+- Removed Bugfix Compilation
+- Removed Improved Close-faced Helmets
+- Fixed invisible helmets from aMidianBorn Content Addon
+- Fixed Capital Whiterun Expansion's Courier from following you around and not giving you and mail
+- Fixed texture issues with Vampire Armor
+- Fixed floating bird nest at Peryite's Shrine
+
+
 ### [4.0.5](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.5/Keizaal.wabbajack)
 
 - Updated Iconic's Paragon Gems
