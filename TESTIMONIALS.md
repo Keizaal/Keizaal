@@ -14,3 +14,5 @@
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/testimonials/5.PNG)
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/testimonials/6.PNG)
+
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/testimonials/7.PNG)
