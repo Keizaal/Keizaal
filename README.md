@@ -74,4 +74,4 @@ The last few mods I want to highlight bring some uniqueness to some of Skyrim's 
 
 # Afterword
 
-I have highlighted only a fraction of the mods available in the list but I do hope this overview gave you a good idea of what to expect when you play Keizaal. If you have any inquiries about the list feel free to @ me on the [Keizaal Discord Server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"}, I'll do my best to help you out. I hope you enjoy my modlist!
+I have highlighted only a fraction of the mods available in the list but I do hope this overview gave you a good idea of what to expect when you play Keizaal. If you have any inquiries about the list feel free to @ me on [my community Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"}, I'll do my best to help you out. I hope you enjoy my modlist!

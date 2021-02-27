@@ -3,6 +3,12 @@
 
 ---
 
+#### [4.0.6.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6.1/Keizaal.wabbajack)
+
+- Updated Mysticism
+- Regenned LODs
+- Improved performance related to particle lights
+
 ### [4.0.6](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6/Keizaal.wabbajack)
 
 - Updated Dlizzio's Mesh Fixes
@@ -36,6 +42,7 @@
 - Added Dragonborn Presence
 - Removed Bugfix Compilation
 - Removed Improved Close-faced Helmets
+- Removed Voltage - Violet Victory
 - Fixed invisible helmets from aMidianBorn Content Addon
 - Fixed Capital Whiterun Expansion's Courier from following you around and not giving you and mail
 - Fixed texture issues with Vampire Armor

@@ -29,6 +29,10 @@ Please refer to [this section](https://pierredespereaux.github.io/Keizaal/INSTAL
 
 The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 72 in order to prevent that.
 
+### "*Savegames aren't in My Games.*"
+
+I have moved Skyrim's savegames from their default location to /Mod Organizer 2/profiles/Keizaal/saves in order to better protect them in the case that the Skyrim Shredder needs to be run.
+
 ### "*Skyrim is acting strangely after automatically sorting the load order.*"
 
 **NEVER USE LOOT OR MOD ORGANIZER TO AUTOMATICALLY SORT YOUR LOAD ORDER!** Keizaal's plugins have been carefully sorted manually in order to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfeit all support I would normally provide until you restore your load order to Keizaal's default. You should be able to restore your load order to default by rerunning Wabbajack.
@@ -50,9 +54,9 @@ You should now see a list of all the .ini files present in Keizaal. You can edit
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/10.%20Edit%20.inis.PNG)
 
 Some configuration settings may be stored in a non-.ini format. If that is the case you can edit them through the "Text Files" tab.
-______________________________________________________________________________________________________________________________________________________________________
 
+---
 
-Contact Pierre Despereaux on the [Keizaal Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} for individual help and guidance. If you make modifications to Keizaal, you do so at your own risk. No support will be provided.
+Contact Pierre Despereaux on [my community Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} for individual help and guidance. If you make modifications to Keizaal, you do so at your own risk. No support will be provided.
 
 Please note that manual installations are **NOT SUPPORTED**. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone's time.
