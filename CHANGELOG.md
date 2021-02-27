@@ -3,6 +3,12 @@
 
 ---
 
+#### [4.0.6.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6.1/Keizaal.wabbajack)
+
+- Updated Mysticism
+- Regenned LODs
+- Improved performance related to particle lights
+
 ### [4.0.6](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6/Keizaal.wabbajack)
 
 - Updated Dlizzio's Mesh Fixes
