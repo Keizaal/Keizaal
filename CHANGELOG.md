@@ -3,6 +3,13 @@
 
 ---
 
+#### [4.0.6.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6.2/Keizaal.wabbajack)
+
+- Removed Project Clarity AIO
+- Removed aMidianBorn Book of Silence AIO
+- Added individual unpacked Project Clarity modules
+- Added individual unpacked aMidianBorn Book of Silence Modules
+
 #### [4.0.6.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6.1/Keizaal.wabbajack)
 
 - Updated Mysticism
