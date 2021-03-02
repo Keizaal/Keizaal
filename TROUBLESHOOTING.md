@@ -31,7 +31,7 @@ The mod Movement Behavior Overhaul will cause animations to break if the framera
 
 ### "*Savegames aren't in My Games.*"
 
-I have moved Skyrim's savegames from their default location to /Mod Organizer 2/profiles/Keizaal/saves in order to better protect them in the case that the Skyrim Shredder needs to be run.
+I have moved Skyrim's savegames from their default location to "/Mod Organizer 2/profiles/Keizaal/saves" in order to better protect them in the case that the Skyrim Shredder needs to be run.
 
 ### "*Skyrim is acting strangely after automatically sorting the load order.*"
 
