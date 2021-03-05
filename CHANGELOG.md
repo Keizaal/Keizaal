@@ -3,6 +3,21 @@
 
 ---
 
+#### [4.0.7](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.7/Keizaal.wabbajack)
+
+- Updated Stagger Direction Fix
+- Updated aMidianBorn Armor Variants Lite
+- Updated High Poly Project
+- Added Dynamic Volumetric Lighting and Sun Shadows
+- Added Expanded Silver Weaponry
+- Added Diverse Dragons Collection
+- Added Main Menu Reshaped
+- Added Skyrim Uncapper Fixed
+- Added Non-exploitable Crossbow Reload
+- Added Faster Horse Dismount
+- Added Dwemer Pipe Reworked
+- Removed Alduin's Wall Main Menu Replacer
+
 #### [4.0.6.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6.2/Keizaal.wabbajack)
 
 - Removed Project Clarity AIO
