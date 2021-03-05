@@ -28,7 +28,9 @@ Please note that automated downloads from Nexus are only available through Wabba
 
 Support for manual installations is **NOT OFFERED**. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone’s time.
 
-### In downloading this modlist you are agreeing to obey the following rules concerning Keizaal and Wabbajack in general:
+### Terms of Service
+
+In downloading this modlist you are agreeing to obey the following rules concerning Keizaal and Wabbajack in general:
 
 1. Be a polite participant and respect others. This is a friendly and welcoming place so treat everyone with respect. Excessive cursing or any kind of abuse, hate speech, doxxing or discrimination against others is not welcome. Violators will be warned and repeat offenders will be banned.
 
