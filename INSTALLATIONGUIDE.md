@@ -102,8 +102,6 @@ All of the Mod Configuration Menus menus and .inis in Keizaal have been pre-conf
 
 This following section outlines some additional, optional confiurations. Nothing here is necessary, but it may be of some interest to users who like to tweak.
 
-[ENB and ReShade Manager](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=76937&game_id=1704){:target="_blank" rel="noopener"} is a great tool for easily switching between ENB presets. If you decide against using Keziaal's preset, I recommend this program to easily remove all traces of the preset from your Skyrim directory.
-
 ### Optional Mods
 
 There are a handful of mods that I have included that are disabled by default; these mods aren’t part of the main Keizaal package. If you choose to activate an optional mod, be sure to move the mod's plugin (on the right pane of Mod Organizer) **above all** of the plugins with the "Keizaal" prefix unless otherwise instructed in the mod's notes.
