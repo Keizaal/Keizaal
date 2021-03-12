@@ -80,7 +80,7 @@
 - Updated Guard Dialogue Overhaul
 - Updated Project Clarity
 - Added Rudy HQ - More Lights for ENB
-- Added Particle Lights for ENB - Bugs in a Jar
+- Added Particle Lights for ENB - Bugs in a Jar=
 - Added ENB Particle Lights - Dwemer Lanterns
 - Added Iconic's Moon Crest
 - Added Masks of the Dovah Sonaak
