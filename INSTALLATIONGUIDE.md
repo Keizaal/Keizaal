@@ -12,7 +12,6 @@
   - [Playing Keizaal](#playing-keizaal)
   - [Mod Configuration](#mod-configuration)
 - [Additional Configuration (Optional)](#additional-configuration-optional)
-  - [Switching the ENB](#switching-the-enb)
   - [Optional Mods](#optional-mods)
   - [Mod Notes](#mod-notes)
   - [BethINI](#bethini)
@@ -102,10 +101,6 @@ All of the Mod Configuration Menus menus and .inis in Keizaal have been pre-conf
 ## Additional Configuration (Optional)
 
 This following section outlines some additional, optional confiurations. Nothing here is necessary, but it may be of some interest to users who like to tweak.
-
-### Switching the ENB
-
-Keizaal comes with its own prepackaged ENB preset. If, for whatever reason, you don't want to use this prepackaged preset, I urge you to at least use an ENB that doesn't break imagespace modifiers. I believe any ENB that breaks imagespace modifiers is automatically bad, no matter how pretty it may look.
 
 [ENB and ReShade Manager](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=76937&game_id=1704){:target="_blank" rel="noopener"} is a great tool for easily switching between ENB presets. If you decide against using Keziaal's preset, I recommend this program to easily remove all traces of the preset from your Skyrim directory.
 
