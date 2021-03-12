@@ -3,6 +3,29 @@
 
 ---
 
+#### [4.0.8](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8/Keizaal.wabbajack)
+
+- Updated Dlizzio's Mesh Fixes
+- Updated Papyrus Extender
+- Updated Dwemer Pipework Reworked
+- Updated Project Clarity - Effects
+- Added Iconic Statues
+- Added Companions Werewolf Bloodritual Scene Tweak
+- Added Andrealphus' Tweaks - Locket of Saint Jiub - Clothing
+- Added Andrealphus' Tweaks - Feed Rabbits
+- Added Andrealphus' Tweaks - Exploits Fixes
+- Added Andrealphus' Tweaks - Solitude Catacombs
+- Added Spell Perk Item Distributor
+- Added Fixed Vanilla Run and Sprint Animations
+- Added Dialogue Interface Reshaped
+- Added Stunning Statues of Skyrim
+- Added Super Fast Get Up Animation
+- Added Dwemer aMidianBorn Dwemer Armory
+- Added Mainland Stalhrim
+- Added Faction - Pit Fighter
+- Added Faction - Pit Fighter Revamped
+- Moved to the "Stock Game" implementation. The Game Folder Files step of installation is no longer necessary.
+
 #### [4.0.7](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.7/Keizaal.wabbajack)
 
 - Updated Stagger Direction Fix
