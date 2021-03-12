@@ -83,7 +83,7 @@ When you’re ready press the triangular start button.
 
 After starting the installation a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log into and authorize Wabbajack on Nexus and the installation will proceed. Wabbajack will now install the modlist, this will take a while so be patient. When Wabbajack is finished, the left panel should say "Installation Complete". Keizaal is ready to play!
 
-## Playing Keizaal
+### Playing Keizaal
 
 Now that Keizaal has been installed you will need to launch Skyrim in a slightly different way.
 
