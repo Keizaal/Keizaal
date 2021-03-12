@@ -100,7 +100,7 @@ All of the Mod Configuration Menus menus and .inis in Keizaal have been pre-conf
 
 ## Additional Configuration (Optional)
 
-This following section outlines some additional, optional confiurations. Nothing here is necessary, but it may be of some interest to users who like to tweak.
+This following section outlines some optional confiurations. Nothing here is necessary, but it may be of some interest to users who like to tweak.
 
 ### Optional Mods
 
