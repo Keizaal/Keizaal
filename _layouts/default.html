@@ -1,12 +1,12 @@
 <!doctype html>
-<html lang="en-US">
+<html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="image" property="og:image" content="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/branding/Keizaal%20Logo%20Small.png">
 {% seo %}
-    <link rel="stylesheet" href="/assets/css/style.css?v=">
-    <script src="/assets/js/scale.fix.js"></script>
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes">
     <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
@@ -20,7 +20,7 @@
           <img src="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/branding/Keizaal%20Discord%20Icon.png" alt="hi" class="inline"/>
           <img src="https://raw.githubusercontent.com/PierreDespereaux/AboutMe/master/assets/images/Catir%20Approved.png" alt="hi" class="inline"/>
           <img src="https://raw.githubusercontent.com/PierreDespereaux/AboutMe/master/assets/images/No%20Lore%20Was%20Harmed.png" alt="hi" class="inline"/>
-          <p class="header"></p>
+          <p class="header">{{ default: site.github.project_tagline | site.github.project_tagline }}</p>
         </div>
         <div class="header">
           <a class="buttons mainpage" href="https://pierredespereaux.github.io/Keizaal/">Main Page</a>
@@ -36,7 +36,7 @@
           <a class="buttons changelog" href="https://ko-fi.com/pierredespereaux">Buy Me a Coffee</a>
           <a class="buttons changelog" href="https://www.patreon.com/user?u=16914107">Become a Patron</a>
           <p>External Links</p>
-          <a class="buttons wabbajack" href="">Wabbajack</a>
+          <a class="buttons wabbajack" href="{{ site.wabbajack.wabbajack_url }}">Wabbajack</a>
           <a class="buttons aboutMe" href="https://pierredespereaux.github.io/PierreDespereaux/">About Me</a>
           <p> <p>
           <img src="https://img.shields.io/endpoint?label=List%20Status&style=for-the-badge&url=https://build.wabbajack.org/lists/status/keizaal/badge.json" alt="hi" class="inline"/>
@@ -54,7 +54,7 @@
       </header>
 
       <section>
-        
+        {{ content }}
       </section>
 
     </div>
