@@ -104,7 +104,9 @@ This following section outlines some optional confiurations. Nothing here is nec
 
 ### Optional Mods
 
-There are a handful of mods that I have included that are disabled by default; these mods aren’t part of the main Keizaal package. If you choose to activate an optional mod, be sure to move the mod's plugin (on the right pane of Mod Organizer) **above all** of the plugins with the "Keizaal" prefix unless otherwise instructed in the mod's notes.
+There are a handful of mods that I have included that are disabled by default; these mods aren’t part of the main Keizaal package. If you choose to activate an optional mod, be sure to run LOOT before you begin playing. I have made a custom set of rules for Keizaal to ensure that all of the plugins are ordered in the correct manner. In order to use LOOT, select it from the dropdown in the top right-hand corner of Mod Organizer, then start it the same way you'd launch Skyrim. 
+
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.PNG)
 
 I will try to assist you in enabling these optional mods, however if you make changes to Keizaal outside of these few mods I will not be able to help you. Any personal edits you make to this list must be done independently.
 
