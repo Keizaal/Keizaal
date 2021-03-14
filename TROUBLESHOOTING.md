@@ -33,10 +33,6 @@ The mod Movement Behavior Overhaul will cause animations to break if the framera
 
 I have moved Skyrim's savegames from their default location to "/Mod Organizer 2/profiles/Keizaal/saves" in order to better protect them in the case that the Skyrim Shredder needs to be run.
 
-### "*Skyrim is acting strangely after automatically sorting the load order.*"
-
-**NEVER USE LOOT OR MOD ORGANIZER TO AUTOMATICALLY SORT YOUR LOAD ORDER!** Keizaal's plugins have been carefully sorted manually in order to ensure that everything works as intended. Sorting the load order using an automatic tool **will** cause issues. If you have used an automated program to sort your load order, you forfeit all support I would normally provide until you restore your load order to Keizaal's default. You should be able to restore your load order to default by rerunning Wabbajack.
-
 ### "*Tweaks made with BethINI aren't correctly changing the settings in-game.*"
 
 BethINI can handle the majority of tweaks that you would generally want to make. However, some of the more niche settings may be handled by .inis that BethINI can't edit. These will need to be edited manually.
