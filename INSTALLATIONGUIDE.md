@@ -13,8 +13,8 @@
   - [Mod Configuration](#mod-configuration)
 - [Additional Configuration (Optional)](#additional-configuration-optional)
   - [Optional Mods](#optional-mods)
+  - [Settings](#settings)
   - [Mod Notes](#mod-notes)
-  - [BethINI](#bethini)
 - [Updating](#updating)
   - [Semantic Versioning](#semantic-versioning)
 
