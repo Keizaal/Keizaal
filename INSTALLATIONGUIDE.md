@@ -104,27 +104,27 @@ This following section outlines some optional confiurations. Nothing here is nec
 
 ### Optional Mods
 
-There are a handful of mods that I have included that are disabled by default; these mods aren’t part of the main Keizaal package. If you choose to activate an optional mod, be sure to run LOOT before you begin playing. I have made a custom set of rules for Keizaal to ensure that all of the plugins are ordered in the correct manner. In order to use LOOT, select it from the dropdown in the top right-hand corner of Mod Organizer, then start it the same way you'd launch Skyrim. 
+There are a handful of mods that I have included that are disabled by default; these mods aren’t part of the main Keizaal package. If you choose to activate an optional mod, be sure to sort your load order before you begin playing. Simply press the sort button in the top right-hand corner of Mod Organizer to sort all of your plugins!
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.PNG)
 
 I will try to assist you in enabling these optional mods, however if you make changes to Keizaal outside of these few mods I will not be able to help you. Any personal edits you make to this list must be done independently.
 
-### Mod Notes
+### Settings
 
-Several mods in Keizaal's Mod Organizer have notes attached to them. If the note icon appears next to a mod, hover over it to read the notes I've added. These notes will give you some additional context about how I have configured the mod.
-
-### BethINI
-
-BethINI is a powerful tool that replaces Skyrim's Vanilla launcher settings menu, you can utilize it to tweak the game's settings. In order to use it, select it from the dropdown in the top right-hand corner of Mod Organizer, then start it the same way you'd launch Skyrim. 
+If you want to edit some of Skyrim's settings you can do so by pressing the gear button in the top right-hand corner of Mod Organizer.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/6.%20BethINI.png)
 
-After you have launched BethINI, be sure to **close Mod Organizer before you change any settings**!
+After you have launched the application, be sure to **close Mod Organizer before you change any settings**!
 
 Alternatively, you can manually edit your base game's .ini files. You can do so by navigating to the top of Mod Organizer, clicking on the puzzle piece, then selecting ".ini Editor".
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/7.%20Manual%20.inis.PNG)
+
+### Mod Notes
+
+Several mods in Keizaal's Mod Organizer have notes attached to them. If the note icon appears next to a mod, hover over it to read the notes I've added. These notes will give you some additional context about how I have configured the mod.
 
 ## Updating
 
