@@ -114,7 +114,7 @@ I will try to assist you in enabling these optional mods, however if you make ch
 
 If you want to edit some of Skyrim's settings you can do so by pressing the gear button in the top right-hand corner of Mod Organizer.
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/6.%20BethINI.png)
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/6.%20BethINI.PNG)
 
 After you have launched the application, be sure to **close Mod Organizer before you change any settings**!
 
