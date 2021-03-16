@@ -27,9 +27,9 @@ The mod Movement Behavior Overhaul will cause animations to break if the framera
 
 I have moved Skyrim's savegames from their default location to "/Mod Organizer 2/profiles/Keizaal/saves" in order to better protect them in the case that the Skyrim Shredder needs to be run.
 
-### "*Tweaks made with BethINI aren't correctly changing the settings in-game.*"
+### "*Tweaks made with Settings aren't correctly changing the settings in-game.*"
 
-BethINI can handle the majority of tweaks that you would generally want to make. However, some of the more niche settings may be handled by .inis that BethINI can't edit. These will need to be edited manually.
+The Settings application can handle the majority of tweaks that you would generally want to make. However, some of the more niche settings may be handled by .inis that Settings can't edit. These will need to be edited manually.
 
 In order to manually edit the .inis you will first need to find the "Keizaal Settings" mod in the left pane of Mod Organizer. It should be near the bottom. Once you find it, right click on it and select "Information".
 
