@@ -19,12 +19,6 @@ If Wabbajack fails to download a mod, try downloading it manually. Place the man
 
 Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
 
-### "*The NPCs during the Helgen intro are just standing in place*."
- 
-Make sure you correctly copied the Game Folder Files over to your Skyrim directory.
-
-Please refer to [this section](https://pierredespereaux.github.io/Keizaal/INSTALLATIONGUIDE.html#copying-the-game-folder-files) for information on how to do so.
-
 ### "*Skyrim is capped at 72 FPS.*"
 
 The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 72 in order to prevent that.
