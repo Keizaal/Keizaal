@@ -23,10 +23,6 @@ Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_re
 
 The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 72 in order to prevent that.
 
-### "*Savegames aren't in My Games.*"
-
-I have moved Skyrim's savegames from their default location to "/Mod Organizer 2/profiles/Keizaal/saves" in order to better protect them in the case that the Skyrim Shredder needs to be run.
-
 ### "*Tweaks made with Settings aren't correctly changing the settings in-game.*"
 
 The Settings application can handle the majority of tweaks that you would generally want to make. However, some of the more niche settings may be handled by .inis that Settings can't edit. These will need to be edited manually.
