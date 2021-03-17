@@ -3,7 +3,7 @@
 
 ---
 
-#### [4.0.8](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8.1/Keizaal.wabbajack)
+#### [4.0.8.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8.1/Keizaal.wabbajack)
 
 - Updated Lucien
 - Updated Iconic Statues
