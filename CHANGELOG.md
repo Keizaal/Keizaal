@@ -3,7 +3,18 @@
 
 ---
 
-#### [4.0.8](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8/Keizaal.wabbajack)
+#### [4.0.8](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8.1/Keizaal.wabbajack)
+
+- Updated Lucien
+- Updated Iconic Statues
+- Updated Copy Paste in Console
+- Added Iconic's Ysgramor Shield
+- Removed Logical Solitude Catacombs
+- Removed Follower Favor Fix
+- Ironed out issues with the new Stock Game system, notably incorrect pathes for tools.
+- Added a whole suite of custom LOOT rules to make the application useful when working with Keizaal.
+
+### [4.0.8](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8/Keizaal.wabbajack)
 
 - Updated Dlizzio's Mesh Fixes
 - Updated Papyrus Extender
@@ -26,7 +37,7 @@
 - Added Faction - Pit Fighter Revamped
 - Moved to the "Stock Game" implementation. The Game Folder Files step of installation is no longer necessary.
 
-#### [4.0.7](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.7/Keizaal.wabbajack)
+### [4.0.7](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.7/Keizaal.wabbajack)
 
 - Updated Stagger Direction Fix
 - Updated aMidianBorn Armor Variants Lite
