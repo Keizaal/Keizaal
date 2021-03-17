@@ -3,6 +3,14 @@
 
 ---
 
+#### [4.0.8.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8.2/Keizaal.wabbajack)
+
+- Updated Project Clarity
+- Updated ELFX Fixes
+- Added Horse Stamina Widget - Script Free
+- Added Cleaned Skyrim Textures
+- Reduced the modlist size by nearly half.
+
 #### [4.0.8.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8.1/Keizaal.wabbajack)
 
 - Updated Lucien
