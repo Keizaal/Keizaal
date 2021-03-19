@@ -3,6 +3,19 @@
 
 ---
 
+### [4.0.9](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.9/Keizaal.wabbajack)
+
+- Updated Horse Stamina HUD
+- Updated Dwemer Pipework Reworked
+- Updated Knight of the North
+- Updated Misc Tweaks - Better Horses
+- Added Better Bears
+- Added Bellyache's Animal and Creature Pack
+- Added SavrenX Solstheim Creatures
+- Added Misc Tweaks - Night Eye Redux
+- Added Madena - The Pacifist
+
+
 #### [4.0.8.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8.2/Keizaal.wabbajack)
 
 - Updated Project Clarity
