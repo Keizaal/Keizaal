@@ -19,6 +19,10 @@ If Wabbajack fails to download a mod, try downloading it manually. Place the man
 
 Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
 
+### "*Keizaal doesn't recognize Creation Club content.*"
+
+Keizaal works off a the "Stock Game" system, it doesn't touch the files in your Steam install, buth rather runs of its own instance. If you want to use Creation Club content alongside Keizaal it is recommended that you create an empty mod in Mod Organizer and move your Creation Club plugins to that mod.
+
 ### "*Skyrim is capped at 72 FPS.*"
 
 The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 72 in order to prevent that.
