@@ -3,6 +3,40 @@
 
 ---
 
+### [4.0.10](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.10/Keizaal.wabbajack)
+
+- Updated The Truth
+- Updated SSE Display Tweaks
+- Updated Misc Tweaks - Better Horses
+- Updated Stagger Direction Fix
+- Updated Capital Expansion Whiterun
+- Updated Lucien
+- Updated Near Vanilla Project - Temple of Kynareth Redone
+- Updated Cloaks and Capes Consistency Patch
+- Updated Vastly More Unique Visage of Mzund
+- Updated DynDOLOD
+- Added PraedythXVI's Auriel's Bow and Shield
+- Added PraedythXVI's Auriel's Chantry
+- Added PraedythXVI's Ancient Falmer Throne
+- Added PraedythXVI's Ancient Falmer Armor
+- Added PraedythXVI's Paragon Gems
+- Added PraedythXVI's Dragon Priest Retextures
+- Added PraedythXVI's Eye and Staff of Magnus
+- Added PraedythXVI's Dragonstone
+- Added SavrenX Night Mother
+- Added Alternate Conversation Camera
+- Added Dialogue Movement Enabler
+- Added HD Serpentine Dragon
+- Added JazzJR Coverkhajiit Body Textures
+- Added Conditional Expressions
+- Added Alduin's Wall Main Menu Replacer
+- Removed Arri's Snow Elf Ruins
+- Removed Iconic's Paragon Gems
+- Removed Iconic' Dragonstone
+- Removed Main Menu Design Replacer
+- Removed Main Menu Reshaped
+- Removed several optional mods that were not serving much a purpose
+
 ### [4.0.9](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.9/Keizaal.wabbajack)
 
 - Updated Horse Stamina HUD
