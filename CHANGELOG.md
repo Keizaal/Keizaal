@@ -35,6 +35,8 @@
 - Removed Iconic' Dragonstone
 - Removed Main Menu Design Replacer
 - Removed Main Menu Reshaped
+- Removed Attack Dog Replacer
+- Removed Vigilance is a Husky
 - Removed several optional mods that were not serving much a purpose
 
 ### [4.0.9](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.9/Keizaal.wabbajack)
