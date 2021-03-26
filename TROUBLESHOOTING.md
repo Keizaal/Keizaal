@@ -19,10 +19,6 @@ If Wabbajack fails to download a mod, try downloading it manually. Place the man
 
 Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
 
-### "*Keizaal doesn't recognize Creation Club content.*"
-
-Keizaal works off a the "Stock Game" system, it doesn't touch the files in your Steam install, but rather runs of its own instance. Creation Club content is installed directly to your Steam install so Keizaal isn't able to see it. If you want to use Creation Club content alongside Keizaal it is recommended that you create an empty mod in Mod Organizer and move your Creation Club plugins to that mod.
-
 ### "*Plugins are getting deactivated in the right panel.*"
 
 You have likely surpassed the 255 .esp limit. When this happens Mod Organizer will automatically disable plugins in order to ensure that the game can launch.
