@@ -11,9 +11,11 @@ Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkI
 
 Simply restart Wabbajack, you will not lose progress on your downloads.
 
-### "*A mod fails to download.*"
+### "*A file fails to download.*"
 
 If Wabbajack fails to download a mod, try downloading it manually. Place the manually downloaded mod in your downloads folder where the other Wabbajack downloads are in your Mod Organizer. Do not extract them. Note that some of these are big files and may take a while.
+
+If you are still encountering issues try verifying the integrity of your game cache via Steam.
 
 ### "*ModOrganizer.exe throws and error when trying to launch.*"
 
