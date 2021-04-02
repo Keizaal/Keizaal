@@ -3,6 +3,30 @@
 
 ---
 
+## [4.1.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.0/Keizaal.wabbajack)
+
+- Updated Water for ENB
+- Updated WM's Flora Fixes - Revamped
+- Updated Civil War Deserters
+- Updated Pirates Wield Cutlasses
+- Updated Tale of Two Mers
+- Updated Near Vanilla Project - Temple of Kynareth
+- Updated Better Dynamic Snow to 3.0
+- Added Diverse Skyrim
+- Added Near Vanilla Project - Eye of Magnus
+- Added Dynamic Animal Variants
+- Added Solstheim Mudcrab Variant
+- Added Wooden Night Caller Temple Shrine
+- Added Wooden Broken Tower Redoubt Shrine
+- Added Alpha Wolves Enabled
+- Added Scrambled Bugs
+- Added Holy Poly Soul Husks
+- Added Pet the Dog
+- Added Just Blood - Lite
+- Removed Enhanced Skyrim Factions - Companions
+- Removed Thieves Guild Requirements
+- Removed Project Dovah-Hen
+
 ### [4.0.10](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.10/Keizaal.wabbajack)
 
 - Updated The Truth
