@@ -26,6 +26,8 @@
 - Removed Enhanced Skyrim Factions - Companions
 - Removed Thieves Guild Requirements
 - Removed Project Dovah-Hen
+- Regenned LODS
+- ELSified several .esps.
 
 ### [4.0.10](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.10/Keizaal.wabbajack)
 
