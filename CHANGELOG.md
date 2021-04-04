@@ -12,6 +12,7 @@
 - Fixed issue where shadows "turn off" when moving
 - Fixed incompatibiltiy between Dynamic Animal Variants and Blood Horkers
 - Fixed incompatibiltiy between Dynamic Animal Variants and Solstheim Mudcrab Variant
+- Fixed super bright dynamic snow
 - Fixed verison mismatches displayed on Mod Manager UI
 - Regenned LODs to improve performance
 
