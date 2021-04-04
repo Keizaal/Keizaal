@@ -3,6 +3,18 @@
 
 ---
 
+#### [4.1.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.0.1/Keizaal.wabbajack)
+
+- Added Just Ice
+- Added Skyrim 3D Icefloes
+- Added Tiber Septim Room Improvement
+- Removed Northern Ice
+- Fixed issue where shadows "turn off" when moving
+- Fixed incompatibiltiy between Dynamic Animal Variants and Blood Horkers
+- Fixed incompatibiltiy between Dynamic Animal Variants and Solstheim Mudcrab Variant
+- Fixed verison mismatches displayed on Mod Manager UI
+- Regenned LODs to improve performance
+
 ## [4.1.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.0/Keizaal.wabbajack)
 
 - Updated Water for ENB
