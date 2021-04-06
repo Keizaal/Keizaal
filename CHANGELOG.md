@@ -3,7 +3,14 @@
 
 ---
 
-#### [4.1.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.0.1/Keizaal.wabbajack)
+#### [4.1.0.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.0.2/Keizaal.wabbajack)
+
+- Updated Scrambled Bugs
+- Updated Mainland Stahlrim
+- Added Dwemer Tech Glowmapped
+- Fixed formID issue with Keizaal Tweaks - Tiber Septim Room Improvements.esp.
+
+#### [4.1.0.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.0.1/Keizaal.wabbajack)
 
 - Added Just Ice
 - Added Skyrim 3D Icefloes
