@@ -3,6 +3,20 @@
 
 ---
 
+### [4.1.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.1/Keizaal.wabbajack)
+
+- Updated Scramled Bugs
+- Updated Mainland Stalhrim - Lite
+- Updated Aetherius
+- Upadted Mundas
+- Updated Blade and Blunt
+- Updated Manbeast
+- Updated Landscape and Water Fixes
+- Updated Assorted Mesh Fixes
+- Added PraedythXVI's Fort Dawnguard - HD
+- Removed Remiro's Fort Dawngaurd
+- Removed Dwemer Tech Glowmapped
+
 #### [4.1.0.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.0.2/Keizaal.wabbajack)
 
 - Updated Scrambled Bugs
