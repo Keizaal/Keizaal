@@ -29,7 +29,7 @@ You have likely surpassed the 255 .esp limit. When this happens Mod Organizer wi
 
 The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 72 in order to prevent that.
 
-### "*UI elements appear to be getting cut off.*"
+### "*UI elements appear to be getting cut off the screen.*"
 
 Enable Widescreen Fixes under the optional section in Mod Organizer. If that doesn't work, disable Widescreen Fixes and enable Dialogue Interface ReShaped (16 by 10).
 
