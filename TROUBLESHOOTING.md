@@ -39,7 +39,7 @@ Press the "X" button to toggle the compass on and off.
 
 ### "*The crosshair is missing.*"
 
-Try restarting your game. The crosshair should reappear when you load you save.
+Restart your game. The crosshair should reappear when you load you save.
 
 ### "*Tweaks made with Settings aren't correctly changing the settings in-game.*"
 
