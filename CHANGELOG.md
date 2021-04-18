@@ -3,6 +3,23 @@
 
 ---
 
+### [4.1.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.2/Keizaal.wabbajack)
+
+- Updated Mundas
+- Updated Scrambled Bugs
+- Updated Papyrus Extender
+- Updated Diverse Skyrim - Battle of Whiterun Fix
+- Updated Spell Perk Item Distributor
+- Updated Near Vanilla Project - Temple of Kynareth
+- Updated Enhanced Reanmiation
+- Updated Conjuration Staff HD
+- Updated WiZkiD Pinewatch
+- Updated Mari' Flora
+- Added Remiros' Fort Dawnguard
+- Added Particle Lights for ENB - Undead Creatures
+- Added Whiterun Mesh Fixes
+- Added Majestic Mountains - Mesh Tangent Space Fixes
+
 ### [4.1.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.1/Keizaal.wabbajack)
 
 - Updated Scramled Bugs
