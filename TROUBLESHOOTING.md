@@ -25,13 +25,21 @@ Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_re
 
 You have likely surpassed the 255 .esp limit. When this happens Mod Organizer will automatically disable plugins in order to ensure that the game can launch.
 
+### "*UI elements appear to be getting cut off the screen.*"
+
+Enable Widescreen Fixes under the optional section in Mod Organizer. If that doesn't work, disable Widescreen Fixes and enable Dialogue Interface ReShaped (16 by 10).
+
 ### "*Skyrim is capped at 72 FPS.*"
 
 The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 72 in order to prevent that.
 
-### "*UI elements appear to be getting cut off the screen.*"
+### "*The compass is missing.*"
 
-Enable Widescreen Fixes under the optional section in Mod Organizer. If that doesn't work, disable Widescreen Fixes and enable Dialogue Interface ReShaped (16 by 10).
+Press the "X" button to toggle the compass on and off.
+
+### "*The crosshair is missing.*"
+
+Try restarting your game. The crosshair should reappear when you load you save.
 
 ### "*Tweaks made with Settings aren't correctly changing the settings in-game.*"
 
