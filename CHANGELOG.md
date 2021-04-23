@@ -18,6 +18,7 @@
 - Added Relighting Skyrim
 - Added Quests are in Skyrim
 - Added the Truth ENB
+- Removed Bandit Brawlers
 - Removed ELFX
 - Removed Tamriel Master Lights
 - Removed the Truth ENB Lite
