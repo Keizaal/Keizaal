@@ -3,6 +3,26 @@
 
 ---
 
+### [4.2.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.0/Keizaal.wabbajack)
+
+- Updated Mainland Stalhrim
+- Updated Scrambled Bugs
+- Updated More Informative Console
+- Updated Skyrim Unbound Reborn
+- Updated Cannibal Draugr
+- Updated Manbeast
+- Added ArteFakes (custom stripped-down replacer-only version)
+- Added Dawngaurd Arsenal (custom stripped-down weapons-only version)
+- Added Ancient Nord Stalhrim
+- Added Relationship Rank Change Notifications
+- Added Relighting Skyrim
+- Added Quests are in Skyrim
+- Added the Truth ENB
+- Removed Bandit Brawlers
+- Removed ELFX
+- Removed Tamriel Master Lights
+- Removed the Truth ENB Lite
+
 ### [4.1.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.2/Keizaal.wabbajack)
 
 - Updated Mundas
