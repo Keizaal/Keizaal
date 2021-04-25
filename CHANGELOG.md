@@ -2,6 +2,19 @@
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png)
 
 ---
+#### [4.2.0.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.0.1/Keizaal.wabbajack)
+
+- Updated Ancient Nord Stalhrim
+- Added Immersive Faction and Character Attire
+- Added aMidianBorn Iron Armor
+- Added JK's Palace of the Kings
+- Added JK's Blue Palace
+- Removed Centered Blue Palace Throne
+- Removed Enhanced Reanimation
+- Removed Splashes of Skyrim
+- Removed Essential Favorites
+- Removed Wash That Blood Off
+- Removed Name Those Ash Piles
 
 ### [4.2.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.0/Keizaal.wabbajack)
 
