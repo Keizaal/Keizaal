@@ -18,7 +18,7 @@ If you're still curious about what Keizaal has in store for you, I have provided
 
 # Essentials
 
-![Keizaal 2.5.0](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/overview/1.%20Essentials%20Banner.png)
+![Keizaal 3.0.0](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/overview/2.%20Graphics%20Banner.png)
 
 There are some mods that every installation of Skyrim just needs to have. This includes a ton of fixes from [SKSE64](https://skse.silverlock.org/){:target="_blank" rel="noopener"} to [meh321](https://www.nexusmods.com/skyrimspecialedition/users/2964753?tab=user+files){:target="_blank" rel="noopener"}'s various engine-level fixes. I won't spend time talking much about this because I'm sure you're all aware of this and know what to expect. However, I will highlight some of the inclusions unique to Keizaal.
 
@@ -30,7 +30,7 @@ Lastly I have a short list of miscellaneous mods I wanted to talk about in this 
 
 # Graphics
 
-![Keizaal 3.0.0](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/overview/2.%20Graphics%20Banner.png)
+![Keizaal 2.5.0](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/overview/1.%20Essentials%20Banner.png)
 
 Keizaal contains a large visual package to improve the visual fidelity of the game while sticking true to the original art style that Bethesda presented us. I use a mixture of [Skyrim Realistic Overhaul](https://www.moddb.com/mods/skyrim-realistic-overhaul){:target="_blank" rel="noopener"}, [Project Clarity](https://www.nexusmods.com/skyrimspecialedition/search/?RH_ModList=nav:true,home:false,type:0,user_id:0,game_id:1704,advfilt:true,search%5Bfilename%5D:Project+Clarity,include_adult:true,page_size:20,show_game_filter:false){:target="_blank" rel="noopener"}, and [aMidianBorn Book of Silence](https://www.nexusmods.com/skyrimspecialedition/mods/35382){:target="_blank" rel="noopener"} as a base to build off of. From there I add on a wide array of texture and mesh replacer that are too numerous to list here individually. I will discuss some of the more noteworthy inclusions.
 
