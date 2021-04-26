@@ -41,6 +41,12 @@ Press the "X" button to toggle the compass on and off.
 
 Restart your game. The crosshair should reappear when you load you save.
 
+### "*When updating Keizaal Wabbajack deletes mods added on top of the list.*"
+
+While I don't support installations of Keizaal that have been modified, you are free to go about that yourself. If you want to keep mods that you have added to Keizaal you can add the prefix `[NoDelete]` to the names of the mods you would like to keep between updates.
+
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/12.%20No%20Delete.PNG)
+
 ### "*Tweaks made with Settings aren't correctly changing the settings in-game.*"
 
 The Settings application can handle the majority of tweaks that you would generally want to make. However, some of the more niche settings may be handled by .inis that Settings can't edit. These will need to be edited manually.
