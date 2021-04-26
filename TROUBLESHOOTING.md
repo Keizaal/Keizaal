@@ -41,9 +41,11 @@ Press the "X" button to toggle the compass on and off.
 
 Restart your game. The crosshair should reappear when you load you save.
 
-### "*When updating Keizaal Wabbajack deletes mods added on top of the list.*"
+### "*When updating Keizaal, Wabbajack deletes mods added on top of the list.*"
 
-While I don't support installations of Keizaal that have been modified, you are free to go about that yourself. If you want to keep mods that you have added to Keizaal you can add the prefix `[NoDelete]` to the names of the mods you would like to keep between updates.
+During every update Wabbajack will clean out the mods folder to ensure that everything gets installed properly. However, you can add the prefix `[NoDelete]` to the names of the mods you would like to keep and Wabbajack will be sure to ignore them.
+
+Note that I **WILL NOT** provide support to installations of Keizaal that have been modified.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/12.%20No%20Delete.PNG)
 
