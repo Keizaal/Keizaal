@@ -45,9 +45,9 @@ Restart your game. The crosshair should reappear when you load you save.
 
 During every update Wabbajack will clean out the mods folder to ensure that everything gets installed properly. However, you can add the prefix `[NoDelete]` to the names of the mods you would like to keep and Wabbajack will be sure to ignore them.
 
-Note that I **WILL NOT** provide support to installations of Keizaal that have been modified.
-
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/12.%20No%20Delete.PNG)
+
+Note that I **WILL NOT** provide support to installations of Keizaal that have been modified.
 
 ### "*Tweaks made with Settings aren't correctly changing the settings in-game.*"
 
