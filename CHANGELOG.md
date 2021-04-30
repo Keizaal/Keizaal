@@ -18,7 +18,6 @@
 - Added 3D Mountain Flowers Hearthfire Planters Fix
 - Added To Your Face Redux
 - Removed To Your Face
-- Removed 
 - Regenned LODs
 - Fixed crash in Blackreach
 
