@@ -2,6 +2,26 @@
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png)
 
 ---
+
+### [4.2.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.0.1/Keizaal.wabbajack)
+
+- Updated JK's Palace of the Kings
+- Updated Papyrus Extender
+- Updated Scrambled Bugs
+- Updated iEquip
+- Updated SSE Display Tweaks
+- Updated Anicent Nord Stalhrim
+- Updated Pirates Wield Cutlasses
+- Updated Skyrim - A Mountainous Experience
+- Updated Tale of Two Mer
+- Added Alternative Meadbarrel and Spigot
+- Added 3D Mountain Flowers Hearthfire Planters Fix
+- Added To Your Face Redux
+- Removed To Your Face
+- Removed 
+- Regenned LODs
+- Fixed crash in Blackreach
+
 #### [4.2.0.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.0.1/Keizaal.wabbajack)
 
 - Updated Ancient Nord Stalhrim
