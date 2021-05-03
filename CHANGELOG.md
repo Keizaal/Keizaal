@@ -3,6 +3,26 @@
 
 ---
 
+### [4.2.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.0.1/Keizaal.wabbajack)
+
+- Updated Cuyi's Bosmeri Antlers - SSE
+- Updated SSE Display Tweaks
+- Updated Scrambled Bugs
+- Updated Skyrim - A Mountainous Experience
+- Added Daedric Shrines of Skyrim
+- Added Ebony Mail Effect Shader Fix
+- Added Giant Campfires Cast Shadows- Immersive Giant Fire Lighting Overhaul
+- Added Shirley - A Skyrim Follower Mod
+- Added Whiterun Watchtower Doesn't Start Broken
+- Added Shor's Anus (Sovngarde Sky ENB Fix)
+- Added High Poly Blackreach Mushrooms
+- Added Near Vanilla Project - College of Winterhold Floor
+- Added Soul Cairn HD
+- Added Sovngarde HD
+- Added the Truth ENB Lite
+- Removed the Truth ENB
+- Fixed Valerica not leading the player into the Boneyard
+
 ### [4.2.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.0.1/Keizaal.wabbajack)
 
 - Updated JK's Palace of the Kings
