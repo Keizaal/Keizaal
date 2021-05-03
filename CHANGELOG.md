@@ -3,7 +3,15 @@
 
 ---
 
-### [4.2.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.0.1/Keizaal.wabbajack)
+#### [4.2.2.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.2/Keizaal.wabbajack)
+
+- Updated Giant Campfires Cast Shadows- Immersive Giant Fire Lighting Overhaul
+- Updated Equip Enchantment Fix
+- Updated Whiterun Mesh Fixes
+- Added Skyrim Unbound Reborn (Alternate Start)
+- Fixed missing Game Root
+
+### [4.2.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.2/Keizaal.wabbajack)
 
 - Updated Cuyi's Bosmeri Antlers - SSE
 - Updated SSE Display Tweaks
@@ -23,7 +31,7 @@
 - Removed the Truth ENB
 - Fixed Valerica not leading the player into the Boneyard
 
-### [4.2.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.0.1/Keizaal.wabbajack)
+### [4.2.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.1/Keizaal.wabbajack)
 
 - Updated JK's Palace of the Kings
 - Updated Papyrus Extender
