@@ -132,7 +132,9 @@ If this Modlist receives an update, please check the changelog before doing anyt
 
 **Wabbajack will delete all files that are not part of the Modlist when updating!**
 
-This means that any additional mods you have installed on top of the Modlist will be deleted. Your downloads folder will not be touched!
+This means that any additional mods you have installed on top of the Modlist will be deleted. However, you can add the prefix `NoDelete` to the names of the mods you would like to keep and Wabbajack will be sure to ignore them. Keep in mind that modifying Keizaal will forfeit any support that you would normally recieve.
+
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/12.%20No%20Delete.PNG)
 
 Updating is like installing. You only have to make sure that you select the same path and tick the overwrite existing Modlist button.
 
