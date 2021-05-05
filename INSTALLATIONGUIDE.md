@@ -132,9 +132,11 @@ If Keizaal receives an update, please check the changelog before doing anything.
 
 **Wabbajack will delete all files that are not part of Keizaal when updating!**
 
-This means that any additional mods you have installed on top of Keizaal will be deleted. However, you can add the prefix `NoDelete` to the names of the mods you would like to keep and Wabbajack will be sure to ignore them. Keep in mind that modifying Keizaal will forfeit any support that you would normally recieve.
+This means that any additional mods you have installed on top of Keizaal will be deleted. However, you can add the prefix `NoDelete` to the names of the mods you would like to keep and Wabbajack will be sure to ignore them.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/12.%20No%20Delete.PNG)
+
+Keep in mind that modifying Keizaal will forfeit any support that you would normally recieve.
 
 ### Semantic Versioning
 
