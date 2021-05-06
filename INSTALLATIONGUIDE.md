@@ -5,7 +5,6 @@
 
 # Table of Contents
 - [Information](#information)
-  - [Terms of Service](#terms-of-service)
 - [Setup](#setup)
   - [Clean Install](#clean-install)
 - [Keizaal Installation](#keizaal-installation)
@@ -25,32 +24,6 @@ Keizaal takes up 171GB of hard drive space (93GB installation with 78GB of downl
 Please note that automated downloads from Nexus are only available through Wabbajack with an active premium membership. If you do not have a premium membership, Wabbajack will prompt you to manually download the necessary files.
 
 Support for manual installations is **NOT OFFERED**. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone’s time.
-
-### Terms of Service
-
-In downloading this modlist you are agreeing to obey the following rules concerning Keizaal and Wabbajack in general:
-
-1. **Be a polite participant and respect others.** This is a friendly and welcoming place so treat everyone with respect. Excessive cursing or any kind of abuse, hate speech, doxxing or discrimination against others is not welcome. Violators will be warned and repeat offenders will be banned.
-
-2. **No brigading, doxxing, trolling or harassment of any kind toward other websites, servers, groups, individuals or mod authors.** Poor behaviour reflects on the community as a whole and impacts how Wabbajack is perceived and treated by the wider modding community which in turn undermines the entire point of Wabbajack - to make modding more accessible and open to everyone. Wabbajack moderators reserve the right to take action against members who are found to be disruptive in the wider community.
-
-3. **No political or religious discussion.**
-
-4. **No NSFW content outside of designated channels.** Real world explicit content is not allowed under any circumstances - breaching this will result in an instant ban. All content, including your messages, links, images, avatars and nicknames, may not contain explicit or implied sexual or gory content unless it is in a specifically designated NSFW flagged channel and is relevant to game modding. Any content such as illustrated or digitally altered pornography which depicts minors such as lolicon, shotacon, or cub is prohibited server wide. Moderators reserve the right to change your nickname and request an avatar change.
-
-5. **No spamming.** This is not Twitch chat, offenders will be muted, kicked and/or banned as appropriate. Spamming @ mentions will result in mute. Spamming links to websites or other servers etc. is prohibited as are self-promotion links.
-
-6. **No impersonating Wabbajack Staff or other users.** Do not try to impersonate a developer, moderator, mod author or any other member.
-
-7. **Game and mod piracy is strictly prohibited.** Use of pirated content and/or unauthorised redistribution of content will result in a permanent ban.
-
-8. **DO NOT CONTACT MOD OR GUIDE AUTHORS FOR SUPPORT.** Support will only be provided in the relevant channels on this server.
-
-9. **DO NOT CONTACT MOD AUTHORS FOR OLD VERSIONS OF THEIR MODS.** Do not ask how to bypass/obtain a mod that has been updated, wait for the Wabbajack installer to be updated.
-
-10. **All support queries should be directed to the appropriate channel in this server.** Any conflicts/bugs/issues that arise are likely to result from the specific combination of mods in a given list, therefore mod authors and mod guide authors who are not familiar with the specific installer should not be subjected to helping Wabbajack users if they do not wish to.
-
-11. **If you make modifications to these Modlists, you do so at your own risk.** Unless otherwise specified, no support or advice will be provided. Any discussion of changes to modlists should be done in general channels only and not support channels.
 
 ## Setup
 
