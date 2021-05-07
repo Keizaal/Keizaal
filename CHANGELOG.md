@@ -3,6 +3,30 @@
 
 ---
 
+## [4.3.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.3.0/Keizaal.wabbajack)
+
+- Updated Extended Encounters
+- Updated Particle Lights For ENB SE - Undead Creatures
+- Updated Shirley - A Skyrim Follower Mod
+- Updated Skyrim Unbound Reborn (Alternate Start)
+- Updated powerofthree's Papyrus Extender
+- Updated Equip Enchantment Fix
+- Updated Flinching - Script Free Edition
+- Updated Skyrim - A Mountainous Experience
+- Added Aetherial Crown SE
+- Added Dawnguard Rune Axe Bug Fix
+- Added Improved closefaced helmets
+- Added Older Shirley
+- Added MiniMap
+- Added Barenziah's Glory SE
+- Added Dovah Sonaak - Dragon Priest Masks SE
+- Added White Phial Replacer SE
+- Updated Whiterun Mesh Fixes
+- Update Giant Campfires Cast Shadows- Giant Fire Lighting Overhaul
+- Removed More to Say
+- Removed Skyrim 3D Trees and Plants
+- Removed Majestic Mountains - Mesh Tangent Space Fixes
+
 #### [4.2.2.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.2/Keizaal.wabbajack)
 
 - Updated Giant Campfires Cast Shadows- Immersive Giant Fire Lighting Overhaul
@@ -63,7 +87,7 @@
 - Removed Wash That Blood Off
 - Removed Name Those Ash Piles
 
-### [4.2.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.0/Keizaal.wabbajack)
+## [4.2.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.0/Keizaal.wabbajack)
 
 - Updated Mainland Stalhrim
 - Updated Scrambled Bugs
