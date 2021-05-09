@@ -3,11 +3,11 @@
 
 ---
 
-![](https://cdn.discordapp.com/avatars/362250920786132993/06571be48b5f295302e4e71e8e03e8d6.png?size=128) 
+![](https://cdn.discordapp.com/avatars/362250920786132993/7e8fc40e8e418aac69daa52d59edb76e.png?size=128) 
 
 **VictorF** for his constant support and helpful criticism regarding both Keizaal and my own mods
 
-![](https://cdn.discordapp.com/avatars/120006979686105088/6f3b17021e3925196f2b75ea8bd518df.png?size=128)
+![](https://cdn.discordapp.com/avatars/120006979686105088/63875bf77abe756e9bdb426bb4f27e3b.png?size=128)
 
 **Simon Magus** for tolerating my constant badgering about my load order
 
@@ -27,7 +27,7 @@
 
 ![](https://cdn.discordapp.com/avatars/105558578689003520/d0745a80e8f66b6a0811dbb782f576bc.png?size=128)
 
-![](https://cdn.discordapp.com/avatars/423285435666530315/2eda46d63df5a4511a634cb18fe47a85.png?size=128)
+![](https://cdn.discordapp.com/avatars/423285435666530315/a_f89fc2d07d0d22899573e91064f574f2.png?size=128)
 
 ![](https://cdn.discordapp.com/avatars/195326811125710848/102eb6e58e76e8a9deb78ab5ff4f53d4.png?size=128)
 
@@ -48,5 +48,7 @@
 **halgari** and entire **Wabbajack Team** for creating such a fantastic resource
 
 ![](https://cdn.discordapp.com/icons/232168805038686208/2273d95710a760db58c52c675368b325.png?size=128)
+
+![](https://cdn.discordapp.com/icons/605449136870916175/65bcb3da4d3ceba13563c6a082bf5813.png?size=128)
 
 The wonderful **mod authors** for making this modlist possible
