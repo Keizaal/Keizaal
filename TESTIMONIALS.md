@@ -16,3 +16,5 @@
 [<img src="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/testimonials/6.PNG">](https://discord.com/channels/678433649430888448/678433650865602602/810551495485030431)
 
 [<img src="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/testimonials/7.PNG">](https://discord.com/channels/678433649430888448/678433650865602602/814918608927981608)
+
+[<img src="https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/testimonials/8.PNG">](https://discord.com/channels/678433649430888448/678481205930229761/838223706630389782)
