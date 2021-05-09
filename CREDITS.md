@@ -45,10 +45,10 @@
 
 ![](https://cdn.discordapp.com/icons/605449136870916175/1353809c89af2f8245d07e536f1249e9.png?size=128)
 
+![](https://cdn.discordapp.com/icons/605449136870916175/65bcb3da4d3ceba13563c6a082bf5813.png?size=128)
+
 **halgari** and entire **Wabbajack Team** for creating such a fantastic resource
 
 ![](https://cdn.discordapp.com/icons/232168805038686208/2273d95710a760db58c52c675368b325.png?size=128)
-
-![](https://cdn.discordapp.com/icons/605449136870916175/65bcb3da4d3ceba13563c6a082bf5813.png?size=128)
 
 The wonderful **mod authors** for making this modlist possible
