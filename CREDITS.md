@@ -43,8 +43,6 @@
 
 ![](https://cdn.discordapp.com/avatars/301088340617330708/a_d93d3f34e197e554a792c3cf8f8ff578.png?size=128)
 
-![](https://cdn.discordapp.com/icons/605449136870916175/1353809c89af2f8245d07e536f1249e9.png?size=128)
-
 ![](https://cdn.discordapp.com/icons/605449136870916175/65bcb3da4d3ceba13563c6a082bf5813.png?size=128)
 
 **halgari** and entire **Wabbajack Team** for creating such a fantastic resource
