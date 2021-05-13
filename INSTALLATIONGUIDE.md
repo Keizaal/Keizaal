@@ -114,6 +114,8 @@ Alternatively, you can manually edit your base game's .ini files. You can do so 
 
 Several mods in Keizaal's Mod Organizer have notes attached to them. If the note icon appears next to a mod, hover over it to read the notes I've added. These notes will give you some additional context about how I have configured the mod.
 
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/5.%20Mod%20Notes.PNG)
+
 ## Updating
 
 If Keizaal receives an update, please check the changelog before doing anything. Always backup your saves or start a new game after updating. Updating is like installing. You only have to make sure that you select the same path and tick the "Overwrite Existing Modlist" button.
