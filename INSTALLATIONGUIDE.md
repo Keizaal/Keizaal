@@ -71,13 +71,15 @@ You will now have to launch Skyrim by selecting “Keizaal” from the drop-down
 
 There are several hotkeys that you should be aware of while playing Keizaal. Most of them can be edited via the in-game Mod Configuration Menu. The default keys are as follows:
 
-X - Toggle Compass
+**X** - Toggle Compass
 
-N - Toggle Mini Map
+**N** - Toggle Mini Map
 
-K - Zoom Mini Map
+**K** - Zoom Mini Map
 
-, - Call Horse
+**,** - Call Horse
+
+**Shift+F12** - Toggle ENB
 
 ### Mod Configuration
 
