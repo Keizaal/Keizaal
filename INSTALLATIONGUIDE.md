@@ -55,7 +55,7 @@ When you’re ready, press the triangular start button.
 
 After starting the installation a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log into and authorize Wabbajack on Nexus and the installation will proceed. Wabbajack will now install the modlist, this will take a while so be patient. When Wabbajack is finished, the left panel should say "Installation Complete". Keizaal is ready to play!
 
-### Playing Keizaal
+## Playing Keizaal
 
 Now that Keizaal has been installed you will need to launch Skyrim in a slightly different way.
 
@@ -67,7 +67,7 @@ You should now be on a screen that displays all of your installed mods on the le
 
 You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the right plugins pane and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
 
-## Hotkeys
+### Hotkeys
 
 There are several hotkeys that you should be aware of while playing Keizaal. Most of them can be edited via the in-game Mod Configuration Menu. The default keys are as follows:
 
