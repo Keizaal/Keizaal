@@ -8,8 +8,9 @@
 - [Setup](#setup)
   - [Clean Install](#clean-install)
 - [Keizaal Installation](#keizaal-installation)
-  - [Playing Keizaal](#playing-keizaal)
-  - [Mod Configuration](#mod-configuration)
+- [Playing Keizaal](#playing-keizaal)
+    - [Mod Configuration](#mod-configuration)
+    - [Hotkeys](#hotkeys)
 - [Additional Configuration (Optional)](#additional-configuration-optional)
   - [Optional Mods](#optional-mods)
   - [Settings](#settings)
@@ -67,6 +68,10 @@ You should now be on a screen that displays all of your installed mods on the le
 
 You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the right plugins pane and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
 
+### Mod Configuration
+
+All of the Mod Configuration Menus menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
+
 ### Hotkeys
 
 There are several hotkeys that you should be aware of while playing Keizaal. Most of them can be edited via the in-game Mod Configuration Menu. The default keys are as follows:
@@ -80,10 +85,6 @@ There are several hotkeys that you should be aware of while playing Keizaal. Mos
 **,** - Call Horse
 
 **Shift+F12** - Toggle ENB
-
-### Mod Configuration
-
-All of the Mod Configuration Menus menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
 
 ## Additional Configuration (Optional)
 
