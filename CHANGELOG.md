@@ -12,7 +12,6 @@
 - Added Immersive Interactions - Animated Actions
 - Added Unofficial Skyrim Modder's Patch - USMP SE
 - Removed Pet The Dog - Animations
-- Removed Quiet Dog
 
 ## [4.3.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.3.0/Keizaal.wabbajack)
 
