@@ -3,6 +3,54 @@
 
 ---
 
+### [4.4.0](https://github.com/Keizaal/Keizaal/releases/download/4.4.0/Keizaal.wabbajack)
+
+- Updated Dwemer Gates Don't Reset
+- Updated Immersive Interactions - Animated Actions
+- Updated Misc. SMIM Fixes
+- Updated Shirley - A Skyrim Follower Mod
+- Updated Skyrim Unbound Reborn (Alternate Start)
+- Updated Fixed Dragon Stalking Fix
+- Updated Scrambled Bugs
+- Added Arniel's Quest Speed-up
+- Added Children of the Sky
+- Added Chillwind Depths CTD Fix
+- Added Cow Calves in Skyrim by GreyFox77 - SSE Port
+- Added Drelas' Cottage
+- Added Forceful Tongue - Dragonborn Perk Tree
+- Added Forceful Tongue - Shouts Overhaul
+- Added Fugitive Piss Off
+- Added Gloomreach Navmesh Fix
+- Added Lucien - Room Markers for Dumzbthar
+- Added Mount Anthor Dragon Fix
+- Added Nilheim BQ Fix
+- Added Priests Grant Blessings
+- Added Realistic Dog Sounds
+- Added Respect for the Arch-Mage
+- Added Respect for the Legate
+- Added Source of Stalhrim Quest Fix
+- Added Suffer at Kynareth's
+- Added Taarie's Dialogue Fix
+- Added The Stumbling Sabrecat
+- Added Thieves Guild Dialogue Fix 0.2
+- Added Vigilance the Husky
+- Added WH Hall of the Dead Navmesh Fix
+- Added WE05 Script Fix
+- Added CHADD Uncapper Preset - Keizaal Cut
+- Added Custom Skills Framework
+- Added Simple Dual Sheath
+- Added Less Sarcastic Applause
+- Added EVG Animation Variance
+- Added Halldir's Cairn CTD Fix
+- Removed Engorged Robber's Gorge - A Lawbringer Module
+- Removed Extended UI for CHADD UPL
+- Removed Halted Stream Mine
+- Removed Unofficial Skyrim Modder's Patch - USMP SE
+- Removed Remove QuickSave Button from SkyUI System Menu
+- Removed All Geared Up Derivative SE - AllGUD
+- Removed Quiet Dog
+- Removed CHADD Uncapper Preset
+
 ### [4.3.1](https://github.com/Keizaal/Keizaal/releases/download/4.3.1/Keizaal.wabbajack)
 
 - Updated Ancient Nord Stalhrim
