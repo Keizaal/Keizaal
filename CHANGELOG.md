@@ -3,7 +3,7 @@
 
 ---
 
-### [4.4.0](https://github.com/Keizaal/Keizaal/releases/download/4.4.0/Keizaal.wabbajack)
+## [4.4.0](https://github.com/Keizaal/Keizaal/releases/download/4.4.0/Keizaal.wabbajack)
 
 - Updated Dwemer Gates Don't Reset
 - Updated Immersive Interactions - Animated Actions
