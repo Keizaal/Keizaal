@@ -3,6 +3,24 @@
 
 ---
 
+### [4.4.1](https://github.com/Keizaal/Keizaal/releases/download/4.4.1/Keizaal.wabbajack)
+
+- Updated Immersive Interactions - Animated Actions
+- Updated Shrine to Kyne
+- Updated Skyrim Unbound Reborn (Alternate Start)
+- Updated Font Overhaul - Natural Typefaces for Skyrim -- FONTS
+- Added Dog Meat Cooked
+- Added Faldar's Tooth Cooked Dinner
+- Added Hide Your Quests
+- Added Scribe of Skyrim compatibility Patch
+- Added Scribes of Skyrim - a font extension
+- Added Stendarr Rising - The Hall of the Vigilant Rebuild
+- Added Remove QuickSave Button from SkyUI System Menu]
+- Added Sovngarde - A Nordic Font]
+- Added Skyrim Priority SE - skse]
+- Added Shield animations (Captain America)
+- Added Right Sneak attack variations DAR
+
 ## [4.4.0](https://github.com/Keizaal/Keizaal/releases/download/4.4.0/Keizaal.wabbajack)
 
 - Updated Dwemer Gates Don't Reset
