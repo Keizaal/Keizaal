@@ -3,6 +3,34 @@
 
 ---
 
+### [4.4.2](https://github.com/Keizaal/Keizaal/releases/download/4.4.2/Keizaal.wabbajack)
+
+- Updated Cleaned Skyrim SE Textures  
+- Updated Cities of the North - Dawnstar Patch Collection
+- Updated Cities of the North - Winterhold Patch Collection
+- Updated Dwemer Gates Don't Reset
+- Updated Forceful Tongue - Dragonborn Perk Tree
+- Updated Forceful Tongue - Shouts Overhaul
+- Updated Scribe of Skyrim compatibility Patch
+- Updated Scribes of Skyrim - a font extension
+- Updated Shirley - A Skyrim Follower Mod
+- Updated Stendarr Rising - The Hall of the Vigilant Rebuild
+- Updated The Vigilants' New Clothes - A Creation Club Integration Mod
+- Updated Unquantum Forgemaster's Fingers
+- Updated powerofthree's Papyrus Extender
+- Updated Simple Dual Sheath
+- Updated Near Vanilla Project - College of Winterhold Floor
+- Added BA Bard Songs
+- Added Gladys the Corgi - A Custom Dog Follower Mod
+- Added Silence is Golden
+- Added Skyrim's Got Talent - Improve As a Bard
+- Added Unique Dragon Aspect
+- Added Particle Lights for ENB - Light Orbs - Motes
+- Added Remiros' Statues HD
+- Added Book Covers Skyrim - Business Ledger FIX
+- Added Remiros' Dunmer Urns HD
+- Removed Less Sarcastic Applause
+
 ### [4.4.1](https://github.com/Keizaal/Keizaal/releases/download/4.4.1/Keizaal.wabbajack)
 
 - Updated Immersive Interactions - Animated Actions
