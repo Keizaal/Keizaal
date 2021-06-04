@@ -3,7 +3,7 @@
 
 ---
 
-![](https://cdn.discordapp.com/avatars/362250920786132993/7e8fc40e8e418aac69daa52d59edb76e.png?size=128) 
+![](https://cdn.discordapp.com/avatars/362250920786132993/a316782ca020650eb2b27e966494b515.png?size=128) 
 
 **VictorF** for his constant support and helpful criticism regarding both Keizaal and my own mods
 
@@ -29,7 +29,7 @@
 
 ![](https://cdn.discordapp.com/avatars/423285435666530315/a_f89fc2d07d0d22899573e91064f574f2.png?size=128)
 
-![](https://cdn.discordapp.com/avatars/195326811125710848/102eb6e58e76e8a9deb78ab5ff4f53d4.png?size=128)
+![](https://cdn.discordapp.com/avatars/195326811125710848/61e8c23d07a5ae35ed392299e7efc3f8.png?size=128)
 
 **Total**,  **Lively**, and **Shelb** for helping me get the Wabbajack installer operational over several long nights
 
