@@ -17,6 +17,10 @@ If Wabbajack fails to download a mod, try downloading it manually. Place the man
 
 If you are still encountering issues try verifying the integrity of your game cache via Steam.
 
+### "*The Game Folder Files folder is missing*"
+
+Keizaal uses the [Stock Game system](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)), this means that the Game Folder Files step is no longer necessary.
+
 ### "*ModOrganizer.exe throws and error when trying to launch.*"
 
 Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
