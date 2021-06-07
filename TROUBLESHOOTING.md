@@ -19,7 +19,7 @@ If you are still encountering issues try verifying the integrity of your game ca
 
 ### "*The Game Folder Files folder is missing*"
 
-Keizaal uses the [Stock Game system](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)), this means that the Game Folder Files step is no longer necessary.
+Keizaal uses the [Stock Game system](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)), this means that the Game Folder Files step is not necessary.
 
 ### "*ModOrganizer.exe throws and error when trying to launch.*"
 
