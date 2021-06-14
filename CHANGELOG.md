@@ -3,6 +3,28 @@
 
 ---
 
+### [4.4.3](https://github.com/Keizaal/Keizaal/releases/download/4.4.3/Keizaal.wabbajack)
+
+- Updated Cannibal Draugr on Solstheim (Bloodmoon Creature Restoration Project)
+- Updated Chillwind Depths CTD Fix
+- Updated Cleaned Skyrim SE Textures
+- Updated Dlizzio's Mesh Fixes
+- Updated Dwemer Gates Don't Reset
+- Updated Forceful Tongue - Shouts Overhaul
+- Updated Skyrim Landscape and Water Fixes
+- Updated Skyrim's Got Talent - Improve As a Bard
+- Updated The Stumbling Sabrecat
+- Updated Unofficial Skyrim Special Edition Patch
+- Updated SSE Display Tweaks
+- Updated Scrambled Bugs
+- Updated Simple Dual Sheath
+- Updated Skyrim Priority SE - skse plugin
+- Added Potema's Minion Fixlet
+- Added Who Killed the Dragon - World Encounter
+- Added Forget Spell
+- Added Near Vanilla Project - Queen Bee Statue Redone
+- Added Particle Lights for ENB - Wisps - Witchlight
+
 ### [4.4.2](https://github.com/Keizaal/Keizaal/releases/download/4.4.2/Keizaal.wabbajack)
 
 - Updated Cleaned Skyrim SE Textures  
