@@ -3,15 +3,14 @@
 
 ---
 
-### [4.4.4](https://github.com/Keizaal/Keizaal/releases/download/4.4.4/Keizaal.wabbajack)
+## # [4.4.4](https://github.com/Keizaal/Keizaal/releases/download/4.4.4/Keizaal.wabbajack)
 
-- Added Ancient Nord Armo(u)ry EXTREME SE
-- Added Ancient Nord Armo(u)ry EXTREME SE
+- Updated Forget Spell
+- Removed A Quality World Map
 - Added Ancient Nord Armo(u)ry EXTREME SE
 - Added Volkihar - Silver Be Gone SE
 - Added powerofthree's Tweaks
 - Added Prestige World Map
-- Removed A Quality World Map
 
 ### [4.4.3](https://github.com/Keizaal/Keizaal/releases/download/4.4.3/Keizaal.wabbajack)
 
