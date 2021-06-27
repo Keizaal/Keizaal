@@ -3,7 +3,7 @@
 
 ---
 
-### [4.5.0](https://github.com/Keizaal/Keizaal/releases/download/4.5.0/Keizaal.wabbajack)
+## [4.5.0](https://github.com/Keizaal/Keizaal/releases/download/4.5.0/Keizaal.wabbajack)
 
 - Updated Adamant - A Perk Overhaul
 - Updated Aetherius - A Race Overhaul
