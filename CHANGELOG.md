@@ -3,7 +3,44 @@
 
 ---
 
-## # [4.4.4](https://github.com/Keizaal/Keizaal/releases/download/4.4.4/Keizaal.wabbajack)
+### [4.5.0](https://github.com/Keizaal/Keizaal/releases/download/4.5.0/Keizaal.wabbajack)
+
+- Updated Adamant - A Perk Overhaul
+- Updated Aetherius - A Race Overhaul
+- Updated Daedric Shrines of Skyrim
+- Updated Forceful Tongue - Dragonborn Perk Tree
+- Updated Forceful Tongue - Shouts Overhaul
+- Updated iEquip
+- Updated Mundus - A Standing Stone Overhaul
+- Updated Real Rabbits HD - Color Variants and High Poly Mesh with Fur
+- Updated Scion - A Vampire Overhaul
+- Updated Shadows Of Sunlight - In Small Exterior World Spaces
+- Updated Silence is Golden
+- Updated Skyrim's Got Talent - Improve As a Bard
+- Updated Stendarr Rising - The Hall of the Vigilant Rebuild
+- Updated Toxic - A Venom Mod
+- Updated Forget Spell
+- Updated NPC AI Process Position Fix - SSE
+- Updated Scrambled Bugs
+- Updated Simple Dual Sheath
+- Updated Skyrim Priority SE - skse plugin
+- Updated Assorted mesh fixes
+- Updated Markarth - A Reflective Experience
+- Removed Cleaned Skyrim SE Textures
+- Removed Skyrim Coin Replacer Redux   
+- Removed Cathedral - Mushrooms
+- Removed Cathedral - Plants
+- Removed Project Clarity AIO - Skyrim Textures Redone
+- Added Base Coat
+- Added C.O.I.N. - Coins of Interesting Natures
+- Added Courier Shows Delivery SE
+- Added Footstep Sounds Restored - Cut Content Restoration
+- Added Hide Quest Items in Container Menu
+- Added Sweeping Organizes Stuff - Use Broom to Clean Mess
+- Added High Poly Canticle Tree
+- Added Particle Lights for ENB - Staff Enchanter
+
+### [4.4.4](https://github.com/Keizaal/Keizaal/releases/download/4.4.4/Keizaal.wabbajack)
 
 - Updated Forget Spell
 - Removed A Quality World Map
