@@ -3,6 +3,28 @@
 
 ---
 
+## [4.5.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.1/Keizaal.wabbajack)
+
+- Updated Adamant - A Perk Overhaul
+- Updated C.O.I.N. - Coins of Interesting Natures
+- Updated Conditional Expressions - Subtle Face Animations
+- Updated Dlizzio's Mesh Fixes
+- Updated Extended Encounters
+- Updated lilebonymace's patches xEdit scripts and stuff
+- Updated More Informative Console
+- Updated powerofthree's Papyrus Extender
+- Removed Bleak falls barrow - Revisited
+- Removed Embershard Mine - Revisited
+- Removed Obsidian Weathers and Seasons MCM Patch
+- Removed Obsidian Weathers and Seasons
+- Removed Steepfall Burrow - Revisited
+- Removed Ustengrav - Revisited
+- Removed White River Watch - Revisited
+- Added Cathedral Weathers and Seasons
+- Added Cathedral Weathers MCM
+- Added Dungeons - Revisited
+- Added Headhunter - Bounties Redone
+
 ## [4.5.0](https://github.com/Keizaal/Keizaal/releases/download/4.5.0/Keizaal.wabbajack)
 
 - Updated Adamant - A Perk Overhaul
