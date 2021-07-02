@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Installation Guide
+---
 # Table of Contents
 - [Information](#information)
 - [Setup](#setup)

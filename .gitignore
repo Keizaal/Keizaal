@@ -1,3 +1,7 @@
 author-api-key.txt
 Keizaal.wabbajack
 backup/
+
+# Jekyll local build output
+/.jekyll-cache/*
+/_site/*

@@ -1,4 +1,7 @@
-
+---
+layout: default
+title: Troubleshooting
+---
 ### "*Wabbajack throws an error after authorizing through Nexus.*"
 
 Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkId=2085155). Be sure to restart your computer afterward.
