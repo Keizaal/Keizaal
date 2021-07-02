@@ -1,5 +1,11 @@
 ---
 ---
+
+/* Something in GitHub Pages' build system is automatically setting this to 
+   border-box for all elements, without any documentation or any indication 
+   as to what's doing it. */
+* { box-sizing:initial; }
+
 $base-back-color: #222222 !default;
 $base-text-color: #FBF8F1 !default;
 $base-link-color: #28c3e6 !default;

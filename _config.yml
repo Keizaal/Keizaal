@@ -1,4 +1,5 @@
 title: Keizaal
+theme: jekyll-theme-empty
 description: A Simple Modlist
 show_downloads: true
 wabbajack:
@@ -19,3 +20,7 @@ kramdown:
   input: GFM
 plugins:
   - jekyll-seo-tag
+utterances:
+  repo: Keizaal/Keizaal-Testimonials
+  issue_number: 1
+  theme: github-dark
