@@ -1,5 +1,5 @@
 title: Keizaal
-theme: jekyll-theme-empty
+remote_theme: DavidJCobb/empty-jekyll-theme
 description: A Simple Modlist
 show_downloads: true
 wabbajack:
