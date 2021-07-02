@@ -1,8 +1,4 @@
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png)
-
----
-
 ### "*Wabbajack throws an error after authorizing through Nexus.*"
 
 Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkId=2085155). Be sure to restart your computer afterward.
