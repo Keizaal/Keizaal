@@ -1,5 +1,5 @@
-theme: jekyll-theme-dinky
 title: Keizaal
+theme: null
 description: A Simple Modlist
 show_downloads: true
 wabbajack:
@@ -15,3 +15,12 @@ pages:
   credits_url: https://pierredespereaux.github.io/Keizaal/CREDITS.html
 reshade:
   license:
+markdown: kramdown
+kramdown:
+  input: GFM
+plugins:
+  - jekyll-seo-tag
+utterances:
+  repo: Keizaal/Keizaal-Testimonials
+  issue_number: 1
+  theme: github-dark

@@ -1,8 +1,7 @@
-
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png)
-
 ---
-
+layout: default
+title: Changelog
+---
 ## [4.5.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.1/Keizaal.wabbajack)
 
 - Updated Adamant - A Perk Overhaul
