@@ -24,3 +24,6 @@ utterances:
   repo: Keizaal/Keizaal-Testimonials
   issue_number: 1
   theme: github-dark
+# utterances.theme may be confusing GitHub Pages?
+# repeat this here:
+theme: null
