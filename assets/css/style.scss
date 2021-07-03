@@ -11,9 +11,6 @@ $sidebar-text-color: #FBF8F1 !default;
 $header-text-color: #FBF8F1 !default;
 $header-line-color: #CCCCCC !default;
 
-{% if site.theme %}
-@import "{{ site.theme }}";
-{% endif %}
 @import url('https://fonts.googleapis.com/css?family=Arvo:400,700,400italic');
 
 @mixin screen-reader {
