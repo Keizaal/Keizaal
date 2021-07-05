@@ -14,7 +14,11 @@ Simply restart Wabbajack, you will not lose progress on your downloads.
 
 If Wabbajack fails to download a mod, try downloading it manually. Place the manually downloaded mod in your downloads folder where the other Wabbajack downloads are in your Mod Organizer. Do not extract them. Note that some of these are big files and may take a while.
 
-If you are still encountering issues try verifying the integrity of your game cache via Steam.
+If you are still encountering issues try turning the "Use Network Workaround" setting in the Wabbajack client on.
+
+### "*A vanilla file fails to install.*"
+
+If a file like `Skyrim_Default.ini` or `Skyrim - Meshes0.bsa` fils to install verify Skyrim's local cache via Steam.
 
 ### "*There are no relevant files inside the Game Folder Files folder.*"
 
