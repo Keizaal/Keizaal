@@ -20,7 +20,7 @@ If you are still encountering issues try turning the "Use Network Workaround" se
 
 These are very large downloads that Wabbajack will occasionally have trouble downloading. You can download them manually from the links below:
 
-- [Keizaal - LODS](https://mega.nz/file/jRcUyJZA#4fCwTgArvutHa-_VJcQoh7qVHyLv2O9PLpJgbYai9GE)
+- [Keizaal - LODs](https://mega.nz/file/jRcUyJZA#4fCwTgArvutHa-_VJcQoh7qVHyLv2O9PLpJgbYai9GE)
 - [Keizaal - Gass Cache](https://mega.nz/file/OEUwBZxI#G6X8dC2qB3sYj1yd8Ve-ykKmrPI9p7639SsnDGYF2YE)
 
 ### "*A vanilla file fails to install.*"
