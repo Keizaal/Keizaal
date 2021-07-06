@@ -14,7 +14,7 @@ Simply restart Wabbajack, you will not lose progress on your downloads.
 
 If Wabbajack fails to download a mod, try downloading it manually. Place the manually downloaded mod in your downloads folder where the other Wabbajack downloads are in your Mod Organizer. Do not extract them. Note that some of these are big files and may take a while.
 
-If you are still encountering issues try enabling the "Network Workaround" in Wabbajack settings.
+If you are still encountering issues try enabling "Use Network Workaround" in the Wabbajack client's settings.
 
 ![](https://i.ibb.co/FDPDrfk/Discord-VPN.png)
 
