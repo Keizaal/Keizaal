@@ -16,9 +16,20 @@ If Wabbajack fails to download a mod, try downloading it manually. Place the man
 
 If you are still encountering issues try turning the "Use Network Workaround" setting in the Wabbajack client on.
 
+### "*Keizaal - LODs and Keizaal - Grass Cache will not download.*"
+
+These are very large downloads that Wabbajack will occasionally have trouble downloading. You can download them manually from the links below:
+
+- [Keizaal - LODS](https://mega.nz/file/jRcUyJZA#4fCwTgArvutHa-_VJcQoh7qVHyLv2O9PLpJgbYai9GE)
+- [Keizaal - Gass Cache](https://mega.nz/file/OEUwBZxI#G6X8dC2qB3sYj1yd8Ve-ykKmrPI9p7639SsnDGYF2YE)
+
 ### "*A vanilla file fails to install.*"
 
-If a file like `Skyrim_Default.ini` or `Skyrim - Meshes0.bsa` fils to install verify Skyrim's local cache via Steam.
+If a file like `Skyrim - Meshes0.bsa` fails to install verify Skyrim's local cache via Steam.
+
+### "*Skyrim_Default.ini fails to install.*"
+
+Ensure that Skyrim's lanague is set to English in Steam.
 
 ### "*There are no relevant files inside the Game Folder Files folder.*"
 
