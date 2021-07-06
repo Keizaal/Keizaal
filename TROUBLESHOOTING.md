@@ -35,7 +35,7 @@ Ensure that Skyrim's lanague is set to English in Steam.
 
 ### "*There are no relevant files inside the Game Folder Files folder.*"
 
-Keizaal uses the [Stock Game system](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)), this means that the Game Folder Files step is not necessary.
+Keizaal uses the [Stock Game system](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)){:target="_blank" rel="noopener"}, this means that the Game Folder Files step is not necessary.
 
 ### "*ModOrganizer.exe throws and error when trying to launch.*"
 
