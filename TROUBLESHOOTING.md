@@ -14,7 +14,7 @@ Simply restart Wabbajack, you will not lose progress on your downloads.
 
 If Wabbajack fails to download a mod, try downloading it manually. Place the manually downloaded mod in your downloads folder where the other Wabbajack downloads are in your Mod Organizer. Do not extract them. Note that some of these are big files and may take a while.
 
-If you are still encountering issues try turning the "Use Network Workaround" setting in the Wabbajack client on.
+If you are still encountering issues try turning the "Use Network Workaround" setting on in the Wabbajack client.
 
 ### "*Keizaal - LODs and Keizaal - Grass Cache will not download.*"
 
