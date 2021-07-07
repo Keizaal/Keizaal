@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 ---
-## [4.5.1.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.1.1/Keizaal.wabbajack)
+#### [4.5.1.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.1.1/Keizaal.wabbajack)
 
 - Updated Nilheim BQ Fix
 - Removed Birds and Flocks SSE Edition
@@ -11,7 +11,7 @@ title: Changelog
 - Removed Right Sneak attack variations DAR
 - Added UNDERDOG - Animations
 
-## [4.5.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.1/Keizaal.wabbajack)
+### [4.5.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.1/Keizaal.wabbajack)
 
 - Updated Adamant - A Perk Overhaul
 - Updated C.O.I.N. - Coins of Interesting Natures
