@@ -2,6 +2,10 @@
 layout: default
 title: Changelog
 ---
+### [4.5.2.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.2.1/Keizaal.wabbajack)
+
+- Added Apothecary - An Alchemy Overhaul
+
 ### [4.5.2](https://github.com/Keizaal/Keizaal/releases/download/4.5.2/Keizaal.wabbajack)
 
 - Updated Dlizzio's Mesh Fixes
