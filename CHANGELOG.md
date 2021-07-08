@@ -2,6 +2,21 @@
 layout: default
 title: Changelog
 ---
+### [4.5.2](https://github.com/Keizaal/Keizaal/releases/download/4.5.2/Keizaal.wabbajack)
+
+- Updated Dlizzio's Mesh Fixes
+- Updated Dwemer Gates Don't Reset
+- Updated Headhunter - Bounties Redone
+- Updated Hide Quest Items in Container Menu
+- Updated Just Blood - Dirt and Blood Lite
+- Updated Skyrim's Got Talent - Improve As a Bard
+- Updated Sweeping Organizes Stuff - Use Broom to Clean Mess
+- Updated UNDERDOG - Animations
+- Updated Simple Dual Sheath
+- Updated Prestige World Map 2.0
+- Added Unique Quill of Gemination
+- Added Unique Skulls HD - SE
+
 #### [4.5.1.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.1.1/Keizaal.wabbajack)
 
 - Updated Nilheim BQ Fix
