@@ -2,6 +2,14 @@
 layout: default
 title: Changelog
 ---
+### [4.5.2.2](https://github.com/Keizaal/Keizaal/releases/download/4.5.2.2/Keizaal.wabbajack)
+
+- Updated Adamant - A Perk Overhaul
+- Updated Apothecary - An Alchemy Overhaul
+- Removed Halted Stream Mine - Revisied (made redundant with Dungeons - Revisited)
+- Removed Project Clarity AIO (made redudant with Base Coat)
+- Fixed incorrect ownership in Bluesky Manor
+
 ### [4.5.2.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.2.1/Keizaal.wabbajack)
 
 - Added Apothecary - An Alchemy Overhaul
