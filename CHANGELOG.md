@@ -2,7 +2,23 @@
 layout: default
 title: Changelog
 ---
-### [4.5.2.2](https://github.com/Keizaal/Keizaal/releases/download/4.5.2.2/Keizaal.wabbajack)
+### [4.5.2.2](https://github.com/Keizaal/Keizaal/releases/download/4.5.3/Keizaal.wabbajack)
+
+- Updated Apothecary - An Alchemy Overhaul
+- Updated Shadows Of Sunlight - In Small Exterior World Spaces
+- Updated Assorted mesh fixes
+- Removed Prestige World Map
+- Removed unsupported Creation Club content
+- Added A Quality World Map
+- Added Atronach Friendly Fire
+- Added Labyrinthian Shalidor's Maze Fixes
+- Added Winterhold Keep Tweaks for COTN
+- Added Typography for Skyrim SE
+- Added Animated Forge Water
+- Added Don't Stay in The Water
+- Added Particle Lights for ENB - Nordic Ruins Candles
+
+#### [4.5.2.2](https://github.com/Keizaal/Keizaal/releases/download/4.5.2.2/Keizaal.wabbajack)
 
 - Updated Adamant - A Perk Overhaul
 - Updated Apothecary - An Alchemy Overhaul
@@ -10,7 +26,7 @@ title: Changelog
 - Removed Project Clarity AIO (made redudant with Base Coat)
 - Fixed incorrect ownership in Bluesky Manor
 
-### [4.5.2.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.2.1/Keizaal.wabbajack)
+#### [4.5.2.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.2.1/Keizaal.wabbajack)
 
 - Added Apothecary - An Alchemy Overhaul
 
