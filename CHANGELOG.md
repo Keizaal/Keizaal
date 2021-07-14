@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 ---
-### [4.5.2.2](https://github.com/Keizaal/Keizaal/releases/download/4.5.3/Keizaal.wabbajack)
+### [4.5.3](https://github.com/Keizaal/Keizaal/releases/download/4.5.3/Keizaal.wabbajack)
 
 - Updated Apothecary - An Alchemy Overhaul
 - Updated Shadows Of Sunlight - In Small Exterior World Spaces
