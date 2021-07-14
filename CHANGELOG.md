@@ -13,7 +13,6 @@ title: Changelog
 - Added Atronach Friendly Fire
 - Added Labyrinthian Shalidor's Maze Fixes
 - Added Winterhold Keep Tweaks for COTN
-- Added Typography for Skyrim SE
 - Added Animated Forge Water
 - Added Don't Stay in The Water
 - Added Particle Lights for ENB - Nordic Ruins Candles
