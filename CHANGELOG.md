@@ -2,6 +2,31 @@
 layout: default
 title: Changelog
 ---
+### [4.5.4](https://github.com/Keizaal/Keizaal/releases/download/4.5.4/Keizaal.wabbajack)
+- Updated Adamant - A Perk Overhaul
+- Updated Apothecary - An Alchemy Overhaul
+- Updated BA Bard Songs
+- Updated Dwemer Gates Don't Reset
+- Updated Forceful Tongue - Dragonborn Perk Tree
+- Updated Headhunter - Bounties Redone
+- Updated Mainland Stalhrim - Lite Edition
+- Updated Scion - A Vampire Overhaul
+- Updated Shirley - A Skyrim Follower Mod
+- Updated Skyrim Unbound Reborn (Alternate Start)
+- Updated Toxic - A Venom Mod
+- Updated UNDERDOG - Animations
+- Updated Unique Skulls HD - SE
+- Updated powerofthree's Papyrus Extender
+- Updated Animated Forge Water
+- Updated High Poly Gleamblossoms
+- Updated Assorted mesh fixes
+- Removed Chillwind Depths CTD Fix
+- Removed First Person Camera Height Fix
+- Removed Footstep Sounds Restored - Cut Content Restoration
+- Removed Skyrim Realistic Overhaul
+- Added On the Crimson Trail Beta
+- Added Canis Hysteria Beta
+
 ### [4.5.3](https://github.com/Keizaal/Keizaal/releases/download/4.5.3/Keizaal.wabbajack)
 
 - Updated Apothecary - An Alchemy Overhaul
