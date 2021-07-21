@@ -129,7 +129,7 @@ Keizaal has an additional Creation Club addon. This addon includes several mods 
 - [Netch Leather Armor](https://en.uesp.net/wiki/Skyrim:Netch_Leather_Armor)
   - With [Morrowind Threads](https://www.nexusmods.com/skyrimspecialedition/mods/45352)
 - [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios)
-- With [Rare Curios - Bolts Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/39903) and [Rare Curios Begone - Welkynd Varla and Madness Amber Ore Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44881)
+  - With [Rare Curios - Bolts Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/39903) and [Rare Curios Begone - Welkynd Varla and Madness Amber Ore Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44881)
 - [Vigil Enforcer Pack](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set)
   - With [Vigilant's New Clothes](https://www.nexusmods.com/skyrimspecialedition/mods/31991)
 
