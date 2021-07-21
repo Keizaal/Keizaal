@@ -102,7 +102,7 @@ I will try to assist you in enabling these optional mods, however if you make ch
 
 Keizaal has an additional Creation Club addon. This addon includes several mods that improve and better integration a handful of Creation Club content into Skyrim. The following creations are supported with their respective integration mods:
 
-- [Alternative Armors](https://en.uesp.net/wiki/Skyrim:Creation_Club_Quests) + [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere)
+- [Alternative Armors Series](https://en.uesp.net/wiki/Skyrim:Creation_Club_Quests) + [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere)
   - With [On the Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647)
 - [Dead Man's Dread](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Dread)
   - With [Pirate's Life for Me](https://www.nexusmods.com/skyrimspecialedition/mods/35163)
