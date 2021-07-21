@@ -12,6 +12,7 @@ title: Installation Guide
     - [Hotkeys](#hotkeys)
 - [Additional Configuration (Optional)](#additional-configuration-optional)
   - [Optional Mods](#optional-mods)
+  - [Creation Club Content](#creation-club-content)
   - [Settings](#settings)
   - [Mod Notes](#mod-notes)
 - [Updating](#updating)
