@@ -97,6 +97,41 @@ There are a handful of mods that I have included that are disabled by default; t
 
 I will try to assist you in enabling these optional mods, however if you make changes to Keizaal outside of these few mods I will not be able to help you. Any personal edits you make to this list must be done independently.
 
+### Creation Club Content
+
+Keizaal has an additional Creation Club addon. This addon includes several mods that improve and better integration a handful of Creation Club content into Skyrim. The following creations are supported with their respective integration mods:
+
+- [Alternative Armors - Daedric Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Daedric_Mail)
+  - With [On the Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647)
+- [Alternative Armors - Dragonscale](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dragonscale)
+  - With [On the Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647)
+- [Alternative Armors - Dwarven Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dwarven_Mail)
+  - With [On the Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647)
+- [Alternative Armors - Ebony Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Ebony_Plate)
+  - With [On the Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647)
+- [Alternative Armors - Elven Hunter](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Elven_Hunter)
+  - With [On the Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647)
+- [Alternative Armors - Stalhrim Fur](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Stalhrim_Fur)
+  - With [On the Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647)
+- [Alternative Armors - Steel Soldier](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Steel_Soldier)
+  - With [On the Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647)
+- [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere)
+  - With [On the Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647)
+- [Dead Man's Dread](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Dread)
+  - With [Pirate's Life for Me](https://www.nexusmods.com/skyrimspecialedition/mods/35163)
+- [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader)
+  - With [Knight of the North](https://www.nexusmods.com/skyrimspecialedition/mods/45869)
+- [Elite Crossbows](https://en.uesp.net/wiki/Skyrim:Elite_Crossbows)
+  - With [Thwack!](https://www.nexusmods.com/skyrimspecialedition/mods/42653/)
+- [Expanded Crossbow Pack](https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack)
+  - With [Thwack!](https://www.nexusmods.com/skyrimspecialedition/mods/42653/)
+- [Netch Leather Armor](https://en.uesp.net/wiki/Skyrim:Netch_Leather_Armor)
+  - With [Morrowind Threads](https://www.nexusmods.com/skyrimspecialedition/mods/45352)
+- [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios)
+- With [Rare Curios - Bolts Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/39903) and [Rare Curios Begone - Welkynd Varla and Madness Amber Ore Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44881)
+- [Vigil Enforcer Pack](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set)
+  - With [Vigilant's New Clothes](https://www.nexusmods.com/skyrimspecialedition/mods/31991)
+
 ### Settings
 
 If you want to edit some of Skyrim's settings you can do so by pressing the gear button in the top right-hand corner of Mod Organizer.
