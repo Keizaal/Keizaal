@@ -2,6 +2,29 @@
 layout: default
 title: Changelog
 ---
+### [4.6.0](https://github.com/Keizaal/Keizaal/releases/download/4.6.0/Keizaal.wabbajack)
+- Updated [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439/?tab=files&file_id=216049)
+- Updated [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276/?tab=files&file_id=215959)
+- Updated [Headhunter - Bounties Redone](https://www.nexusmods.com/skyrimspecialedition/mods/51847/?tab=files&file_id=215260)
+- Updated [Perfect Terrain LOD](https://www.nexusmods.com/skyrimspecialedition/mods/39563/?tab=files&file_id=160142)
+- Updated [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=215108)
+- Removed [aMidianBorn Armor Variants Lite](https://www.nexusmods.com/skyrimspecialedition/mods/45160/?tab=files&file_id=188884)
+- Removed [Ancient Nord Armo(u)ry EXTREME SE](https://www.nexusmods.com/skyrimspecialedition/mods/41265/?tab=files&file_id=197754)
+- Removed [Classic Morrowind Morag Tong armor replacer SSE](https://www.nexusmods.com/skyrimspecialedition/mods/18013/?tab=files&file_id=57408)
+- Removed [Cow Calves in Skyrim by GreyFox77 - SSE Port](https://www.nexusmods.com/skyrimspecialedition/mods/49256/?tab=files&file_id=200905)
+- Removed [Daedric Shrines of Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/49366/?tab=files&file_id=210309)
+- Removed [Delphine's Map Reveals Dragon Mounds](https://www.nexusmods.com/skyrimspecialedition/mods/26301/?tab=files&file_id=94792)
+- Removed [Forceful Tongue - Dragonborn Perk Tree](https://www.nexusmods.com/skyrimspecialedition/mods/41950/?tab=files&file_id=211537)
+- Removed [Give Beggars Food](https://www.nexusmods.com/skyrim/mods/76544/?tab=files&file_id=1000210767)
+- Removed [Improved Hearthfire Lighting SE](https://www.nexusmods.com/skyrimspecialedition/mods/721/?tab=files&file_id=90442)
+- Removed [Relationship Change Notifications](https://www.nexusmods.com/skyrimspecialedition/mods/34670/?tab=files&file_id=134992)
+- Removed [Storefront](https://www.nexusmods.com/skyrimspecialedition/mods/364/?tab=files&file_id=100010)
+- Removed [Swift Steeds Shadowmere](https://www.nexusmods.com/skyrimspecialedition/mods/867/?tab=files&file_id=30053)
+- Removed [The Shadow Scale Set 2.0 for SSE](https://www.nexusmods.com/skyrimspecialedition/mods/4410/?tab=files&file_id=9333)
+- Removed [Shiny Surface Fix for Skyrim Realistic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/32923/?tab=files&file_id=125198)
+- Added [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397/?tab=files&file_id=215841)
+- Added [Shadowmere Rework](https://www.nexusmods.com/skyrimspecialedition/mods/42135/?tab=files&file_id=169111)
+
 ### [4.5.4](https://github.com/Keizaal/Keizaal/releases/download/4.5.4/Keizaal.wabbajack)
 - Updated Adamant - A Perk Overhaul
 - Updated Apothecary - An Alchemy Overhaul
