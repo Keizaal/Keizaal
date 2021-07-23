@@ -20,9 +20,7 @@ If you are still encountering issues try enabling "Use Network Workaround" in th
 
 ### "*Keizaal - LODs will not download.*"
 
-This is a very large file that Wabbajack will occasionally have trouble downloading. You can download it manually from the link below:
-
-- [Keizaal - LODs](dead-link){:target="_blank" rel="noopener"}
+This is a very large file that Wabbajack will occasionally have trouble downloading. You can download it manually [here](dead-link){:target="_blank" rel="noopener"}.
 
 ### "*A vanilla file fails to install.*"
 
