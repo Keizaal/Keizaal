@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 ---
-### [4.6.0](https://github.com/Keizaal/Keizaal/releases/download/4.6.0/Keizaal.wabbajack)
+## [4.6.0](https://github.com/Keizaal/Keizaal/releases/download/4.6.0/Keizaal.wabbajack)
 - Updated [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439/?tab=files&file_id=216049)
 - Updated [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276/?tab=files&file_id=215959)
 - Updated [Headhunter - Bounties Redone](https://www.nexusmods.com/skyrimspecialedition/mods/51847/?tab=files&file_id=215260)
