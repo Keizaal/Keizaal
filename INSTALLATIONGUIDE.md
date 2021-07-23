@@ -12,6 +12,7 @@ title: Installation Guide
     - [Hotkeys](#hotkeys)
 - [Additional Configuration (Optional)](#additional-configuration-optional)
   - [Optional Mods](#optional-mods)
+    - [Enabling iEquip](#enabling-iequip)
   - [Creation Club Content](#creation-club-content)
   - [Settings](#settings)
   - [Mod Notes](#mod-notes)
@@ -97,6 +98,12 @@ There are a handful of mods that I have included that are disabled by default; t
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
 
 I will try to assist you in enabling these optional mods, however if you make changes to Keizaal outside of these few mods I will not be able to help you. Any personal edits you make to this list must be done independently.
+
+#### Enabling iEquip
+
+iEquip is a mod that isn't for everyone, as such it is disabled by default. However, re-enabling it is a more involved process than most mods. I will detail the required steps here.
+
+
 
 ### Creation Club Content
 
