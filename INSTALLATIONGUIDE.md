@@ -85,6 +85,8 @@ There are several hotkeys that you should be aware of while playing Keizaal. Mos
 
 **,** - Call Horse
 
+**Shift+Enter** - Toggle ENB Settings Menu
+
 **Shift+F12** - Toggle ENB
 
 ## Additional Configuration (Optional)
