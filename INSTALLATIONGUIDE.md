@@ -101,7 +101,7 @@ I will try to assist you in enabling these optional mods, however if you make ch
 
 #### Enabling iEquip
 
-iEquip is a mod that isn't for everyone, as such it is disabled by default. However, re-enabling it is a more involved process than most mods. I will detail the required steps here.
+[Equip](https://www.nexusmods.com/skyrimspecialedition/mods/27008) is a mod that isn't for everyone, as such it is disabled by default. However, re-enabling it is a more involved process than most mods. I will detail the required steps here.
 
 First you will need to open the MCM menu and navigate to iEquip. Go to the first tab and click the "iEquip On/Off" checkbox.
 
