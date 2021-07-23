@@ -103,7 +103,7 @@ I will try to assist you in enabling these optional mods, however if you make ch
 
 [Equip](https://www.nexusmods.com/skyrimspecialedition/mods/27008) is a mod that isn't for everyone, as such it is disabled by default. However, re-enabling it is a more involved process than most mods. I will detail the required steps here.
 
-First you will need to open the MCM menu and navigate to iEquip. Go to the first tab and click the "iEquip On/Off" checkbox.
+Unlike other optional mods, iEquip will already be enabled by default, but the mod won't be running. To turn it on you will need to open the MCM menu and navigate to iEquip. Go to the first tab and click the "iEquip On/Off" checkbox.
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/Enable%20iEquip/1.%20Enable%20iEquip.png)
 
