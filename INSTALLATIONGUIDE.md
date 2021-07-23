@@ -111,7 +111,7 @@ Exit the menu back into the game wait for the following dialog box to pop up:
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/Enable%20iEquip/2.%20Enabled%20Dialog.png)
 
-We will now apply Keizaal's default MCM settings. Reopen the MCM and navigate to the bottom tab "Profiles & Information". Find the "Load MCM settings from preset" option under the "MCM Profiles" section. Click it and select the "Keizaal" option.
+We will now apply Keizaal's default MCM settings. Reopen the MCM and navigate to the bottom tab "Profiles & Information". Find the "Load MCM settings from preset" option under the "MCM Profiles" section. Click it and select the "Keizaal" option and press Tab.
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/Enable%20iEquip/3.%20Load%20Preset.png)
 
