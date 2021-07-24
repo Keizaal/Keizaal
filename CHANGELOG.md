@@ -8,6 +8,8 @@ title: Changelog
 - Updated [Headhunter - Bounties Redone](https://www.nexusmods.com/skyrimspecialedition/mods/51847/?tab=files&file_id=215260)
 - Updated [Perfect Terrain LOD](https://www.nexusmods.com/skyrimspecialedition/mods/39563/?tab=files&file_id=160142)
 - Updated [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=215108)
+- Updated [Immersive Interactions - Animated Actions](https://www.nexusmods.com/skyrimspecialedition/mods/47670/?tab=files&file_id=216213)
+- Updated [Gladys the Corgi - A Custom Dog Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/50164/?tab=files&file_id=216353)
 - Removed [aMidianBorn Armor Variants Lite](https://www.nexusmods.com/skyrimspecialedition/mods/45160/?tab=files&file_id=188884)
 - Removed [Ancient Nord Armo(u)ry EXTREME SE](https://www.nexusmods.com/skyrimspecialedition/mods/41265/?tab=files&file_id=197754)
 - Removed [Classic Morrowind Morag Tong armor replacer SSE](https://www.nexusmods.com/skyrimspecialedition/mods/18013/?tab=files&file_id=57408)
