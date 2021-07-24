@@ -24,6 +24,10 @@ title: Changelog
 - Removed [Shiny Surface Fix for Skyrim Realistic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/32923/?tab=files&file_id=125198)
 - Added [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397/?tab=files&file_id=215841)
 - Added [Shadowmere Rework](https://www.nexusmods.com/skyrimspecialedition/mods/42135/?tab=files&file_id=169111)
+- Added [Sharpen Other Swords](https://www.nexusmods.com/skyrimspecialedition/mods/52723/?tab=files&file_id=216135)
+- Added [Re-enable ENB on Loading and Title Screens](https://www.nexusmods.com/skyrimspecialedition/mods/52661?tab=files&file_id=215804)
+- Added [aMidianBorn farmhouse and roads stonewall](https://www.nexusmods.com/skyrim/mods/59091?tab=files&file_id=1000131238)
+- Added [Navigator - Navmesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52641/?tab=files&file_id=215709)
 
 ### [4.5.4](https://github.com/Keizaal/Keizaal/releases/download/4.5.4/Keizaal.wabbajack)
 - Updated Adamant - A Perk Overhaul
