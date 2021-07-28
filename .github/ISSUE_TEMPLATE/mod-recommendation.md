@@ -7,6 +7,9 @@ assignees: ''
 
 ---
 
+**Discord Username**
+Put your Discord username here.
+
 **Mod name**
 The name of the mod.
 
