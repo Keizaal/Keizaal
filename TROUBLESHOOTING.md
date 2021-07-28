@@ -66,7 +66,7 @@ During every update Wabbajack will clean out the mods folder to ensure that ever
 
 Note that I **WILL NOT** provide support to installations of Keizaal that have been modified.
 
-### "*Tweaks made with Settings aren't correctly changing the settings in-game.*"
+### "*.ini and .txt configuration files aren't present in the mod's folder.*"
 
 The Settings application can handle the majority of tweaks that you would generally want to make. However, some of the more niche settings may be handled by .inis that Settings can't edit. These will need to be edited manually.
 
