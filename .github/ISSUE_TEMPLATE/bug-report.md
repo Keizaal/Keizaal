@@ -9,7 +9,8 @@ assignees: PierreDespereaux
 
 **If you are reporting a crash to desktop, please attach your NET Script Framework crash log. This can be found in MO2's Overwrite folder. If possible, please also attach a copy of your most recent save before the issue occurred.**
 
-Please check back on your bug request periodically. I will ask for more details sometimes and if they are not provided I will eventually close the bug report.
+**Discord Username**
+Put your Discord username here.
 
 **Keizaal version**
 Put the version of the list you are on here.
