@@ -2,6 +2,10 @@
 layout: default
 title: Changelog
 ---
+#### [4.6.0](https://github.com/Keizaal/Keizaal/releases/download/4.6.0.1/Keizaal.wabbajack)
+- Updated [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397/?tab=files&file_id=217169)
+- Added [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
+
 ## [4.6.0](https://github.com/Keizaal/Keizaal/releases/download/4.6.0/Keizaal.wabbajack)
 - Updated [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439/?tab=files&file_id=216049)
 - Updated [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276/?tab=files&file_id=215959)
