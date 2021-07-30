@@ -2,7 +2,12 @@
 layout: default
 title: Changelog
 ---
-#### [4.6.0](https://github.com/Keizaal/Keizaal/releases/download/4.6.0.1/Keizaal.wabbajack)
+### [4.6.1](https://github.com/Keizaal/Keizaal/releases/download/4.6.1/Keizaal.wabbajack)
+- Added [Crystal Mudcrabs - A Creature Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52981/?tab=files&file_id=217436)
+- Added [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984/?tab=files&file_id=217488)
+- Added [Skeleton Replacer HD - SE](https://www.nexusmods.com/skyrimspecialedition/mods/52845/?tab=files&file_id=216765)
+
+#### [4.6.0.1](https://github.com/Keizaal/Keizaal/releases/download/4.6.0.1/Keizaal.wabbajack)
 - Updated [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397/?tab=files&file_id=217169)
 - Added [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
 
