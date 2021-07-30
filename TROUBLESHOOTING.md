@@ -12,7 +12,9 @@ Simply restart Wabbajack, you will not lose progress on your downloads.
 
 ### "*A file fails to download.*"
 
-If Wabbajack fails to download a mod, try downloading it manually. Place the manually downloaded mod in your downloads folder where the other Wabbajack downloads are in your Mod Organizer. Do not extract them. Note that some of these are big files and may take a while.
+If Wabbajack fails to download a mod, try downloading it manually. You can find links to recently added and updated mods in the [Troubleshooting Guide].
+
+Place the manually downloaded mod in your downloads folder where the other Wabbajack downloads are in your Mod Organizer. Do not extract them. Note that some of these are big files and may take a while.
 
 If you are still encountering issues try enabling "Use Network Workaround" in the Wabbajack client's settings.
 
