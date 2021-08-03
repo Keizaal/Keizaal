@@ -30,7 +30,7 @@ If a file like `Skyrim - Meshes0.bsa` fails to install verify Skyrim's local cac
 
 ### "*Skyrim_Default.ini fails to install.*"
 
-Ensure that Skyrim's lanague is set to English in Steam.
+Ensure that Skyrim's language is set to English in Steam.
 
 ### "*There are no relevant files inside the Game Folder Files folder.*"
 
@@ -88,6 +88,6 @@ Some configuration settings may be stored in a non-.ini format. If that is the c
 
 ---
 
-Contact Pierre Despereaux on [his community Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} for individual help and guidance. If you make modifications to Keizaal, you do so at your own risk. No support will be provided.
+Contact Tate Taylor on [his community Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} for individual help and guidance. If you make modifications to Keizaal, you do so at your own risk. No support will be provided.
 
 Please note that manual installations are **NOT SUPPORTED**. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everybody's time.
