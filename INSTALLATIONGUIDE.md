@@ -13,13 +13,14 @@ title: Installation Guide
 - [Additional Configuration (Optional)](#additional-configuration-optional)
   - [Optional Mods](#optional-mods)
     - [Enabling iEquip](#enabling-iequip)
+      - [iEqup Hotkeys](#iequip-hotkeys)
   - [Creation Club Content](#creation-club-content)
   - [Settings](#settings)
   - [Mod Notes](#mod-notes)
 - [Updating](#updating)
   - [Semantic Versioning](#semantic-versioning)
 
-## Information
+# Information
 
 Keizaal takes up 172.5GB of hard drive space (85.8GB installation with 86.7GB of downloads) and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance. You will run into very, very long loading times and stuttering with a standard hard disk drive. This modlist was developed on a computer running [these specs](https://pcpartpicker.com/list/3ygt4d){:target="_blank" rel="noopener"}, on this system a stable and consistent 50 - 60 FPS is the norm. Your mileage may vary, there is nothing I can do if you experience poor performance.
 
@@ -27,7 +28,7 @@ Please note that automated downloads from Nexus are only available through Wabba
 
 Support for manual installations is **NOT OFFERED**. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone’s time.
 
-## Setup
+# Setup
 
 Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe).
 
@@ -35,7 +36,7 @@ Create a new folder called “Wabbajack” in a location **outside of the Progra
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/1.%20Installing%20Wabbajack.png)
 
-### Clean Install
+## Clean Install
 
 To completely reinstall Skyrim, it is advised that you use the [Skyrim Shredder](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=113028&game_id=1704){:target="_blank" rel="noopener"}. It will remove Skyrim and all data related to it, but not the modlist.
 
@@ -43,7 +44,7 @@ Reinstall Skyrim in a location **outside of the Program Files**. If you have iss
 
 Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
 
-## Keizaal Installation
+# Keizaal Installation
 
 Create a new folder called “Keizaal” in a location **outside of the Program Files**.
 
@@ -57,7 +58,7 @@ When you’re ready, press the triangular start button.
 
 After starting the installation a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log into and authorize Wabbajack on Nexus and the installation will proceed. Wabbajack will now install the modlist, this will take a while so be patient. When Wabbajack is finished, the left panel should say "Installation Complete". Keizaal is ready to play!
 
-## Playing Keizaal
+# Playing Keizaal
 
 Now that Keizaal has been installed you will need to launch Skyrim in a slightly different way.
 
@@ -69,13 +70,19 @@ You should now be on a screen that displays all of your installed mods on the le
 
 You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the right plugins pane and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
 
-### Mod Configuration
+## Mod Configuration
 
 All of the Mod Configuration Menus menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
 
-### Hotkeys
+## Hotkeys
 
 There are several hotkeys that you should be aware of while playing Keizaal. Most of them can be edited via the in-game Mod Configuration Menu. The default keys are as follows:
+
+**Middle Mouse Button** - Lock-on to Enemy
+
+**K** - Shoulder Swap
+
+**,** - Call Horse
 
 **X** - Toggle Compass
 
@@ -83,15 +90,13 @@ There are several hotkeys that you should be aware of while playing Keizaal. Mos
 
 **K** - Zoom Mini Map
 
-**,** - Call Horse
-
 **Shift+F12** - Toggle ENB
 
-## Additional Configuration (Optional)
+# Additional Configuration (Optional)
 
 This following section outlines some optional confiurations. Nothing here is necessary, but it may be of some interest to users who like to tweak.
 
-### Optional Mods
+## Optional Mods
 
 There are a handful of mods that I have included that are disabled by default; these mods aren’t part of the main Keizaal package. If you choose to activate an optional mod, be sure to sort your load order before you begin playing. Simply press the sort button in the top right-hand corner of Mod Organizer to sort all of your plugins!
 
@@ -99,7 +104,7 @@ There are a handful of mods that I have included that are disabled by default; t
 
 I will try to assist you in enabling these optional mods, however if you make changes to Keizaal outside of these few mods I will not be able to help you. Any personal edits you make to this list must be done independently.
 
-#### Enabling iEquip
+### Enabling iEquip
 
 [iEquip](https://www.nexusmods.com/skyrimspecialedition/mods/27008) is a mod that isn't for everyone, as such the mod is turned off by default. Turning it on is a more involved process than most mods, I will detail the required steps here.
 
@@ -127,7 +132,25 @@ Once the preset is applied press Left Alt again to exit Edit Mode.
 
 That's it, iEquip is ready to use!
 
-### Creation Club Content
+#### iEquip Hotkeys
+
+iEquip has several hotkeys you will need to familiarze yourself with. Below are the default keys:
+
+**Left Alt** - Utility Menu
+
+**G** - Left Hand
+
+**H** - Right Hand
+
+**Y** - Power
+
+**Consumable/Poison** - B
+
+**U** - Equip Last Item Looted
+
+**V** - Throw Poison
+
+## Creation Club Content
 
 Keizaal has an additional Creation Club addon. This addon includes several mods that improve and better integration a handful of Creation Club content into Skyrim. The following creations are supported with their respective integration mods:
 
@@ -146,7 +169,7 @@ Keizaal has an additional Creation Club addon. This addon includes several mods 
 - [Vigil Enforcer Pack](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set)
   - With [Vigilant's New Clothes](https://www.nexusmods.com/skyrimspecialedition/mods/31991)
 
-### Settings
+## Settings
 
 If you want to edit some of Skyrim's settings you can do so by pressing the gear button in the top right-hand corner of Mod Organizer.
 
@@ -158,13 +181,13 @@ Alternatively, you can manually edit your base game's .ini files. You can do so 
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/7.%20Manual%20.inis.PNG)
 
-### Mod Notes
+## Mod Notes
 
 Several mods in Keizaal's Mod Organizer have notes attached to them. If the note icon appears next to a mod, hover over it to read the notes I've added. These notes will give you some additional context about how I have configured the mod.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/5.%20Mod%20Notes.PNG)
 
-## Updating
+# Updating
 
 If Keizaal receives an update, please check the changelog before doing anything. Always backup your saves or start a new game after updating. Updating is like installing. You only have to make sure that you select the same path and tick the "Overwrite Existing Modlist" button.
 
@@ -176,7 +199,7 @@ This means that any additional mods you have installed on top of Keizaal will be
 
 Keep in mind that modifying Keizaal will forfeit any support that you would normally recieve.
 
-### Semantic Versioning
+## Semantic Versioning
 
 Keizaal uses semantic versioning in order to quickly determine the size of an update and if it is savegame compatible or not. This is what the version numbers mean:
 
