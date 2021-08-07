@@ -2,6 +2,12 @@
 layout: default
 title: Changelog
 ---
+### [4.6.2.1](https://github.com/Keizaal/Keizaal/releases/download/4.6.2.1/Keizaal.wabbajack)
+- Fixed issue where Headhunter's "cleave" effects would play whenever closing any container if you had a bounty item in your inventory.
+- Updated [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252/?tab=files&file_id=218671)
+- Removed [True Directional Movement Boss Ini Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/53238/?tab=files&file_id=218640)
+- Added [Better Bossbars for TDM](https://www.nexusmods.com/skyrimspecialedition/mods/53406?tab=files&file_id=219400)
+
 ### [4.6.2](https://github.com/Keizaal/Keizaal/releases/download/4.6.2/Keizaal.wabbajack)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=218382)
 - Updated [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=218853)
