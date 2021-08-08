@@ -5,6 +5,7 @@ title: Changelog
 #### [4.6.2.2](https://github.com/Keizaal/Keizaal/releases/download/4.6.2.2/Keizaal.wabbajack)
 - Actually fixed the Headhunter "cleave" bug
 - Updated [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125/?tab=files&file_id=219718)
+- Updated [Guard Dialogue Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/22075?tab=files&file_id=219520)
 
 #### [4.6.2.1](https://github.com/Keizaal/Keizaal/releases/download/4.6.2.1/Keizaal.wabbajack)
 - Fixed issue where Headhunter's "cleave" effects would play whenever closing any container if you had a bounty item in your inventory
