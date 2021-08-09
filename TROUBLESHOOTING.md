@@ -44,6 +44,8 @@ Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_re
 
 You have likely surpassed the 255 .esp limit. When this happens Mod Organizer will automatically disable plugins in order to ensure that the game can launch.
 
+Note that I **WILL NOT** provide support to installations of Keizaal that have been modified.
+
 ### "*UI elements appear to be getting cut off the screen.*"
 
 Enable Widescreen Fixes under the optional section in Mod Organizer. If that doesn't work, disable Widescreen Fixes and enable Dialogue Interface ReShaped (16 by 10).
