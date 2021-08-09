@@ -144,7 +144,7 @@ iEquip has several hotkeys you will need to familiarze yourself with. Below are 
 
 **Y** - Power
 
-**Consumable/Poison** - B
+**B** - Consumable/Poison
 
 **U** - Equip Last Item Looted
 
