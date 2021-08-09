@@ -72,7 +72,7 @@ You will now have to launch Skyrim by selecting “Keizaal” from the drop-down
 
 ## Mod Configuration
 
-All of the Mod Configuration Menus menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
+All of the Mod Configuration Menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
 
 ## Hotkeys
 
