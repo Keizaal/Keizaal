@@ -3,6 +3,7 @@ layout: default
 title: Changelog
 ---
 # [5.0.0 - The Wyrmstooth Update](https://github.com/Keizaal/Keizaal/releases/download/5.0.0/Keizaal.wabbajack)
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/branding/Keizaal%205%20Splash.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=219797)
 - Updated [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397/?tab=files&file_id=220733)
 - Updated [Crystal Mudcrabs - A Creature Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52981/?tab=files&file_id=219846)
