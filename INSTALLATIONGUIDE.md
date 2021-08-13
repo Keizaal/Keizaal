@@ -80,7 +80,7 @@ There are several hotkeys that you should be aware of while playing Keizaal. Mos
 
 **Middle Mouse Button** - Lock-on to Enemy
 
-**K** - Shoulder Swap
+**C** - Follower Menu
 
 **,** - Call Horse
 
