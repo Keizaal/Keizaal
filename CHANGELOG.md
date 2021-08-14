@@ -17,6 +17,7 @@ title: Changelog
 - Updated [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=220405)
 - Updated [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125/?tab=files&file_id=219773)
 - Updated [NPC AI Process Position  Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/40261/?tab=files&file_id=220370)
+- Updated [Civil War Deserters](https://www.nexusmods.com/skyrimspecialedition/mods/44497/?tab=files&file_id=221003)
 - Removed [Autorun](https://www.nexusmods.com/skyrimspecialedition/mods/45451/?tab=files&file_id=184691)
 - Removed [Dragon Wall Wisdom - Readable Dragon Walls](https://www.nexusmods.com/skyrimspecialedition/mods/17591/?tab=files&file_id=55799)
 - Removed [Expanded Dragonscale Armor](https://www.nexusmods.com/skyrim/mods/75042/?tab=files&file_id=1000203410)
@@ -41,6 +42,8 @@ title: Changelog
 - Added [Scallions of Skyrim - High Polygon Leeks](https://www.nexusmods.com/skyrimspecialedition/mods/53205/?tab=files&file_id=219926)
 - Added [Wyrmstooth Upscaled Textures](https://www.nexusmods.com/skyrimspecialedition/mods/39992/?tab=files&file_id=158550)
 - Added [Better Falskaar and Wyrmstooth Map With Roads](https://www.nexusmods.com/skyrimspecialedition/mods/39501/?tab=files&file_id=191500)
+- Added [Solstheim Objects SMIMed - High Poly Dark Elf Furniture](https://www.nexusmods.com/skyrimspecialedition/mods/53779/?tab=files&file_id=220888)
+- Added [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792/?tab=files&file_id=220941)
 
 #### [4.6.2.2](https://github.com/Keizaal/Keizaal/releases/download/4.6.2.2/Keizaal.wabbajack)
 - Actually fixed the Headhunter "cleave" bug
