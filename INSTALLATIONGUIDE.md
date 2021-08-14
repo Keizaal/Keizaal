@@ -154,20 +154,13 @@ iEquip has several hotkeys you will need to familiarze yourself with. Below are 
 
 Keizaal has an additional Creation Club addon. This addon includes several mods that improve and better integration a handful of Creation Club content into Skyrim. The following creations are supported with their respective integration mods:
 
-- [Alternative Armors Series](https://en.uesp.net/wiki/Skyrim:Creation_Club_Quests) + [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere)
-  - With [On the Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647)
-- [Dead Man's Dread](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Dread)
-  - With [Pirate's Life for Me](https://www.nexusmods.com/skyrimspecialedition/mods/35163)
-- [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader)
-  - With [Knight of the North](https://www.nexusmods.com/skyrimspecialedition/mods/45869)
-- [Elite Crossbows](https://en.uesp.net/wiki/Skyrim:Elite_Crossbows) + [Expanded Crossbow Pack](https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack)
-  - With [Thwack!](https://www.nexusmods.com/skyrimspecialedition/mods/42653/)
-- [Netch Leather Armor](https://en.uesp.net/wiki/Skyrim:Netch_Leather_Armor)
-  - With [Morrowind Threads](https://www.nexusmods.com/skyrimspecialedition/mods/45352)
-- [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios)
-  - With [Rare Curios - Bolts Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/39903) and [Rare Curios Begone - Welkynd Varla and Madness Amber Ore Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44881)
-- [Vigil Enforcer Pack](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set)
-  - With [Vigilant's New Clothes](https://www.nexusmods.com/skyrimspecialedition/mods/31991)
+- [Alternative Armors Series](https://en.uesp.net/wiki/Skyrim:Creation_Club_Quests) + [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere) **WITH** [On the Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647)
+- [Dead Man's Dread](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Dread) **WITH** [Pirate's Life for Me](https://www.nexusmods.com/skyrimspecialedition/mods/35163)
+- [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader) **WITH** [Knight of the North](https://www.nexusmods.com/skyrimspecialedition/mods/45869)
+- [Elite Crossbows](https://en.uesp.net/wiki/Skyrim:Elite_Crossbows) + [Expanded Crossbow Pack](https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack) **WITH** [Thwack!](https://www.nexusmods.com/skyrimspecialedition/mods/42653/)
+- [Netch Leather Armor](https://en.uesp.net/wiki/Skyrim:Netch_Leather_Armor) **WITH** [Morrowind Threads](https://www.nexusmods.com/skyrimspecialedition/mods/45352)
+- [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios) **WITH** [Rare Curios - Bolts Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/39903) + [Rare Curios Begone - Welkynd Varla and Madness Amber Ore Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44881)
+- [Vigil Enforcer Pack](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set) **WITH** [Vigilant's New Clothes](https://www.nexusmods.com/skyrimspecialedition/mods/31991)
 
 ## Settings
 
