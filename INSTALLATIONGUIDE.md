@@ -36,39 +36,39 @@ This modlist was developed on a computer running these specs:
   <tbody>
     <tr>
       <td class="pcpp-part-list-type">CPU</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/tLCD4D/amd-ryzen-9-3900x-36-ghz-12-core-processor-100-100000023box{:target="_blank" rel="noopener"}">AMD Ryzen 9 3900X 3.8 GHz 12-Core Processor</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/tLCD4D/amd-ryzen-9-3900x-36-ghz-12-core-processor-100-100000023box">AMD Ryzen 9 3900X 3.8 GHz 12-Core Processor</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Motherboard</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/4qsnTW/gigabyte-x570-aorus-pro-wifi-atx-am4-motherboard-x570-aorus-pro-wifi{:target="_blank" rel="noopener"}">Gigabyte X570 AORUS PRO WIFI ATX AM4 Motherboard</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/4qsnTW/gigabyte-x570-aorus-pro-wifi-atx-am4-motherboard-x570-aorus-pro-wifi">Gigabyte X570 AORUS PRO WIFI ATX AM4 Motherboard</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Memory</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/VcTrxr/gskill-memory-f43200c16s16gvk{:target="_blank" rel="noopener"}">G.Skill Ripjaws V Series 16 GB (1 x 16 GB) DDR4-3200 CL16 Memory</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/VcTrxr/gskill-memory-f43200c16s16gvk">G.Skill Ripjaws V Series 16 GB (1 x 16 GB) DDR4-3200 CL16 Memory</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Storage</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/kQZzK8/adata-xpg-sx8200-pro-2-tb-m2-2280-nvme-solid-state-drive-asx8200pnp-2tt-c{:target="_blank" rel="noopener"}">ADATA XPG SX8200 Pro 2 TB M.2-2280 NVME Solid State Drive</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/kQZzK8/adata-xpg-sx8200-pro-2-tb-m2-2280-nvme-solid-state-drive-asx8200pnp-2tt-c">ADATA XPG SX8200 Pro 2 TB M.2-2280 NVME Solid State Drive</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Video Card</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/fKp323/msi-geforce-gtx-1070-8gb-video-card-gtx-1070-gaming-x-8g{:target="_blank" rel="noopener"}">MSI GeForce GTX 1070 8 GB GAMING X Video Card</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/fKp323/msi-geforce-gtx-1070-8gb-video-card-gtx-1070-gaming-x-8g">MSI GeForce GTX 1070 8 GB GAMING X Video Card</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Case</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/PzM323/corsair-case-cc9011077ww{:target="_blank" rel="noopener"}">Corsair 100R ATX Mid Tower Case</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/PzM323/corsair-case-cc9011077ww">Corsair 100R ATX Mid Tower Case</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Power Supply</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/dMM323/evga-supernova-g3-750w-80-gold-certified-fully-modular-atx-power-supply-220-g3-0750{:target="_blank" rel="noopener"}">EVGA G3 750 W 80+ Gold Certified Fully Modular ATX Power Supply</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/dMM323/evga-supernova-g3-750w-80-gold-certified-fully-modular-atx-power-supply-220-g3-0750">EVGA G3 750 W 80+ Gold Certified Fully Modular ATX Power Supply</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Operating System</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140{:target="_blank" rel="noopener"}">Microsoft Windows 10 Home OEM 64-bit</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/wtgPxr/microsoft-os-kw900140">Microsoft Windows 10 Home OEM 64-bit</a></td>
     </tr>
     <tr>
       <td class="pcpp-part-list-type">Monitor</td>
-      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/zj8Zxr/asus-monitor-90lm00u0b01370{:target="_blank" rel="noopener"}">Asus ROG SWIFT PG278Q 27.0" 2560x1440 144 Hz Monitor</a></td>
+      <td class="pcpp-part-list-item"><a href="https://pcpartpicker.com/product/zj8Zxr/asus-monitor-90lm00u0b01370">Asus ROG SWIFT PG278Q 27.0" 2560x1440 144 Hz Monitor</a></td>
     </tr>
   </tbody>
 </table>
