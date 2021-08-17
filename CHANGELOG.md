@@ -23,6 +23,7 @@ title: Changelog
 - Removed [Dragon Wall Wisdom - Readable Dragon Walls](https://www.nexusmods.com/skyrimspecialedition/mods/17591/?tab=files&file_id=55799)
 - Removed [Expanded Dragonscale Armor](https://www.nexusmods.com/skyrim/mods/75042/?tab=files&file_id=1000203410)
 - Removed [Hide Quest Items in Container Menu](https://www.nexusmods.com/skyrimspecialedition/mods/51243/?tab=files&file_id=213143)
+- Removed [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276?tab=files&file_id=221862)
 - Removed [Horses for Followers](https://www.nexusmods.com/skyrimspecialedition/mods/45500/?tab=files&file_id=187476)
 - Removed [Less Tedious Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/6581/?tab=files&file_id=30124)
 - Removed [Oblivion-like Loading Menu SE](https://www.nexusmods.com/skyrimspecialedition/mods/38708/?tab=files&file_id=152357)
