@@ -18,6 +18,7 @@ title: Changelog
 - Updated [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125/?tab=files&file_id=219773)
 - Updated [NPC AI Process Position  Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/40261/?tab=files&file_id=220370)
 - Updated [Civil War Deserters](https://www.nexusmods.com/skyrimspecialedition/mods/44497/?tab=files&file_id=221003)
+- Removed [Amulet Evangelism - Priests Sell Amulets](https://www.nexusmods.com/skyrimspecialedition/mods/34196?tab=files&file_id=133334)
 - Removed [Autorun](https://www.nexusmods.com/skyrimspecialedition/mods/45451/?tab=files&file_id=184691)
 - Removed [Dragon Wall Wisdom - Readable Dragon Walls](https://www.nexusmods.com/skyrimspecialedition/mods/17591/?tab=files&file_id=55799)
 - Removed [Expanded Dragonscale Armor](https://www.nexusmods.com/skyrim/mods/75042/?tab=files&file_id=1000203410)
