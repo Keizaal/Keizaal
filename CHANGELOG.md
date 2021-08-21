@@ -56,7 +56,6 @@ title: Changelog
 - Removed [The 418th Step](https://www.nexusmods.com/skyrim/mods/19107/?tab=files&file_id=70057)
 - Removed [The Elder Scrolls Legends - Loading Screens](https://www.nexusmods.com/skyrimspecialedition/mods/37929/?tab=files&file_id=149299)
 - Removed [Thieves Guild Dialogue Fix 0.2](https://www.nexusmods.com/skyrimspecialedition/mods/34225/?tab=files&file_id=131780)
-- Removed [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=218922)
 - Removed [Dynamic Volumetric Lighting and Sun Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/44483/?tab=files&file_id=187402)
 - Added [DLC2 March of the Dead Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53336/?tab=files&file_id=219127)
 - Added [EFF - Extensible Follower Framework](https://www.nexusmods.com/skyrimspecialedition/mods/7003/?tab=files&file_id=67806)
