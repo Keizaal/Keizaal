@@ -12,17 +12,11 @@ Simply restart Wabbajack, you will not lose progress on your downloads.
 
 ### "*A file fails to download.*"
 
-If Wabbajack fails to download a mod, try downloading it manually. You can find links to recently added and updated mods in the [Changelog](https://keizaal.github.io/Keizaal/CHANGELOG.html).
+Try resetting your Wabbajack client and enabling Network Workaround.
 
-Place the manually downloaded mod in your downloads folder where the other Wabbajack downloads are in your Mod Organizer. Do not extract them. Note that some of these are big files and may take a while.
+To completely reset your Wabbajack settings, start off by closing Wabbajack if it is open. Afterwards, press `Windows + R` on your keyboard and type in `%localappdata%`. You should see a Windows Explorer window pop up, find and delete the folder called Wabbajack inside.
 
-If you are still encountering issues try enabling "Use Network Workaround" in the Wabbajack client's settings.
-
-![](https://i.ibb.co/FDPDrfk/Discord-VPN.png)
-
-### "*Keizaal - LODs will not download.*"
-
-This is a very large file that Wabbajack will occasionally have trouble downloading. You can download it manually [here](https://mega.nz/file/fEFwxJQI#6LuZNZVUKL9sW7x1H-qPsUXh8sl8e5d1d_rotb_pSPY){:target="_blank" rel="noopener"}.
+Open the client back up and navigate to the client settings and enable "
 
 ### "*A vanilla file fails to install.*"
 
