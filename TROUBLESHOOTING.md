@@ -12,9 +12,9 @@ Simply restart Wabbajack, you will not lose progress on your downloads.
 
 ### "*A file fails to download.*"
 
-Try resetting your Wabbajack client. Start off by closing Wabbajack if it is open. Afterwards, press `Windows + R` on your keyboard and type in `%localappdata%`. You should see a Windows Explorer window pop up, find and delete the folder called Wabbajack inside.
+Try resetting your Wabbajack client. Start off by closing Wabbajack if it is open, then press `Windows + R` on your keyboard and type in `%localappdata%`. You should see a Windows Explorer window pop up, find and delete the folder called Wabbajack inside.
 
-Then open Wabbajack back up, navigate to the client settings, and enable "Use Network Workaround".
+Afterward open Wabbajack back up, navigate to the client settings, and enable "Use Network Workaround".
 
 ![](https://i.ibb.co/FDPDrfk/Discord-VPN.png)
 
