@@ -18,7 +18,7 @@ Then open Wabbajack back up, navigate to the client settings, and enable "Use Ne
 
 ![](https://i.ibb.co/FDPDrfk/Discord-VPN.png)
 
-Alternatively, you can try and manually install the failed mod downloads. You can find links to recently added and updated mods in the [Changelog](https://keizaal.github.io/Keizaal/CHANGELOG.html).
+Alternatively, you can try and manually install the failed mod downloads. You can find links to recently added and updated mods in the [Changelog](https://keizaal.github.io/Keizaal/CHANGELOG.html){:target="_blank" rel="noopener"}.
 
 Place the manually downloaded mods in your downloads folder where the other Wabbajack downloads are in your Mod Organizer. Do not extract them. Note that some of these are big files and may take a while.
 
