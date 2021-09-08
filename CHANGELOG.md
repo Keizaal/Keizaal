@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 ---
-### [5.1.0 - The Wander Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.0/Keizaal.wabbajack)
+## [5.1.0 - The Wander Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.0/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.0.png)
 - Updated [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=224837)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=225886)
