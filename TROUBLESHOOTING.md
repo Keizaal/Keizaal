@@ -38,6 +38,10 @@ Keizaal uses the [Stock Game system](https://github.com/wabbajack-tools/wabbajac
 
 Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
 
+### "*Some mods in the Downloads tab aren't listed as installed.*"
+
+This occsionally happens with certain mods, don't worry, they *are* installed.
+
 ### "*Plugins are getting deactivated in the right panel.*"
 
 You have likely surpassed the 255 .esp limit. When this happens Mod Organizer will automatically disable plugins in order to ensure that the game can launch.
