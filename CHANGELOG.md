@@ -9,7 +9,6 @@ title: Changelog
 - Updated [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=215109)
 - Updated [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439/?tab=files&file_id=225915)
 - Updated [Gladys the Corgi - A Custom Dog Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/50164/?tab=files&file_id=224302)
-- Updated [Gladys the Corgi - A Custom Dog Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/50164/?tab=files&file_id=225519)
 - Updated [Immersive Interactions - Animated Actions](https://www.nexusmods.com/skyrimspecialedition/mods/47670/?tab=files&file_id=225601)
 - Updated [JK's Palace of the Kings](https://www.nexusmods.com/skyrimspecialedition/mods/48902/?tab=files&file_id=225484)
 - Updated [Skyrim Unbound Reborn (Alternate Start)](https://www.nexusmods.com/skyrimspecialedition/mods/27962/?tab=files&file_id=224563)
