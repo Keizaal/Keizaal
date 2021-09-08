@@ -18,7 +18,7 @@ Afterward open Wabbajack back up, navigate to the client settings, and enable "U
 
 ![](https://i.ibb.co/FDPDrfk/Discord-VPN.png)
 
-Alternatively, you can try and manually install the failed mod downloads. You can find links to recently added and updated mods in the [Changelog](https://keizaal.github.io/Keizaal/CHANGELOG.html){:target="_blank" rel="noopener"}.
+Alternatively, you can try and manually install the failed mod downloads. You can find links to recently added and updated mods in the [Changelog](https://keizaal.github.io/Keizaal/CHANGELOG.html){:target="_blank" rel="noopener"}. The manual download link for Keizaal - LODS.zip can be found [here](https://mega.nz/file/yJ10waDA#ZA_UOzpuaUWL9YBmUaCRT-bruJmQbVNif7tji9wKt0Q){:target="_blank" rel="noopener"}.
 
 Place the manually downloaded mods in your downloads folder where the other Wabbajack downloads are in your Mod Organizer. Do not extract them. Note that some of these are big files and may take a while.
 
