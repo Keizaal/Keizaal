@@ -22,8 +22,6 @@ title: Changelog
 - Updated [Spell Perk Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869/?tab=files&file_id=228245)
 - Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=227570)
 - Removed [Minimal ENB for Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/37098/?tab=files&file_id=146090)
-- Removed [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=224837)
-- Removed [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=221865)
 - Removed [Wander  -  A Weather Mod](https://www.nexusmods.com/skyrimspecialedition/mods/24439/?tab=files&file_id=162803)
 - Removed [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61422)
 - Added [A Cathedralist's ENB](https://www.nexusmods.com/skyrimspecialedition/mods/25296/?tab=files&file_id=92695)
