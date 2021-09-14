@@ -33,7 +33,7 @@ title: Changelog
 - Added [High Hrothgar Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/55254/?tab=files&file_id=227266)
 - Added [Ice skating fixed for real - No more attack sliding movement (NEMESIS compatible)](https://www.nexusmods.com/skyrimspecialedition/mods/55417/?tab=files&file_id=227647)
 - Added [Pirates Wield Scurvy Cutlasses](https://www.nexusmods.com/skyrimspecialedition/mods/55289/?tab=files&file_id=227049)
-- 
+
 ## [5.1.0 - The Wander Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.0.png)
 - Updated [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=224837)
