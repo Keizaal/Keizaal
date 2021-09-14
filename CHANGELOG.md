@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 ---
-## [5.1.1 - The Obsidian Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [5.1.1 - The Obsidian Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.1.png)
 - Updated [College of Winterhold Quest Start Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/53817/?tab=files&file_id=228093)
 - Updated [Skyrim Unbound Reborn (Alternate Start)](https://www.nexusmods.com/skyrimspecialedition/mods/27962/?tab=files&file_id=227657)
