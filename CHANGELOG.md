@@ -2,6 +2,38 @@
 layout: default
 title: Changelog
 ---
+## [5.1.1 - The Obsidian Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.1.png)
+- Updated [College of Winterhold Quest Start Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/53817/?tab=files&file_id=228093)
+- Updated [Skyrim Unbound Reborn (Alternate Start)](https://www.nexusmods.com/skyrimspecialedition/mods/27962/?tab=files&file_id=227657)
+- Updated [lilebonymace's patches xEdit scripts and stuff](https://www.nexusmods.com/skyrimspecialedition/mods/36042/?tab=files&file_id=227662)
+- Updated [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=227675)
+- Updated [Stendarr Rising - The Hall of the Vigilant Rebuild](https://www.nexusmods.com/skyrimspecialedition/mods/49346/?tab=files&file_id=226882)
+- Updated [Sweeping Organizes Stuff - Use Broom to Clean Mess](https://www.nexusmods.com/skyrimspecialedition/mods/51645/?tab=files&file_id=227392)
+- Updated [The Choice is Yours](https://www.nexusmods.com/skyrimspecialedition/mods/3850/?tab=files&file_id=227966)
+- Updated [Water for ENB](https://www.nexusmods.com/skyrimspecialedition/mods/37061/?tab=files&file_id=227917)
+- Updated [Wyrmtamer - Lawbringer for Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/55190/?tab=files&file_id=228248)
+- Updated [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=218516)
+- Updated [Rare Curios Begone - Welkynd Varla and Madness Amber Ore Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/44881/?tab=files&file_id=227290)
+- Updated [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=227609)
+- Updated [DynDOLOD Resources SE 3](https://www.nexusmods.com/skyrimspecialedition/mods/52897/?tab=files&file_id=227680)
+- Updated [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161/?tab=files&file_id=228050)
+- Updated [OnHit Animations Framework - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/42574/?tab=files&file_id=227410)
+- Updated [Spell Perk Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869/?tab=files&file_id=228245)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=227570)
+- Removed [Minimal ENB for Obsidian Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/37098/?tab=files&file_id=146090)
+- Removed [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=224837)
+- Removed [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=221865)
+- Removed [Wander  -  A Weather Mod](https://www.nexusmods.com/skyrimspecialedition/mods/24439/?tab=files&file_id=162803)
+- Removed [SkyHUD](https://www.nexusmods.com/skyrimspecialedition/mods/463/?tab=files&file_id=61422)
+- Added [A Cathedralist's ENB](https://www.nexusmods.com/skyrimspecialedition/mods/25296/?tab=files&file_id=92695)
+- Added [Obsidian Weathers and Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/12125/?tab=files&file_id=202527)
+- Added [Obsidian Weathers and Seasons MCM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/20209/?tab=files&file_id=67579)
+- Added [Paper Soul Cairn Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/55387/?tab=files&file_id=227558)
+- Added [High Hrothgar Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/55254/?tab=files&file_id=227266)
+- Added [Ice skating fixed for real - No more attack sliding movement (NEMESIS compatible)](https://www.nexusmods.com/skyrimspecialedition/mods/55417/?tab=files&file_id=227647)
+- Added [Pirates Wield Scurvy Cutlasses](https://www.nexusmods.com/skyrimspecialedition/mods/55289/?tab=files&file_id=227049)
+- 
 ## [5.1.0 - The Wander Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.0.png)
 - Updated [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=224837)
