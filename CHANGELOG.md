@@ -2,6 +2,22 @@
 layout: default
 title: Changelog
 ---
+#### [5.1.1.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/5.1.1.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+- Fixed cyclical LOOT errors
+- Fixed crash when using Widescreen Fixes
+- Updated [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148/?tab=files&file_id=228373)
+- Updated [iEquip](https://www.nexusmods.com/skyrimspecialedition/mods/27008/?tab=files&file_id=228511)
+- Updated [Paper Blackreach Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/53878/?tab=files&file_id=228356)
+- Updated [Paper Soul Cairn Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/55387/?tab=files&file_id=228563)
+- Updated [Morrowind Threads - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/45352/?tab=files&file_id=228475)
+- Updated [No Grass In Objects](https://www.nexusmods.com/skyrimspecialedition/mods/42161/?tab=files&file_id=228283)
+- Updated [NPC AI Process Position  Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/40261/?tab=files&file_id=228723)
+- Updated [Spell Perk Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869/?tab=files&file_id=228603)
+- Removed [Ambiance - A Vanilla(plus) Ambient Lighting Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/46383/?tab=files&file_id=192331)
+- Removed [Skyrim Hearthfire Map Marker Fix](https://www.nexusmods.com/skyrimspecialedition/mods/768/?tab=files&file_id=163675)
+- Added [Extended Encounters and Pilgrim - Vigilants Hunt True Daedra Worshippers](https://www.nexusmods.com/skyrimspecialedition/mods/55685/?tab=files&file_id=228807)
+- Added [Candle Lag Fix](https://www.nexusmods.com/skyrimspecialedition/mods/18774/?tab=files&file_id=225302)
+
 ### [5.1.1 - The Obsidian Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.1.png)
 - Updated [College of Winterhold Quest Start Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/53817/?tab=files&file_id=228093)
