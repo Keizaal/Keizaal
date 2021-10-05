@@ -10,6 +10,7 @@ title: Changelog
 - Updated [Wyrmtamer - Lawbringer for Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/55190/?tab=files&file_id=232265)
 - Removed [Wyrmtamer - Lawbringer for Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/55190/?tab=files&file_id=228248)
 - Removed [Outlandish Stalhrim SSE](https://www.nexusmods.com/skyrimspecialedition/mods/19562/?tab=files&file_id=64184)
+- Moved [Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220?tab=files&file_id=112829)
 - Added [A Matter of Time - A HUD clock widget](https://www.nexusmods.com/skyrimspecialedition/mods/12937/?tab=files&file_id=43572)
 - Added [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123/?tab=files&file_id=232386)
 - Added [Immersive Khajiit Caravan Mules](https://www.nexusmods.com/skyrimspecialedition/mods/49058/?tab=files&file_id=206172)
