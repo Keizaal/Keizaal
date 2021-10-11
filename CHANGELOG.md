@@ -19,9 +19,8 @@ title: Changelog
 - Added [More Lights for ENB - Blood Splatter Fix](https://www.nexusmods.com/skyrimspecialedition/mods/55582/?tab=files&file_id=228318)
 - Added [Stalhrim Refrozen](https://www.nexusmods.com/skyrimspecialedition/mods/41348/?tab=files&file_id=206676)
 
----
-
 #### [5.1.1.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/5.1.1.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+---
 - Fixed cyclical LOOT errors
 - Fixed crash when using Widescreen Fixes
 - Updated [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148/?tab=files&file_id=228373)
