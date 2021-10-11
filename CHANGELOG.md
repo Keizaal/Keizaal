@@ -339,7 +339,7 @@ title: Changelog
 - Added Unique Skulls HD - SE
 
 #### [4.5.1.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.1.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
-
+---
 - Updated Nilheim BQ Fix
 - Removed Birds and Flocks SSE Edition
 - Removed No Spinning Death Animation LITE
