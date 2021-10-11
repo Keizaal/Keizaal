@@ -3,6 +3,7 @@ layout: default
 title: Changelog
 ---
 ### [5.1.2 - The Merlin Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.2.png)
 - Updated [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990/?tab=files&file_id=230915)
 - Updated [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=232264)
 - Updated [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=230041)
@@ -18,7 +19,7 @@ title: Changelog
 - Added [More Lights for ENB - Blood Splatter Fix](https://www.nexusmods.com/skyrimspecialedition/mods/55582/?tab=files&file_id=228318)
 - Added [Stalhrim Refrozen](https://www.nexusmods.com/skyrimspecialedition/mods/41348/?tab=files&file_id=206676)
 
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.2.png)
+---
 
 #### [5.1.1.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/5.1.1.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 - Fixed cyclical LOOT errors
@@ -36,7 +37,10 @@ title: Changelog
 - Added [Extended Encounters and Pilgrim - Vigilants Hunt True Daedra Worshippers](https://www.nexusmods.com/skyrimspecialedition/mods/55685/?tab=files&file_id=228807)
 - Added [Candle Lag Fix](https://www.nexusmods.com/skyrimspecialedition/mods/18774/?tab=files&file_id=225302)
 
+---
+
 ### [5.1.1 - The Obsidian Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.1.png)
 - Updated [College of Winterhold Quest Start Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/53817/?tab=files&file_id=228093)
 - Updated [Skyrim Unbound Reborn (Alternate Start)](https://www.nexusmods.com/skyrimspecialedition/mods/27962/?tab=files&file_id=227657)
 - Updated [lilebonymace's patches xEdit scripts and stuff](https://www.nexusmods.com/skyrimspecialedition/mods/36042/?tab=files&file_id=227662)
@@ -65,9 +69,10 @@ title: Changelog
 - Added [Ice skating fixed for real - No more attack sliding movement (NEMESIS compatible)](https://www.nexusmods.com/skyrimspecialedition/mods/55417/?tab=files&file_id=227647)
 - Added [Pirates Wield Scurvy Cutlasses](https://www.nexusmods.com/skyrimspecialedition/mods/55289/?tab=files&file_id=227049)
 
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.1.png)
+---
 
 ## [5.1.0 - The Wander Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.0.png)
 - Updated [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=224837)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=225886)
 - Updated [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=215109)
@@ -123,9 +128,10 @@ title: Changelog
 - Added [ENB lights for Aetherium shards](https://www.nexusmods.com/skyrimspecialedition/mods/54472/?tab=files&file_id=223662)
 - Added [Take a Seat - New DAR Sitting Animations](https://www.nexusmods.com/skyrimspecialedition/mods/54193/?tab=files&file_id=225430)
 
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.0.png)
+---
 
 ### [5.0.1 - The Pilgrim Update](https://github.com/Keizaal/Keizaal/releases/download/5.0.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.0.1.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=222180)
 - Updated [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=221865)
 - Updated [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549/?tab=files&file_id=221708)
@@ -150,9 +156,10 @@ title: Changelog
 - Added [Vanilla Script (micro)Optimizations](https://www.nexusmods.com/skyrimspecialedition/mods/54061/?tab=files&file_id=222000)
 - Added [Improvement Names Customized SSE](https://www.nexusmods.com/skyrimspecialedition/mods/27776/?tab=files&file_id=126534)
 
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.0.1.png)
+---
 
 # [5.0.0 - The Wyrmstooth Update](https://github.com/Keizaal/Keizaal/releases/download/5.0.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.0.0.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=219797)
 - Updated [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397/?tab=files&file_id=220733)
 - Updated [Crystal Mudcrabs - A Creature Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52981/?tab=files&file_id=219846)
@@ -195,7 +202,7 @@ title: Changelog
 - Added [Solstheim Objects SMIMed - High Poly Dark Elf Furniture](https://www.nexusmods.com/skyrimspecialedition/mods/53779/?tab=files&file_id=220888)
 - Added [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792/?tab=files&file_id=220941)
 
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.0.0.png)
+---
 
 #### [4.6.2.2](https://github.com/Keizaal/Keizaal/releases/download/4.6.2.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 - Actually fixed the Headhunter "cleave" bug
