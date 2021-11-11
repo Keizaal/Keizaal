@@ -4,7 +4,7 @@ title: Changelog
 ---
 #### [6.0.0.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 - Updated [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=240649)
-- Added missing Crimson Trail Steel Soldier integration
+- Added missing [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647/?tab=files&file_id=229174) Steel Soldier integration
 - Fixed missing Soul Gem inventory model
 
 # [6.0.0 - The Bruma Update](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
