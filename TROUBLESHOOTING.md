@@ -48,6 +48,10 @@ Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_re
 
 This occsionally happens with certain mods, don't worry, they *are* installed.
 
+### "*Keizaal won't launch through MO2*"
+
+Please ensure you have .NET v5.0 installed. Download the desktop app x64 AND the console app x64 versions from Microsoft [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
+
 ### "*Plugins are getting deactivated in the right panel.*"
 
 You have likely surpassed the 255 .esp limit. When this happens Mod Organizer will automatically disable plugins in order to ensure that the game can launch.
