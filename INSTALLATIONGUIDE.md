@@ -60,6 +60,8 @@ Reinstall Skyrim in a location **outside of the Program Files**. If you have iss
 
 Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
 
+If you are on the Anniversary Edition update of Skyrim you will also need to download and run the [Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618){:target="_blank" rel="noopener"}.
+
 # Keizaal Installation
 
 Create a new folder called “Keizaal” in a location **outside of the Program Files**.
