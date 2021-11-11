@@ -2,6 +2,11 @@
 layout: default
 title: Changelog
 ---
+#### [6.0.0.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+- Updated [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=240649)
+- Added missing Crimson Trail Steel Soldier integration
+- Fixed missing Soul Gem inventory model
+
 # [6.0.0 - The Bruma Update](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.0.0.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=239470)
@@ -126,12 +131,9 @@ title: Changelog
 - Added [A little tree mod WIP](https://www.nexusmods.com/skyrimspecialedition/mods/50961/?tab=files&file_id=233685)
 - Added [4thUnknown - Ancient Shrouded Armor Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/57552/?tab=files&file_id=237295)
 - Added [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=234577)
-- Added [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=234576)
 - Added [Beyond Skyrim - Bruma - Enhanced Map Terrain for Quality World Map](https://www.nexusmods.com/skyrimspecialedition/mods/57176/?tab=files&file_id=235390)
-- Added [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=234229)
 - Added [Beyond Skyrim in Skyrim - An Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/31787/?tab=files&file_id=234856)
 - Added [Beyond Skyrim Loading Screen Conditions](https://www.nexusmods.com/skyrimspecialedition/mods/42227/?tab=files&file_id=170335)
-- Added [Bruma Signs SMIM patch - SE](https://www.nexusmods.com/skyrimspecialedition/mods/10924/?tab=files&file_id=29422)
 - Added [Cities of the North - Falkreath](https://www.nexusmods.com/skyrimspecialedition/mods/56731/?tab=files&file_id=233316)
 - Added [Cities of the North - Map Marker Addons](https://www.nexusmods.com/skyrimspecialedition/mods/57069/?tab=files&file_id=239482)
 - Added [Dark Brotherhood Rising Revengeance](https://www.nexusmods.com/skyrimspecialedition/mods/57157/?tab=files&file_id=236683)
@@ -165,23 +167,6 @@ title: Changelog
 - Added [Beyond Skyrim - Bruma Upscaled Textures (BSBUT)](https://www.nexusmods.com/skyrimspecialedition/mods/34413/?tab=files&file_id=132819)
 - Added [Creation Club - Everything Upscaled](https://www.nexusmods.com/skyrimspecialedition/mods/58120/?tab=files&file_id=240156)
 - Added [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188/?tab=files&file_id=239528)
-
-### [5.1.2 - The Merlin Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.2.png)
-- Updated [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990/?tab=files&file_id=230915)
-- Updated [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=232264)
-- Updated [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=230041)
-- Updated [Wyrmtamer - Lawbringer for Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/55190/?tab=files&file_id=232265)
-- Removed [Wyrmtamer - Lawbringer for Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/55190/?tab=files&file_id=228248)
-- Removed [Outlandish Stalhrim SSE](https://www.nexusmods.com/skyrimspecialedition/mods/19562/?tab=files&file_id=64184)
-- Moved [Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220?tab=files&file_id=112829)
-- Added [A Matter of Time - A HUD clock widget](https://www.nexusmods.com/skyrimspecialedition/mods/12937/?tab=files&file_id=43572)
-- Added [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123/?tab=files&file_id=232386)
-- Added [Immersive Khajiit Caravan Mules](https://www.nexusmods.com/skyrimspecialedition/mods/49058/?tab=files&file_id=206172)
-- Added [Merlin the Corgi - A Magical Dog Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/56433/?tab=files&file_id=232482)
-- Added [ENB Lights For Effect Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/56362/?tab=files&file_id=231784)
-- Added [More Lights for ENB - Blood Splatter Fix](https://www.nexusmods.com/skyrimspecialedition/mods/55582/?tab=files&file_id=228318)
-- Added [Stalhrim Refrozen](https://www.nexusmods.com/skyrimspecialedition/mods/41348/?tab=files&file_id=206676)
 
 #### [5.1.1.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/5.1.1.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 - Fixed cyclical LOOT errors
