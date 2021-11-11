@@ -2,6 +2,7 @@
 layout: default
 title: Home
 ---
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.0.0.png)
 # Preamble
 
 Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. The following are the core pillars of this list:
