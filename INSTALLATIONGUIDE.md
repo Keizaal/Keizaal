@@ -104,8 +104,6 @@ There are several hotkeys that you should be aware of while playing Keizaal. Mos
 
 **K** - Zoom Mini Map
 
-**Shift+F12** - Toggle ENB
-
 # Additional Configuration (Optional)
 
 This following section outlines some optional confiurations. Nothing here is necessary, but it may be of some interest to users who like to tweak.
