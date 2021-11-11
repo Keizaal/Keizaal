@@ -132,15 +132,11 @@ Keizaal has an additional Creation Club addon. This addon includes several mods 
 
 ## Settings
 
-If you want to edit some of Skyrim's settings you can do so by pressing the gear button in the top right-hand corner of Mod Organizer.
-
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/6.%20BethINI.PNG)
-
-After you have launched the application, be sure to **close Mod Organizer before you change any settings**!
-
-Alternatively, you can manually edit your base game's .ini files. You can do so by navigating to the top of Mod Organizer, clicking on the puzzle piece, then selecting ".ini Editor".
+If you want to edit some of Skyrim's settings you can do so by manually edit your base game's .ini files. You can do so by navigating to the top of Mod Organizer, clicking on the puzzle piece, then selecting ".ini Editor".
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/7.%20Manual%20.inis.PNG)
+
+Keep in mind that modifying Keizaal will forfeit any support that you would normally recieve.
 
 ## Mod Notes
 
