@@ -12,8 +12,6 @@ title: Installation Guide
     - [Hotkeys](#hotkeys)
 - [Additional Configuration (Optional)](#additional-configuration-optional)
   - [Optional Mods](#optional-mods)
-    - [Enabling iEquip](#enabling-iequip)
-      - [iEqup Hotkeys](#iequip-hotkeys)
   - [Creation Club Content](#creation-club-content)
   - [Settings](#settings)
   - [Mod Notes](#mod-notes)
@@ -119,52 +117,6 @@ There are a handful of mods that I have included that are disabled by default; t
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
 
 I will try to assist you in enabling these optional mods, however if you make changes to Keizaal outside of these few mods I will not be able to help you. Any personal edits you make to this list must be done independently.
-
-### Enabling iEquip
-
-[iEquip](https://www.nexusmods.com/skyrimspecialedition/mods/27008) is a mod that isn't for everyone, as such the mod is turned off by default. Turning it on is a more involved process than most mods, I will detail the required steps here.
-
-Unlike other optional mods iEquip will already be enabled by default, but the mod won't be running. To turn it on you will need to open the MCM menu and navigate to iEquip. Go to the first tab and click the "iEquip On/Off" checkbox.
-
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/Enable%20iEquip/1.%20Enable%20iEquip.png)
-
-Exit the menu back into the game wait for the following dialog box to pop up:
-
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/Enable%20iEquip/2.%20Enabled%20Dialog.png)
-
-We will now apply Keizaal's default MCM settings. Reopen the MCM and navigate to the bottom tab "Profiles & Information". Find the "Load MCM settings from preset" option under the "MCM Profiles" section. Click it and select the "Keizaal" option and press Tab.
-
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/Enable%20iEquip/3.%20Load%20Preset.png)
-
-Lastly we will be applying Keizaal's default UI settings. Exit the menu back into the game again. Press the Left Alt button and select the "Enter Edit Mode" option.
-
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/Enable%20iEquip/4.%20Edit%20Mode.png)
-
-Wait for the edit overlay to appear over your screen. Press "5" on your NumPad, scroll down to the bottom of the dialog box and select "Keizaal by Pierre Despereaux" and press Enter. 
-
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/Enable%20iEquip/5.%20Widget%20Preset.png)
-
-Once the preset is applied press Left Alt again to exit Edit Mode.
-
-That's it, iEquip is ready to use!
-
-#### iEquip Hotkeys
-
-iEquip has several hotkeys you will need to familiarze yourself with. Below are the default keys:
-
-**Left Alt** - Utility Menu
-
-**G** - Left Hand
-
-**H** - Right Hand
-
-**Y** - Power
-
-**B** - Consumable/Poison
-
-**U** - Equip Last Item Looted
-
-**V** - Throw Poison
 
 ## Creation Club Content
 
