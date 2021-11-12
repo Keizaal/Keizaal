@@ -134,7 +134,7 @@ Keizaal has an additional Creation Club addon. This addon includes several mods 
 - [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios)
 - [Vigil Enforcer Pack](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set)
 
-In order to enable Creation Club support for Keizaal simply install the creation you want to use, then navigate to the "Creation Club Addon" section of Mod Organizer and tick all of the mods under the headers of the creations you are using.
+In order to enable Creation Club support for Keizaal, simply install the creation you want to use, then navigate to the "Creation Club Addon" section of Mod Organizer and tick all of the mods under the headers of the creations you are using.
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/13.%20Creation%20Club.PNG)
 
