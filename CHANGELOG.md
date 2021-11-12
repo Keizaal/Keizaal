@@ -2,6 +2,12 @@
 layout: default
 title: Changelog
 ---
+#### [6.0.0.2 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+- Updated [Vanilla Script (micro)Optimizations](https://www.nexusmods.com/skyrimspecialedition/mods/54061?tab=files&file_id=239970)
+- Fixed the blinding white screen during the game's intro
+- Adjusted distribution of Steel Soldier and Ebony Plate
+- Gave Bounty Hunters in On a Crimson Trail Cyrodillic weapons
+
 #### [6.0.0.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 - Updated [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=240649)
 - Added missing [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647/?tab=files&file_id=229174) Steel Soldier integration
