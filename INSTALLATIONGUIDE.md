@@ -60,7 +60,17 @@ Reinstall Skyrim in a location **outside of the Program Files**. If you have iss
 
 Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
 
-If you are on the Anniversary Edition update of Skyrim you will also need to download and run the [Unofficial Skyrim Special Edition Downgrade Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618){:target="_blank" rel="noopener"}.
+## Anniversary Edition
+
+**Keizaal not compatible with Skyrim Anniversary Edition** and there is no estimated timeframe for when this may change.
+
+The Anniversary Edition makes a number of fundamental changes which mean many critical tools, such as SKSE and mods that rely on those tools, need to be updated.
+
+In order to use Keizaal, you must either not update your copy of Skyrim Special Edition, or use the [AE downgrade patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618).
+
+To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.
+
+**Please do not ask when AE will be supported.**
 
 # Keizaal Installation
 
