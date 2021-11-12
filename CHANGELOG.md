@@ -6,6 +6,7 @@ title: Changelog
 - Updated [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=240649)
 - Added missing [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647/?tab=files&file_id=229174) Steel Soldier integration
 - Fixed missing Soul Gem inventory model
+- Massively reduced the size of [Keizaal.wabbajack](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.1/Keizaal.wabbajack)
 
 # [6.0.0 - The Bruma Update](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.0.0.png)
