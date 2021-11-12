@@ -5,7 +5,6 @@ title: Installation Guide
 # Table of Contents
 - [Information](#information)
 - [Setup](#setup)
-  - [Clean Install](#clean-install)
   - [Anniversary Edition](#anniversary-edition)
 - [Keizaal Installation](#keizaal-installation)
 - [Playing Keizaal](#playing-keizaal)
@@ -53,21 +52,13 @@ Create a new folder called “Wabbajack” in a location **outside of the Progra
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/1.%20Installing%20Wabbajack.png)
 
-## Clean Install
-
-To completely reinstall Skyrim, it is advised that you use the [Skyrim Shredder](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=113028&game_id=1704){:target="_blank" rel="noopener"}. It will remove Skyrim and all data related to it, but not the modlist.
-
-Reinstall Skyrim in a location **outside of the Program Files**. If you have issues reinstalling Skyrim outside of Program Files, try using the [Steam Library Setup Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide){:target="_blank" rel="noopener"}.
-
-Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
-
 ## Anniversary Edition
 
 **Keizaal not compatible with Skyrim Anniversary Edition** and there is no estimated timeframe for when this may change.
 
 The Anniversary Edition makes a number of fundamental changes which mean many critical tools, such as SKSE and mods that rely on those tools, need to be updated.
 
-In order to use Keizaal, you must either not update your copy of Skyrim Special Edition, or use the [AE downgrade patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618).
+In order to use Keizaal, you must either not update your copy of Skyrim Special Edition, or use the [AE downgrade patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618){:target="_blank" rel="noopener"}.
 
 To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.
 
