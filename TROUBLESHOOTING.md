@@ -36,7 +36,7 @@ Ensure that Skyrim's language is set to English in Steam.
 
 ### "*Another vanilla file fails to install.*"
 
-If a file like `Skyrim - Meshes0.bsa` fails to install you likely have Skyrim Anniversary Edition installed.
+If a file like `Data_Skyrim.esm` fails to install you likely have Skyrim Anniversary Edition installed.
 
 **Keizaal not compatible with Skyrim Anniversary Edition** and there is no estimated timeframe for when this may change.
 
