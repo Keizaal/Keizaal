@@ -6,6 +6,7 @@ title: Installation Guide
 - [Information](#information)
 - [Setup](#setup)
   - [Clean Install](#clean-install)
+  - [Anniversary Edition](#anniversary-edition)
 - [Keizaal Installation](#keizaal-installation)
 - [Playing Keizaal](#playing-keizaal)
     - [Mod Configuration](#mod-configuration)
