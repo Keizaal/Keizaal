@@ -2,28 +2,28 @@
 layout: default
 title: Changelog
 ---
-#### [6.0.0.4 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.4/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [6.0.0.4 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.4/Keizaal.wabbajack)
 - Updated [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=241018)
 - Fixed missing Coffee asset
 
-#### [6.0.0.3 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.3/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [6.0.0.3 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.3/Keizaal.wabbajack)
 - Fixed missing Whiterun textures
 - Fixed missing Dragonsreach mesh
 
-#### [6.0.0.2 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [6.0.0.2 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.2/Keizaal.wabbajack)
 - Updated [Vanilla Script (micro)Optimizations](https://www.nexusmods.com/skyrimspecialedition/mods/54061?tab=files&file_id=239970)
 - Fixed the blinding white screen during the game's intro
 - Adjusted distribution of Steel Soldier and Ebony Plate
 - Gave Bounty Hunters in On a Crimson Trail Cyrodillic weapons
 - Removed uneeded patches
 
-#### [6.0.0.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [6.0.0.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.1/Keizaal.wabbajack)
 - Updated [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=240649)
 - Added missing [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647/?tab=files&file_id=229174) Steel Soldier integration
 - Fixed missing Soul Gem inventory model
 - Massively reduced the size of [Keizaal.wabbajack](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.1/Keizaal.wabbajack)
 
-# [6.0.0 - The Bruma Update](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+# [6.0.0 - The Bruma Update](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.0.0.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=239470)
 - Updated [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686/?tab=files&file_id=235426)
@@ -184,7 +184,7 @@ title: Changelog
 - Added [Creation Club - Everything Upscaled](https://www.nexusmods.com/skyrimspecialedition/mods/58120/?tab=files&file_id=240156)
 - Added [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188/?tab=files&file_id=239528)
 
-#### [5.1.1.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/5.1.1.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [5.1.1.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/5.1.1.1/Keizaal.wabbajack)
 - Fixed cyclical LOOT errors
 - Fixed crash when using Widescreen Fixes
 - Updated [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148/?tab=files&file_id=228373)
@@ -200,7 +200,7 @@ title: Changelog
 - Added [Extended Encounters and Pilgrim - Vigilants Hunt True Daedra Worshippers](https://www.nexusmods.com/skyrimspecialedition/mods/55685/?tab=files&file_id=228807)
 - Added [Candle Lag Fix](https://www.nexusmods.com/skyrimspecialedition/mods/18774/?tab=files&file_id=225302)
 
-### [5.1.1 - The Obsidian Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [5.1.1 - The Obsidian Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.1/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.1.png)
 - Updated [College of Winterhold Quest Start Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/53817/?tab=files&file_id=228093)
 - Updated [Skyrim Unbound Reborn (Alternate Start)](https://www.nexusmods.com/skyrimspecialedition/mods/27962/?tab=files&file_id=227657)
@@ -230,7 +230,7 @@ title: Changelog
 - Added [Ice skating fixed for real - No more attack sliding movement (NEMESIS compatible)](https://www.nexusmods.com/skyrimspecialedition/mods/55417/?tab=files&file_id=227647)
 - Added [Pirates Wield Scurvy Cutlasses](https://www.nexusmods.com/skyrimspecialedition/mods/55289/?tab=files&file_id=227049)
 
-## [5.1.0 - The Wander Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+## [5.1.0 - The Wander Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.0/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.0.png)
 - Updated [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=224837)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=225886)
@@ -287,7 +287,7 @@ title: Changelog
 - Added [ENB lights for Aetherium shards](https://www.nexusmods.com/skyrimspecialedition/mods/54472/?tab=files&file_id=223662)
 - Added [Take a Seat - New DAR Sitting Animations](https://www.nexusmods.com/skyrimspecialedition/mods/54193/?tab=files&file_id=225430)
 
-### [5.0.1 - The Pilgrim Update](https://github.com/Keizaal/Keizaal/releases/download/5.0.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [5.0.1 - The Pilgrim Update](https://github.com/Keizaal/Keizaal/releases/download/5.0.1/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.0.1.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=222180)
 - Updated [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=221865)
@@ -313,7 +313,7 @@ title: Changelog
 - Added [Vanilla Script (micro)Optimizations](https://www.nexusmods.com/skyrimspecialedition/mods/54061/?tab=files&file_id=222000)
 - Added [Improvement Names Customized SSE](https://www.nexusmods.com/skyrimspecialedition/mods/27776/?tab=files&file_id=126534)
 
-# [5.0.0 - The Wyrmstooth Update](https://github.com/Keizaal/Keizaal/releases/download/5.0.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+# [5.0.0 - The Wyrmstooth Update](https://github.com/Keizaal/Keizaal/releases/download/5.0.0/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.0.0.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=219797)
 - Updated [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397/?tab=files&file_id=220733)
@@ -357,18 +357,18 @@ title: Changelog
 - Added [Solstheim Objects SMIMed - High Poly Dark Elf Furniture](https://www.nexusmods.com/skyrimspecialedition/mods/53779/?tab=files&file_id=220888)
 - Added [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792/?tab=files&file_id=220941)
 
-#### [4.6.2.2](https://github.com/Keizaal/Keizaal/releases/download/4.6.2.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.6.2.2](https://github.com/Keizaal/Keizaal/releases/download/4.6.2.2/Keizaal.wabbajack)
 - Actually fixed the Headhunter "cleave" bug
 - Updated [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125/?tab=files&file_id=219718)
 - Updated [Guard Dialogue Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/22075?tab=files&file_id=219520)
 
-#### [4.6.2.1](https://github.com/Keizaal/Keizaal/releases/download/4.6.2.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.6.2.1](https://github.com/Keizaal/Keizaal/releases/download/4.6.2.1/Keizaal.wabbajack)
 - Fixed issue where Headhunter's "cleave" effects would play whenever closing any container if you had a bounty item in your inventory
 - Updated [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252/?tab=files&file_id=218671)
 - Removed [True Directional Movement Boss Ini Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/53238/?tab=files&file_id=218640)
 - Added [Better Bossbars for TDM](https://www.nexusmods.com/skyrimspecialedition/mods/53406?tab=files&file_id=219400)
 
-### [4.6.2](https://github.com/Keizaal/Keizaal/releases/download/4.6.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.6.2](https://github.com/Keizaal/Keizaal/releases/download/4.6.2/Keizaal.wabbajack)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=218382)
 - Updated [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=218853)
 - Updated [FK's Diverse Racial Skeletons](https://www.nexusmods.com/skyrimspecialedition/mods/38563/?tab=files&file_id=210493)
@@ -394,16 +394,16 @@ title: Changelog
 - Added [Keening Rework HD - SE](https://www.nexusmods.com/skyrimspecialedition/mods/39474/?tab=files&file_id=156019)
 - Added [True Directional Movement Boss Ini Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/53238/?tab=files&file_id=218640)
 
-### [4.6.1](https://github.com/Keizaal/Keizaal/releases/download/4.6.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.6.1](https://github.com/Keizaal/Keizaal/releases/download/4.6.1/Keizaal.wabbajack)
 - Added [Crystal Mudcrabs - A Creature Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52981/?tab=files&file_id=217436)
 - Added [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984/?tab=files&file_id=217488)
 - Added [Skeleton Replacer HD - SE](https://www.nexusmods.com/skyrimspecialedition/mods/52845/?tab=files&file_id=216765)
 
-#### [4.6.0.1](https://github.com/Keizaal/Keizaal/releases/download/4.6.0.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.6.0.1](https://github.com/Keizaal/Keizaal/releases/download/4.6.0.1/Keizaal.wabbajack)
 - Updated [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397/?tab=files&file_id=217169)
 - Added [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
 
-## [4.6.0](https://github.com/Keizaal/Keizaal/releases/download/4.6.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+## [4.6.0](https://github.com/Keizaal/Keizaal/releases/download/4.6.0/Keizaal.wabbajack)
 - Updated [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439/?tab=files&file_id=216049)
 - Updated [Forceful Tongue - Shouts Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/36276/?tab=files&file_id=215959)
 - Updated [Headhunter - Bounties Redone](https://www.nexusmods.com/skyrimspecialedition/mods/51847/?tab=files&file_id=215260)
@@ -432,7 +432,7 @@ title: Changelog
 - Added [aMidianBorn farmhouse and roads stonewall](https://www.nexusmods.com/skyrim/mods/59091?tab=files&file_id=1000131238)
 - Added [Navigator - Navmesh Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/52641/?tab=files&file_id=215709)
 
-### [4.5.4](https://github.com/Keizaal/Keizaal/releases/download/4.5.4/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.5.4](https://github.com/Keizaal/Keizaal/releases/download/4.5.4/Keizaal.wabbajack)
 - Updated Adamant - A Perk Overhaul
 - Updated Apothecary - An Alchemy Overhaul
 - Updated BA Bard Songs
@@ -457,7 +457,7 @@ title: Changelog
 - Added On the Crimson Trail Beta
 - Added Canis Hysteria Beta
 
-### [4.5.3](https://github.com/Keizaal/Keizaal/releases/download/4.5.3/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.5.3](https://github.com/Keizaal/Keizaal/releases/download/4.5.3/Keizaal.wabbajack)
 - Updated Apothecary - An Alchemy Overhaul
 - Updated Shadows Of Sunlight - In Small Exterior World Spaces
 - Updated Assorted mesh fixes
@@ -471,17 +471,17 @@ title: Changelog
 - Added Don't Stay in The Water
 - Added Particle Lights for ENB - Nordic Ruins Candles
 
-#### [4.5.2.2](https://github.com/Keizaal/Keizaal/releases/download/4.5.2.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.5.2.2](https://github.com/Keizaal/Keizaal/releases/download/4.5.2.2/Keizaal.wabbajack)
 - Updated Adamant - A Perk Overhaul
 - Updated Apothecary - An Alchemy Overhaul
 - Removed Halted Stream Mine - Revisied (made redundant with Dungeons - Revisited)
 - Removed Project Clarity AIO (made redudant with Base Coat)
 - Fixed incorrect ownership in Bluesky Manor
 
-#### [4.5.2.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.2.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.5.2.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.2.1/Keizaal.wabbajack)
 - Added Apothecary - An Alchemy Overhaul
 
-### [4.5.2](https://github.com/Keizaal/Keizaal/releases/download/4.5.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.5.2](https://github.com/Keizaal/Keizaal/releases/download/4.5.2/Keizaal.wabbajack)
 - Updated Dlizzio's Mesh Fixes
 - Updated Dwemer Gates Don't Reset
 - Updated Headhunter - Bounties Redone
@@ -495,7 +495,7 @@ title: Changelog
 - Added Unique Quill of Gemination
 - Added Unique Skulls HD - SE
 
-#### [4.5.1.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.1.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.5.1.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.1.1/Keizaal.wabbajack)
 - Updated Nilheim BQ Fix
 - Removed Birds and Flocks SSE Edition
 - Removed No Spinning Death Animation LITE
@@ -503,7 +503,7 @@ title: Changelog
 - Removed Right Sneak attack variations DAR
 - Added UNDERDOG - Animations
 
-### [4.5.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.5.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.1/Keizaal.wabbajack)
 - Updated Adamant - A Perk Overhaul
 - Updated C.O.I.N. - Coins of Interesting Natures
 - Updated Conditional Expressions - Subtle Face Animations
@@ -524,7 +524,7 @@ title: Changelog
 - Added Dungeons - Revisited
 - Added Headhunter - Bounties Redone
 
-## [4.5.0](https://github.com/Keizaal/Keizaal/releases/download/4.5.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+## [4.5.0](https://github.com/Keizaal/Keizaal/releases/download/4.5.0/Keizaal.wabbajack)
 - Updated Adamant - A Perk Overhaul
 - Updated Aetherius - A Race Overhaul
 - Updated Daedric Shrines of Skyrim
@@ -560,7 +560,7 @@ title: Changelog
 - Added High Poly Canticle Tree
 - Added Particle Lights for ENB - Staff Enchanter
 
-### [4.4.4](https://github.com/Keizaal/Keizaal/releases/download/4.4.4/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.4.4](https://github.com/Keizaal/Keizaal/releases/download/4.4.4/Keizaal.wabbajack)
 - Updated Forget Spell
 - Removed A Quality World Map
 - Added Ancient Nord Armo(u)ry EXTREME SE
@@ -568,7 +568,7 @@ title: Changelog
 - Added powerofthree's Tweaks
 - Added Prestige World Map
 
-### [4.4.3](https://github.com/Keizaal/Keizaal/releases/download/4.4.3/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.4.3](https://github.com/Keizaal/Keizaal/releases/download/4.4.3/Keizaal.wabbajack)
 - Updated Cannibal Draugr on Solstheim (Bloodmoon Creature Restoration Project)
 - Updated Chillwind Depths CTD Fix
 - Updated Cleaned Skyrim SE Textures
@@ -589,7 +589,7 @@ title: Changelog
 - Added Near Vanilla Project - Queen Bee Statue Redone
 - Added Particle Lights for ENB - Wisps - Witchlight
 
-### [4.4.2](https://github.com/Keizaal/Keizaal/releases/download/4.4.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.4.2](https://github.com/Keizaal/Keizaal/releases/download/4.4.2/Keizaal.wabbajack)
 - Updated Cleaned Skyrim SE Textures  
 - Updated Cities of the North - Dawnstar Patch Collection
 - Updated Cities of the North - Winterhold Patch Collection
@@ -616,7 +616,7 @@ title: Changelog
 - Added Remiros' Dunmer Urns HD
 - Removed Less Sarcastic Applause
 
-### [4.4.1](https://github.com/Keizaal/Keizaal/releases/download/4.4.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.4.1](https://github.com/Keizaal/Keizaal/releases/download/4.4.1/Keizaal.wabbajack)
 - Updated Immersive Interactions - Animated Actions
 - Updated Shrine to Kyne
 - Updated Skyrim Unbound Reborn (Alternate Start)
@@ -633,7 +633,7 @@ title: Changelog
 - Added Shield animations (Captain America)
 - Added Right Sneak attack variations DAR
 
-## [4.4.0](https://github.com/Keizaal/Keizaal/releases/download/4.4.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+## [4.4.0](https://github.com/Keizaal/Keizaal/releases/download/4.4.0/Keizaal.wabbajack)
 - Updated Dwemer Gates Don't Reset
 - Updated Immersive Interactions - Animated Actions
 - Updated Misc. SMIM Fixes
@@ -680,7 +680,7 @@ title: Changelog
 - Removed Quiet Dog
 - Removed CHADD Uncapper Preset
 
-### [4.3.1](https://github.com/Keizaal/Keizaal/releases/download/4.3.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.3.1](https://github.com/Keizaal/Keizaal/releases/download/4.3.1/Keizaal.wabbajack)
 - Updated Ancient Nord Stalhrim
 - Updated Skyrim Unbound Reborn (Alternate Start)
 - Updated SSE Display Tweaks
@@ -689,7 +689,7 @@ title: Changelog
 - Added Unofficial Skyrim Modder's Patch - USMP SE
 - Removed Pet The Dog - Animations
 
-## [4.3.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.3.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+## [4.3.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.3.0/Keizaal.wabbajack)
 - Updated Extended Encounters
 - Updated Particle Lights For ENB SE - Undead Creatures
 - Updated Shirley - A Skyrim Follower Mod
@@ -712,14 +712,14 @@ title: Changelog
 - Removed Skyrim 3D Trees and Plants
 - Removed Majestic Mountains - Mesh Tangent Space Fixes
 
-#### [4.2.2.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.2.2.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.2/Keizaal.wabbajack)
 - Updated Giant Campfires Cast Shadows- Immersive Giant Fire Lighting Overhaul
 - Updated Equip Enchantment Fix
 - Updated Whiterun Mesh Fixes
 - Added Skyrim Unbound Reborn (Alternate Start)
 - Fixed missing Game Root
 
-### [4.2.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.2.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.2/Keizaal.wabbajack)
 - Updated Cuyi's Bosmeri Antlers - SSE
 - Updated SSE Display Tweaks
 - Updated Scrambled Bugs
@@ -738,7 +738,7 @@ title: Changelog
 - Removed the Truth ENB
 - Fixed Valerica not leading the player into the Boneyard
 
-### [4.2.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.2.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.1/Keizaal.wabbajack)
 - Updated JK's Palace of the Kings
 - Updated Papyrus Extender
 - Updated Scrambled Bugs
@@ -755,7 +755,7 @@ title: Changelog
 - Regenned LODs
 - Fixed crash in Blackreach
 
-#### [4.2.0.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.0.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.2.0.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.0.1/Keizaal.wabbajack)
 - Updated Ancient Nord Stalhrim
 - Added Immersive Faction and Character Attire
 - Added aMidianBorn Iron Armor
@@ -768,7 +768,7 @@ title: Changelog
 - Removed Wash That Blood Off
 - Removed Name Those Ash Piles
 
-## [4.2.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+## [4.2.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.0/Keizaal.wabbajack)
 - Updated Mainland Stalhrim
 - Updated Scrambled Bugs
 - Updated More Informative Console
@@ -787,7 +787,7 @@ title: Changelog
 - Removed Tamriel Master Lights
 - Removed the Truth ENB Lite
 
-### [4.1.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.1.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.2/Keizaal.wabbajack)
 - Updated Mundas
 - Updated Scrambled Bugs
 - Updated Papyrus Extender
@@ -803,7 +803,7 @@ title: Changelog
 - Added Whiterun Mesh Fixes
 - Added Majestic Mountains - Mesh Tangent Space Fixes
 
-### [4.1.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.1.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.1/Keizaal.wabbajack)
 - Updated Scramled Bugs
 - Updated Mainland Stalhrim - Lite
 - Updated Aetherius
@@ -816,13 +816,13 @@ title: Changelog
 - Removed Remiro's Fort Dawngaurd
 - Removed Dwemer Tech Glowmapped
 
-#### [4.1.0.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.0.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.1.0.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.0.2/Keizaal.wabbajack)
 - Updated Scrambled Bugs
 - Updated Mainland Stahlrim
 - Added Dwemer Tech Glowmapped
 - Fixed formID issue with Keizaal Tweaks - Tiber Septim Room Improvements.esp.
 
-#### [4.1.0.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.0.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.1.0.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.0.1/Keizaal.wabbajack)
 - Added Just Ice
 - Added Skyrim 3D Icefloes
 - Added Tiber Septim Room Improvement
@@ -834,7 +834,7 @@ title: Changelog
 - Fixed verison mismatches displayed on Mod Manager UI
 - Regenned LODs to improve performance
 
-## [4.1.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+## [4.1.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.0/Keizaal.wabbajack)
 - Updated Water for ENB
 - Updated WM's Flora Fixes - Revamped
 - Updated Civil War Deserters
@@ -859,7 +859,7 @@ title: Changelog
 - Regenned LODS
 - ELSified several .esps.
 
-### [4.0.10](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.10/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.0.10](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.10/Keizaal.wabbajack)
 - Updated The Truth
 - Updated SSE Display Tweaks
 - Updated Misc Tweaks - Better Horses
@@ -894,7 +894,7 @@ title: Changelog
 - Removed Vigilance is a Husky
 - Removed several optional mods that were not serving much a purpose
 
-### [4.0.9](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.9/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.0.9](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.9/Keizaal.wabbajack)
 - Updated Horse Stamina HUD
 - Updated Dwemer Pipework Reworked
 - Updated Knight of the North
@@ -905,14 +905,14 @@ title: Changelog
 - Added Misc Tweaks - Night Eye Redux
 - Added Madena - The Pacifist
 
-#### [4.0.8.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.0.8.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8.2/Keizaal.wabbajack)
 - Updated Project Clarity
 - Updated ELFX Fixes
 - Added Horse Stamina Widget - Script Free
 - Added Cleaned Skyrim Textures
 - Reduced the modlist size by nearly half
 
-#### [4.0.8.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.0.8.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8.1/Keizaal.wabbajack)
 - Updated Lucien
 - Updated Iconic Statues
 - Updated Copy Paste in Console
@@ -922,7 +922,7 @@ title: Changelog
 - Ironed out issues with the new Stock Game system, notably incorrect pathes for tools.
 - Added a whole suite of custom LOOT rules to make the application useful when working with Keizaal.
 
-### [4.0.8](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.0.8](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8/Keizaal.wabbajack)
 - Updated Dlizzio's Mesh Fixes
 - Updated Papyrus Extender
 - Updated Dwemer Pipework Reworked
@@ -944,7 +944,7 @@ title: Changelog
 - Added Faction - Pit Fighter Revamped
 - Moved to the "Stock Game" implementation. The Game Folder Files step of installation is no longer necessary.
 
-### [4.0.7](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.7/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.0.7](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.7/Keizaal.wabbajack)
 - Updated Stagger Direction Fix
 - Updated aMidianBorn Armor Variants Lite
 - Updated High Poly Project
@@ -959,18 +959,18 @@ title: Changelog
 - Added various missing fixes for Widescreen
 - Removed Alduin's Wall Main Menu Replacer
 
-#### [4.0.6.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.0.6.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6.2/Keizaal.wabbajack)
 - Removed Project Clarity AIO
 - Removed aMidianBorn Book of Silence AIO
 - Added individual unpacked Project Clarity modules
 - Added individual unpacked aMidianBorn Book of Silence Modules
 
-#### [4.0.6.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.0.6.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6.1/Keizaal.wabbajack)
 - Updated Mysticism
 - Regenned LODs
 - Improved performance related to particle lights
 
-### [4.0.6](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.0.6](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6/Keizaal.wabbajack)
 - Updated Dlizzio's Mesh Fixes
 - Updated High Poly Sweet Roll
 - Updated Script-free Flinching
@@ -1008,7 +1008,7 @@ title: Changelog
 - Fixed texture issues with Vampire Armor
 - Fixed floating bird nest at Peryite's Shrine
 
-### [4.0.5](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.5/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.0.5](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.5/Keizaal.wabbajack)
 - Updated Iconic's Paragon Gems
 - Updated Extended Encounters
 - Updated Assorted Mesh Fixes
@@ -1035,7 +1035,7 @@ title: Changelog
 - Fixed the Battle of Whiterun (Imperial) not progressing correctly
 - Fixed some holes
 
-#### [4.0.4.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.4.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.0.4.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.4.1/Keizaal.wabbajack)
 - Updated R.A.S.S
 - Updated Iconic's Paragon Gems
 - Added More Lights for ENB - Paragon Gems
@@ -1045,7 +1045,7 @@ title: Changelog
 - Removed Better Bears
 - Fixed Godawful LODs
 
-### [4.0.4](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.4/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.0.4](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.4/Keizaal.wabbajack)
 - Updated CHADD Uncapper
 - Updated Blade and Blunt
 - Updated Real Rabbits HD
@@ -1080,7 +1080,7 @@ title: Changelog
 - Removed Dynamic Sun Shadows
 - Removed Dynamic Mountain Fog
 
-### [4.0.3](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.3/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.0.3](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.3/Keizaal.wabbajack)
 - Added Iconic's Windcaller Tomb and Horn
 - Added Whiterun - Skyforge Reforged
 - Added Skyrim 3D Plants
@@ -1102,7 +1102,7 @@ title: Changelog
 - Iconic's Gray Fox Bust
 - Added Horses for Followers
  
-#### [4.0.2.5](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.5/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.0.2.5](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.5/Keizaal.wabbajack)
 - Updated Radiant Requiremnets
 - Updated OnHit Animations Framework
 - Updated Adamant
@@ -1118,7 +1118,7 @@ title: Changelog
 - Removed Cathedral - Humans, Mer, and Beastfolk
 - Removed various graphics mods in preperation for graphical rework
 
-#### [4.0.2.4](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.4/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.0.2.4](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.4/Keizaal.wabbajack)
 - Updated More Craftable Equipment
 - Updated Blade and Blunt
 - Updated Arena
@@ -1132,7 +1132,7 @@ title: Changelog
 - Added PraedythXVI's ENB Light Staves
 - Fixed "Running Wild" quest in Whiterun, previously it was broken and uncompletable
 
-#### [4.0.2.3](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.3/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.0.2.3](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.3/Keizaal.wabbajack)
 - Updated Assorted Mesh Fixes
 - Added No Sunlight Through Mountains
 - Added CC's Remastered Murals
@@ -1140,20 +1140,20 @@ title: Changelog
 - Added Iconic's Saerek and Torsten Skull Key
 - Fixed the Riften Crash
 
-#### [4.0.2.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.0.2.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.2/Keizaal.wabbajack)
 - Updated Assorted Mesh Fixes
 - Added Morrowind Threads - A Netch Leather Integration Mod
 - Removed Creation Club Integration - Netch Leather Armor
 - Fixed missing properties in a few quests around Whiterun
 - Fixed dark af lighting.
 
-#### [4.0.2.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.0.2.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.1/Keizaal.wabbajack)
 - Added Practical Pirate Armor
 - Added Practical Pirate Armor Distribution
 - Removed Simple Weapon Parrying due to CTD issues
 - Fixed mesh issues with Light Thalmor Armor
 
-### [4.0.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.0.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2/Keizaal.wabbajack)
 - Updated Cathedral HMB
 - Updated Markarth - A Mountainous Experience
 - Updated Simple Weapon Parry
@@ -1167,10 +1167,10 @@ title: Changelog
 - Fixed CTD issue in Riften (hopefully)
 - Fixed misc landscape issues
 
-#### [4.0.1.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+#### [4.0.1.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1.1/Keizaal.wabbajack)
 - Fixed Serenity and Tactical Valtheim being excluded from the .wabbajack.
 
-### [4.0.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [4.0.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1/Keizaal.wabbajack)
 - Updated po3's Papyrus Extender
 - Updated moreHUD
 - Updated Capital Windhelm Expansion
@@ -1193,7 +1193,7 @@ title: Changelog
 - Removed Forgotten Retexture Project
 - Fixed CTD issue outside Riften
 
-# [4.0.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.0/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+# [4.0.0](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.0/Keizaal.wabbajack)
 - Updated Engine Fixes
 - Updated Dlizzio's Mesh Fixes
 - Updated Scion - A Vampire Overhaul
