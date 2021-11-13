@@ -2,6 +2,10 @@
 layout: default
 title: Changelog
 ---
+#### [6.0.0.4 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.4/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+- Updated [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=241018)
+- Fixed missing Coffee asset
+
 #### [6.0.0.3 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.3/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 - Fixed missing Whiterun textures
 - Fixed missing Dragonsreach mesh
