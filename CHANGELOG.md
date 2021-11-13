@@ -2,6 +2,10 @@
 layout: default
 title: Changelog
 ---
+#### [6.0.0.3 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.3/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+- Fixed missing Whiterun textures
+- Fixed missing Dragonsreach mesh
+
 #### [6.0.0.2 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 - Updated [Vanilla Script (micro)Optimizations](https://www.nexusmods.com/skyrimspecialedition/mods/54061?tab=files&file_id=239970)
 - Fixed the blinding white screen during the game's intro
