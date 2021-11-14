@@ -11,7 +11,6 @@ title: Installation Guide
     - [Mod Configuration](#mod-configuration)
     - [Hotkeys](#hotkeys)
 - [Additional Configuration (Optional)](#additional-configuration-optional)
-  - [Optional Mods](#optional-mods)
   - [Creation Club Content](#creation-club-content)
   - [Settings](#settings)
   - [Mod Notes](#mod-notes)
@@ -111,14 +110,6 @@ There are several hotkeys that you should be aware of while playing Keizaal. Mos
 # Additional Configuration (Optional)
 
 This following section outlines some optional confiurations. Nothing here is necessary, but it may be of some interest to users who like to tweak.
-
-## Optional Mods
-
-There are a handful of mods that I have included that are disabled by default; these mods aren’t part of the main Keizaal package. If you choose to activate an optional mod, be sure to sort your load order before you begin playing. Simply press the sort button in the top right-hand corner of Mod Organizer to sort all of your plugins!
-
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
-
-I will try to assist you in enabling these optional mods, however if you make changes to Keizaal outside of these few mods I will not be able to help you. Any personal edits you make to this list must be done independently.
 
 ## Creation Club Content
 
