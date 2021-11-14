@@ -133,7 +133,7 @@ After you have activated all the respective integration mods remember to use the
 
 ## Settings
 
-If you want to edit some of Skyrim's settings you can do so by manually edit your base game's .ini files. You can do so by navigating to the top of Mod Organizer, clicking on the puzzle piece, then selecting ".ini Editor".
+If you want to edit some of Skyrim's settings you can do so by manually editing your base game's .ini files. You can do so by navigating to the top of Mod Organizer, clicking on the puzzle piece, then selecting ".ini Editor".
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/7.%20Manual%20.inis.PNG)
 
