@@ -4,7 +4,7 @@ title: Troubleshooting
 ---
 ### "*Wabbajack throws an error after authorizing through Nexus.*"
 
-Download the [.Net Framework 4.8 Runtime](https://go.microsoft.com/fwlink/?LinkId=2085155). Be sure to restart your computer afterward.
+Please ensure you have [.Net Framework 5.0](https://dotnet.microsoft.com/download/dotnet/5.0/runtime){:target="_blank" rel="noopener"} installed. Download the desktop app x64 AND the console app x64 versions from Microsoft. Be sure to restart your computer afterward.
 
 ### "*Wabbajack is stuck during installation.*"
 
@@ -46,21 +46,17 @@ Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_re
 
 ### "*Some mods in the Downloads tab aren't listed as installed.*"
 
-This occsionally happens with certain mods, don't worry, they *are* installed.
+This occsionally happens with certain mods, don't worry, they **are installed**.
 
 ### "*Keizaal won't launch through MO2.*"
 
-Please ensure you have [.NET v5.0](https://dotnet.microsoft.com/download/dotnet/5.0/runtime){:target="_blank" rel="noopener"} installed. Download the desktop app x64 AND the console app x64 versions from Microsoft.
+Please ensure you have [.Net Framework 5.0](https://dotnet.microsoft.com/download/dotnet/5.0/runtime){:target="_blank" rel="noopener"} installed. Download the desktop app x64 AND the console app x64 versions from Microsoft.
 
 ### "*Plugins are getting deactivated in the right panel.*"
 
 You have likely surpassed the 255 .esp limit. When this happens Mod Organizer will automatically disable plugins in order to ensure that the game can launch.
 
 Note that I **WILL NOT** provide support to installations of Keizaal that have been modified.
-
-### "*UI elements appear to be getting cut off the screen.*"
-
-Enable Widescreen Fixes under the optional section in Mod Organizer. If that doesn't work, disable Widescreen Fixes and enable Dialogue Interface ReShaped (16 by 10).
 
 ### "*Skyrim is capped at 72 FPS.*"
 
@@ -72,7 +68,7 @@ Press the "X" button to toggle the compass on and off.
 
 ### "*The crosshair is missing.*"
 
-Restart your game. The crosshair should reappear when you load you save.
+Toggle between first-person and third-person. The crosshair should reappear.
 
 ### "*When updating Keizaal, Wabbajack deletes mods added on top of the list.*"
 
@@ -83,8 +79,6 @@ During every update Wabbajack will clean out the mods folder to ensure that ever
 Note that I **WILL NOT** provide support to installations of Keizaal that have been modified.
 
 ### "*.ini and .txt configuration files aren't present in the mod's folder.*"
-
-The Settings application can handle the majority of tweaks that you would generally want to make. However, some of the more niche settings may be handled by .inis that Settings can't edit. These will need to be edited manually.
 
 In order to manually edit the .inis you will first need to find the "Keizaal Settings" mod in the left pane of Mod Organizer. It should be near the bottom. Once you find it, right click on it and select "Information".
 
@@ -99,6 +93,8 @@ You should now see a list of all the .ini files present in Keizaal. You can edit
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/10.%20Edit%20.inis.PNG)
 
 Some configuration settings may be stored in a non-.ini format. If that is the case you can edit them through the "Text Files" tab.
+
+Note that I **WILL NOT** provide support to installations of Keizaal that have been modified.
 
 ---
 
