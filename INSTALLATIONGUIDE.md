@@ -7,11 +7,13 @@ title: Installation Guide
 - [Setup](#setup)
   - [Clean Install](#clean-install)
   - [Microsoft .NET 5.0](#microsoft-net-50)
-- [Keizaal Installation](#keizaal-installation)
-- [Playing Keizaal](#playing-keizaal)
+- [Installation](#installation)
+    - [Wabbajack Installation](#wabbajack-installation)
+    - [Keizaal Installation](#keizaal-installation)
+- [Playing](#playing)
     - [Mod Configuration](#mod-configuration)
     - [Hotkeys](#hotkeys)
-- [Additional Configuration (Optional)](#additional-configuration-optional)
+- [Optional Configuration](#optional-configuration)
   - [Creation Club Content](#creation-club-content)
   - [Settings](#settings)
   - [Mod Notes](#mod-notes)
@@ -64,13 +66,17 @@ Please ensure you have .NET v5.0 installed. Download the desktop app x64 AND the
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/14.%20DotNet.PNG)
 
-# Keizaal Installation
+# Installation
+
+## Wabbajack Installation
 
 Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe).
 
 Create a new folder called “Wabbajack” in a location **outside of the Program Files**. Extract Wabbjack.exe into this folder.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/1.%20Installing%20Wabbajack.png)
+
+## Keizaal Installation 
 
 Create a new folder called “Keizaal” in a location **outside of the Program Files**.
 
@@ -84,7 +90,7 @@ When you’re ready, press the triangular start button.
 
 After starting the installation a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log into and authorize Wabbajack on Nexus and the installation will proceed. Wabbajack will now install the modlist, this will take a while so be patient. When Wabbajack is finished, the left panel should say "Installation Complete". Keizaal is ready to play!
 
-# Playing Keizaal
+# Playing
 
 Now that Keizaal has been installed you will need to launch Skyrim in a slightly different way.
 
@@ -114,7 +120,7 @@ There are several hotkeys that you should be aware of while playing Keizaal. Mos
 
 **K** - Zoom Mini Map
 
-# Additional Configuration (Optional)
+# Optional Configuration
 
 This following section outlines some optional confiurations. Nothing here is necessary, but it may be of some interest to users who like to tweak.
 
