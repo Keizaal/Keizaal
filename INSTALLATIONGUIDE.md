@@ -136,7 +136,7 @@ This following section outlines some optional confiurations. Nothing here is nec
 
 ### Creation Club Content
 
-Keizaal has an additional Creation Club addon. This addon includes several mods that improve and better integration a handful of Creation Club content into Skyrim. The following creations are supported with their respective integration mods:
+Keizaal has an additional Creation Club addon. This addon includes several mods that improve and better integrate a handful of Creation Club content into Skyrim. The following creations are supported with their respective integration mods:
 
 - [Alternative Armors - Daedric Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Daedric_Mail){:target="_blank" rel="noopener"}
 - [Alternative Armors - Dragonscale](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dragonscale){:target="_blank" rel="noopener"}
