@@ -144,12 +144,10 @@ Keizaal has an additional Creation Club addon. This addon includes several mods 
 - [Alternative Armors - Ebony Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Ebony_Plate){:target="_blank" rel="noopener"}
 - [Alternative Armors - Elven Hunter](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Elven_Hunter){:target="_blank" rel="noopener"}
 - [Alternative Armors - Stalhrim Fur](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Stalhrim_Fur){:target="_blank" rel="noopener"}
-- [Alternative Armors - Steel Soldier](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Steel_Soldier){:target="_blank" rel="noopener"}
-- [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere){:target="_blank" rel="noopener"}
+- [Alternative Armors - Steel Soldier](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Steel_Soldier){:target="_blank" rel="noopener"} and [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere){:target="_blank" rel="noopener"}
 - [Dead Man's Dread](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Dread){:target="_blank" rel="noopener"}
 - [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader){:target="_blank" rel="noopener"}
-- [Elite Crossbows](https://en.uesp.net/wiki/Skyrim:Elite_Crossbows){:target="_blank" rel="noopener"}
-- [Expanded Crossbow Pack](https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack){:target="_blank" rel="noopener"}
+- [Elite Crossbows](https://en.uesp.net/wiki/Skyrim:Elite_Crossbows){:target="_blank" rel="noopener"} and [Expanded Crossbow Pack](https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack){:target="_blank" rel="noopener"}
 - [Netch Leather Armor](https://en.uesp.net/wiki/Skyrim:Netch_Leather_Armor){:target="_blank" rel="noopener"}
 - [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios){:target="_blank" rel="noopener"}
 - [Vigil Enforcer Pack](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set){:target="_blank" rel="noopener"}
