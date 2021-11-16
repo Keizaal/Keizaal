@@ -56,7 +56,7 @@ Please ensure you have [.Net Framework 5.0](https://dotnet.microsoft.com/downloa
 
 You have likely surpassed the 255 .esp limit. When this happens Mod Organizer will automatically disable plugins in order to ensure that the game can launch.
 
-Note that I **WILL NOT** provide support to installations of Keizaal that have been modified.
+Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
 
 ### "*Skyrim is capped at 72 FPS.*"
 
@@ -76,7 +76,7 @@ During every update Wabbajack will clean out the mods folder to ensure that ever
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/12.%20No%20Delete.PNG)
 
-Note that I **WILL NOT** provide support to installations of Keizaal that have been modified.
+Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
 
 ### "*.ini and .txt configuration files aren't present in the mod's folder.*"
 
@@ -94,10 +94,10 @@ You should now see a list of all the .ini files present in Keizaal. You can edit
 
 Some configuration settings may be stored in a non-.ini format. If that is the case you can edit them through the "Text Files" tab.
 
-Note that I **WILL NOT** provide support to installations of Keizaal that have been modified.
+Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
 
 ---
 
-Contact Tate Taylor on [his community Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} for individual help and guidance. Note that I **WILL NOT** provide support to installations of Keizaal that have been modified.
+Contact Tate Taylor on [his community Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} for individual help and guidance. Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
 
 Support for manual installations is **NOT OFFERED**. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone’s time.
