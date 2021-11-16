@@ -26,7 +26,7 @@ title: Installation Guide
 
 Keizaal takes up 174.9GB of hard drive space (94.9GB installation with 80GB of downloads) and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance. You will run into very, very long loading times and stuttering with a standard hard disk drive. 
 
-## Recommended System Requirements
+### Recommended System Requirements
 
 Type|Item
 :----|:----
@@ -44,7 +44,7 @@ Type|Item
 
 This modlist was developed on a computer running the above specs, on this system a stable and consistent 72 FPS is the norm. Your mileage may vary, there is nothing I can do if you experience poor performance.
 
-## Automated Downloads
+### Automated Downloads
 
 Automated downloads from Nexus are only available through Wabbajack with an active premium membership. If you do not have a premium membership, Wabbajack will prompt you to manually download the necessary files.
 
@@ -58,7 +58,7 @@ Support for manual installations is **NOT OFFERED**. There are simply too many v
 
 Before the Keizaal installation can begin there are a few preliminary setup steps that need to be done.
 
-## Clean Install
+### Clean Install
 
 A clean install of Skyrim is **required** in order to correctly install Keizaal.
 
@@ -68,7 +68,7 @@ Reinstall Skyrim in a location **outside of the Program Files**. If you have iss
 
 Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
 
-## Microsoft .NET 5.0
+### Microsoft .NET 5.0
 
 Please ensure you have .NET v5.0 installed. Download the desktop app x64 AND the console app x64 versions from Microsoft [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 
@@ -78,7 +78,7 @@ Please ensure you have .NET v5.0 installed. Download the desktop app x64 AND the
 
 Next, both Wabbajack and Keizaal will need to be downloaded and installed.
 
-## Wabbajack Installation
+### Wabbajack Installation
 
 Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe).
 
@@ -86,7 +86,7 @@ Create a new folder called “Wabbajack” in a location **outside of the Progra
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/1.%20Installing%20Wabbajack.png)
 
-## Keizaal Installation 
+### Keizaal Installation 
 
 Create a new folder called “Keizaal” in a location **outside of the Program Files**.
 
@@ -112,11 +112,11 @@ You should now be on a screen that displays all of your installed mods on the le
 
 You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the right plugins pane and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
 
-## Mod Configuration
+### Mod Configuration
 
 All of the Mod Configuration Menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
 
-## Hotkeys
+### Hotkeys
 
 There are several hotkeys that you should be aware of while playing Keizaal. Most of them can be edited via the in-game Mod Configuration Menu. The default keys are as follows:
 
@@ -134,7 +134,7 @@ There are several hotkeys that you should be aware of while playing Keizaal. Mos
 
 This following section outlines some optional confiurations. Nothing here is necessary to get Keizaal installed properly.
 
-## Creation Club Content
+### Creation Club Content
 
 Keizaal has an additional Creation Club addon. This addon includes several mods that improve and better integration a handful of Creation Club content into Skyrim. The following creations are supported with their respective integration mods:
 
@@ -154,7 +154,7 @@ In order to enable Creation Club support for Keizaal, simply install the creatio
 
 After you have activated all the respective integration mods remember to use the "Sort" function to ensure all of your plugins are ordered correctly before playing.
 
-## Settings
+### Settings
 
 If you want to edit some of Skyrim's settings you can do so by manually editing your base game's .ini files. You can do so by navigating to the top of Mod Organizer, clicking on the puzzle piece, then selecting ".ini Editor".
 
@@ -162,7 +162,7 @@ If you want to edit some of Skyrim's settings you can do so by manually editing 
 
 Keep in mind that modifying Keizaal will forfeit any support that you would normally recieve.
 
-## Mod Notes
+### Mod Notes
 
 Several mods in Keizaal's Mod Organizer have notes attached to them. If the note icon appears next to a mod, hover over it to read the notes I've added. These notes will give you some additional context about how I have configured the mod.
 
@@ -180,7 +180,7 @@ This means that any additional mods you have installed on top of Keizaal will be
 
 Keep in mind that modifying Keizaal will forfeit any support that you would normally recieve.
 
-## Semantic Versioning
+### Semantic Versioning
 
 Keizaal uses semantic versioning in order to quickly determine the size of an update and if it is savegame compatible or not. This is what the version numbers mean:
 
