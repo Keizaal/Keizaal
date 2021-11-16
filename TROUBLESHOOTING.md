@@ -20,13 +20,11 @@ Afterward open Wabbajack back up, navigate to the client settings, and enable "U
 
 Alternatively, you can try and manually install the failed mod downloads. You can find links to recently added and updated mods in the [Changelog](https://keizaal.github.io/Keizaal/CHANGELOG.html){:target="_blank" rel="noopener"}. 
 
-The manual download link for Base Coat can be found [here](https://www.nexusmods.com/skyrimspecialedition/mods/46850/?tab=files&file_id=191371){:target="_blank" rel="noopener"}.
+A manual download link for the following files are provided below:
 
-The manual download link for xLODGEN_Output.zip can be found [here](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/xLODGEN_Output.zip)
-
-The manual download link for DynDOLOD_Output.zip can be found [here](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/TexGen_Output.zip)
-
-The manual download link for TexGen_Output.zip can be found [here](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/DynDOLOD_Output.zip)
+- [xLODGEN_Output.zip](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/DynDOLOD_Output.zip)
+- [TexGen_Output.zip](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/xLODGEN_Output.zip)
+- [DynDOLOD_Output.zip](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/TexGen_Output.zip)
 
 Place the manually downloaded mods in your downloads folder where the other Wabbajack downloads are in your Mod Organizer. Do not extract them. Note that some of these are big files and may take a while.
 
