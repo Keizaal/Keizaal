@@ -154,7 +154,7 @@ After you have activated all the respective integration mods be sure to sort you
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
 
-I will try to assist you in enabling the Creation Club addon, however if you make changes to Keizaal outside of these few creations I will not be able to help you. Any personal edits you make to this list must be done independently.
+I will try to assist you in enabling the Creation Club addon, however if you make changes to Keizaal outside of these few creations I **WILL NOT** be able to help you. Any personal edits you make to this list must be done independently.
 
 ### Settings
 
