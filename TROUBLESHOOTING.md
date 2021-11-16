@@ -34,17 +34,7 @@ Ensure that Skyrim's language is set to English in Steam.
 
 ### "*Another vanilla file fails to install.*"
 
-If a file like `Data_Skyrim.esm` fails to install you likely have Skyrim Anniversary Edition installed.
-
-**Keizaal not compatible with Skyrim Anniversary Edition** and there is no estimated timeframe for when this may change.
-
-The Anniversary Edition makes a number of fundamental changes which mean many critical tools, such as SKSE and mods that rely on those tools, need to be updated.
-
-In order to use Keizaal, you must either not update your copy of Skyrim Special Edition, or use the [AE downgrade patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618){:target="_blank" rel="noopener"}.
-
-To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.
-
-**Please do not ask when AE will be supported.**
+If a file like `Skyrim - Meshes0.bsa` fails to install verify Skyrim's local cache via Steam.
 
 ### "*There are no relevant files inside the Game Folder Files folder.*"
 
@@ -60,7 +50,7 @@ This occsionally happens with certain mods, don't worry, they *are* installed.
 
 ### "*Keizaal won't launch through MO2.*"
 
-Please ensure you have .NET v5.0 installed. Download the desktop app x64 AND the console app x64 versions from Microsoft [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime){:target="_blank" rel="noopener"}.
+Please ensure you have [.NET v5.0](https://dotnet.microsoft.com/download/dotnet/5.0/runtime){:target="_blank" rel="noopener"} installed. Download the desktop app x64 AND the console app x64 versions from Microsoft.
 
 ### "*Plugins are getting deactivated in the right panel.*"
 
