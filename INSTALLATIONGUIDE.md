@@ -122,7 +122,7 @@ There are several hotkeys that you should be aware of while playing Keizaal. Mos
 
 # Optional Configuration
 
-This following section outlines some optional confiurations. Nothing here is necessary, but it may be of some interest to users who like to tweak.
+This following section outlines some optional confiurations. Nothing here is necessary to get Keizaal installed properly.
 
 ## Creation Club Content
 
