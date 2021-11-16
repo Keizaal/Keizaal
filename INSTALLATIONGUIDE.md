@@ -68,6 +68,8 @@ Please ensure you have .NET v5.0 installed. Download the desktop app x64 AND the
 
 # Installation
 
+Next, both Wabbajack and Keizaal will need to be downloaded and installed.
+
 ## Wabbajack Installation
 
 Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe).
