@@ -5,8 +5,8 @@ title: Installation Guide
 # Table of Contents
 - [Information](#information)
 - [Setup](#setup)
+  - [Clean Install](#clean-install)
   - [Microsoft .NET 5.0](#microsoft-net-50)
-  - [Anniversary Edition](#anniversary-edition)
 - [Keizaal Installation](#keizaal-installation)
 - [Playing Keizaal](#playing-keizaal)
     - [Mod Configuration](#mod-configuration)
@@ -46,11 +46,17 @@ Support for manual installations is **NOT OFFERED**. There are simply too many v
 
 # Setup
 
-Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe).
+Before the Keizaal installation can begin there are a few preliminary setup steps that need to be done.
 
-Create a new folder called “Wabbajack” in a location **outside of the Program Files**. Extract Wabbjack.exe into this folder.
+## Clean Install
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/1.%20Installing%20Wabbajack.png)
+A clean install of Skyrim is **required** in order to correctly install Keizaal.
+
+Navigate to your Skyrim installation in Steam. Right-click on Skyrim and press the "Uninstall".
+
+Reinstall Skyrim in a location **outside of the Program Files**. If you have issues reinstalling Skyrim outside of Program Files, try using the [Steam Library Setup Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide){:target="_blank" rel="noopener"}.
+
+Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
 
 ## Microsoft .NET 5.0
 
@@ -58,19 +64,13 @@ Please ensure you have .NET v5.0 installed. Download the desktop app x64 AND the
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/14.%20DotNet.PNG)
 
-## Anniversary Edition
-
-**Keizaal not compatible with Skyrim Anniversary Edition** and there is no estimated timeframe for when this may change.
-
-The Anniversary Edition makes a number of fundamental changes which mean many critical tools, such as SKSE and mods that rely on those tools, need to be updated.
-
-In order to use Keizaal, you must either not update your copy of Skyrim Special Edition, or use the [AE downgrade patcher](https://www.nexusmods.com/skyrimspecialedition/mods/57618){:target="_blank" rel="noopener"}.
-
-To prevent your game updating, change Skyrim SE's update settings in Steam to only update when launched. Never launch Skyrim SE via Steam, only via your mod manager or skse64_loader.
-
-**Please do not ask when AE will be supported.**
-
 # Keizaal Installation
+
+Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wabbajack/releases/latest/download/Wabbajack.exe).
+
+Create a new folder called “Wabbajack” in a location **outside of the Program Files**. Extract Wabbjack.exe into this folder.
+
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/1.%20Installing%20Wabbajack.png)
 
 Create a new folder called “Keizaal” in a location **outside of the Program Files**.
 
