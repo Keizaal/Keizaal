@@ -46,11 +46,9 @@ This modlist was developed on a computer running the above specs, on this system
 
 ### Automated Downloads
 
-Automated downloads from Nexus are only available through Wabbajack with an active premium membership. If you do not have a premium membership, Wabbajack will prompt you to manually download the necessary files.
+Automated downloads from Nexus are only available through Wabbajack with an active [premium membership](https://users.nexusmods.com/account/billing). If you do not have a premium membership, Wabbajack will prompt you to manually download the necessary files.
 
 If you activate premium membership after beginning a Wabbajack install, you can restart Wabbajack to enable automated downloads.
-
-You can purchase premium membership [here](https://users.nexusmods.com/account/billing).
 
 Support for manual installations is **NOT OFFERED**. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone’s time.
 
