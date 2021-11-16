@@ -5,6 +5,7 @@ title: Installation Guide
 # Table of Contents
 - [Information](#information)
 - [Setup](#setup)
+  - [Microsoft .NET 5.0](#microsoft-net-50)
   - [Anniversary Edition](#anniversary-edition)
 - [Keizaal Installation](#keizaal-installation)
 - [Playing Keizaal](#playing-keizaal)
