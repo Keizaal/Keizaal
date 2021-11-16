@@ -50,7 +50,7 @@ Automated downloads from Nexus are only available through Wabbajack with an acti
 
 If you activate premium membership after beginning a Wabbajack install, you can restart Wabbajack to enable automated downloads.
 
-You can purchase premium membership [here](https://forums.nexusmods.com/index.php?/store/category/1-premium-membership/).
+You can purchase premium membership [here](https://users.nexusmods.com/account/billing).
 
 Support for manual installations is **NOT OFFERED**. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone’s time.
 
