@@ -51,6 +51,10 @@ Create a new folder called “Wabbajack” in a location **outside of the Progra
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/1.%20Installing%20Wabbajack.png)
 
+## Microsoft .NET 5.0
+
+Please ensure you have .NET v5.0 installed. Download the desktop app x64 AND the console app x64 versions from Microsoft [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
+
 ## Anniversary Edition
 
 **Keizaal not compatible with Skyrim Anniversary Edition** and there is no estimated timeframe for when this may change.
