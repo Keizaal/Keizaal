@@ -8,7 +8,7 @@ title: Installation Guide
   - [Automated Downloads](#automated-downloads)
 - [Setup](#setup)
   - [Clean Install](#clean-install)
-  - [Microsoft .Net Framework 5.0](#microsoft-net-ramework-50)
+  - [Microsoft .Net Framework 5.0](#microsoft-net-framework-50)
 - [Installation](#installation)
     - [Wabbajack Installation](#wabbajack-installation)
     - [Keizaal Installation](#keizaal-installation)
