@@ -72,7 +72,7 @@ Run the Skyrim: Special Edition launcher through Steam and let it detect your se
 
 Please ensure you have .NET v5.0 installed. Download the desktop app x64 AND the console app x64 versions from Microsoft [here](https://dotnet.microsoft.com/download/dotnet/5.0/runtime).
 
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/14.%20DotNet.PNG)
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/14.%20DotNet.png)
 
 # Installation
 
