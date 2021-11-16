@@ -150,7 +150,11 @@ In order to enable Creation Club support for Keizaal, simply install the creatio
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/13.%20Creation%20Club.PNG)
 
-After you have activated all the respective integration mods remember to use the "Sort" function to ensure all of your plugins are ordered correctly before playing.
+After you have activated all the respective integration mods be sure to sort your load order before you begin playing. Simply press the sort button in the top right-hand corner of Mod Organizer to sort all of your plugins!
+
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
+
+I will try to assist you in enabling the Creation Club addon, however if you make changes to Keizaal outside of these few creations I will not be able to help you. Any personal edits you make to this list must be done independently.
 
 ### Settings
 
