@@ -136,15 +136,15 @@ This following section outlines some optional confiurations. Nothing here is nec
 
 Keizaal has an additional Creation Club addon. This addon includes several mods that improve and better integration a handful of Creation Club content into Skyrim. The following creations are supported with their respective integration mods:
 
-- [Alternative Armors Series](https://en.uesp.net/wiki/Skyrim:Creation_Club_Quests)
-- [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere)
-- [Dead Man's Dread](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Dread)
-- [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader)
-- [Elite Crossbows](https://en.uesp.net/wiki/Skyrim:Elite_Crossbows)
-- [Expanded Crossbow Pack](https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack) 
-- [Netch Leather Armor](https://en.uesp.net/wiki/Skyrim:Netch_Leather_Armor)
-- [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios)
-- [Vigil Enforcer Pack](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set)
+- [Alternative Armors Series](https://en.uesp.net/wiki/Skyrim:Creation_Club_Quests){:target="_blank" rel="noopener"}
+- [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere){:target="_blank" rel="noopener"}
+- [Dead Man's Dread](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Dread){:target="_blank" rel="noopener"}
+- [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader){:target="_blank" rel="noopener"}
+- [Elite Crossbows](https://en.uesp.net/wiki/Skyrim:Elite_Crossbows){:target="_blank" rel="noopener"}
+- [Expanded Crossbow Pack](https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack){:target="_blank" rel="noopener"}
+- [Netch Leather Armor](https://en.uesp.net/wiki/Skyrim:Netch_Leather_Armor){:target="_blank" rel="noopener"}
+- [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios){:target="_blank" rel="noopener"}
+- [Vigil Enforcer Pack](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set){:target="_blank" rel="noopener"}
 
 In order to enable Creation Club support for Keizaal, simply install the creation you want to use, then navigate to the "Creation Club Addon" section of Mod Organizer and tick all of the mods under the headers of the creations you are using.
 
