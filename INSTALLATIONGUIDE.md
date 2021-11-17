@@ -170,7 +170,7 @@ If you want to edit some of Skyrim's settings you can do so by manually editing 
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/7.%20Manual%20.inis.PNG)
 
-Keep in mind that modifying Keizaal will forfeit any support that you would normally recieve.
+Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
 
 ### Mod Notes
 
@@ -188,7 +188,7 @@ This means that any additional mods you have installed on top of Keizaal will be
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/12.%20No%20Delete.PNG)
 
-Keep in mind that modifying Keizaal will forfeit any support that you would normally recieve.
+Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
 
 ### Semantic Versioning
 
