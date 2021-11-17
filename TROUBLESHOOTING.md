@@ -28,13 +28,12 @@ A manual download link for the following files are provided below:
 
 Place the manually downloaded mods in your downloads folder where the other Wabbajack downloads are in your Mod Organizer. Do not extract them. Note that some of these are big files and may take a while.
 
-### "*Skyrim_Default.ini fails to install.*"
+### "*A vanilla file fails to download.*"
 
-Ensure that Skyrim's language is set to English in Steam.
-
-### "*Another vanilla file fails to install.*"
-
-If a file like `Skyrim - Meshes0.bsa` fails to install verify Skyrim's local cache via Steam.
+If Wabbajack fails to download any of the basegame files during the installation process, close Wabbajack, follow these steps, and then try running the installer again.
+1) Verify the integrity of your game files through Steam, following these instructions: https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335
+2) Make sure that the game is set to English in Steam.
+3) Open the game through Steam once to create any registry entries and INI files you don't already have, then immediately exit the launcher.
 
 ### "*There are no relevant files inside the Game Folder Files folder.*"
 
