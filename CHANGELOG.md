@@ -175,7 +175,7 @@ title: Changelog
 - Added [Dark Brotherhood Rising Revengeance](https://www.nexusmods.com/skyrimspecialedition/mods/57157/?tab=files&file_id=236683)
 - Added [Default Face NPCs Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/54515/?tab=files&file_id=223982)
 - Added [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907/?tab=files&file_id=235578)
-- Added [Giant Campfires Cast Shadows- Giant Fire Lighting Fixed - OPTIONAL ENB Light Version](https://www.nexusmods.com/skyrimspecialedition/mods/49353/?tab=files&file_id=201831)
+- Added [Giant Campfires Cast Shadows- Giant Fire Lighting Fixed](https://www.nexusmods.com/skyrimspecialedition/mods/49353/?tab=files&file_id=201831)
 - Added [House of Horrors - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285/?tab=files&file_id=237924)
 - Added [House Rule - Lawbringer for Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/57243/?tab=files&file_id=237442)
 - Added [Imperial Law - Lawbringer for Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/57099/?tab=files&file_id=239703)
