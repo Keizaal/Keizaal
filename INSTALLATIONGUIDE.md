@@ -64,6 +64,8 @@ A clean install of Skyrim is **required** in order to correctly install Keizaal.
 
 Navigate to your Skyrim installation on Steam. Right-click on Skyrim and click the "Uninstall" button.
 
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/15.%20Uninstall.PNG)
+
 Reinstall Skyrim in a location **outside of the Program Files**. If you have issues reinstalling Skyrim outside of Program Files, try using the [Steam Library Setup Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide){:target="_blank" rel="noopener"}.
 
 Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
