@@ -126,7 +126,7 @@ There are several hotkeys that you should be aware of while playing Keizaal. Mos
 
 **,** - Call Horse
 
-**X** - Toggle Compass
+**X** - Toggle Compass and Widgets
 
 **N** - Toggle Mini Map
 
@@ -134,7 +134,7 @@ There are several hotkeys that you should be aware of while playing Keizaal. Mos
 
 # Optional Configuration
 
-This following section outlines some optional confiurations. Nothing here is necessary to get Keizaal installed properly.
+This following section outlines some optional configurations. Nothing here is necessary to get Keizaal installed properly.
 
 ### Creation Club Content
 
