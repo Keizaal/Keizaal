@@ -2,6 +2,22 @@
 layout: default
 title: Changelog
 ---
+### [6.0.1 - The Best of Both Update](https://github.com/Keizaal/Keizaal/releases/download/6.0.1/Keizaal.wabbajack)
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.0.1.png)
+- Updated [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123/?tab=files&file_id=240339)
+- Updated [Crystal Mudcrabs](https://www.nexusmods.com/skyrimspecialedition/mods/52981/?tab=files&file_id=239976)
+- Updated [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907/?tab=files&file_id=238577)
+- Updated [Gladys the Corgi - A Custom Dog Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/50164/?tab=files&file_id=241818)
+- Updated [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961/?tab=files&file_id=241060)
+- Updated [Happy Little Trees Add-On - DynDOLOD 3](https://www.nexusmods.com/skyrimspecialedition/mods/56907/?tab=files&file_id=241062)
+- Updated [Lucien - Immersive Fully Voiced Male Follower](https://www.nexusmods.com/skyrimspecialedition/mods/20035/?tab=files&file_id=240595)
+- Updated [Merlin the Corgi - A Magical Dog Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/56433/?tab=files&file_id=241848)
+- Updated [NPC AI Process Position  Fix - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/40261/?tab=files&file_id=241400)
+- Updated [Unofficial Skyrim Special Edition Patch](https://www.nexusmods.com/skyrimspecialedition/mods/266/?tab=files&file_id=241103)
+- Updated [Wyrm Tamer - Lawbringer for Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/55190/?tab=files&file_id=241747)
+- Removed [Base Coat](https://www.nexusmods.com/skyrimspecialedition/mods/46850/?tab=files&file_id=191371)
+- Added [Project Clarity AIO - Skyrim Textures Redone](https://www.nexusmods.com/skyrimspecialedition/mods/45306/?tab=files&file_id=188839)
+
 #### [6.0.0.4 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.4/Keizaal.wabbajack)
 - Updated [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=241018)
 - Fixed missing Coffee asset
