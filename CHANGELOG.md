@@ -19,6 +19,8 @@ title: Changelog
 - Removed [Base Coat](https://www.nexusmods.com/skyrimspecialedition/mods/46850/?tab=files&file_id=191371)
 - Added [Project Clarity AIO - Skyrim Textures Redone](https://www.nexusmods.com/skyrimspecialedition/mods/45306/?tab=files&file_id=188839)
 - Added [Simplicity of Snow - Cities of The North](https://www.nexusmods.com/skyrimspecialedition/mods/58559/?tab=files&file_id=241931)
+- Fixed issue were exiting Breezehome would put you into the old closed Whiterun worldspace
+- Fixed crashes happening around Whiterun (hopefully)
 
 #### [6.0.0.4 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.4/Keizaal.wabbajack)
 - Updated [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=241018)
