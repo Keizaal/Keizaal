@@ -204,6 +204,23 @@ title: Changelog
 - Added [Creation Club - Everything Upscaled](https://www.nexusmods.com/skyrimspecialedition/mods/58120/?tab=files&file_id=240156)
 - Added [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188/?tab=files&file_id=239528)
 
+### [5.1.2 - The Merlin Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.2/Keizaal.wabbajack)
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.2.png)
+- Updated [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990/?tab=files&file_id=230915)
+- Updated [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=232264)
+- Updated [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=230041)
+- Updated [Wyrmtamer - Lawbringer for Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/55190/?tab=files&file_id=232265)
+- Removed [Wyrmtamer - Lawbringer for Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/55190/?tab=files&file_id=228248)
+- Removed [Outlandish Stalhrim SSE](https://www.nexusmods.com/skyrimspecialedition/mods/19562/?tab=files&file_id=64184)
+- Moved [Alternate Conversation Camera](https://www.nexusmods.com/skyrimspecialedition/mods/21220?tab=files&file_id=112829)
+- Added [A Matter of Time - A HUD clock widget](https://www.nexusmods.com/skyrimspecialedition/mods/12937/?tab=files&file_id=43572)
+- Added [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123/?tab=files&file_id=232386)
+- Added [Immersive Khajiit Caravan Mules](https://www.nexusmods.com/skyrimspecialedition/mods/49058/?tab=files&file_id=206172)
+- Added [Merlin the Corgi - A Magical Dog Follower Mod](https://www.nexusmods.com/skyrimspecialedition/mods/56433/?tab=files&file_id=232482)
+- Added [ENB Lights For Effect Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/56362/?tab=files&file_id=231784)
+- Added [More Lights for ENB - Blood Splatter Fix](https://www.nexusmods.com/skyrimspecialedition/mods/55582/?tab=files&file_id=228318)
+- Added [Stalhrim Refrozen](https://www.nexusmods.com/skyrimspecialedition/mods/41348/?tab=files&file_id=206676)
+
 #### [5.1.1.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/5.1.1.1/Keizaal.wabbajack)
 - Fixed cyclical LOOT errors
 - Fixed crash when using Widescreen Fixes
