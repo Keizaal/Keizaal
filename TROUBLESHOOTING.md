@@ -22,9 +22,9 @@ Alternatively, you can try and manually install the failed mod downloads. You ca
 
 A manual download link for the following files are provided below:
 
-- [xLODGEN_Output.zip](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/DynDOLOD_Output.zip)
-- [TexGen_Output.zip](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/xLODGEN_Output.zip)
-- [DynDOLOD_Output.zip](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/TexGen_Output.zip)
+- [xLODGEN_Output.zip](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/xLODGEN_Output.zip)
+- [TexGen_Output.zip](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/TexGen_Output.zip)
+- [DynDOLOD_Output.zip](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/DynDOLOD_Output.zip)
 
 Place the manually downloaded mods in your downloads folder where the other Wabbajack downloads are in your Mod Organizer. Do not extract them. Note that some of these are big files and may take a while.
 
