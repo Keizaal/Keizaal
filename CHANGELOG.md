@@ -2,6 +2,19 @@
 layout: default
 title: Changelog
 ---
+#### [6.0.1.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.1.1/Keizaal.wabbajack)
+- Updated [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=242316)
+- Updated [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252/?tab=files&file_id=242292)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=242440)
+- Updated [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073/?tab=files&file_id=242461)
+- Updated [Spell Perk Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869/?tab=files&file_id=242466)
+- Added [JK's Interiors Open Cities Patches](https://www.nexusmods.com/skyrimspecialedition/mods/46114/?tab=files&file_id=202243)
+- Added [Beyond Skyrim Scamp Fur and Teeth Edit](https://www.nexusmods.com/skyrimspecialedition/mods/58215/?tab=files&file_id=240328)
+- Gave Cyrodillic wolves and dogs new unique assets
+- Fixed missing Dragonsreach
+- Fixed bug where Cyrodillic deer would not spawn in southern Bruma
+- Fixed bug where exiting the Blue Palace would suck you into Bizzaro World Solitude
+
 ### [6.0.1 - The Best of Both Update](https://github.com/Keizaal/Keizaal/releases/download/6.0.1/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.0.1.png)
 - Updated [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123/?tab=files&file_id=240339)
