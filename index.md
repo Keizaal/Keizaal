@@ -16,7 +16,7 @@ You can find a full list of the mods included in Keizaal [here](https://loadorde
 
 # Overview
 
-The main package of mods can be easily broken down into two major sections: [Things to Do](#things-to-do) and [Places to Go](places-to-go). Within these sections individual mods that I think are important to the overall experience of the modlist will be highlighted. There are a lot of mods that make Keizaal what it is and every mod has a place to contribute towards that goal, but I consider the following to be "cornerstone mods" that will give you a good idea of what the list will be like.
+The main package of mods can be easily broken down into two major sections: [Things to Do](#things-to-do) and [Places to Go](#places-to-go). Within these sections individual mods that I think are important to the overall experience of the modlist will be highlighted. There are a lot of mods that make Keizaal what it is and every mod has a place to contribute towards that goal, but I consider the following to be "cornerstone mods" that will give you a good idea of what the list will be like.
 
 ## Things to Do
 
