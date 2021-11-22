@@ -101,6 +101,11 @@ Obscure's College of Winterhold is one of the best single-location overhauls I'v
 
 I have no issues with the majority of dungeons in Vanilla, but Dungeons - Revisited does something really cool with a handful of places. This mod doesn't do fudamental design changes that make these dungeons feel like different places. Rather, it simply adds in some more route through dungeons by opening up passageways that were previously locked out by rubble or other natural barriers. All of the new routes still converge on a common path, so getting truly lost and frusterated isn't something to really worry about. This adds to the feeling of exploring ancient ruins and the expansions feel very seamless and natural.
 
+### [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099/)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/54099/54099-1629340334-911469838.png)
+
+The main purpose of Pilgrim is to add some more mechanics to Skyrim's shrines and to expand them to include a wider variety of dieites from across Tamriel. Every culture is represented in some way with the new shrines, each shrine is given a new unique asset and magical effectto reflect the god it is representing. Most noticeably though is how Pilgrim is effected by some of the new perks in the Restoration and Conjuration trees. There are perks for "benevolent" and "malevolent" deities in each of these trees, taking the first rank will double your blessing strength and taking the second will give you an additional powerful blessing along with the one you already get naturally. Investing into these second ranks, while not necessary, will lead to some unique and powerful effects that can change your playstyle. I placed this in the "Places to Go" section because Pilgrim adds a lot of interesting new shrine locations to stumble acorss in the world. This mod really encourages exploration and rewards Players with new and exciting shrines to discover and try out.
+
 ### [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/45565/45565-1613032746-1992524601.jpeg)
 
