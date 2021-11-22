@@ -58,7 +58,7 @@ Another quest that sorely needed a "good" path was House of Horrors. This quest 
 While not nearly as bad as House of Horrors, the Only Cure also had an issue of forcing the Player down a single path that involved stating their alligence to Peryite. The Only Cure - Quest Expansion gives you another route which involves rejecting Peryite. You can also optionally finish the quest on your own terms because you believe it is right as opposed to following the whims of a Daedric prince.
 
 ### [Headhunter - Bounties Redone](https://www.nexusmods.com/skyrimspecialedition/mods/51847)
-![]https://staticdelivery.nexusmods.com/mods/1704/images/51847/108240-1624891883-844138837.jpeg
+![](https://staticdelivery.nexusmods.com/mods/1704/images/51847/108240-1624891883-844138837.jpeg)
 
 While I don't think there is anything inherently wrong from the Vanilla bounty system I cannot deny that Headhunter does improve it. You will now need to provide proof when you go to a bandit camp and clear it out, no longer will the jarl believe you just because you said so. Proof can be provided in two ways: either by arresting the chief of the camp alive, or bringing their head back in a bag. There isn't much more to it than that, but this mod does expand roleplay opportunities which is always a good thing.
 
