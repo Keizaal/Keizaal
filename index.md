@@ -16,7 +16,7 @@ You can find a full list of the mods included in Keizaal [here](https://loadorde
 
 # Overview
 
-The main package of mods can be easily broken down into two major sections: Things to Do and Places to Go. Within these sections individual mods that I think are important to the overall experience of the modlist will be highlighted. There are a lot of mods that make Keizaal what it is and every mod has a place to contribute towards that goal, but I consider the following to be "cornerstone mods" that will give you a good idea of what the list will be like.
+The main package of mods can be easily broken down into two major sections: [Things to Do](#things-to-do) and [Places to Go](places-to-go). Within these sections individual mods that I think are important to the overall experience of the modlist will be highlighted. There are a lot of mods that make Keizaal what it is and every mod has a place to contribute towards that goal, but I consider the following to be "cornerstone mods" that will give you a good idea of what the list will be like.
 
 ## Things to Do
 
@@ -25,12 +25,12 @@ While it may not be obvious on first glance there are a lot of fun new things th
 ### [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/27839/27839-1564552769-1829074082.png)
 
-Mysticism is an overhaul of Skyrim's magic. It make changes to existing vanilla spells as well as expanding to include some new and exciting spells. The mod does a good job of integrating everything into the game in such a manner that it feels like a natural extension. None of the spells stick out much and it gives you a better progression from Noivce to Master. You actually *feel* like a Master when you get to that level and it opens up a lot of fun and powerful spells you can use that level. In vanilla Master spells were rather underwelming, in Mysticism they feel great.
+Mysticism is an overhaul of Skyrim's magic. It make changes to existing Vanilla spells as well as expanding to include some new and exciting spells. The mod does a good job of integrating everything into the game in such a manner that it feels like a natural extension. None of the spells stick out much and it gives you a better progression from Noivce to Master. You actually *feel* like a Master when you get to that level and it opens up a lot of fun and powerful spells you can use that level. In Vanilla Master spells were rather underwelming, in Mysticism they feel great.
 
 ### [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/30191/30191-1572896988-939425731.png)
 
-Adamant is Keizaal's perk overhaul and it aims to expands the perk trees and over some fun new playstyles without growing too bloated and straying away from the feel of the vanilla system. Every tree has been given a proper facelift and a lot of the new perks push you to try new and interesting things. In the Heavy Armor three there is a branch dedicataed to building an Unarmed character, something that is nearly impossible in vanilla. In the Speech tree there are perks to help build a shout-focused character. These are only a few of the things you can do in Adamant. Additionally, Mysticism is integrated into Adamant, new spell types are given perks which helps to make the two mods feels nicely integrated and connected to the base game.
+Adamant is Keizaal's perk overhaul and it aims to expands the perk trees and over some fun new playstyles without growing too bloated and straying away from the feel of the Vanilla system. Every tree has been given a proper facelift and a lot of the new perks push you to try new and interesting things. In the Heavy Armor three there is a branch dedicataed to building an Unarmed character, something that is nearly impossible in Vanilla. In the Speech tree there are perks to help build a shout-focused character. These are only a few of the things you can do in Adamant. Additionally, Mysticism is integrated into Adamant, new spell types are given perks which helps to make the two mods feels nicely integrated and connected to the base game.
 
 ### [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/34549/34549-1586478221-885699905.png)
@@ -45,7 +45,7 @@ Skyrim generally gives you a good amount of choice in morally questionable quest
 ### [Dark Brotherhood Rising Revengeance](https://www.nexusmods.com/skyrimspecialedition/mods/57157)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/57157/57157-1635033224-1126171269.png)
 
-Speaking of the Dark Brotherhood, while it does give you to option to destroy the faction rather than join it you are still required to take some morally questionable actions. The kind of things you need to do would generally be something that a lot of good characters would refuse to ever partake in. So while there was a "good" route for the Dark Brotherhood questline it was awkward for good characters to start it which often led to these kind of characters just never doing the quest. This is a shame because destroying the Dark Brotherhood is a great piece of role-play that a lot of good characters would like to do. Dark Brotherhood Rising Revengeance seek to remedy that by giving the Player an alternative path to starting the Destroy the Dark Brotherhood quest. This new path is compatible with good characters and integrated very well in a manner that feels natural with the rest of the vanilla quest.
+Speaking of the Dark Brotherhood, while it does give you to option to destroy the faction rather than join it you are still required to take some morally questionable actions. The kind of things you need to do would generally be something that a lot of good characters would refuse to ever partake in. So while there was a "good" route for the Dark Brotherhood questline it was awkward for good characters to start it which often led to these kind of characters just never doing the quest. This is a shame because destroying the Dark Brotherhood is a great piece of role-play that a lot of good characters would like to do. Dark Brotherhood Rising Revengeance seek to remedy that by giving the Player an alternative path to starting the Destroy the Dark Brotherhood quest. This new path is compatible with good characters and integrated very well in a manner that feels natural with the rest of the Vanilla quest.
 
 ### [House of Horrors - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/57285/57285-1634858440-22571931.jpeg)
@@ -79,3 +79,43 @@ These are mods that I made for my own amusement that other people seem to enjoy.
 
 ## Places to Go
 
+The thing that I enjoy most about Skyrim is exploration. Even after ten years I still get a lot of joy out of just walking around and seeing the world. So naturally I want to bring more of that exciting feeling into Keizaal. I am generally pretty picky with my location mods, but I think that the ones included in Keizaal are top-notch.
+
+### [Cities of the North](https://www.nexusmods.com/skyrimspecialedition/mods/?BH=1&RH_ModList=nav:true,home:false,type:0,user_id:0,game_id:1704,advfilt:true,include_adult:false,page_size:20,show_game_filter:false,open:true,search%5Bfilename%5D:Cities+of+the+North,search%5Bauthor%5D:JPSteel2,search%5BOLD_mname%5D:JPSteel2)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/56731/56731-1633644870-854122870.png)
+
+Cities of the North is one of my favorite series of mods. For years I have been annoyed that four of the hold capitals of Skyrim used generic farmhouse architecture, it really ruined the visual identity of these holds and made these places less interesting that the other five cities. Cities of the North aims to replace all of the generic farmhouses in these cities with all-new unique models that do a lot to bring them up to the same level as the major cities. All of the new architecture added by this mod fits Skyrim really well and makes the cities really feel special. The mod doesn't expand on the cities very much, mainly just swaps what is already there, and I really appriciate that. I am not looking to make these places larger than in Vanilla, I just want them to feel like their own place. Cities of the North does that in spades.
+
+### [Rodryk's Dragon Bridge](https://www.nexusmods.com/skyrimspecialedition/mods/42510)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/42510/105496-1605365016-424780972.png)
+
+I don't mind reuse of farmhouse architecture outside of the hold capitals, so I never really considered Dragon Bridge in need of an overhaul, but when I saw this mod I instantly fell in love. Rodryk has overhauled the town in much the same way that JPSteel2 did in Cities of the North: the architecture is changed but the town isn't expanded. I really like the look at these new buildings, it straddles the a nice line between the grandness of Solitude with the rustic nature of farmhouses. It fits Dragon Bridge perfectly.
+
+### [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/20514/20514-1577465929-696808686.png)
+
+Obscure's College of Winterhold is one of the best single-location overhauls I've used. It doesn't do dramatically different things that change the College of Winterhold, but it does naturally expand what is there and make it feel like an actual academic campus. While the changes in some areas are extreme they just *feel* right. I generally don't like such large and fundamental structural changes like what is done in the Arcanaeum but everything is Obscure's just works. It indirectly improves the College questline and generally just makes the place more interesting to visit and live in.
+
+### [Dungeons - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/51798)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/51798/51798-1625038939-557169627.png)
+
+I have no issues with the majority of dungeons in Vanilla, but Dungeons - Revisited does something really cool with a handful of places. This mod doesn't do fudamental design changes that make these dungeons feel like different places. Rather, it simply adds in some more route through dungeons by opening up passageways that were previously locked out by rubble or other natural barriers. All of the new routes still converge on a common path, so getting truly lost and frusterated isn't something to really worry about. This adds to the feeling of exploring ancient ruins and the expansions feel very seamless and natural.
+
+### [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/45565/45565-1613032746-1992524601.jpeg)
+
+While expansions of the Vanilla worldspace are fantastic, there is something to be said about exploring a completely new land. Wyrmsooth is one of Skyrim's oldest New Lands mods and it shows. The world is beautiful and filled with a ton of content and everything feel right at home next to Vanilla. Wyrmstooth doesn't do anything earthshattering, it feels a lot like More Skyrim, but that isn't a bad thing. 
+
+### [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/84946-0-1498689983.jpg)
+
+Beyond Skyrim is some of the most anticipated mod projects in the community. Currently only one piece of released content exists: Bruma. While it is definitely just a slice of a larger whole, what is there is quality. The mod adds the city of Bruma just south of the Skyrim border in Cyrodiil. Beyond the city proper the mod also adds the rest of county Bruma open for the Player to explore and the whole space really maintains the distinct Bethesda feel. The county has a lot of interesting places to exlore including a brand new type of dungeon, several new enemies unique to Cyrodiil, and a lot of quests to keep you busy. While this may just be a preview of what is to come in the full Beyond Skrim - Cyrodiil release it is still quality content that can be used for some interesting roleplay opportunities for your character.
+
+### [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/56123/56123-1633296446-147092038.png)
+
+Wyrmstooth and Bruma are some fun new lands to explore, but both share a common issue: a lack of new unique map marker icons. In Skyrim several locations get unique map markers, most noticably hold capitals: each get a unique shield to distinguish them as important. In base Wyrmstooth and Bruma there are no new icons to make important places stands out. Bruma just uses a generic City marker and Stonehollow uses a generic Town marker. CoMAP seeks to not only remedy this issue but also to expand the amount of map marker icons substinally. Not only to places like Bruma and Stonehollow get unique markers, but new types are markers exist to indicate different types of dungeons. Forsworn dungeons get a unique skull icon, warlock dungeons get a unique eye icon, and elven dungeons get a unique ruined arch icon. Other miscellaneous icons have been added to better demonstrate what each location is. Sky Haven Temple gets a new Akaviri icon, freestanding tavern like Nightgate Inn gets a new icon, and various factions like the East Empire Company and Thalmor have icons to indicate areas where they exert their influce. I could go on, but you get the idea. CoMap expands map marker icons in a big way and really helps fill out the map more in an interesting way.
+
+---
+
+I hope this overview of Keizaal was helpful to you. If you like what you've read consider giving the modlist a try, click [here](https://keizaal.github.io/Keizaal/INSTALLATIONGUIDE.html) to go to the installation guide. If you have any specific questions about the modlist, feel free to contact Tate Taylor on [his community Discord server](https://discord.gg/eYZJFP8) to learn more.
