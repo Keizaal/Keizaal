@@ -76,3 +76,6 @@ It is no secret that the vast majority of followers in Vanilla Skyrim are basica
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/56433/56433-1633528377-651139291.png)
 
 These are mods that I made for my own amusement that other people seem to enjoy. They are two seperate mods but they do much the same thing: add a new corgi follower to the game. Both of these dogs are based on my own pet corgis complete with creature audio that was sourced from each of my dogs respectively. The two of them cover different roles. Gladys formorly belonged to a merchant and is good at carrying things in her backpack, she is also very adapt at finding interesting loot in the world to bring back to you. Merlin on the other hand is a combat-focused follower, he is unable to carry anything but he makes up for it due to his effectiveness in combat. He is able to use magic in order to transform between three different primordial elemental forms based on the type of enemy he is fighting, when in this form he will do powerful AOE damange in addition to his bites. While main point of these followers is to be cute, they are also pretty useful in your adventures.
+
+## Places to Go
+
