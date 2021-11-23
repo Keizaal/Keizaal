@@ -2,6 +2,15 @@
 layout: default
 title: Changelog
 ---
+#### [6.0.1.2 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.1.2/Keizaal.wabbajack)
+- Updated Keizaal for the new Skyrim update
+- Updated [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639/?tab=files&file_id=242906)
+- Updated [The Vigilants' New Clothes - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/31991/?tab=files&file_id=243588)
+- Updated [YASTM - Yet Another Soul Trap Manager](https://www.nexusmods.com/skyrimspecialedition/mods/56144/?tab=files&file_id=243430)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=243579)
+- Removed old unnecessary ENB mods
+- Removed unnecessary patches
+
 #### [6.0.1.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.1.1/Keizaal.wabbajack)
 - Updated [Skyrim's Got Talent - Improve As a Bard](https://www.nexusmods.com/skyrimspecialedition/mods/50357/?tab=files&file_id=242316)
 - Updated [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252/?tab=files&file_id=242292)
