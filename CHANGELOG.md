@@ -6,6 +6,7 @@ title: Changelog
 - Updated Keizaal for the new Skyrim update
 - Updated [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639/?tab=files&file_id=242906)
 - Updated [The Vigilants' New Clothes - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/31991/?tab=files&file_id=243588)
+- Updated [Thwack - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/42653/?tab=files)
 - Updated [YASTM - Yet Another Soul Trap Manager](https://www.nexusmods.com/skyrimspecialedition/mods/56144/?tab=files&file_id=243430)
 - Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=243579)
 - Removed old unnecessary ENB mods
