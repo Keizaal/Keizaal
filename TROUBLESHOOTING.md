@@ -69,6 +69,15 @@ Press the "X" button to toggle the compass on and off.
 
 Toggle between first-person and third-person. The crosshair should reappear.
 
+### "*Some sounds aren't playing.*"
+
+If some sounds aren't playing correcting, follow these steps to fix the issue.
+1. First download and install Link Shell Extension which can be found here: http://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html.
+2. Navigate to your Skyrim/Data folder and look for a file named Skyrim - Sounds.bsa. Copy this file and paste it somewhere on your main drive.
+3. Delete Skyrim - Sounds.bsa from the Data folder.
+4. Go back to where you copied Skyrim - Sounds.bsa on your main drive. Right click on it and you should see an option that says "Pink Link Source". Click that.
+5. Go back to your Skyrim/Data folder. Right click anywhere and choose "Drop As" and then "Symbolic Link". You will see your sounds file with a shortcut symbol. You know it works when you see a little symbol next to the linked files.
+
 ### "*When updating Keizaal, Wabbajack deletes mods added on top of the list.*"
 
 During every update Wabbajack will clean out the mods folder to ensure that everything gets installed properly. However, you can add the prefix `[NoDelete]` to the names of the mods you would like to keep and Wabbajack will be sure to ignore them.
