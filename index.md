@@ -23,7 +23,7 @@ The main package of mods can be easily broken down into two major sections: [Thi
 
 While it may not be obvious on first glance there are a lot of fun new things that you can do in Keizaal. A lot of the gameplay systems have been overhauled and several quests have been given a facelift. Additionally there are a few interesting characters that you can meet and some new mechanics you can use to interact with the world in new and exciting ways.
 
-##### [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
+### [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/27839/27839-1564552769-1829074082.png)
 
 Mysticism is an overhaul of Skyrim's magic. It make changes to existing Vanilla spells as well as expanding to include some new and exciting spells. The mod does a good job of integrating everything into the game in such a manner that it feels like a natural extension. None of the spells stick out much and it gives you a better progression from Noivce to Master. You actually *feel* like a Master when you get to that level and it opens up a lot of fun and powerful spells you can use that level. In Vanilla Master spells were rather underwelming, in Mysticism they feel great.
