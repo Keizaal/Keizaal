@@ -17,26 +17,31 @@ You can find a full list of the mods included in Keizaal [here](https://loadorde
 
 # Overview
 
-The main package of mods can be easily broken down into two major sections: [Things to Do](#things-to-do) and [Places to Go](#places-to-go). Within these sections individual mods that I think are important to the overall experience of the modlist will be highlighted. There are a lot of mods that make Keizaal what it is and every mod has a place to contribute towards that goal, but I consider the following to be "cornerstone mods" that will give you a good idea of what the list will be like.
-
-## Things to Do
-
 While it may not be obvious on first glance there are a lot of fun new things that you can do in Keizaal. A lot of the gameplay systems have been overhauled and several quests have been given a facelift. Additionally there are a few interesting characters that you can meet and some new mechanics you can use to interact with the world in new and exciting ways.
 
-### [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
-![](https://staticdelivery.nexusmods.com/mods/1704/images/27839/27839-1564552769-1829074082.png)
+Speaking of the world, one of the things that I enjoy most about Skyrim is exploration. Even after ten years I still get a lot of joy out of just walking around and seeing the world. So naturally I want to bring more of that exciting feeling into Keizaal. I am generally pretty picky with my location mods, but I think that the ones included in Keizaal are top-notch.
 
-Mysticism is an overhaul of Skyrim's magic. It make changes to existing Vanilla spells as well as expanding to include some new and exciting spells. The mod does a good job of integrating everything into the game in such a manner that it feels like a natural extension. None of the spells stick out much and it gives you a better progression from Noivce to Master. You actually *feel* like a Master when you get to that level and it opens up a lot of fun and powerful spells you can use that level. In Vanilla Master spells were rather underwelming, in Mysticism they feel great.
+There are a lot of mods that make Keizaal what it is and every mod has a place to contribute towards that goal, but I consider the following to be "cornerstone mods" that will give you a good idea of what the list will be like.
 
 ### [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/30191/30191-1572896988-939425731.png)
 
-Adamant is Keizaal's perk overhaul and it aims to expands the perk trees and over some fun new playstyles without growing too bloated and straying away from the feel of the Vanilla system. Every tree has been given a proper facelift and a lot of the new perks push you to try new and interesting things. In the Heavy Armor three there is a branch dedicataed to building an Unarmed character, something that is nearly impossible in Vanilla. In the Speech tree there are perks to help build a shout-focused character. These are only a few of the things you can do in Adamant. Additionally, Mysticism is integrated into Adamant, new spell types are given perks which helps to make the two mods feels nicely integrated and connected to the base game.
+Adamant is Keizaal's perk overhaul and it aims to expand the perk trees and over some fun new playstyles without growing too bloated and straying away from the feel of the Vanilla system. Every tree has been given a proper facelift and a lot of the new perks push you to try new and interesting things. In the Heavy Armor three there is a branch dedicataed to building an Unarmed character, something that is nearly impossible in Vanilla. In the Speech tree there are perks to help build a shout-focused character. These are only a few of the things you can do in Adamant.
 
 ### [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/34549/34549-1586478221-885699905.png)
 
 Vanilla Skyrim combat is pretty easy without much counterplay. Some people try to fix this by turning Skyrim into Dark Souls, I believe this goal is fudamantally flawed. Blade and Blunt seeks to take what is already there and Vanilla and rework it in such a way that it is still Skyrim, but with more interesting and engaging gameplay. Foremost in this goal is to make Stamina more important. Low stamina in Vanilla is usually just mildly annoying, in Blade and Blunt it could be deadly. Resource management is the name of the game in this mod and delicately balancing your Health, Magicka, and Stamina leads to some very interesting combat encounters that you just would not have in Vanilla.
+
+### [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/27839/27839-1564552769-1829074082.png)
+
+Mysticism is an overhaul of Skyrim's magic. It make changes to existing Vanilla spells as well as expanding to include some new and exciting spells. The mod does a good job of integrating everything into the game in such a manner that it feels like a natural extension. None of the spells stick out much and it gives you a better progression from Noivce to Master. You actually *feel* like a Master when you get to that level and it opens up a lot of fun and powerful spells you can use that level. In Vanilla Master spells were rather underwelming, in Mysticism they feel great. Additionally, Mysticism is integrated into Adamant, new spell types are given perks which helps to make the two mods feels nicely integrated and connected to the base game.
+
+### [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099/)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/54099/54099-1629340334-911469838.png)
+
+The main purpose of Pilgrim is to add some more mechanics to Skyrim's shrines and to expand them to include a wider variety of dieites from across Tamriel. Every culture is represented in some way with the new shrines, each shrine is given a new unique asset and magical effectto reflect the god it is representing. Most noticeably though is how Pilgrim is effected by some of the new perks in the Restoration and Conjuration trees. There are perks for "benevolent" and "malevolent" deities in each of these trees, taking the first rank will double your blessing strength and taking the second will give you an additional powerful blessing along with the one you already get naturally. Investing into these second ranks, while not necessary, will lead to some unique and powerful effects that can change your playstyle. I placed this in the "Places to Go" section because Pilgrim adds a lot of interesting new shrine locations to stumble acorss in the world. This mod really encourages exploration and rewards Players with new and exciting shrines to discover and try out.
 
 ### [Dark Brotherhood Rising Revengeance](https://www.nexusmods.com/skyrimspecialedition/mods/57157)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/57157/57157-1635033224-1126171269.png)
@@ -68,10 +73,6 @@ It is no secret that the vast majority of followers in Vanilla Skyrim are basica
 
 These are mods that I made for my own amusement that other people seem to enjoy. They are two seperate mods but they do much the same thing: add a new corgi follower to the game. Both of these dogs are based on my own pet corgis complete with creature audio that was sourced from each of my dogs respectively. The two of them cover different roles. Gladys formorly belonged to a merchant and is good at carrying things in her backpack, she is also very adapt at finding interesting loot in the world to bring back to you. Merlin on the other hand is a combat-focused follower, he is unable to carry anything but he makes up for it due to his effectiveness in combat. He is able to use magic in order to transform between three different primordial elemental forms based on the type of enemy he is fighting, when in this form he will do powerful AOE damange in addition to his bites. While main point of these followers is to be cute, they are also pretty useful in your adventures.
 
-## Places to Go
-
-The thing that I enjoy most about Skyrim is exploration. Even after ten years I still get a lot of joy out of just walking around and seeing the world. So naturally I want to bring more of that exciting feeling into Keizaal. I am generally pretty picky with my location mods, but I think that the ones included in Keizaal are top-notch.
-
 ### [Cities of the North](https://www.nexusmods.com/skyrimspecialedition/mods/?BH=4&RH_ModList=nav%3Atrue%2Chome%3Afalse%2Ctype%3A0%2Cuser_id%3A0%2Cgame_id%3A1704%2Cadvfilt%3Atrue%2Cinclude_adult%3Afalse%2Cpage_size%3A20%2Cshow_game_filter%3Afalse%2Copen%3Atrue%2Csearch%5Bfilename%5D%3ACities+of%2Bthe%2BNorth%2Csearch%5Bauthor%5D%3AJPSteel2%2Csearch%5BOLD_mname%5D%3AJPSteel2&RH_ModList=nav:true,home:false,type:0,user_id:0,game_id:1704,advfilt:true,include_adult:false,page_size:20,show_game_filter:false,open:true,search%5Bfilename%5D:Cities+of+the+North,search%5BOLD_mname%5D:JPSteel2)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/56731/56731-1633644870-854122870.png)
 
@@ -91,11 +92,6 @@ Obscure's College of Winterhold is one of the best single-location overhauls I'v
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/51798/51798-1625038939-557169627.png)
 
 I have no issues with the majority of dungeons in Vanilla, but Dungeons - Revisited does something really cool with a handful of places. This mod doesn't do fudamental design changes that make these dungeons feel like different places. Rather, it simply adds in some more route through dungeons by opening up passageways that were previously locked out by rubble or other natural barriers. All of the new routes still converge on a common path, so getting truly lost and frusterated isn't something to really worry about. This adds to the feeling of exploring ancient ruins and the expansions feel very seamless and natural.
-
-### [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099/)
-![](https://staticdelivery.nexusmods.com/mods/1704/images/54099/54099-1629340334-911469838.png)
-
-The main purpose of Pilgrim is to add some more mechanics to Skyrim's shrines and to expand them to include a wider variety of dieites from across Tamriel. Every culture is represented in some way with the new shrines, each shrine is given a new unique asset and magical effectto reflect the god it is representing. Most noticeably though is how Pilgrim is effected by some of the new perks in the Restoration and Conjuration trees. There are perks for "benevolent" and "malevolent" deities in each of these trees, taking the first rank will double your blessing strength and taking the second will give you an additional powerful blessing along with the one you already get naturally. Investing into these second ranks, while not necessary, will lead to some unique and powerful effects that can change your playstyle. I placed this in the "Places to Go" section because Pilgrim adds a lot of interesting new shrine locations to stumble acorss in the world. This mod really encourages exploration and rewards Players with new and exciting shrines to discover and try out.
 
 ### [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/45565/45565-1613032746-1992524601.jpeg)
