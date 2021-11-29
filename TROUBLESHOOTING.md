@@ -72,7 +72,7 @@ Toggle between first-person and third-person. The crosshair should reappear.
 ### "*Some sounds aren't playing.*"
 
 If some sounds aren't playing correcting, follow these steps to fix the issue.
-1. First download and install Link Shell Extension which can be found here: http://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html.
+1. First download and install Link Shell Extension which can be found [here](http://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html).
 2. Navigate to your Skyrim/Data folder and look for a file named Skyrim - Sounds.bsa. Copy this file and paste it somewhere on your main drive.
 3. Delete Skyrim - Sounds.bsa from the Data folder.
 4. Go back to where you copied Skyrim - Sounds.bsa on your main drive. Right click on it and you should see an option that says "Pink Link Source". Click that.
