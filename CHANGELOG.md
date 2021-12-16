@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 ---
-## [6.1.0](https://github.com/Keizaal/Keizaal/releases/download/6.1.0/Keizaal.wabbajack)
+## [6.1.0 - The Hand to Hand Update](https://github.com/Keizaal/Keizaal/releases/download/6.1.0/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.1.0.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=248524)
 - Updated [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686/?tab=files&file_id=248246)
