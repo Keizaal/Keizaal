@@ -2,6 +2,10 @@
 layout: default
 title: Changelog
 ---
+## [6.0.1](https://github.com/Keizaal/Keizaal/releases/download/6.0.1/Keizaal.wabbajack)
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.1.0.png)
+
+
 #### [6.0.1.2 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.0.1.2/Keizaal.wabbajack)
 - Updated Keizaal for the new Skyrim update
 - Updated [Scion - A Vampire Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/41639/?tab=files&file_id=242906)
