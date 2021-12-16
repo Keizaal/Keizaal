@@ -138,8 +138,11 @@ This following section outlines some optional configurations. Nothing here is ne
 
 ### Creation Club Content
 
+On November 11, 2021 Bethesda released [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing){:target="_blank" rel="noopener"}, [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode){:target="_blank" rel="noopener"}, [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers){:target="_blank" rel="noopener"}, and [Rare Cruios](https://en.uesp.net/wiki/Skyrim:Rare_Curios){:target="_blank" rel="noopener"} for freeto all owners of Skyrim Special Edition. At this time Keizaal only supports Survival Mode (disabled by default) and Rare Curios.
+
 Keizaal has an additional Creation Club addon. This addon includes several mods that improve and better integrate a handful of Creation Club content into Skyrim. The following creations are supported with their respective integration mods:
 
+- [Adventurer's Backpack](https://en.uesp.net/wiki/Skyrim:Adventurer%27s_Backpack){:target="_blank" rel="noopener"}
 - [Alternative Armors - Daedric Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Daedric_Mail){:target="_blank" rel="noopener"}
 - [Alternative Armors - Dragonscale](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dragonscale){:target="_blank" rel="noopener"}
 - [Alternative Armors - Dwarven Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dwarven_Mail){:target="_blank" rel="noopener"}
@@ -147,12 +150,23 @@ Keizaal has an additional Creation Club addon. This addon includes several mods 
 - [Alternative Armors - Elven Hunter](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Elven_Hunter){:target="_blank" rel="noopener"}
 - [Alternative Armors - Stalhrim Fur](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Stalhrim_Fur){:target="_blank" rel="noopener"}
 - [Alternative Armors - Steel Soldier](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Steel_Soldier){:target="_blank" rel="noopener"} and [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere){:target="_blank" rel="noopener"}
+- [Bone Wolf](https://en.uesp.net/wiki/Skyrim:Bone_Wolf){:target="_blank" rel="noopener"}
+- [Camping](https://en.uesp.net/wiki/Skyrim:Camping){:target="_blank" rel="noopener"}
 - [Dead Man's Dread](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Dread){:target="_blank" rel="noopener"}
 - [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader){:target="_blank" rel="noopener"}
 - [Elite Crossbows](https://en.uesp.net/wiki/Skyrim:Elite_Crossbows){:target="_blank" rel="noopener"} and [Expanded Crossbow Pack](https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack){:target="_blank" rel="noopener"}
+- [Fearsome Fists](https://en.uesp.net/wiki/Skyrim:Fearsome_Fists){:target="_blank" rel="noopener"}
+- [Goblins](https://en.uesp.net/wiki/Skyrim:Goblins){:target="_blank" rel="noopener"}
+- [Headman's Cleaver](https://en.uesp.net/wiki/Skyrim:Headman%27s_Cleaver){:target="_blank" rel="noopener"}
+- [Horse Armor - Elven](https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Elven){:target="_blank" rel="noopener"}
+- [Horse Armor - Steel](https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Steel){:target="_blank" rel="noopener"}
 - [Netch Leather Armor](https://en.uesp.net/wiki/Skyrim:Netch_Leather_Armor){:target="_blank" rel="noopener"}
-- [Rare Curios](https://en.uesp.net/wiki/Skyrim:Rare_Curios){:target="_blank" rel="noopener"}
+- [Nix-Hound](https://en.uesp.net/wiki/Skyrim:Nix-Hound){:target="_blank" rel="noopener"}
+- [Nordic Jewelry](https://en.uesp.net/wiki/Skyrim:Nordic_Jewelry){:target="_blank" rel="noopener"}
+- [Plague of the Dead](https://en.uesp.net/wiki/Skyrim:Plague_of_the_Dead){:target="_blank" rel="noopener"}
+- [Staves](https://en.uesp.net/wiki/Skyrim:Staves_(Creation)){:target="_blank" rel="noopener"}
 - [Vigil Enforcer Pack](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set){:target="_blank" rel="noopener"}
+- [Wild Horses](https://en.uesp.net/wiki/Skyrim:Wild_Horses){:target="_blank" rel="noopener"}
 
 In order to enable Creation Club support for Keizaal, simply install the creation you want to use, then navigate to the "Creation Club Addon" section of Mod Organizer and tick all of the mods under the headers of the creations you are using.
 
