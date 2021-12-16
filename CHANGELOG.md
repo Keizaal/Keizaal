@@ -58,7 +58,6 @@ title: Changelog
 - Removed [Frankly HD Thieves Guild Armors](https://www.nexusmods.com/skyrimspecialedition/mods/19953/?tab=files&file_id=66049)
 - Removed [Beards](https://www.nexusmods.com/skyrimspecialedition/mods/1067/?tab=files&file_id=85745)
 - Removed [Brows](https://www.nexusmods.com/skyrimspecialedition/mods/1062/?tab=files&file_id=85706)
-- Removed [](https://www.nexusmods.com/skyrimspecialedition/mods/58120/?tab=files&file_id=239893)
 - Added [Automatic Animations - Including Icon Identification](https://www.nexusmods.com/skyrimspecialedition/mods/59484/?tab=files&file_id=249465)
 - Added [Bald Astrid for Dark Brotherhood Ending](https://www.nexusmods.com/skyrimspecialedition/mods/43490/?tab=files&file_id=175210)
 - Added [Beyond Skyrim - Bruma - Cyrodilic Horses](https://www.nexusmods.com/skyrimspecialedition/mods/33988/?tab=files&file_id=168169)
@@ -75,7 +74,7 @@ title: Changelog
 - Added [Don't hit me. I'm loading.](https://www.nexusmods.com/skyrimspecialedition/mods/58888/?tab=files&file_id=243578)
 - Added [Functional Fearsome Fists - Innate Unarmed Boost](https://www.nexusmods.com/skyrimspecialedition/mods/59460/?tab=files&file_id=246268)
 - Added [Hand to Hand - An Adamant Addon](https://www.nexusmods.com/skyrimspecialedition/mods/59790/?tab=files&file_id=248937)
-- Added [Jelidity's Mixtape Vol 2.zip](https://authored-files.wabbajack.org/Jelidity's Mixtape Vol 2.zip_5790282a-600f-4e84-a53a-ab473d5099b2)
+- Added Jelidity's Mixtape Vol 2.zip
 - Added [Creation Club Base Content - Items Rebalanced](https://www.nexusmods.com/skyrimspecialedition/mods/58996/?tab=files&file_id=244103)
 - Added [Security Overhaul SKSE - Add-ons](https://www.nexusmods.com/skyrimspecialedition/mods/59529/?tab=files&file_id=248739)
 - Added [Sleeping Expanded - Animations and NPC reactions](https://www.nexusmods.com/skyrimspecialedition/mods/59250/?tab=files&file_id=247749)
