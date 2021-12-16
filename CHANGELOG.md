@@ -74,7 +74,7 @@ title: Changelog
 - Added [Don't hit me. I'm loading.](https://www.nexusmods.com/skyrimspecialedition/mods/58888/?tab=files&file_id=243578)
 - Added [Functional Fearsome Fists - Innate Unarmed Boost](https://www.nexusmods.com/skyrimspecialedition/mods/59460/?tab=files&file_id=246268)
 - Added [Hand to Hand - An Adamant Addon](https://www.nexusmods.com/skyrimspecialedition/mods/59790/?tab=files&file_id=248937)
-- Added Jelidity's Mixtape Vol 2.zip
+- Added Jelidity's Mixtape Vol 2
 - Added [Creation Club Base Content - Items Rebalanced](https://www.nexusmods.com/skyrimspecialedition/mods/58996/?tab=files&file_id=244103)
 - Added [Security Overhaul SKSE - Add-ons](https://www.nexusmods.com/skyrimspecialedition/mods/59529/?tab=files&file_id=248739)
 - Added [Sleeping Expanded - Animations and NPC reactions](https://www.nexusmods.com/skyrimspecialedition/mods/59250/?tab=files&file_id=247749)
