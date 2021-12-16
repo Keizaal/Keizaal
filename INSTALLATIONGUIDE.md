@@ -138,7 +138,7 @@ This following section outlines some optional configurations. Nothing here is ne
 
 ### Creation Club Content
 
-On November 11, 2021 Bethesda released [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing){:target="_blank" rel="noopener"}, [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode){:target="_blank" rel="noopener"}, [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers){:target="_blank" rel="noopener"}, and [Rare Cruios](https://en.uesp.net/wiki/Skyrim:Rare_Curios){:target="_blank" rel="noopener"} for freeto all owners of Skyrim Special Edition. At this time Keizaal only supports Survival Mode (disabled by default) and Rare Curios.
+On November 11, 2021 Bethesda released [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing){:target="_blank" rel="noopener"}, [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode){:target="_blank" rel="noopener"}, [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers){:target="_blank" rel="noopener"}, and [Rare Cruios](https://en.uesp.net/wiki/Skyrim:Rare_Curios){:target="_blank" rel="noopener"} for free to all owners of Skyrim Special Edition. At this time Keizaal only supports Survival Mode (disabled by default) and Rare Curios.
 
 Keizaal has an additional Creation Club addon. This addon includes several mods that improve and better integrate a handful of Creation Club content into Skyrim. The following creations are supported with their respective integration mods:
 
