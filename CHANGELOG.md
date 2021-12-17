@@ -64,6 +64,7 @@ title: Changelog
 - Added [Beyond Skyrim- The Lost Roscrean Blade SE](https://www.nexusmods.com/skyrimspecialedition/mods/31548/?tab=files&file_id=118772)
 - Added [Beyond Skyrim - Wares of Tamriel SE](https://www.nexusmods.com/skyrimspecialedition/mods/31519/?tab=files&file_id=240652)
 - Added [Beyond Skyrim Bruma uses Creation Club Goblins (While keeping Falmer animations)](https://www.nexusmods.com/skyrimspecialedition/mods/50840/?tab=files&file_id=207903)
+- Added [Beyond Skyrim: Morrowind - The New North OST](https://ericgordonberg.bandcamp.com/album/beyond-skyrim-morrowind-the-new-north-original-game-soundtrack)
 - Added [4thUnknown's Scamps Use Falmer Animations and Flames - Beyond Skyrim Uses 4thUnknown's Scamps](https://www.nexusmods.com/skyrimspecialedition/mods/44508/?tab=files&file_id=180247)
 - Added [Blended Roads - Simplicity of Snow Patch](https://www.nexusmods.com/skyrimspecialedition/mods/59282/?tab=files&file_id=245498)
 - Added [Bone Wolf and Plague of the Dead - Spawns Corrected](https://www.nexusmods.com/skyrimspecialedition/mods/55201/?tab=files&file_id=226568)
