@@ -124,7 +124,7 @@ There are several hotkeys that you should be aware of while playing Keizaal. Mos
 
 **Middle Mouse Button** - Lock-on to Enemy
 
-**,** - Call Horse
+**H** - Call Horse
 
 **X** - Toggle Compass and Widgets
 
