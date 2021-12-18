@@ -61,6 +61,16 @@ Note that I **WILL NOT** provide support for installations of Keizaal that have 
 
 The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 72 in order to prevent that.
 
+### "*UI Elementals are being cut off the screen"*
+
+You probably have an ultrawide monitor. To fix this simply enable all the mods under the "Ultrawide Fixes" in Mod Organizer 2.
+
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/18.%20Optional%20Mods.png)
+
+After you have activated all the mods be sure to sort your load order before you begin playing. Simply press the sort button in the top right-hand corner of Mod Organizer to sort all of your plugins!
+
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
+
 ### "*The compass is missing.*"
 
 Press the "X" button to toggle the compass on and off.
