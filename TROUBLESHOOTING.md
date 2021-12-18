@@ -116,6 +116,6 @@ Note that I **WILL NOT** provide support for installations of Keizaal that have 
 
 ---
 
-Contact Tate Taylor on [his community Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} for individual help and guidance. Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
+Contact me (Tate Taylor) on [my community Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} for individual help and guidance. Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
 
 Support for manual installations is **NOT OFFERED**. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone’s time.
