@@ -17,6 +17,7 @@ title: Installation Guide
     - [Hotkeys](#hotkeys)
 - [Optional Configuration](#optional-configuration)
   - [Creation Club Content](#creation-club-content)
+  - [Optional Mods](optional-mods)
   - [Settings](#settings)
   - [Mod Notes](#mod-notes)
 - [Updating](#updating)
@@ -176,7 +177,7 @@ All installed creations will go to the "Creation Club" mod at the top of Mod Org
 
 ![](https://github.com/Keizaal/Keizaal/blob/main/assets/images/installation%20guide/17.%20Creation%20Club%20MO2.png)
 
-After that navigate to the "Creation Club Addon" section of Mod Organizer and tick all of the mods under the headers of the creations you are using. If there are no headers present for one of the creations above then no additional mods are required for them to work in Keizaal.
+Now navigate to the "Creation Club Addon" section of Mod Organizer and tick all of the mods under the headers of the creations you are using. If there are no headers present for one of the creations above then no additional mods are required for them to work in Keizaal.
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/13.%20Creation%20Club.PNG)
 
@@ -185,6 +186,16 @@ After you have activated all the respective integration mods be sure to sort you
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
 
 I will try to assist you in enabling the Creation Club addon, however if you make changes to Keizaal outside of these few creations I **WILL NOT** be able to help you. Any personal edits you make to this list must be done independently.
+
+### Optional Mods
+
+There are a small number of optional mods present in Keizaal, they can be found under the Miscellaneous section of Mod Organizer 2. Tick the ones that you want to use.
+
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/18.%20Optional%20Mods.png)
+
+After you have activated all the optional mods be sure to sort your load order before you begin playing. Simply press the sort button in the top right-hand corner of Mod Organizer to sort all of your plugins!
+
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
 
 ### Settings
 
