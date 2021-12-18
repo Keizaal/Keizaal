@@ -110,4 +110,4 @@ Wyrmstooth and Bruma are some fun new lands to explore, but both share a common 
 
 ---
 
-I hope this overview of Keizaal was helpful to you. If you like what you've read consider giving the modlist a try, click [here](https://keizaal.github.io/Keizaal/INSTALLATIONGUIDE.html) to go to the installation guide. If you have any specific questions about the modlist, feel free to contact Tate Taylor on [his community Discord server](https://discord.gg/eYZJFP8) to learn more.
+I hope this overview of Keizaal was helpful to you. If you like what you've read consider giving the modlist a try, click [here](https://keizaal.github.io/Keizaal/INSTALLATIONGUIDE.html) to go to the installation guide. If you have any specific questions about the modlist, feel free to contact me (Tate Taylor) on [my community Discord server](https://discord.gg/eYZJFP8) to learn more.
