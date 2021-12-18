@@ -59,7 +59,7 @@ Note that I **WILL NOT** provide support for installations of Keizaal that have 
 
 ### "*The custom intro video is bugging out.*"
 
-If you are having issues with the custom Keizaal intro video enable the "Restore Vanilla Intro Video" mod in the Optionals section of Mod Organizer.
+If you are having issues with the custom Keizaal intro video, enable the "Restore Vanilla Intro Video" mod in the Optionals section of Mod Organizer.
 
 ### "*Skyrim is capped at 72 FPS.*"
 
