@@ -2,6 +2,19 @@
 layout: default
 title: Changelog
 ---
+#### [6.1.0.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.1.0.1/Keizaal.wabbajack)
+- Updated [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=249824)
+- Updated [Creation Club Curios and Zombies - BS Bruma Synergy Patches](https://www.nexusmods.com/skyrimspecialedition/mods/28630/?tab=files&file_id=249972)
+- Updated [Guard Dialogue Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/22075/?tab=files&file_id=249890)
+- Added [Goblins - Spears Addon and Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/32182/?tab=files&file_id=249826)
+- Added [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=35568)
+- Added [More Radiant Quests for the Companions](https://www.nexusmods.com/skyrimspecialedition/mods/24144/?tab=files&file_id=85678)
+- Added [Skyrim Unbound Reborn (Alternate Start)](https://www.nexusmods.com/skyrimspecialedition/mods/27962/?tab=files&file_id=237965)
+- Added [Talkative Dragons - Less Talkative](https://www.nexusmods.com/skyrimspecialedition/mods/54943/?tab=files&file_id=235418)
+- Added [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE](https://www.nexusmods.com/skyrimspecialedition/mods/1778/?tab=files&file_id=146621)
+- Added [Ultrawide Intro Video Fix](https://www.nexusmods.com/skyrimspecialedition/mods/37864/?tab=files&file_id=148370)
+- Added [Spiders of Solstheim - Transparency Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60012/?tab=files&file_id=248753)
+
 ## [6.1.0 - The Hand to Hand Update](https://github.com/Keizaal/Keizaal/releases/download/6.1.0/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.1.0.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=248524)
