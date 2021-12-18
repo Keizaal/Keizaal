@@ -169,7 +169,7 @@ Keizaal has an additional Creation Club addon. This addon includes several mods 
 - [Vigil Enforcer Pack](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set){:target="_blank" rel="noopener"}
 - [Wild Horses](https://en.uesp.net/wiki/Skyrim:Wild_Horses){:target="_blank" rel="noopener"}
 
-In order to enable Creation Club support for Keizaal, first install the creations you want to use normally through the Creation Club interface in-game. 
+In order to enable Creation Club support for Keizaal, first install the creations you want to use normally through the Creation Club interface in-game. You will still need to install creations in this manner even if you have already installed them before downloading Keizaal.
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/16.%20Creation%20Club%20In-game.png)
 
