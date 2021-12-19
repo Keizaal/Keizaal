@@ -31,9 +31,9 @@ Place the manually downloaded mods in your downloads folder where the other Wabb
 ### "*A vanilla file fails to download.*"
 
 If Wabbajack fails to download any of the basegame files during the installation process, close Wabbajack, follow these steps, and then try running the installer again.
-1) Verify the integrity of your game files through Steam, following [these instructions](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335){:target="_blank" rel="noopener"}.
-2) Make sure that the game is set to English in Steam.
-3) Open the game through Steam once to create any registry entries and INI files you don't already have, then immediately exit the launcher.
+1. Verify the integrity of your game files through Steam, following [these instructions](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335){:target="_blank" rel="noopener"}.
+2. Make sure that the game is set to English in Steam.
+3. Open the game through Steam once to create any registry entries and INI files you don't already have, then immediately exit the launcher.
 
 ### "*There are no relevant files inside the Game Folder Files folder.*"
 
