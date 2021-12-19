@@ -31,7 +31,7 @@ Place the manually downloaded mods in your downloads folder where the other Wabb
 ### "*A vanilla file fails to download.*"
 
 If Wabbajack fails to download any of the basegame files during the installation process, close Wabbajack, follow these steps, and then try running the installer again.
-1) Verify the integrity of your game files through Steam, following these instructions: https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335
+1) Verify the integrity of your game files through Steam, following [these instructions](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335){:target="_blank" rel="noopener"}.
 2) Make sure that the game is set to English in Steam.
 3) Open the game through Steam once to create any registry entries and INI files you don't already have, then immediately exit the launcher.
 
@@ -45,11 +45,11 @@ Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_re
 
 ### "*Mod Organizer says that skse64_loader.exe does not exist.*"
 
-If you are experiencing problems such as the skse64_loader.exe being deleted, try adding the folder where Keizaal is installed to exclusions in your antivirus of choice. Find out how to [here](https://lmgtfy.app/?q=how+to+add+exclusions+to+antivirus).
+If you are experiencing problems such as the skse64_loader.exe being deleted, try adding the folder where Keizaal is installed to exclusions in your antivirus of choice. Find out how to [here](https://lmgtfy.app/?q=how+to+add+exclusions+to+antivirus){:target="_blank" rel="noopener"}.
 
-**Note:** If you're using Webroot or any other free 3rd party antivirus it's likely that adding the folders to exclusions will not be enough and you'll need to disable or uninstall your 3rd party AV as they can incorrectly mark usvfs_proxy_x86.exe, among other files, as a virus, a file needed for Mod Organizer 2 to work. We recommend doing so anyway in case it's a free one, as Windows Defender is likely much better at stopping threats than that is (according to data from [av-test.org](https://www.av-test.org/en/antivirus/home-windows/)).
+**Note:** If you're using Webroot or any other free 3rd party antivirus it's likely that adding the folders to exclusions will not be enough and you'll need to disable or uninstall your 3rd party AV as they can incorrectly mark usvfs_proxy_x86.exe, among other files, as a virus, a file needed for Mod Organizer 2 to work. We recommend doing so anyway in case it's a free one, as Windows Defender is likely much better at stopping threats than that is (according to data from [av-test.org](https://www.av-test.org/en/antivirus/home-windows/){:target="_blank" rel="noopener"}).
 
-If you still think a file is a virus, you can upload it to virustotal and get it scanned by multiple antiviruses. [Here](https://www.virustotal.com/gui/file/356c029b7bf0bed41460ceacf2c756560101b9b0977c349925d81d76392dd0c4/detection) is a scan of the file mentioned above, of which two antiviruses report a false positive.
+If you still think a file is a virus, you can upload it to virustotal and get it scanned by multiple antiviruses. [Here](https://www.virustotal.com/gui/file/356c029b7bf0bed41460ceacf2c756560101b9b0977c349925d81d76392dd0c4/detection){:target="_blank" rel="noopener"} is a scan of the file mentioned above, of which two antiviruses report a false positive.
 
 ### "*Some mods in the Downloads tab aren't listed as installed.*"
 
@@ -94,7 +94,7 @@ Toggle between first-person and third-person. The crosshair should reappear.
 ### "*Some sounds aren't playing.*"
 
 If some sounds aren't playing correcting, follow these steps to fix the issue.
-1. First download and install Link Shell Extension which can be found [here](http://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html).
+1. First download and install Link Shell Extension which can be found [here](http://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html){:target="_blank" rel="noopener"}.
 2. Navigate to your Skyrim/Data folder and look for a file named Skyrim - Sounds.bsa. Copy this file and paste it somewhere on your main drive.
 3. Delete Skyrim - Sounds.bsa from the Data folder.
 4. Go back to where you copied Skyrim - Sounds.bsa on your main drive. Right click on it and you should see an option that says "Pink Link Source". Click that.
