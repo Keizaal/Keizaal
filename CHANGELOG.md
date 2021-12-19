@@ -3,7 +3,7 @@ layout: default
 title: Changelog
 ---
 #### [6.1.0.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.1.0.1/Keizaal.wabbajack)
-- Updated [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=249824)
+- Updated [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=250252)
 - Updated [Creation Club Curios and Zombies - BS Bruma Synergy Patches](https://www.nexusmods.com/skyrimspecialedition/mods/28630/?tab=files&file_id=249972)
 - Updated [Guard Dialogue Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/22075/?tab=files&file_id=249890)
 - Added [Goblins - Spears Addon and Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/32182/?tab=files&file_id=249826)
