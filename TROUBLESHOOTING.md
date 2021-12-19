@@ -43,6 +43,17 @@ Keizaal uses the [Stock Game system](https://github.com/wabbajack-tools/wabbajac
 
 Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
 
+### "*Mod Organizer says that skse64_loader.exe does not exist.*"
+
+If you are experiencing problems such as the skse64_loader.exe being deleted, try adding the folder where you wish to install the modlist to exclusions in your antivirus of choice.
+
+Find out how to via: https://lmgtfy.app/?q=how+to+add+exclusions+to+antivirus
+
+**Note:** If you're using Webroot or any other free 3rd party antivirus it's likely that adding the folders to exclusions will not be enough and you'll need to disable or uninstall your 3rd party AV as they can incorrectly mark usvfs_proxy_x86.exe, among other files, as a virus, a file needed for Mod Organizer 2 to work. We recommend doing so anyway in case it's a free one, as Windows Defender is likely much better at stopping threats than that is (according to data from av-test.org https://www.av-test.org/en/antivirus/home-windows/).
+
+If you still think a file is a virus, you can upload it to virustotal and get it scanned by multiple antiviruses. Here is a scan of the file mentioned above, of which 2 antiviruses report a false positive:
+https://www.virustotal.com/gui/file/356c029b7bf0bed41460ceacf2c756560101b9b0977c349925d81d76392dd0c4/detection
+
 ### "*Some mods in the Downloads tab aren't listed as installed.*"
 
 This occsionally happens with certain mods, don't worry, they **are installed**.
