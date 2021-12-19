@@ -45,14 +45,11 @@ Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_re
 
 ### "*Mod Organizer says that skse64_loader.exe does not exist.*"
 
-If you are experiencing problems such as the skse64_loader.exe being deleted, try adding the folder where Keizaal is installed to exclusions in your antivirus of choice.
+If you are experiencing problems such as the skse64_loader.exe being deleted, try adding the folder where Keizaal is installed to exclusions in your antivirus of choice. Find out how to [here](https://lmgtfy.app/?q=how+to+add+exclusions+to+antivirus).
 
-Find out how to via: https://lmgtfy.app/?q=how+to+add+exclusions+to+antivirus
+**Note:** If you're using Webroot or any other free 3rd party antivirus it's likely that adding the folders to exclusions will not be enough and you'll need to disable or uninstall your 3rd party AV as they can incorrectly mark usvfs_proxy_x86.exe, among other files, as a virus, a file needed for Mod Organizer 2 to work. We recommend doing so anyway in case it's a free one, as Windows Defender is likely much better at stopping threats than that is (according to data from [av-test.org](https://www.av-test.org/en/antivirus/home-windows/)).
 
-**Note:** If you're using Webroot or any other free 3rd party antivirus it's likely that adding the folders to exclusions will not be enough and you'll need to disable or uninstall your 3rd party AV as they can incorrectly mark usvfs_proxy_x86.exe, among other files, as a virus, a file needed for Mod Organizer 2 to work. We recommend doing so anyway in case it's a free one, as Windows Defender is likely much better at stopping threats than that is (according to data from av-test.org https://www.av-test.org/en/antivirus/home-windows/).
-
-If you still think a file is a virus, you can upload it to virustotal and get it scanned by multiple antiviruses. Here is a scan of the file mentioned above, of which 2 antiviruses report a false positive:
-https://www.virustotal.com/gui/file/356c029b7bf0bed41460ceacf2c756560101b9b0977c349925d81d76392dd0c4/detection
+If you still think a file is a virus, you can upload it to virustotal and get it scanned by multiple antiviruses. [Here](https://www.virustotal.com/gui/file/356c029b7bf0bed41460ceacf2c756560101b9b0977c349925d81d76392dd0c4/detection) is a scan of the file mentioned above, of which two antiviruses report a false positive.
 
 ### "*Some mods in the Downloads tab aren't listed as installed.*"
 
