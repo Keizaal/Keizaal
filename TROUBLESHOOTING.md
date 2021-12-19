@@ -45,7 +45,7 @@ Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_re
 
 ### "*Mod Organizer says that skse64_loader.exe does not exist.*"
 
-If you are experiencing problems such as the skse64_loader.exe being deleted, try adding the folder where you wish to install the modlist to exclusions in your antivirus of choice.
+If you are experiencing problems such as the skse64_loader.exe being deleted, try adding the folder where Keizaal is installed to exclusions in your antivirus of choice.
 
 Find out how to via: https://lmgtfy.app/?q=how+to+add+exclusions+to+antivirus
 
