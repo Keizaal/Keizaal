@@ -197,6 +197,8 @@ After you have activated all the optional mods be sure to sort your load order b
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
 
+I will try to assist you in enabling these optional mods, however if you make changes to Keizaal outside of these few mods I **WILL NOT** be able to help you. Any personal edits you make to this list must be done independently.
+
 ### Settings
 
 If you want to edit some of Skyrim's settings you can do so by manually editing your base game's .ini files. You can do so by navigating to the top of Mod Organizer, clicking on the puzzle piece, then selecting ".ini Editor".
