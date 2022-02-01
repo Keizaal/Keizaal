@@ -183,7 +183,7 @@ Now navigate to the "Creation Club Addon" section of Mod Organizer and tick all 
 
 After you have activated all the respective integration mods be sure to sort your load order before you begin playing. Simply press the sort button directly above your plugins to sort all of your plugins!
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
 
 I will try to assist you in enabling the Creation Club addon, however if you make changes to Keizaal outside of these few creations I **WILL NOT** be able to help you. Any personal edits you make to this list must be done independently.
 
@@ -195,7 +195,7 @@ There are a small number of optional mods present in Keizaal, they can be found 
 
 After you have activated all the respective integration mods be sure to sort your load order before you begin playing. Simply press the sort button directly above your plugins to sort all of your plugins!
 
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
 
 I will try to assist you in enabling these optional mods, however if you make changes to Keizaal outside of these few mods I **WILL NOT** be able to help you. Any personal edits you make to this list must be done independently.
 
