@@ -79,7 +79,7 @@ You probably have an 21:9 monitor, Skyrim's UI is designed only for a 16:9 aspec
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/18.%20Optional%20Mods.png)
 
-After you have activated all the mods be sure to sort your load order before you begin playing. Simply press the sort button in the top right-hand corner of Mod Organizer to sort all of your plugins!
+After you have activated all the mods be sure to sort your load order before you begin playing. Simply press the sort button directly above your plugins to sort all of your plugins!
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
 
