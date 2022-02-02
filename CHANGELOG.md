@@ -3,7 +3,7 @@ layout: default
 title: Changelog
 ---
 #### [6.2.0.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.2.0.1/Keizaal.wabbajack)
-- Fixed missing loot-cli.exe
+- Fixed missing lootcli.exe
 - Fixed missing master errors
 - Updated [Beyond Skyrim in Skyrim - An Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/31787/?tab=files&file_id=261093)
 - Updated [House Rule - Lawbringer for Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/57243/?tab=files&file_id=261098)
