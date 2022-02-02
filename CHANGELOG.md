@@ -2,6 +2,21 @@
 layout: default
 title: Changelog
 ---
+#### [6.2.0.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.2.0.1/Keizaal.wabbajack)
+- Fixed missing loot-cli.exe
+- Fixed missing master errors
+- Updated [Beyond Skyrim in Skyrim - An Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/31787/?tab=files&file_id=261093)
+- Updated [House Rule - Lawbringer for Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/57243/?tab=files&file_id=261098)
+- Updated [Knight of the North - A Creation Club Quest Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/45869/?tab=files&file_id=261099)
+- Updated [Morrowind Threads - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/45352/?tab=files&file_id=261094)
+- Updated [Paper Blackreach Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/53878/?tab=files&file_id=260068)
+- Updated [Paper Forgotten Vale Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/54628/?tab=files&file_id=259946)
+- Updated [Paper Soul Cairn Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/55387/?tab=files&file_id=260071)
+- Updated [Paper Sovngarde Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/54255/?tab=files&file_id=260069)
+- Updated [Security Overhaul SKSE - Regional Locks](https://www.nexusmods.com/skyrimspecialedition/mods/62781/?tab=files&file_id=260861)
+- Updated [Winterhold Keep Tweaks for COTN](https://www.nexusmods.com/skyrimspecialedition/mods/52371/?tab=files&file_id=261055)
+- Added [Dayspring Canyon Paper Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/61917/?tab=files&file_id=259942)
+
 ## [6.2.0 - The Serenity Update](https://github.com/Keizaal/Keizaal/releases/download/6.2.0/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.2.0.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=252925)
