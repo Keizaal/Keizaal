@@ -173,7 +173,7 @@ In order to enable Creation Club support for Keizaal, first install the creation
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/16.%20Creation%20Club%20In-game.png)
 
-After all creations are installed they will be placed in the "Overwrite" folder at the very bottom of Mod Organizer. Right click on Overwrite and select "Move content to Mod..." from the list select "[No Delete] Creation Club". All of your creations will be moved to this new folder and should remain installed even if you update Keizaal.
+After all creations are installed they will be placed in the "Overwrite" folder at the very bottom of Mod Organizer. Right click on Overwrite and select "Move content to Mod..." A list will appear, from that list select "[No Delete] Creation Club". All of your creations will be moved to this new folder and should remain installed even if you update Keizaal.
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/17.%20Creation%20Club%20MO2.png)
 
