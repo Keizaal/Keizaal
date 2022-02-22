@@ -3,6 +3,7 @@ layout: default
 title: Changelog
 ---
 ### [6.2.1 - The Seasons Update](https://github.com/Keizaal/Keizaal/releases/download/6.2.1/Keizaal.wabbajack)
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.2.1.png)
 - Updated [Andrealphus' Exploit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=243297)
 - Updated [House of Horrors - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285/?tab=files&file_id=242900)
 - Updated [House Rule - Lawbringer for Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/57243/?tab=files&file_id=261415)
