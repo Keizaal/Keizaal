@@ -2,6 +2,36 @@
 layout: default
 title: Changelog
 ---
+## [6.3.0 - The Great Towns Update](https://github.com/Keizaal/Keizaal/releases/download/6.3.0/Keizaal.wabbajack)
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.3.0.png)
+- Updated [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374/?tab=files&file_id=266384)
+- Updated [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980/?tab=files&file_id=266556)
+- Updated [Screenshot Helper](https://www.nexusmods.com/skyrimspecialedition/mods/64124/?tab=files&file_id=266991)
+- Updated [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=266575)
+- Removed [Cathedral - 3D Pine Grass](https://www.nexusmods.com/skyrimspecialedition/mods/42032/?tab=files&file_id=174086)
+- Removed [Tiber Septim Room Improvement](https://www.nexusmods.com/skyrimspecialedition/mods/48083/?tab=files&file_id=221079)
+- Added [Cities of the North - Morthal Addon Hjaalmarch](https://www.nexusmods.com/skyrimspecialedition/mods/35181/?tab=files&file_id=136287)
+- Added [Kolskeggr Mine - A Great Towns and Villages of the Reach Addon](https://www.nexusmods.com/skyrimspecialedition/mods/64265/?tab=files&file_id=266998)
+- Added [Old Hroldan Ruins SE](https://www.nexusmods.com/skyrimspecialedition/mods/10134/?tab=files&file_id=44546)
+- Added [Select Your Season](https://www.nexusmods.com/skyrimspecialedition/mods/64278/?tab=files&file_id=267010)
+- Added [Darkwater Crossing - A Great Towns and Villages of Eastmarch Addon](https://www.nexusmods.com/skyrimspecialedition/mods/64266/?tab=files&file_id=266947)
+- Added [Kolskeggr Mine - A Great Towns and Villages of the Reach Addon](https://www.nexusmods.com/skyrimspecialedition/mods/64265/?tab=files&file_id=266945)
+- Added [The Great Town of Ivarstead SSE](https://www.nexusmods.com/skyrimspecialedition/mods/34505/?tab=files&file_id=164101)
+- Added [The Great Town of Karthwasten SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33032/?tab=files&file_id=213430)
+- Added [The Great Town of Shor's Stone SSE](https://www.nexusmods.com/skyrimspecialedition/mods/35977/?tab=files&file_id=164102)
+- Added [The Great Town of Shor's Stone - Deserted Fallowstone Hall](https://www.nexusmods.com/skyrimspecialedition/mods/45543/?tab=files&file_id=210641)
+- Added [The Great Village of Kynesgrove](https://www.nexusmods.com/skyrimspecialedition/mods/42639/?tab=files&file_id=213428)
+- Added [The Great Village of Mixwater Mill SSE](https://www.nexusmods.com/skyrimspecialedition/mods/36350/?tab=files&file_id=213426)
+- Added [The Great Village of Old Hroldan SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33189/?tab=files&file_id=126681)
+
+#### [6.2.1.1 - The Great Towns Update](https://github.com/Keizaal/Keizaal/releases/download/6.2.1.1/Keizaal.wabbajack)
+- Updated [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001/?tab=files&file_id=266002)
+- Added [Screenshot Helper](https://www.nexusmods.com/skyrimspecialedition/mods/64124/?tab=files&file_id=266393)
+- Added [HD Reworked Armors - Iron](https://www.nexusmods.com/skyrimspecialedition/mods/28181/?tab=files&file_id=102721)
+- Added [Seasons of Skyrim SMIM Patch](https://www.nexusmods.com/skyrimspecialedition/mods/63475/?tab=files&file_id=263584)
+- Fixed backwards-facing off-hand sheaths
+- Switched from Project Clarity AIO to the individual modules to hopefully prevent Wabbajack from erroring out
+
 ### [6.2.1 - The Seasons Update](https://github.com/Keizaal/Keizaal/releases/download/6.2.1/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.2.1.png)
 - Updated [Andrealphus' Exploit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=243297)
