@@ -31,6 +31,7 @@ title: Changelog
 - Added [Weather of World](https://www.nexusmods.com/skyrimspecialedition/mods/58782/?tab=files&file_id=243039)
 - Added [Enhanced Volumetric Lighting and Shadows (EVLaS)](https://www.nexusmods.com/skyrimspecialedition/mods/63725/?tab=files&file_id=268329)
 - Added [Beyond Skyrim Scamp Fur and Teeth Edit](https://www.nexusmods.com/skyrimspecialedition/mods/58215/?tab=files&file_id=240328)
+- Fixed followers not following you into Dragonsreach
 
 ## [6.3.0 - The Great Towns Update](https://github.com/Keizaal/Keizaal/releases/download/6.3.0/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.3.0.png)
