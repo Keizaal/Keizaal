@@ -83,14 +83,6 @@ After you have activated all the mods be sure to sort your load order before you
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
 
-### "*The compass is missing.*"
-
-Press the "X" button to toggle the compass on and off.
-
-### "*The crosshair is missing.*"
-
-Toggle between first-person and third-person. The crosshair should reappear.
-
 ### "*Some sounds aren't playing.*"
 
 If some sounds aren't playing correcting, follow these steps to fix the issue.
