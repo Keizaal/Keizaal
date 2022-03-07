@@ -127,8 +127,6 @@ There are several hotkeys that you should be aware of while playing Keizaal. Mos
 
 **H** - Call Horse
 
-**X** - Toggle Compass and Widgets
-
 **N** - Toggle Mini Map
 
 **K** - Zoom Mini Map
