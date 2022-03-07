@@ -35,7 +35,7 @@ If Wabbajack fails to download any of the basegame files during the installation
 2. Make sure that the game is set to English in Steam.
 3. Open the game through Steam once to create any registry entries and INI files you don't already have, then immediately exit the launcher.
 
-### "*There are no relevant files inside the Game Folder Files folder.*"
+### "*There is no "Game Folder Files" folder.*"
 
 Keizaal uses the [Stock Game system](https://github.com/wabbajack-tools/wabbajack/wiki/Keeping-The-Game-Folder-Clean-(via-local-game-installs)){:target="_blank" rel="noopener"}, this means that the Game Folder Files step is not necessary.
 
