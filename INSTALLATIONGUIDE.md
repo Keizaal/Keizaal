@@ -227,3 +227,11 @@ Keizaal uses semantic versioning in order to quickly determine the size of an up
 In layman's terms, if the first two version numbers have not changed it is savegame compatible.
 
 You can find your current version of Keizaal at the top of Mod Organizer. If the version isn't listed you're probably using a pre-3.4.0 version.
+
+---
+
+If you run into any issues installing Keizaal please refer to the [Troubleshooting Guide](https://keizaal.github.io/Keizaal/TROUBLESHOOTING.html){:target="_blank" rel="noopener"}. It covers all of the common errors that may occur and will walk you through how to fix them.
+
+Contact me (Tate Taylor) on [my community Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} for individual help and guidance. Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
+
+Support for manual installations is **NOT OFFERED**. There are simply too many variables that go on during manual installations that attempting to troubleshoot each user individually is simply not realistic, it would likely be a waste of everyone’s time.
