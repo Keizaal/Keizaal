@@ -2,6 +2,28 @@
 layout: default
 title: Changelog
 ---
+#### [6.3.1.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.3.1.1/Keizaal.wabbajack)
+- Updated [Anga's Mill - Cities of the North Addon](https://www.nexusmods.com/skyrimspecialedition/mods/64398/?tab=files&file_id=269129)
+- Updated [Better Third Person Selection - BTPS](https://www.nexusmods.com/skyrimspecialedition/mods/64339/?tab=files&file_id=268698)
+- Updated [Beyond Skyrim in Skyrim - An Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/31787/?tab=files&file_id=268957)
+- Updated [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439/?tab=files&file_id=268980)
+- Updated [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397/?tab=files&file_id=268998)
+- Updated [Half-Moon Mill - Cities of the North Addon](https://www.nexusmods.com/skyrimspecialedition/mods/64360/?tab=files&file_id=268129)
+- Updated [Civil War Aftermath SE](https://www.nexusmods.com/skyrimspecialedition/mods/3484/?tab=files&file_id=268302)
+- Updated [Curated Curios - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/59340/?tab=files&file_id=268984)
+- Updated [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990/?tab=files&file_id=268983)
+- Updated [Morrowind Threads - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/45352/?tab=files&file_id=268974)
+- Updated [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=268999)
+- Updated [Pirate's Life for Me - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/35163/?tab=files&file_id=268963)
+- Updated [Pirates Wield Cutlasses](https://www.nexusmods.com/skyrimspecialedition/mods/31753/?tab=files&file_id=268962)
+- Updated [Tale of Two Mer - An Armor Variant Mod](https://www.nexusmods.com/skyrimspecialedition/mods/43074/?tab=files&file_id=268995)
+- Updated [The Vigilants' New Clothes - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/31991/?tab=files&file_id=268959)
+- Updated [Thwack - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/42653/?tab=files&file_id=268986)
+- Updated [Water Effects Brightness and Reflection Fix](https://www.nexusmods.com/skyrimspecialedition/mods/63862/?tab=files&file_id=268518)
+- Added [Goblins - Spears Addon and Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/32182/?tab=files&file_id=249820)
+- Added [Pack It Up - An Adventurer's Backpack CC Improvement](https://www.nexusmods.com/skyrimspecialedition/mods/62455/?tab=files&file_id=259229)
+- Added [Oxygen Meter 2](https://www.nexusmods.com/skyrimspecialedition/mods/64532/?tab=files&file_id=268185)
+
 ### [6.3.1 - The Mills Update](https://github.com/Keizaal/Keizaal/releases/download/6.3.1/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.3.1.png)
 - Updated [Immersive Interactions - Animated Actions](https://www.nexusmods.com/skyrimspecialedition/mods/47670/?tab=files&file_id=268010)
