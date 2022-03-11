@@ -23,6 +23,8 @@ title: Changelog
 - Added [Goblins - Spears Addon and Bruma Patch](https://www.nexusmods.com/skyrimspecialedition/mods/32182/?tab=files&file_id=249820)
 - Added [Pack It Up - An Adventurer's Backpack CC Improvement](https://www.nexusmods.com/skyrimspecialedition/mods/62455/?tab=files&file_id=259229)
 - Added [Oxygen Meter 2](https://www.nexusmods.com/skyrimspecialedition/mods/64532/?tab=files&file_id=268185)
+- Fixed missing Dragonsreach
+- Fixed incorrect conditions on Bruma craftables
 
 ### [6.3.1 - The Mills Update](https://github.com/Keizaal/Keizaal/releases/download/6.3.1/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.3.1.png)
