@@ -22,7 +22,7 @@
       "readme": "https://raw.githubusercontent.com/wabbajack-tools/mod-lists/master/Keizaal/readme.md",
       "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_960d246a-b85e-4de5-ab53-3354b4579b2a",
       "machineURL": "keizaal",
-      "discordURL": ""
+      "discordURL": "https://discord.gg/eYZJFP8"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
@@ -34,6 +34,5 @@
       "SizeOfInstalledFiles": 139762113443
     },
     "version": "6.3.1.1",
-    "RepositoryName": ""
   },
 ]
