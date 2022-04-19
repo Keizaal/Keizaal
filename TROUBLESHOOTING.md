@@ -25,6 +25,21 @@ A manual download link for the following files are provided below:
 - [xLODGEN_Output.zip](https://github.com/Keizaal/Keizaal-LOD/releases/download/LOD/xLODGEN.Output.7z)
 - [TexGen_Output.zip](https://github.com/Keizaal/Keizaal-LOD/releases/download/LOD/TexGen_Output.7z)
 - [DynDOLOD_Output.zip](https://github.com/Keizaal/Keizaal-LOD/releases/download/LOD/DynDOLOD_Output.7z)
+- [Keizaal-Maintenance-main.zip](https://github.com/Keizaal/Keizaal-Maintenance/releases/download/Maintenance/Keizaal-Maintenance-main.zip)
+- [Keizaal-Patch-main.zip](https://github.com/Keizaal/Keizaal-Patch/releases/download/Patch/Keizaal-Patch-main.zip)
+- [Keizaal-Patron-Rewards-main.zip](https://github.com/Keizaal/Keizaal-Patron-Rewards/releases/download/Patron-Rewards/Keizaal-Patron-Rewards-main.zip)
+- [Keizaal-RaceMenu-Presets-main.zip](https://github.com/Keizaal/Keizaal-RaceMenu-Presets/releases/download/Presets/Keizaal-RaceMenu-Presets-main.zip)
+- [Keizaal-Settings-main.zip](https://github.com/Keizaal/Keizaal-Settings/releases/download/Settings/Keizaal-Settings-main.zip)
+- [Keizaal-Tweaks-main.zip](https://github.com/Keizaal/Keizaal-Tweaks/releases/download/Tweaks/Keizaal-Tweaks-main.zip)
+- [DB_Ancient.7z](https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/DB_Ancient.7z)
+- [Jelidity.s.Blades.Style.Wares.of.Tamriel.Silver.Weapons.zip](https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Jelidity.s.Blades.Style.Wares.of.Tamriel.Silver.Weapons.zip)
+- [Jelidity.s.Goblin.Weapons.Retexture.zip](https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Jelidity.s.Goblin.Weapons.Retexture.zip)
+- [Jelidity.s.Mixtape.Vol.2.zip](https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Jelidity.s.Mixtape.Vol.2.zip)
+- [Minor_World_Improvements.7z](https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Minor_World_Improvements.7z)
+- [Mystic.Addons.-.Enchanting.and.Alchemy.Tweaks-27839-1-0-0-1565380695.7z](https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Mystic.Addons.-.Enchanting.and.Alchemy.Tweaks-27839-1-0-0-1565380695.7z)
+- [Red.Mountain.Volcano.-.Tamriels.Natural.Wonder.rar](https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Red.Mountain.Volcano.-.Tamriels.Natural.Wonder.rar)
+- [Shrine.of.Kyne.zip](https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Shrine.of.Kyne.zip)
+- [Unique.Weapons.for.Snow.Elves.zip](https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Unique.Weapons.for.Snow.Elves.zip)
 
 Place the manually downloaded mods in your downloads folder where the other Wabbajack downloads are in your Mod Organizer. Do not extract them. Note that some of these are big files and may take a while.
 
