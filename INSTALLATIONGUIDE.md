@@ -8,7 +8,6 @@ title: Installation Guide
   - [Automated Downloads](#automated-downloads)
 - [Setup](#setup)
   - [Clean Install](#clean-install)
-  - [Microsoft .Net Framework 5.0](#microsoft-net-framework-50)
 - [Installation](#installation)
     - [Wabbajack Installation](#wabbajack-installation)
     - [Keizaal Installation](#keizaal-installation)
@@ -70,12 +69,6 @@ Navigate to your Skyrim installation on Steam. Right-click on Skyrim and click t
 Reinstall Skyrim in a location **outside of the Program Files**. If you have issues reinstalling Skyrim outside of Program Files, try using the [Steam Library Setup Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide){:target="_blank" rel="noopener"}.
 
 Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
-
-### Microsoft .Net Framework 5.0
-
-Please ensure you have [.Net Framework 5.0](https://dotnet.microsoft.com/download/dotnet/5.0/runtime){:target="_blank" rel="noopener"} installed. Download the desktop app x64 AND the console app x64 versions from Microsoft.
-
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/14.%20DotNet.png)
 
 # Installation
 
