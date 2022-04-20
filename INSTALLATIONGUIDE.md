@@ -143,6 +143,7 @@ Keizaal has an additional Creation Club addon. This addon includes several mods 
 - [Alternative Armors - Stalhrim Fur](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Stalhrim_Fur){:target="_blank" rel="noopener"}
 - [Alternative Armors - Steel Soldier](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Steel_Soldier){:target="_blank" rel="noopener"} and [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere){:target="_blank" rel="noopener"}
 - [Bone Wolf](https://en.uesp.net/wiki/Skyrim:Bone_Wolf){:target="_blank" rel="noopener"}
+- [The Cause](https://en.uesp.net/wiki/Skyrim:The_Cause){:target="_blank" rel="noopener"}
 - [Camping](https://en.uesp.net/wiki/Skyrim:Camping){:target="_blank" rel="noopener"}
 - [Dead Man's Dread](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Dread){:target="_blank" rel="noopener"}
 - [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader){:target="_blank" rel="noopener"}
@@ -160,11 +161,15 @@ Keizaal has an additional Creation Club addon. This addon includes several mods 
 - [Vigil Enforcer Pack](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set){:target="_blank" rel="noopener"}
 - [Wild Horses](https://en.uesp.net/wiki/Skyrim:Wild_Horses){:target="_blank" rel="noopener"}
 
-In order to enable Creation Club support for Keizaal navigate to the "Creation Club Addon" section of Mod Organizer and tick all of the mods under the headers of the creations you are using. If there are no headers present for one of the creations above then no additional mods are required for them to work in Keizaal.
+In order to enable Creation Club support for Keizaal first make sure that you have installed all of the creations you want to use, then navigate to the puzzle pieces at the top of Mod Organzier. Click on it then select "Creation Organizer" from the drop-down menu. This will automatically move all creations you have installed in from your Steam installation folder into individual mods in Mod Orgaznier and activate most supported integration mods.
+
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/CreationOrganizer.PNG)
+
+While this automates the majority of the process, some creations and mods will need to be manually verified. Check the "Creation Club" and "Creation Club Addon" sections of Mod Organizer and tick any relevant options.
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/13.%20Creation%20Club.PNG)
 
-After you have activated all the respective integration mods be sure to sort your load order before you begin playing. Simply press the sort button directly above your plugins to sort all of your plugins!
+After you have activated all the respective creations and integration mods be sure to sort your load order before you begin playing. Simply press the sort button directly above your plugins to sort all of your plugins!
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
 
