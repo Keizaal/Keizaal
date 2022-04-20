@@ -2,10 +2,6 @@
 layout: default
 title: Troubleshooting
 ---
-### "*Wabbajack throws an error after authorizing through Nexus.*"
-
-Please ensure you have [.Net Framework 5.0](https://dotnet.microsoft.com/download/dotnet/5.0/runtime){:target="_blank" rel="noopener"} installed. Download the desktop app x64 AND the console app x64 versions from Microsoft. Be sure to restart your computer afterward.
-
 ### "*Wabbajack is stuck during installation.*"
 
 Simply restart Wabbajack, you will not lose progress on your downloads.
