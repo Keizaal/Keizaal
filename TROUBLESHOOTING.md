@@ -78,7 +78,7 @@ If you are having issues with the custom Keizaal intro video, enable the "Restor
 
 ### "*Skyrim is capped at 72 FPS.*"
 
-The mod Movement Behavior Overhaul will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 72 in order to prevent that.
+The mod True Directional Movement will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 72 in order to prevent that.
 
 ### "*UI Elementals are being cut off the screen"*
 
