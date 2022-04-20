@@ -86,7 +86,7 @@ I don't mind reuse of farmhouse architecture outside of the hold capitals, so I 
 ### [Obscure's College of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/20514)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/20514/20514-1577465929-696808686.png)
 
-Obscure's College of Winterhold is one of the best single-location overhauls I've used. It doesn't do dramatically different things that change the College of Winterhold, but it does naturally expand what is there and make it feel like an actual academic campus. While the changes in some areas are extreme they just *feel* right. I generally don't like such large and fundamental structural changes like what is done in the Arcanaeum but everything is Obscure's just works. It indirectly improves the College questline and generally just makes the place more interesting to visit and live in.
+Obscure's College of Winterhold is one of the best single-location overhauls I've used. It doesn't do dramatically different things that change the College of Winterhold, but it does naturally expand what is there and make it feel like an actual academic campus. While the changes in some areas are extreme they just *feel* right. It indirectly improves the College questline and generally just makes the place more interesting to visit and live in.
 
 ### [Dungeons - Revisited](https://www.nexusmods.com/skyrimspecialedition/mods/51798)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/51798/51798-1625038939-557169627.png)
