@@ -163,7 +163,7 @@ Keizaal has an additional Creation Club addon. This addon includes several mods 
 
 In order to enable Creation Club support for Keizaal first make sure that you have installed all of the creations you want to use, then navigate to the puzzle pieces at the top of Mod Organzier. Click on it then select "Creation Organizer" from the drop-down menu. This will automatically move all creations you have installed in from your Steam installation folder into individual mods in Mod Orgaznier and activate most supported integration mods.
 
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/CreationOrganizer.PNG)
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/CreationOrganizer.png)
 
 While this automates the majority of the process, some creations and mods will need to be manually verified. Check the "Creation Club" and "Creation Club Addon" sections of Mod Organizer and tick any relevant options.
 
