@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 ---
-### [6.4.0 - The Engine Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.0/Keizaal.wabbajack)
+## [6.4.0 - The Engine Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.0/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.0.png)
 - Updated [SSE Engine Fixes (skse64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=276682)
