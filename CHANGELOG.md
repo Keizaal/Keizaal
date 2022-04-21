@@ -98,7 +98,6 @@ title: Changelog
 - Added [Summerset Shadow Armor](https://www.nexusmods.com/skyrimspecialedition/mods/64934/?tab=files&file_id=270002)
 - Added [The Cause - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/66676/?tab=files&file_id=277860)
 - Added [Crash Log Tools for Mod Organizer](https://www.nexusmods.com/skyrimspecialedition/mods/66743/?tab=files&file_id=278138)
-- Added [moreHUD Inventory Edition](https://www.nexusmods.com/skyrimspecialedition/mods/18619/?tab=files&file_id=260618)
 - Added [Crash Logger](https://www.nexusmods.com/skyrimspecialedition/mods/59596/?tab=files&file_id=246928)
 - Added [Dialogue Animation Remix (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/64420/?tab=files&file_id=277485)
 - Added [Pristine Vanilla Movement](https://www.nexusmods.com/skyrimspecialedition/mods/66635/?tab=files&file_id=278299)
