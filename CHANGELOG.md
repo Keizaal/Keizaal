@@ -13,7 +13,6 @@ title: Changelog
 - Updated [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397/?tab=files&file_id=270434)
 - Updated [Cathedral 3D Mountain Flowers - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60756/?tab=files&file_id=273723)
 - Updated [College of Winterhold Quest Start Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/53817/?tab=files&file_id=270522)
-- Updated [Cities of the North - Falkreath Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/56734/?tab=files&file_id=271534)
 - Updated [EVG Conditional Idles](https://www.nexusmods.com/skyrimspecialedition/mods/34006/?tab=files&file_id=275554)
 - Updated [Hand to Hand - An Adamant Addon](https://www.nexusmods.com/skyrimspecialedition/mods/59790/?tab=files&file_id=276680)
 - Updated [Headhunter - Bounties Redone](https://www.nexusmods.com/skyrimspecialedition/mods/51847/?tab=files&file_id=269884)
