@@ -145,6 +145,7 @@ Keizaal has an additional Creation Club addon. This addon includes several mods 
 - [Bone Wolf](https://en.uesp.net/wiki/Skyrim:Bone_Wolf){:target="_blank" rel="noopener"}
 - [The Cause](https://en.uesp.net/wiki/Skyrim:The_Cause){:target="_blank" rel="noopener"}
 - [Camping](https://en.uesp.net/wiki/Skyrim:Camping){:target="_blank" rel="noopener"}
+- [The Contest](https://en.uesp.net/wiki/Skyrim:The_Contest){:target="_blank" rel="noopener"}
 - [Dead Man's Dread](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Dread){:target="_blank" rel="noopener"}
 - [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader){:target="_blank" rel="noopener"}
 - [Elite Crossbows](https://en.uesp.net/wiki/Skyrim:Elite_Crossbows){:target="_blank" rel="noopener"} and [Expanded Crossbow Pack](https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack){:target="_blank" rel="noopener"}
