@@ -26,7 +26,7 @@ There are a lot of mods that make Keizaal what it is and every mod has a place t
 ### [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/30191/30191-1572896988-939425731.png)
 
-Adamant is Keizaal's perk overhaul and it aims to expand the perk trees and over some fun new playstyles without growing too bloated and straying away from the feel of the Vanilla system. Every tree has been given a proper facelift and a lot of the new perks push you to try new and interesting things. In the Heavy Armor three there is a branch dedicataed to building an Unarmed character, something that is nearly impossible in Vanilla. In the Speech tree there are perks to help build a shout-focused character. These are only a few of the things you can do in Adamant.
+Adamant is Keizaal's perk overhaul and it aims to expand the perk trees and over some fun new playstyles without growing too bloated and straying away from the feel of the Vanilla system. Every tree has been given a proper facelift and a lot of the new perks push you to try new and interesting things.
 
 ### [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/34549/34549-1586478221-885699905.png)
