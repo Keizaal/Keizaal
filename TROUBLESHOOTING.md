@@ -62,10 +62,6 @@ If you are experiencing problems such as the skse64_loader.exe being deleted, tr
 
 If you still think a file is a virus, you can upload it to virustotal and get it scanned by multiple antiviruses. [Here](https://www.virustotal.com/gui/file/356c029b7bf0bed41460ceacf2c756560101b9b0977c349925d81d76392dd0c4/detection){:target="_blank" rel="noopener"} is a scan of the file mentioned above, of which two antiviruses report a false positive.
 
-### "*Keizaal won't launch through MO2.*"
-
-Please ensure you have [.Net Framework 5.0](https://dotnet.microsoft.com/download/dotnet/5.0/runtime){:target="_blank" rel="noopener"} installed. Download the desktop app x64 AND the console app x64 versions from Microsoft.
-
 ### "*Plugins are getting deactivated in the right panel.*"
 
 You have likely surpassed the 255 .esp limit. When this happens Mod Organizer will automatically disable plugins in order to ensure that the game can launch.
