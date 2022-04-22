@@ -172,10 +172,6 @@ There are several hotkeys that you should be aware of while playing Keizaal. Mos
 
 **H** - Call Horse
 
-**N** - Toggle Mini Map
-
-**K** - Zoom Mini Map
-
 # Optional Configuration
 
 This following section outlines some optional configurations. Nothing here is necessary to get Keizaal installed properly.
