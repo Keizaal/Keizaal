@@ -9,13 +9,13 @@ title: Installation Guide
 - [Setup](#setup)
   - [Clean Install](#clean-install)
 - [Installation](#installation)
-    - [Wabbajack Installation](#wabbajack-installation)
-    - [Keizaal Installation](#keizaal-installation)
+  - [Wabbajack Installation](#wabbajack-installation)
+  - [Keizaal Installation](#keizaal-installation)
+  - [Creation Club Content Setup](#creation-club-content-setup)
 - [Playing](#playing)
-    - [Mod Configuration](#mod-configuration)
-    - [Hotkeys](#hotkeys)
+  - [Mod Configuration](#mod-configuration)
+  - [Hotkeys](#hotkeys)
 - [Optional Configuration](#optional-configuration)
-  - [Creation Club Content](#creation-club-content)
   - [Optional Mods](#optional-mods)
   - [Settings](#settings)
   - [Mod Notes](#mod-notes)
@@ -70,6 +70,8 @@ Reinstall Skyrim in a location **outside of the Program Files**. If you have iss
 
 Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
 
+**If you have any Creation Club content that you wish to use please install all of them at this time.**
+
 # Installation
 
 Next, both Wabbajack and Keizaal will need to be downloaded and installed.
@@ -94,41 +96,11 @@ Once the installation window opens ensure that the “Installation Location” m
 
 When you’re ready, press the triangular start button.
 
-After starting the installation a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log into and authorize Wabbajack on Nexus and the installation will proceed. Wabbajack will now install the modlist, this will take a while so be patient. When Wabbajack is finished, the left panel should say "Installation Complete". Keizaal is ready to play!
+After starting the installation a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log into and authorize Wabbajack on Nexus and the installation will proceed. Wabbajack will now install the modlist, this will take a while so be patient. When Wabbajack is finished, the left panel should say "Installation Complete".
 
-# Playing
+### Creation Club Content Setup
 
-Now that Keizaal has been installed you will need to launch Skyrim in a slightly different way.
-
-Navigate back to your Keizaal installation folder and run ModOrganizer.exe.
-
-You should now be on a screen that displays all of your installed mods on the left and all of your plugin files on the right.
-
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/4.%20Playing%20Keizaal.png)
-
-You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the right plugins pane and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
-
-### Mod Configuration
-
-All of the Mod Configuration Menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
-
-### Hotkeys
-
-There are several hotkeys that you should be aware of while playing Keizaal. Most of them can be edited via the in-game Mod Configuration Menu. The default keys are as follows:
-
-**Middle Mouse Button** - Lock-on to Enemy
-
-**H** - Call Horse
-
-**N** - Toggle Mini Map
-
-**K** - Zoom Mini Map
-
-# Optional Configuration
-
-This following section outlines some optional configurations. Nothing here is necessary to get Keizaal installed properly.
-
-### Creation Club Content
+This step details how to install any Creation Club content that you have. If you have no Creation Club content you may skip to [Playing](#playing).
 
 On November 11, 2021 Bethesda released [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing){:target="_blank" rel="noopener"}, [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode){:target="_blank" rel="noopener"}, [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers){:target="_blank" rel="noopener"}, and [Rare Cruios](https://en.uesp.net/wiki/Skyrim:Rare_Curios){:target="_blank" rel="noopener"} for free to all owners of Skyrim Special Edition. **At this time Keizaal only supports Survival Mode (disabled by default) and Rare Curios as part of the main download**.
 
@@ -175,6 +147,38 @@ After you have activated all the respective creations and integration mods be su
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
 
 I will try to assist you in enabling the Creation Club addon, however if you make changes to Keizaal outside of these few creations I **WILL NOT** be able to help you. Any personal edits you make to this list must be done independently.
+
+# Playing
+
+Now that Keizaal has been installed you will need to launch Skyrim in a slightly different way.
+
+Navigate back to your Keizaal installation folder and run ModOrganizer.exe.
+
+You should now be on a screen that displays all of your installed mods on the left and all of your plugin files on the right.
+
+![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/4.%20Playing%20Keizaal.png)
+
+You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the right plugins pane and pressing “Play”. Beneath the Play button there is a way to add a Skyrim shortcut to your desktop for added convenience.
+
+### Mod Configuration
+
+All of the Mod Configuration Menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
+
+### Hotkeys
+
+There are several hotkeys that you should be aware of while playing Keizaal. Most of them can be edited via the in-game Mod Configuration Menu. The default keys are as follows:
+
+**Middle Mouse Button** - Lock-on to Enemy
+
+**H** - Call Horse
+
+**N** - Toggle Mini Map
+
+**K** - Zoom Mini Map
+
+# Optional Configuration
+
+This following section outlines some optional configurations. Nothing here is necessary to get Keizaal installed properly.
 
 ### Optional Mods
 
