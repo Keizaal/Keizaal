@@ -70,7 +70,7 @@ Reinstall Skyrim in a location **outside of the Program Files**. If you have iss
 
 Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
 
-**If you have any Creation Club content that you wish to use please install all of them at this time.**
+**If you have any Creation Club content that you wish to use please launch your game and install all of them at this time.**
 
 # Installation
 
@@ -100,7 +100,7 @@ After starting the installation a window will pop up and ask for you to authoriz
 
 ### Creation Club Content Setup
 
-This step details how to install any Creation Club content that you have. If you have no Creation Club content you may skip to [Playing](#playing).
+This step details how to install any Creation Club content that you may have. [If you have no Creation Club content installed you may skip to the next step.](#playing).
 
 On November 11, 2021 Bethesda released [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing){:target="_blank" rel="noopener"}, [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode){:target="_blank" rel="noopener"}, [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers){:target="_blank" rel="noopener"}, and [Rare Cruios](https://en.uesp.net/wiki/Skyrim:Rare_Curios){:target="_blank" rel="noopener"} for free to all owners of Skyrim Special Edition. **At this time Keizaal only supports Survival Mode (disabled by default) and Rare Curios as part of the main download**.
 
