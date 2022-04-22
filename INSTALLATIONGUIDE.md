@@ -72,6 +72,8 @@ Run the Skyrim: Special Edition launcher through Steam and let it detect your se
 
 **If you have any Creation Club content that you wish to use please launch your game and install all of them at this time.**
 
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/16.%20Creation%20Club%20In-game.png)
+
 # Installation
 
 Next, both Wabbajack and Keizaal will need to be downloaded and installed.
