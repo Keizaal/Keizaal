@@ -72,10 +72,6 @@ Note that I **WILL NOT** provide support for installations of Keizaal that have 
 
 If you are having issues with the custom Keizaal intro video, enable the "Restore Vanilla Intro Video" mod in the Optionals section of Mod Organizer.
 
-### "*Skyrim is capped at 72 FPS.*"
-
-The mod True Directional Movement will cause animations to break if the framerate goes over 75 FPS, so I've capped the FPS to 72 in order to prevent that.
-
 ### "*UI Elementals are being cut off the screen"*
 
 You probably have an 21:9 monitor, Skyrim's UI is designed only for a 16:9 aspect ratio. To fix this simply enable all the mods under "Ultrawide Fixes" in Mod Organizer.
