@@ -11,7 +11,7 @@ title: Installation Guide
 - [Installation](#installation)
   - [Wabbajack Installation](#wabbajack-installation)
   - [Keizaal Installation](#keizaal-installation)
-  - [Creation Club Content Setup](#creation-club-content-setup)
+  - [Creation Club Content Initialization](#creation-club-content-initialization)
 - [Playing](#playing)
   - [Mod Configuration](#mod-configuration)
   - [Hotkeys](#hotkeys)
@@ -98,7 +98,7 @@ When you’re ready, press the triangular start button.
 
 After starting the installation a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log into and authorize Wabbajack on Nexus and the installation will proceed. Wabbajack will now install the modlist, this will take a while so be patient. When Wabbajack is finished, the left panel should say "Installation Complete".
 
-### Creation Club Content Setup
+### Creation Club Content Initialization
 
 This step details how to install any Creation Club content that you may have. **[If you have no Creation Club content installed you may skip to the next step.](#playing)**
 
