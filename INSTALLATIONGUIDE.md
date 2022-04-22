@@ -134,7 +134,7 @@ Keizaal has an additional Creation Club addon. This addon includes several mods 
 - [Vigil Enforcer Pack](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set){:target="_blank" rel="noopener"}
 - [Wild Horses](https://en.uesp.net/wiki/Skyrim:Wild_Horses){:target="_blank" rel="noopener"}
 
-In order to enable Creation Club support for Keizaal first make sure that you have installed all of the creations you want to use, then navigate to the puzzle pieces at the top of Mod Organzier. Click on it then select "Creation Organizer" from the drop-down menu. This will automatically move all creations you have installed in from your Steam installation folder into individual mods in Mod Orgaznier and activate most supported integration mods.
+In order to enable Creation Club support for Keizaal first make sure that you have installed all of the creations you want to use, then navigate to the puzzle pieces at the top of Mod Organzier. Click on it then select "Creation Organizer" from the drop-down menu. This will automatically move all creations you have installed from your Steam installation folder into individual mods in Mod Orgaznier and activate most supported integration mods.
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/CreationOrganizer.png)
 
@@ -142,7 +142,7 @@ While this automates the majority of the process, some creations and mods will n
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/13.%20Creation%20Club.PNG)
 
-After you have activated all the respective creations and integration mods be sure to sort your load order before you begin playing. Simply press the sort button directly above your plugins to sort all of your plugins!
+After you have activated all the respective creations and integration mods be sure to sort your load order. Simply press the sort button directly above your right panel to sort all of your plugins!
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
 
@@ -186,7 +186,7 @@ There are a small number of optional mods present in Keizaal, they can be found 
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/18.%20Optional%20Mods.png)
 
-After you have activated all the respective integration mods be sure to sort your load order before you begin playing. Simply press the sort button directly above your plugins to sort all of your plugins!
+After you have activated all the respective integration mods be sure to sort your load order before you begin playing. Simply press the sort button directly above your right panel to sort all of your plugins!
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
 
