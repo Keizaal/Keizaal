@@ -178,7 +178,7 @@ This following section outlines some optional configurations. Nothing here is ne
 
 ### Optional Mods
 
-There are a small number of optional mods present in Keizaal, they can be found under the Miscellaneous section of Mod Organizer 2. Tick the ones that you want to use.
+There are a small number of optional mods present in Keizaal, they can be found under the Miscellaneous section of Mod Organizer. Tick the ones that you want to use.
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/18.%20Optional%20Mods.png)
 
