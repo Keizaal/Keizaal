@@ -100,7 +100,7 @@ After starting the installation a window will pop up and ask for you to authoriz
 
 ### Creation Club Content Initialization
 
-This step details how to install any Creation Club content that you may have. **[If you have no Creation Club content installed you may skip to the next step.](#playing)**
+This step details how to set up any Creation Club content that you may have. **[If you have no Creation Club content installed you may skip to the next step.](#playing)**
 
 On November 11, 2021 Bethesda released [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing){:target="_blank" rel="noopener"}, [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode){:target="_blank" rel="noopener"}, [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers){:target="_blank" rel="noopener"}, and [Rare Cruios](https://en.uesp.net/wiki/Skyrim:Rare_Curios){:target="_blank" rel="noopener"} for free to all owners of Skyrim Special Edition. **At this time Keizaal only supports Survival Mode (disabled by default) and Rare Curios as part of the main download**.
 
