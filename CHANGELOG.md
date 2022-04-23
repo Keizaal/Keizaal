@@ -2,6 +2,13 @@
 layout: default
 title: Changelog
 ---
+#### [6.4.0.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.4.0.1/Keizaal.wabbajack)
+- Updated [Automatic Animations - Including Icon Identification](https://www.nexusmods.com/skyrimspecialedition/mods/59484/?tab=files&file_id=279191)
+- Remove [No More Creation Club News SPECIAL EDITION](https://www.nexusmods.com/skyrimspecialedition/mods/12679/?tab=files&file_id=35504)
+- Removed [Sovngarde - A Nordic Font](https://www.nexusmods.com/skyrimspecialedition/mods/386?tab=files&file_id=115926)
+- Added [QUI (Alpha)](https://www.nexusmods.com/skyrimspecialedition/mods/65343/?tab=files&file_id=272106)
+- Fixed various minor bugs present on release.
+
 ## [6.4.0 - The Engine Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.0/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.0.png)
 - Updated [SSE Engine Fixes (skse64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
