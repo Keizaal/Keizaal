@@ -80,6 +80,7 @@ title: Changelog
 - Removed [Flinching - Script Free Edition](https://www.nexusmods.com/skyrimspecialedition/mods/42550/?tab=files&file_id=242893)
 - Removed [Keening Rework HD - SE](https://www.nexusmods.com/skyrimspecialedition/mods/39474/?tab=files&file_id=156019)
 - Remove [No More Creation Club News SPECIAL EDITION](https://www.nexusmods.com/skyrimspecialedition/mods/12679/?tab=files&file_id=35504)
+- Removed [Sovngarde - A Nordic Font](https://www.nexusmods.com/skyrimspecialedition/mods/386?tab=files&file_id=115926)
 - Added [Ancient Nord Armo(u)ry EXTREME SE](https://www.nexusmods.com/skyrimspecialedition/mods/41265/?tab=files&file_id=197754)
 - Added [Ancient Nord Armo(u)ry Lite](https://www.nexusmods.com/skyrimspecialedition/mods/65124/?tab=files&file_id=270768)
 - Added [Ave's Moon Amulet](https://www.nexusmods.com/skyrimspecialedition/mods/38367/?tab=files&file_id=150701)
