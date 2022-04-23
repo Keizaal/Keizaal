@@ -17,7 +17,7 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/Keizaal%20Banner.png",
-      "readme": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/index.md",
+      "readme": "https://keizaal.github.io/Keizaal/",
       "download": "https://github.com/Keizaal/Keizaal/releases/latest/download/Keizaal.wabbajack",
       "machineURL": "keizaal",
       "discordURL": "https://discord.gg/eYZJFP8"
