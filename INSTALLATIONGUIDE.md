@@ -124,7 +124,9 @@ Keizaal has an additional Creation Club addon. This addon includes several mods 
 - [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader){:target="_blank" rel="noopener"}
 - [Elite Crossbows](https://en.uesp.net/wiki/Skyrim:Elite_Crossbows){:target="_blank" rel="noopener"} and [Expanded Crossbow Pack](https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack){:target="_blank" rel="noopener"}
 - [Fearsome Fists](https://en.uesp.net/wiki/Skyrim:Fearsome_Fists){:target="_blank" rel="noopener"}
+- [Ghosts of the Tribunal](https://en.uesp.net/wiki/Skyrim:Ghosts_of_the_Tribunal){:target="_blank" rel="noopener"}
 - [Goblins](https://en.uesp.net/wiki/Skyrim:Goblins){:target="_blank" rel="noopener"}
+- [Goldbrand](https://en.uesp.net/wiki/Skyrim:Goldbrand){:target="_blank" rel="noopener"}
 - [Headman's Cleaver](https://en.uesp.net/wiki/Skyrim:Headman%27s_Cleaver){:target="_blank" rel="noopener"}
 - [Horse Armor - Elven](https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Elven){:target="_blank" rel="noopener"}
 - [Horse Armor - Steel](https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Steel){:target="_blank" rel="noopener"}
