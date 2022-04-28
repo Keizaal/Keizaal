@@ -8,7 +8,6 @@ title: Changelog
 - Updated [Curated Curios - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/59340/?tab=files&file_id=280086)
 - Updated [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=279865)
 - Updated [Pristine Vanilla Movement](https://www.nexusmods.com/skyrimspecialedition/mods/66635/?tab=files&file_id=279306)
-- Added [Automatic Animations - Including Icon Identification](https://www.nexusmods.com/skyrimspecialedition/mods/59484/?tab=files&file_id=279191)
 - Added [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019/?tab=files&file_id=280087)
 - Added [Catir Club - Goldbrand](https://www.nexusmods.com/skyrimspecialedition/mods/66864/?tab=files&file_id=279707)
 - Added [Bantam Guars- Mihail Monsters and Animals (MIHAIL SSE PORT)](https://www.nexusmods.com/skyrimspecialedition/mods/27363/?tab=files&file_id=215586)
