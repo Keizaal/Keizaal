@@ -2,6 +2,21 @@
 layout: default
 title: Changelog
 ---
+## [6.4.1 - The Tribunal Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.1/Keizaal.wabbajack)
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.1.png)
+- Updated [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756/?tab=files&file_id=279863)
+- Updated [Curated Curios - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/59340/?tab=files&file_id=280086)
+- Updated [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=279865)
+- Updated [Pristine Vanilla Movement](https://www.nexusmods.com/skyrimspecialedition/mods/66635/?tab=files&file_id=279306)
+- Removed [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756/?tab=files&file_id=240473)
+- Removed [Automatic Animations - Including Icon Identification](https://www.nexusmods.com/skyrimspecialedition/mods/59484/?tab=files&file_id=279191)
+- Added [Mihail's Bantam Guar- Name and Sound Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/47712/?tab=files&file_id=194308)
+- Added [Pocket Mammoths](https://www.nexusmods.com/skyrimspecialedition/mods/67204/?tab=files&file_id=280088)
+- Added [Vvardvarks (Creature Series pt.3) SE](https://www.nexusmods.com/skyrimspecialedition/mods/64571/?tab=files&file_id=268280)
+- Added [Mihail's Bantam Guar- Name and Sound Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/47712/?tab=files&file_id=194330)
+- Added [Bantam Guars- Mihail Monsters and Animals (MIHAIL SSE PORT)](https://www.nexusmods.com/skyrimspecialedition/mods/27363/?tab=files&file_id=215586)
+- Added [Bantam Guar](https://www.nexusmods.com/skyrimspecialedition/mods/45506/?tab=files&file_id=184955)
+
 #### [6.4.0.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.4.0.1/Keizaal.wabbajack)
 - Updated [Automatic Animations - Including Icon Identification](https://www.nexusmods.com/skyrimspecialedition/mods/59484/?tab=files&file_id=279191)
 - Remove [No More Creation Club News SPECIAL EDITION](https://www.nexusmods.com/skyrimspecialedition/mods/12679/?tab=files&file_id=35504)
