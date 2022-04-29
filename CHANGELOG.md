@@ -4,6 +4,11 @@ title: Changelog
 ---
 ## [6.4.1 - The Tribunal Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.1/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.1.png)
+- Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=279709)
+- Updated [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019/?tab=files&file_id=280246)
+- Updated [Water Mod - ENB Displacement Textures](https://www.nexusmods.com/skyrimspecialedition/mods/56520/?tab=files&file_id=279321)
+- Updated [Better Third Person Selection - BTPS](https://www.nexusmods.com/skyrimspecialedition/mods/64339/?tab=files&file_id=280221)
+- Updated [Conditional tavern cheering and applause animation variety for NPC (DAR mod)](https://www.nexusmods.com/skyrimspecialedition/mods/63029/?tab=files&file_id=2795)
 - Updated [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756/?tab=files&file_id=279863)
 - Updated [Curated Curios - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/59340/?tab=files&file_id=280086)
 - Updated [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=279865)
@@ -15,6 +20,7 @@ title: Changelog
 - Added [Bantam Guar](https://www.nexusmods.com/skyrimspecialedition/mods/45506/?tab=files&file_id=184955)
 - Added [Vvardvarks (Creature Series pt.3) SE](https://www.nexusmods.com/skyrimspecialedition/mods/64571/?tab=files&file_id=268280)
 - Added [Pocket Mammoths](https://www.nexusmods.com/skyrimspecialedition/mods/67204/?tab=files&file_id=280088)
+- Added [Fixed Mesh Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/53653/?tab=files&file_id=275856)
 
 #### [6.4.0.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/6.4.0.1/Keizaal.wabbajack)
 - Updated [Automatic Animations - Including Icon Identification](https://www.nexusmods.com/skyrimspecialedition/mods/59484/?tab=files&file_id=279191)
