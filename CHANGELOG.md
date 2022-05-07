@@ -32,6 +32,8 @@ title: Changelog
 - Added [Magic Sneak Attacks](https://www.nexusmods.com/skyrimspecialedition/mods/67613/?tab=files&file_id=281850)
 - Added [Sufficiently Optimized Snowberries 3D](https://www.nexusmods.com/skyrimspecialedition/mods/42033/?tab=files&file_id=169701)
 - Added [Lively Children Animations (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/67557/?tab=files&file_id=281552)
+- Fixed purple snowberry bushes.
+- Fixed purple skeevers.
 
 ## [6.4.1 - The Tribunal Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.1/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.1.png)
