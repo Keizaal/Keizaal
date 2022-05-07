@@ -24,7 +24,7 @@ title: Installation Guide
 
 # Information
 
-Keizaal takes up 206GB of hard drive space (119GB installation with 87GB of downloads) and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance. You will run into very, very long loading times and stuttering with a standard hard disk drive. 
+Keizaal takes up 204GB of hard drive space (118GB installation with 86GB of downloads) and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance. You will run into very, very long loading times and stuttering with a standard hard disk drive. 
 
 If you run into any issues installing Keizaal please refer to the [Troubleshooting Guide](https://keizaal.github.io/Keizaal/TROUBLESHOOTING.html){:target="_blank" rel="noopener"}. It covers all of the common errors that may occur and will walk you through how to fix them.
 
