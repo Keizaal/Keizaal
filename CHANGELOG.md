@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 ---
-## [6.4.1 - The Dwemer Towers Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.2/Keizaal.wabbajack)
+## [6.4.2 - The Dwemer Towers Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.2/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.2.png)
 - Updated [Anga's Mill - Cities of the North Addon](https://www.nexusmods.com/skyrimspecialedition/mods/64398/?tab=files&file_id=282184)
 - Updated [College of Winterhold Quest Start Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/53817/?tab=files&file_id=281002)
