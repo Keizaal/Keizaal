@@ -96,7 +96,7 @@ I have no issues with the majority of dungeons in Vanilla, but Dungeons - Revisi
 ### [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/45565/45565-1613032746-1992524601.jpeg)
 
-While expansions of the Vanilla worldspace are fantastic, there is something to be said about exploring a completely new land. Wyrmsooth is one of Skyrim's oldest New Lands mods and it shows. The world is beautiful and filled with a ton of content and everything feel right at home next to Vanilla. Wyrmstooth doesn't do anything earthshattering, it feels a lot like More Skyrim, but that isn't a bad thing. 
+While expansions of the Vanilla worldspace are fantastic, there is something to be said about exploring a completely new land. Wyrmstooth is one of Skyrim's oldest New Lands mods and it shows. The world is beautiful and filled with a ton of content and everything feel right at home next to Vanilla. Wyrmstooth doesn't do anything earthshattering, it feels a lot like More Skyrim, but that isn't a bad thing. 
 
 ### [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/84946-0-1498689983.jpg)
