@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 ---
-## [6.5.0](https://github.com/Keizaal/Keizaal/releases/download/6.5.0/Keizaal.wabbajack)
+### [6.4.3](https://github.com/Keizaal/Keizaal/releases/download/6.5.0/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.5.0.png)
 - Updated [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756/?tab=files&file_id=288136)
 - Updated [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312/?tab=files&file_id=285632)
@@ -18,7 +18,6 @@ title: Changelog
 - Added [Cathedral - 3D Clovers](https://www.nexusmods.com/skyrimspecialedition/mods/68793/?tab=files&file_id=287313)
 - Added [Cathedral - 3D Lavender](https://www.nexusmods.com/skyrimspecialedition/mods/68310/?tab=files&file_id=285641)
 - Added [Cathedral - 3D Tundra Cotton](https://www.nexusmods.com/skyrimspecialedition/mods/68068/?tab=files&file_id=287564)
-- Added [4thUnknown's Scamps Use Falmer Animations and Flames - Beyond Skyrim Uses 4thUnknown's Scamps](https://www.nexusmods.com/skyrimspecialedition/mods/44508/?tab=files&file_id=180318)
 - Added [Large Stagger Animation](https://www.nexusmods.com/skyrimspecialedition/mods/68696/?tab=files&file_id=287807)
 
 ### [6.4.2 - The Dwemer Towers Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.2/Keizaal.wabbajack)
