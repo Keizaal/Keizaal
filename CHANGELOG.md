@@ -19,6 +19,7 @@ title: Changelog
 - Added [Cathedral - 3D Lavender](https://www.nexusmods.com/skyrimspecialedition/mods/68310/?tab=files&file_id=285641)
 - Added [Cathedral - 3D Tundra Cotton](https://www.nexusmods.com/skyrimspecialedition/mods/68068/?tab=files&file_id=287564)
 - Added [Large Stagger Animation](https://www.nexusmods.com/skyrimspecialedition/mods/68696/?tab=files&file_id=287807)
+- Fixed issues with Vittora's Alternate Wedding and Open Cities
 
 ### [6.4.2 - The Dwemer Towers Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.2/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.2.png)
