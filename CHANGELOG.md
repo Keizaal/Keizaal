@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 ---
-### [6.4.3 - The Transition Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.3/Keizaal.wabbajack)
+### [6.4.3 - The Transition Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.3.png)
 - Updated [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756/?tab=files&file_id=288136)
 - Updated [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312/?tab=files&file_id=285632)
