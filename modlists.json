@@ -8,29 +8,32 @@
       "github/TateTaylorUSA"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
       "Official"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/Keizaal%20Banner.png",
       "readme": "https://keizaal.github.io/Keizaal/",
-      "download": "https://github.com/Keizaal/Keizaal/releases/latest/download/Keizaal.wabbajack",
+      "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_71933ddb-0936-4c68-aa62-f259a213335b",
       "machineURL": "keizaal",
       "discordURL": "https://discord.gg/eYZJFP8"
     },
     "download_metadata": {
-  "$type": "DownloadMetadata, Wabbajack.Lib",
-  "Hash": "M2BwsZLotTM=",
-  "Size": 42199056,
-  "NumberOfArchives": 935,
-  "SizeOfArchives": 92417410845,
-  "NumberOfInstalledFiles": 145264,
-  "SizeOfInstalledFiles": 126628718089
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "vpz/MR/uttI=",
+      "Size": 38249401,
+      "NumberOfArchives": 946,
+      "SizeOfArchives": 92807687868,
+      "NumberOfInstalledFiles": 195198,
+      "SizeOfInstalledFiles": 134101589387
     },
-    "version": "6.4.2"
+    "version": "6.4.3",
+    "RepositoryName": ""
   }
 ]
