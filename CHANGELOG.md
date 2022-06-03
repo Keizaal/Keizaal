@@ -6,7 +6,7 @@ title: Changelog
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.3.png)
 - Updated [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756/?tab=files&file_id=288136)
 - Updated [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312/?tab=files&file_id=285632)
-- Removed [Red Mountain Volcano - Tamriels Natural Wonder.rar](https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Red.Mountain.Volcano.-.Tamriels.Natural.Wonder.rar)
+- Removed [Red Mountain Volcano - Tamriels Natural Wonder](https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Red.Mountain.Volcano.-.Tamriels.Natural.Wonder.rar)
 - Removed [Conditional tavern cheering and applause animation variety for NPC (DAR mod)](https://www.nexusmods.com/skyrimspecialedition/mods/63029/?tab=files&file_id=279512)
 - Removed [Dialogue Animation Remix (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/64420/?tab=files&file_id=277485)
 - Removed [Immersive folded hands - new idles and offsetarmscrossed.hkx replacer for NPC with new variants by conditions (DAR mod)](https://www.nexusmods.com/skyrimspecialedition/mods/62849/?tab=files&file_id=277479)
