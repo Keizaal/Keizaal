@@ -2,7 +2,26 @@
 layout: default
 title: Changelog
 ---
-## [6.4.2 - The Dwemer Towers Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.2/Keizaal.wabbajack)
+## [6.5.0](https://github.com/Keizaal/Keizaal/releases/download/6.5.0/Keizaal.wabbajack)
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.5.0.png)
+- Updated [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756/?tab=files&file_id=288136)
+- Updated [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312/?tab=files&file_id=285632)
+- Removed [Red Mountain Volcano - Tamriels Natural Wonder.rar](https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Red.Mountain.Volcano.-.Tamriels.Natural.Wonder.rar)
+- Removed [Conditional tavern cheering and applause animation variety for NPC (DAR mod)](https://www.nexusmods.com/skyrimspecialedition/mods/63029/?tab=files&file_id=279512)
+- Removed [Dialogue Animation Remix (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/64420/?tab=files&file_id=277485)
+- Removed [Immersive folded hands - new idles and offsetarmscrossed.hkx replacer for NPC with new variants by conditions (DAR mod)](https://www.nexusmods.com/skyrimspecialedition/mods/62849/?tab=files&file_id=277479)
+- Removed [NPC Animation Remix (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/63471/?tab=files&file_id=267220)
+- Removed [Lively Children Animations (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/67557/?tab=files&file_id=281552)
+- Added [Skaal Village Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/53733/?tab=files&file_id=221544)
+- Added [Unique Windhelm Farmhouses](https://www.nexusmods.com/skyrimspecialedition/mods/68445/?tab=files&file_id=285574)
+- Added [Worldspace Transition Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/48889/?tab=files&file_id=203603)
+- Added [Cathedral - 3D Clovers](https://www.nexusmods.com/skyrimspecialedition/mods/68793/?tab=files&file_id=287313)
+- Added [Cathedral - 3D Lavender](https://www.nexusmods.com/skyrimspecialedition/mods/68310/?tab=files&file_id=285641)
+- Added [Cathedral - 3D Tundra Cotton](https://www.nexusmods.com/skyrimspecialedition/mods/68068/?tab=files&file_id=287564)
+- Added [4thUnknown's Scamps Use Falmer Animations and Flames - Beyond Skyrim Uses 4thUnknown's Scamps](https://www.nexusmods.com/skyrimspecialedition/mods/44508/?tab=files&file_id=180318)
+- Added [Large Stagger Animation](https://www.nexusmods.com/skyrimspecialedition/mods/68696/?tab=files&file_id=287807)
+
+### [6.4.2 - The Dwemer Towers Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.2/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.2.png)
 - Updated [Anga's Mill - Cities of the North Addon](https://www.nexusmods.com/skyrimspecialedition/mods/64398/?tab=files&file_id=282184)
 - Updated [College of Winterhold Quest Start Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/53817/?tab=files&file_id=281002)
@@ -36,7 +55,7 @@ title: Changelog
 - Fixed purple snowberry bushes.
 - Fixed purple skeevers.
 
-## [6.4.1 - The Tribunal Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.1/Keizaal.wabbajack)
+### [6.4.1 - The Tribunal Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.1/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.1.png)
 - Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=279709)
 - Updated [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019/?tab=files&file_id=280246)
