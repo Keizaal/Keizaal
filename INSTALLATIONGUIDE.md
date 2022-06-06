@@ -119,6 +119,7 @@ Keizaal has an additional Creation Club addon. This addon includes several mods 
 - [Bone Wolf](https://en.uesp.net/wiki/Skyrim:Bone_Wolf){:target="_blank" rel="noopener"}
 - [The Cause](https://en.uesp.net/wiki/Skyrim:The_Cause){:target="_blank" rel="noopener"}
 - [Camping](https://en.uesp.net/wiki/Skyrim:Camping){:target="_blank" rel="noopener"}
+- [Civil War Champions](https://en.uesp.net/wiki/Skyrim:Civil_War_Champions){:target="_blank" rel="noopener"}
 - [The Contest](https://en.uesp.net/wiki/Skyrim:The_Contest){:target="_blank" rel="noopener"}
 - [Dead Man's Dread](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Dread){:target="_blank" rel="noopener"}
 - [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader){:target="_blank" rel="noopener"}
@@ -130,6 +131,7 @@ Keizaal has an additional Creation Club addon. This addon includes several mods 
 - [Headman's Cleaver](https://en.uesp.net/wiki/Skyrim:Headman%27s_Cleaver){:target="_blank" rel="noopener"}
 - [Horse Armor - Elven](https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Elven){:target="_blank" rel="noopener"}
 - [Horse Armor - Steel](https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Steel){:target="_blank" rel="noopener"}
+- [Lord's Mail](https://en.uesp.net/wiki/Skyrim:Lord%27s_Mail){:target="_blank" rel="noopener"}
 - [Netch Leather Armor](https://en.uesp.net/wiki/Skyrim:Netch_Leather_Armor){:target="_blank" rel="noopener"}
 - [Nix-Hound](https://en.uesp.net/wiki/Skyrim:Nix-Hound){:target="_blank" rel="noopener"}
 - [Nordic Jewelry](https://en.uesp.net/wiki/Skyrim:Nordic_Jewelry){:target="_blank" rel="noopener"}
