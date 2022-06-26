@@ -50,6 +50,12 @@ If Wabbajack fails to download any of the basegame files during the installation
 
 Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
 
+### "*SKSE throws an error when the game launches.*"
+
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/SKSEPluginError.png)
+
+Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe) and select "Repair Installation" when you run the installer. Be sure to restart your computer afterward.
+
 ### "*Some mods in the Downloads tab aren't listed as installed.*"
 
 This occsionally happens with certain mods, don't worry, they **are installed**.
