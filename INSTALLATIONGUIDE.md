@@ -104,13 +104,13 @@ This step details how to set up support for Anniversary Edition. **[If you do no
 
 On November 11, 2021 Bethesda released [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing){:target="_blank" rel="noopener"}, [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode){:target="_blank" rel="noopener"}, [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers){:target="_blank" rel="noopener"}, and [Rare Cruios](https://en.uesp.net/wiki/Skyrim:Rare_Curios){:target="_blank" rel="noopener"} for free to all owners of Skyrim Special Edition. **At this time Keizaal only supports Survival Mode (disabled by default) and Rare Curios as part of the main download**.
 
-Keizaal has additional support for the Anniversary Edition. This addon includes several mods that improve and better integrate a handful of the new content into Skyrim.
+Keizaal has additional support for the Anniversary Edition, this includes several mods that improve and better integrate the new content into Skyrim.
 
 In order to enable Anniversary Edition support for Keizaal, first navigate to the puzzle pieces at the top of Mod Organzier. Click on it then select "Creation Organizer" from the drop-down menu. This will automatically move all Anniversary Edition content from your Steam installation folder into two mod folders in Mod Organizer. The supported pieces of content will be placed in `Anniversary Edition [NoDelete]` and the mod will be automatically enabled. All unsupported pieces of content will be placed into `Unsupported [NoDelete]` and remain disabled.
 
-Now the only thing to do is simply navigate to the top of Mod Organizer to where it says "Keizaal - Special Edition", click on it, and select "Keizaal - Anniversary Edition" from the drop-down menu. That's it!
+Now the only thing to do is simply navigate to the top of Mod Organizer to where it says "Keizaal Special Edition", click on it, and select "Keizaal Anniversary Edition" from the drop-down menu. You're done!
 
-I will try to assist you in enabling the Creation Club addon, however if you make changes to Keizaal outside of these few creations I **WILL NOT** be able to help you. Any personal edits you make to this list must be done independently.
+I will try to assist you in enabling Anniversary Edition support, however if you make changes to Keizaal outside of these few creations I **WILL NOT** be able to help you. Any personal edits you make to this list must be done independently.
 
 # Playing
 
