@@ -11,7 +11,7 @@ title: Installation Guide
 - [Installation](#installation)
   - [Wabbajack Installation](#wabbajack-installation)
   - [Keizaal Installation](#keizaal-installation)
-  - [Creation Club Content Initialization](#creation-club-content-initialization)
+  - [Anniversary Edition Initialization](#anniversary-edition-initialization)
 - [Playing](#playing)
   - [Mod Configuration](#mod-configuration)
   - [Hotkeys](#hotkeys)
