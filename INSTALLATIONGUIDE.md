@@ -98,7 +98,7 @@ When you’re ready, press the triangular start button.
 
 After starting the installation a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log into and authorize Wabbajack on Nexus and the installation will proceed. Wabbajack will now install the modlist, this will take a while so be patient. When Wabbajack is finished, the left panel should say "Installation Complete".
 
-### Anniversary Edition Content Initialization
+### Anniversary Edition Initialization
 
 This step details how to set up any Anniversary Edition content that you may have. **[If you do not own Anniversary Edition then you may skip to the next step.](#playing)**
 
