@@ -68,11 +68,9 @@ Navigate to your Skyrim installation on Steam. Right-click on Skyrim and click t
 
 Reinstall Skyrim in a location **outside of the Program Files**. If you have issues reinstalling Skyrim outside of Program Files, try using the [Steam Library Setup Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide){:target="_blank" rel="noopener"}.
 
-Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then close the launcher. **This is only necessary once**.
+Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then launch the game. When you get to the main menu feel free to exit.
 
-**If you have any Creation Club content that you wish to use please launch your game and install all of them at this time.**
-
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/16.%20Creation%20Club%20In-game.png)
+If you have the Anniversary Edition, make sure to let Skyrim download all the additional content at this time.
 
 # Installation
 
@@ -100,57 +98,17 @@ When you’re ready, press the triangular start button.
 
 After starting the installation a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log into and authorize Wabbajack on Nexus and the installation will proceed. Wabbajack will now install the modlist, this will take a while so be patient. When Wabbajack is finished, the left panel should say "Installation Complete".
 
-### Creation Club Content Initialization
+### Anniversary Edition Content Initialization
 
-This step details how to set up any Creation Club content that you may have. **[If you have no Creation Club content installed you may skip to the next step.](#playing)**
+This step details how to set up any Anniversary Edition content that you may have. **[If you do not own Anniversary Edition then you may skip to the next step.](#playing)**
 
 On November 11, 2021 Bethesda released [Fishing](https://en.uesp.net/wiki/Skyrim:Fishing){:target="_blank" rel="noopener"}, [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode){:target="_blank" rel="noopener"}, [Saints and Seducers](https://en.uesp.net/wiki/Skyrim:Saints_%26_Seducers){:target="_blank" rel="noopener"}, and [Rare Cruios](https://en.uesp.net/wiki/Skyrim:Rare_Curios){:target="_blank" rel="noopener"} for free to all owners of Skyrim Special Edition. **At this time Keizaal only supports Survival Mode (disabled by default) and Rare Curios as part of the main download**.
 
-Keizaal has an additional Creation Club addon. This addon includes several mods that improve and better integrate a handful of Creation Club content into Skyrim. The following creations are supported with their respective integration mods:
+Keizaal has additional support for the Anniversary Edition. This addon includes several mods that improve and better integrate a handful of the new content into Skyrim.
 
-- [Adventurer's Backpack](https://en.uesp.net/wiki/Skyrim:Adventurer%27s_Backpack){:target="_blank" rel="noopener"}
-- [Alternative Armors - Daedric Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Daedric_Mail){:target="_blank" rel="noopener"}
-- [Alternative Armors - Dragonscale](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dragonscale){:target="_blank" rel="noopener"}
-- [Alternative Armors - Dwarven Mail](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Dwarven_Mail){:target="_blank" rel="noopener"}
-- [Alternative Armors - Ebony Plate](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Ebony_Plate){:target="_blank" rel="noopener"}
-- [Alternative Armors - Elven Hunter](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Elven_Hunter){:target="_blank" rel="noopener"}
-- [Alternative Armors - Stalhrim Fur](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Stalhrim_Fur){:target="_blank" rel="noopener"}
-- [Alternative Armors - Steel Soldier](https://en.uesp.net/wiki/Skyrim:Alternative_Armors_-_Steel_Soldier){:target="_blank" rel="noopener"} and [Chrysamere](https://en.uesp.net/wiki/Skyrim:Chrysamere){:target="_blank" rel="noopener"}
-- [Bone Wolf](https://en.uesp.net/wiki/Skyrim:Bone_Wolf){:target="_blank" rel="noopener"}
-- [The Cause](https://en.uesp.net/wiki/Skyrim:The_Cause){:target="_blank" rel="noopener"}
-- [Camping](https://en.uesp.net/wiki/Skyrim:Camping){:target="_blank" rel="noopener"}
-- [Civil War Champions](https://en.uesp.net/wiki/Skyrim:Civil_War_Champions){:target="_blank" rel="noopener"}
-- [The Contest](https://en.uesp.net/wiki/Skyrim:The_Contest){:target="_blank" rel="noopener"}
-- [Dead Man's Dread](https://en.uesp.net/wiki/Skyrim:Dead_Man%27s_Dread){:target="_blank" rel="noopener"}
-- [Divine Crusader](https://en.uesp.net/wiki/Skyrim:Divine_Crusader){:target="_blank" rel="noopener"}
-- [Elite Crossbows](https://en.uesp.net/wiki/Skyrim:Elite_Crossbows){:target="_blank" rel="noopener"} and [Expanded Crossbow Pack](https://en.uesp.net/wiki/Skyrim:Expanded_Crossbow_Pack){:target="_blank" rel="noopener"}
-- [Fearsome Fists](https://en.uesp.net/wiki/Skyrim:Fearsome_Fists){:target="_blank" rel="noopener"}
-- [Ghosts of the Tribunal](https://en.uesp.net/wiki/Skyrim:Ghosts_of_the_Tribunal){:target="_blank" rel="noopener"}
-- [Goblins](https://en.uesp.net/wiki/Skyrim:Goblins){:target="_blank" rel="noopener"}
-- [Goldbrand](https://en.uesp.net/wiki/Skyrim:Goldbrand){:target="_blank" rel="noopener"}
-- [Headman's Cleaver](https://en.uesp.net/wiki/Skyrim:Headman%27s_Cleaver){:target="_blank" rel="noopener"}
-- [Horse Armor - Elven](https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Elven){:target="_blank" rel="noopener"}
-- [Horse Armor - Steel](https://en.uesp.net/wiki/Skyrim:Horse_Armor_-_Steel){:target="_blank" rel="noopener"}
-- [Lord's Mail](https://en.uesp.net/wiki/Skyrim:Lord%27s_Mail){:target="_blank" rel="noopener"}
-- [Netch Leather Armor](https://en.uesp.net/wiki/Skyrim:Netch_Leather_Armor){:target="_blank" rel="noopener"}
-- [Nix-Hound](https://en.uesp.net/wiki/Skyrim:Nix-Hound){:target="_blank" rel="noopener"}
-- [Nordic Jewelry](https://en.uesp.net/wiki/Skyrim:Nordic_Jewelry){:target="_blank" rel="noopener"}
-- [Plague of the Dead](https://en.uesp.net/wiki/Skyrim:Plague_of_the_Dead){:target="_blank" rel="noopener"}
-- [Staves](https://en.uesp.net/wiki/Skyrim:Staves_(Creation)){:target="_blank" rel="noopener"}
-- [Vigil Enforcer Pack](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set){:target="_blank" rel="noopener"}
-- [Wild Horses](https://en.uesp.net/wiki/Skyrim:Wild_Horses){:target="_blank" rel="noopener"}
+In order to enable Anniversary Edition support for Keizaal, first navigate to the puzzle pieces at the top of Mod Organzier. Click on it then select "Creation Organizer" from the drop-down menu. This will automatically move all Anniversary Edition content from your Steam installation folder into two mod folders in Mod Organizer. The supported pieces of content will be placed in `Anniversary Edition [NoDelete]` and the mod will be automatically enabled. All unsupported pieces of content will be placed into `Unsupported [NoDelete]` and remain disabled.
 
-In order to enable Creation Club support for Keizaal first make sure that you have installed all of the creations you want to use, then navigate to the puzzle pieces at the top of Mod Organzier. Click on it then select "Creation Organizer" from the drop-down menu. This will automatically move all creations you have installed from your Steam installation folder into individual mods in Mod Orgaznier and activate most supported integration mods.
-
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/CreationOrganizer.png)
-
-While this automates the majority of the process, some creations and mods will need to be manually verified. Check the "Creation Club" and "Creation Club Addon" sections of Mod Organizer and tick any relevant options.
-
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/13.%20Creation%20Club.PNG)
-
-After you have activated all the respective creations and integration mods be sure to sort your load order. Simply press the sort button directly above your right panel to sort all of your plugins!
-
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/11.%20LOOT.png)
+Now the only thing to do is simply navigate to the top of Mod Organizer to where it says "Keizaal - Special Edition", click on it, and select "Keizaal - Anniversary Edition" from the drop-down menu. That's it!
 
 I will try to assist you in enabling the Creation Club addon, however if you make changes to Keizaal outside of these few creations I **WILL NOT** be able to help you. Any personal edits you make to this list must be done independently.
 
