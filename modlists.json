@@ -20,18 +20,18 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.5.0.png",
       "readme": "https://keizaal.github.io/Keizaal/",
-      "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_c8474819-ea7c-462b-8051-021f2c5a3976",
+      "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_c7e18aa5-a0ca-44ed-9fb0-99cc964e974b",
       "machineURL": "keizaal",
       "discordURL": "https://discord.gg/eYZJFP8"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "YHD2KXSKsTs=",
-      "Size": 29927822,
-      "NumberOfArchives": 772,
-      "SizeOfArchives": 81052749032,
-      "NumberOfInstalledFiles": 194608,
-      "SizeOfInstalledFiles": 125479841260
+      "Hash": "nWJrF2L4ajQ=",
+      "Size": 30057144,
+      "NumberOfArchives": 773,
+      "SizeOfArchives": 81052745160,
+      "NumberOfInstalledFiles": 194602,
+      "SizeOfInstalledFiles": 125481465825
     },
     "version": "6.5.0.1",
     "RepositoryName": ""
