@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 ---
-## [6.5.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+#### [6.5.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 - Fixed failed installations due to missing files
 - Fixed cyclical LOOT interactions
 - Fixed mismatched tree LODs
