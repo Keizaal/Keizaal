@@ -126,7 +126,6 @@ title: Changelog
 - Removed [SNOW](https://www.nexusmods.com/skyrim/mods/52986/?tab=files&file_id=1000114122)
 - Removed [Stalhrim Refrozen](https://www.nexusmods.com/skyrimspecialedition/mods/41348/?tab=files&file_id=206676)
 - Removed [Static Mesh improvement Mod - SMIM - Quality Addon](https://www.nexusmods.com/skyrimspecialedition/mods/44388/?tab=files&file_id=179941)
-- Removed [Static Mesh Improvement Mod Improvement Mod](https://www.nexusmods.com/skyrimspecialedition/mods/55543/?tab=files&file_id=273576)
 - Removed [Sufficiently Optimized Snowberries 3D](https://www.nexusmods.com/skyrimspecialedition/mods/42033/?tab=files&file_id=169701)
 - Removed [Water Effects Brightness and Reflection Fix](https://www.nexusmods.com/skyrimspecialedition/mods/63862/?tab=files&file_id=265943)
 - Removed [WEBS S.E.](https://www.nexusmods.com/skyrimspecialedition/mods/4873/?tab=files&file_id=10208)
