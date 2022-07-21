@@ -119,7 +119,6 @@ title: Changelog
 - Removed [Iconic's Saerek And Torsten Skull Key Retexture (4K-2K)](https://www.nexusmods.com/skyrimspecialedition/mods/45329/?tab=files&file_id=184204)
 - Removed [Salmon Roe model replacer 3D](https://www.nexusmods.com/skyrimspecialedition/mods/42074/?tab=files&file_id=169004)
 - Removed [Scallions of Skyrim - High Polygon Leeks](https://www.nexusmods.com/skyrimspecialedition/mods/53205/?tab=files&file_id=219926)
-- Removed [Simple Dual Sheath](https://www.nexusmods.com/skyrimspecialedition/mods/50049/?tab=files&file_id=257742)
 - Removed [Skyrim 3D Blacksmith](https://www.nexusmods.com/skyrimspecialedition/mods/22892/?tab=files&file_id=79666)
 - Removed [Smooth Sky mesh - SSE](https://www.nexusmods.com/skyrimspecialedition/mods/18350/?tab=files&file_id=58972)
 - Removed [SNOW](https://www.nexusmods.com/skyrim/mods/52986/?tab=files&file_id=1000114122)
