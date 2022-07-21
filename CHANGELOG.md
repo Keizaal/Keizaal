@@ -2,6 +2,11 @@
 layout: default
 title: Changelog
 ---
+## [6.5.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+- Fixed failed installations due to missing files
+- Fixed cyclical LOOT interactions
+- Fixed mismatched tree LODs
+
 ## [6.5.0 - The Distribution Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.5.0.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=295247)
