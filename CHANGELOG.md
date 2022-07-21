@@ -43,7 +43,7 @@ title: Changelog
 - Updated [Take a Peek - New Stealth Mechanic](https://www.nexusmods.com/skyrimspecialedition/mods/66908/?tab=files&file_id=286713)
 - Updated [The Halls of Rielle - Beyond Skyrim Bruma and The Cause Combined](https://www.nexusmods.com/skyrimspecialedition/mods/58213/?tab=files&file_id=297782)
 - Updated [Thwack - A Creation Club Integration Mod](https://www.nexusmods.com/skyrimspecialedition/mods/42653/?tab=files&file_id=299303)
-- Updated [Vanilla Script (micro)Optimizations](https://www.nexusmods.com/skyrimspecialedition/mods/54061/?tab=files&file_i
+- Updated [Vanilla Script (micro)Optimizations](https://www.nexusmods.com/skyrimspecialedition/mods/54061/?tab=files&file_id=287938)
 - Updated [Anniversary Edition and Creation Club - Everything Upscaled](https://www.nexusmods.com/skyrimspecialedition/mods/58120/?tab=files&file_id=244629)
 - Removed [Arctic - Frost Effects Redux](https://www.nexusmods.com/skyrimspecialedition/mods/29817/?tab=files&file_id=143265)
 - Removed [Argonian - Khajiit FabULook Eyes SSE](https://www.nexusmods.com/skyrimspecialedition/mods/15136/?tab=files&file_id=45411)
