@@ -18,7 +18,7 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/Keizaal%20Banner.png",
+      "image": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.5.0.png",
       "readme": "https://keizaal.github.io/Keizaal/",
       "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_fb8d4fe2-0c67-4d6c-8011-c845975bd1d4",
       "machineURL": "keizaal",
