@@ -87,7 +87,7 @@ On November 11, 2021 Bethesda released [Fishing](https://en.uesp.net/wiki/Skyrim
 
 Keizaal has additional support for the Anniversary Edition, this includes several mods that improve and better integrate the new content into Skyrim.
 
-In order to enable Anniversary Edition support for Keizaal, first navigate to the puzzle pieces at the top of Mod Organzier. Click on it then select "Creation Organizer" from the drop-down menu. This will automatically move all Anniversary Edition content from your Steam installation folder into two mod folders in Mod Organizer. The supported pieces of content will be placed in `Anniversary Edition [NoDelete]` and the mod will be automatically enabled. All unsupported pieces of content will be placed into `Unsupported [NoDelete]` and remain disabled.
+In order to enable Anniversary Edition support for Keizaal, first navigate to the puzzle pieces at the top of Mod Organzier. Click on it then select "Creation Organizer" from the drop-down menu. This will automatically move all Anniversary Edition content from your Steam installation folder into two mod folders in Mod Organizer. The supported pieces of content will be placed in `[NoDelete] Anniversary Edition` and the mod will be automatically enabled. All unsupported pieces of content will be placed into `[NoDelete] Unsupported` and remain disabled.
 
 Now the only thing to do is simply navigate to the top of Mod Organizer to where it says "Keizaal Special Edition", click on it, and select "Keizaal Anniversary Edition" from the drop-down menu. You're done!
 
