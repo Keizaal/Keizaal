@@ -4,6 +4,7 @@ title: Changelog
 ---
 #### [6.5.0.2 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 - Updated [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372/?tab=files&file_id=302001)
+- Updated [Pirates Wield Cutlasses](https://www.nexusmods.com/skyrimspecialedition/mods/31753/?tab=files&file_id=302012)
 - Added [aMidianBorn wolf armor and skyforge weapons](https://www.nexusmods.com/skyrim/mods/34147/?tab=files&file_id=1000066733)
 - Fixed issues with `[NoDelete]`
 
