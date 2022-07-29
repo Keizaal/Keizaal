@@ -2,6 +2,13 @@
 layout: default
 title: Changelog
 ---
+#### [6.5.0.3 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+- Updated [Harvest Your Blood for Septimus](https://www.nexusmods.com/skyrimspecialedition/mods/69861/?tab=files&file_id=303030)
+- Updated [Lost Races of Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/69467/?tab=files&file_id=303029)
+- Updated [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372/?tab=files&file_id=303028)
+- Removed [DVA Dynamic Vampire Appearance](https://www.nexusmods.com/skyrim/mods/41634/?tab=files&file_id=1000053609)
+- Added [Nature's Bounty - An Immersive Lore-Friendly Resource Gathering Integration Overhaul Redux for Good Guys Mod](https://www.nexusmods.com/skyrimspecialedition/mods/72194/?tab=files&file_id=302491)
+
 #### [6.5.0.2 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 - Updated [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372/?tab=files&file_id=302001)
 - Updated [Pirates Wield Cutlasses](https://www.nexusmods.com/skyrimspecialedition/mods/31753/?tab=files&file_id=302012)
