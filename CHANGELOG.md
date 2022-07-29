@@ -8,6 +8,7 @@ title: Changelog
 - Updated [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372/?tab=files&file_id=303028)
 - Removed [DVA Dynamic Vampire Appearance](https://www.nexusmods.com/skyrim/mods/41634/?tab=files&file_id=1000053609)
 - Added [Nature's Bounty - An Immersive Lore-Friendly Resource Gathering Integration Overhaul Redux for Good Guys Mod](https://www.nexusmods.com/skyrimspecialedition/mods/72194/?tab=files&file_id=302491)
+- Fixed issue where vampires couldn't feed
 
 #### [6.5.0.2 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 - Updated [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372/?tab=files&file_id=302001)
