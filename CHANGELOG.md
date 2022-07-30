@@ -2,6 +2,10 @@
 layout: default
 title: Changelog
 ---
+#### [6.5.0.4 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+- Fixed failed install errors due to missing readme.
+- Fixed LOOT cyclical error
+
 #### [6.5.0.3 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 - Updated [Harvest Your Blood for Septimus](https://www.nexusmods.com/skyrimspecialedition/mods/69861/?tab=files&file_id=303030)
 - Updated [Lost Races of Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/69467/?tab=files&file_id=303029)
