@@ -25,6 +25,10 @@ If Wabbajack fails to download any of the basegame files during the installation
 2. Make sure that the game is set to English in Steam.
 3. Open the game through Steam once to create any registry entries and INI files you don't already have, then immediately exit the launcher.
 
+### "*Tools_HavokBehaviorPostProcess_readme.txt fails to download.*"
+
+Download and install the [Skyrim Special Edition: Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) via Steam.
+
 ### "*ModOrganizer.exe throws and error when trying to launch.*"
 
 Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
