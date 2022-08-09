@@ -9,23 +9,23 @@ Submit a bug report to [Nexus' Bugs tab](https://www.nexusmods.com/skyrimspecial
 
 If you are reporting a crash to desktop, please attach your crash log. If possible, please also attach a copy of your most recent save before the issue occurred.
 
-**Discord Username**
+**Discord Username**\
 Put your Discord username here.
 
-**Keizaal version**
+**Keizaal version**\
 Put the version of the list you are on here.
 
-**Describe the bug**
+**Describe the bug**\
 A clear and concise description of what the bug is.
 
-**To reproduce**
+**To reproduce**\
 Steps to reproduce the behavior:
 
-**Expected behavior**
+**Expected behavior**\
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
+**Screenshots**\
 If applicable, add screenshots to help explain your problem. Additionally, if your report applies to a specific object, make sure it is selected with the console open. Reports without this will be closed.
 
-**Additional context**
+**Additional context**\
 Add any other context about the problem here.
