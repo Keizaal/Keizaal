@@ -3,7 +3,7 @@ layout: default
 title: Bug Reports
 ---
 # Bug Reports
-Do not report bugs with the Wabbajack client, only issues you experience in-game. Consider bringing your issue up in the [Discord server](https://discord.gg/eYZJFP8) before submitting a formal bug report.
+**Do not** report bugs with the Wabbajack client, *only* issues you experience in-game. Consider bringing your issue up in the [Discord server](https://discord.gg/eYZJFP8) before submitting a formal bug report.
 
 Submit a bug report to [Nexus' Bugs tab](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=bugs).
 
