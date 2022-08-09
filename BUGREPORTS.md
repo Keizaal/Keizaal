@@ -5,9 +5,11 @@ title: Bug Reports
 # Bug Reports
 Do not report bugs with the Wabbajack client, only issues you experience in-game. Consider bringing your issue up in the [Discord server](https://discord.gg/eYZJFP8) before submitting a formal bug report.
 
-Submit a bug report to [Nexus' Bugs tab](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=bugs). When submitting a bug report please use the following template:
+Submit a bug report to [Nexus' Bugs tab](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=bugs).
 
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/BugsTab.jpg)
+
+When submitting a bug report please use the following template:
 
 If you are reporting a crash to desktop, please attach your crash log. If possible, please also attach a copy of your most recent save before the issue occurred.
 
