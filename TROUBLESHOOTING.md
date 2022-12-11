@@ -57,10 +57,6 @@ You have likely surpassed the 255 .esp limit. When this happens Mod Organizer wi
 
 Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
 
-### "*The custom intro video is bugging out.*"
-
-If you are having issues with the custom Keizaal intro video, enable the "Restore Vanilla Intro Video" mod in the Optionals section of Mod Organizer.
-
 ### "*UI Elementals are being cut off the screen"*
 
 You probably have an 21:9 monitor, Skyrim's UI is designed only for a 16:9 aspect ratio. To fix this simply enable all the mods under "Ultrawide Fixes" in Mod Organizer.
@@ -85,24 +81,6 @@ If some sounds aren't playing correcting, follow these steps to fix the issue.
 During every update Wabbajack will clean out the mods folder to ensure that everything gets installed properly. However, you can add the prefix `[NoDelete]` to the names of the mods you would like to keep and Wabbajack will be sure to ignore them.
 
 ![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/12.%20No%20Delete.PNG)
-
-Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
-
-### "*.ini and .txt configuration files aren't present in the mod's folder.*"
-
-In order to manually edit the .inis you will first need to find the "Keizaal Settings" mod in the left pane of Mod Organizer. It should be near the bottom. Once you find it, right click on it and select "Information".
-
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/8.%20Keizaal%20Settings.PNG)
-
-Once you have done that a window should pop up. Once that window appears select the ".ini Files" tab at the top.
-
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/9.%20Navigate%20to%20.inis.PNG)
-
-You should now see a list of all the .ini files present in Keizaal. You can edit and save these settings from this interface.
-
-![](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/10.%20Edit%20.inis.PNG)
-
-Some configuration settings may be stored in a non-.ini format. If that is the case you can edit them through the "Text Files" tab.
 
 Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
 
