@@ -23,7 +23,7 @@ title: Installation Guide
 
 # Information
 
-Keizaal takes up roughly 88GB of hard drive space (38GB installation with 50GB of downloads) and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance. You will run into very, very long loading times and stuttering with a standard hard disk drive. 
+Keizaal takes up roughly 56GB of hard drive space (38GB installation with 18GB of downloads) and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid state drive for optimal performance. You will run into very, very long loading times and stuttering with a standard hard disk drive. 
 
 Note that [Anniversary Edition](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/) is **required** in order to install Keizaal.
 
