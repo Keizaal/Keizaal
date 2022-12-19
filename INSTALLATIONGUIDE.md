@@ -48,7 +48,7 @@ Navigate to your Skyrim installation on Steam. Right-click on Skyrim and click t
 
 Reinstall Skyrim in a location **outside of the Program Files**. If you have issues reinstalling Skyrim outside of Program Files, try using the [Steam Library Setup Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide){:target="_blank" rel="noopener"}.
 
-Run the Skyrim: Special Edition launcher through Steam and let it detect your settings, then launch the game. If you have no installed Anniversary Edition content yet, you will be prompted to do so now. After that feel free to close exit to your desktop.
+Run the Skyrim Special Edition launcher through Steam and let it detect your settings, then launch the game. If you have no installed Anniversary Edition content yet, you will be prompted to do so now. After that feel free to close exit to your desktop.
 
 If you have the Anniversary Edition, make sure to let Skyrim download all the additional content at this time.
 
