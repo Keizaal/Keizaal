@@ -83,6 +83,11 @@ These are mods that I made for my own amusement that other people seem to enjoy.
 
 Cities of the North is one of my favorite series of mods. For years I have been annoyed that four of the hold capitals of Skyrim used generic farmhouse architecture, it really ruined the visual identity of these holds and made these places less interesting that the other five cities. Cities of the North aims to replace all of the generic farmhouses in these cities with all-new unique models that do a lot to bring them up to the same level as the major cities. All of the new architecture added by this mod fits Skyrim really well and makes the cities really feel special. The mod doesn't expand on the cities very much, mainly just swaps what is already there, and I really appreciate that. I am not looking to make these places larger than in Vanilla, I just want them to feel like their own place. Cities of the North does that in spades.
 
+### [The Great City of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/17127)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/17127/17127-1662315407-53005712.jpeg)
+
+While Cities of the North has its own Winterhold mod, I find myself prefering Archinatic's Winterhold. It is basically the Winterhold overhaul I've wanted since the game's release: an overhaul that truly embraces the grand city that Winterhold used to be before the Collapse. This mod does a great job at capturing the feel of a once sprawling capital city. I love vibe that this mod gives off and it has easily made Winterhold, formerly one of my least favorites loations, into one of my favorite locations in the entire game.
+
 ### [Rodryk's Dragon Bridge](https://www.nexusmods.com/skyrimspecialedition/mods/42510)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/42510/105496-1605365016-424780972.png)
 
