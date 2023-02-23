@@ -38,6 +38,16 @@ Vanilla Skyrim combat is pretty easy without much counterplay. Some people try t
 
 Mysticism is an overhaul of Skyrim's magic. It make changes to existing Vanilla spells as well as expanding to include some new and exciting spells. The mod does a good job of integrating everything into the game in such a manner that it feels like a natural extension. None of the spells stick out much and it gives you a better progression from Novice to Master. You actually *feel* like a Master when you get to that level and it opens up a lot of fun and powerful spells you can use that level. In Vanilla Master spells were rather underwhelming, in Mysticism they feel great. Additionally, Mysticism is integrated into Adamant, new spell types are given perks which helps to make the two mods feels nicely integrated and connected to the base game.
 
+### [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/72772/72772-1662761619-1874272167.png)
+
+The Creation Club was an interesting experiment by Bethesda to continue supporting Skyrim while being able to work with popular mod authors. The program had a lot of great assets to come out of it that feel right at home in Skyrim. Unfortunately, these bits of new content suffered in the integration department. Creation Club didn't have the budget to add new voice acting to their content and oftentimes you'd feel unfulfilled upon obtaining your shiny new toys. Skyrim Extended Cut - Saints and Seducers is a project I helped work on to overhaul my personal favorite piece of Creation Club content and give it the quest it always deserved. I am really proud of what this mod accomplishes and I am happy that I am finally able to use this content in a context that I am happy with.
+
+### [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/52647/52647-1626831103-711655998.png)
+
+On a Crimson Trail is made in the same vein as Skyrim Extended Cut - Saints and Seducers, albeit on a smaller scale. While the mod doesn't include custom voice acting it does do a fantastic job at tying the Alternate Armor Creations together in a senisible manner. It actually feels like there is a point to all the quests you to to obtain these sets, and the series of escalting boss battles is really fun to play through. As an added bonus, generic versions of the Alternate Armors are distributed into Skyrim's leveled lists!
+
 ### [Dark Brotherhood Rising Revengeance](https://www.nexusmods.com/skyrimspecialedition/mods/57157)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/57157/57157-1635033224-1126171269.png)
 
@@ -97,6 +107,11 @@ Beyond Skyrim is one the most anticipated mod projects currently in development.
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/56123/56123-1633296446-147092038.png)
 
 Wyrmstooth and Bruma are some fun new lands to explore, but both share a common issue: a lack of new unique map marker icons. In Skyrim several locations get unique map markers, most noticably hold capitals: each get a unique shield to distinguish them as important. In base Wyrmstooth and Bruma there are no new icons to make important places stands out. Bruma just uses a generic City marker and Stonehollow uses a generic Town marker. CoMAP seeks to not only remedy this issue but also to expand the amount of map marker icons substantially. Not only to places like Bruma and Stonehollow get unique markers, but new types are markers exist to indicate different types of dungeons. Forsworn dungeons get a unique skull icon, warlock dungeons get a unique eye icon, and elven dungeons get a unique ruined arch icon. Other miscellaneous icons have been added to better demonstrate what each location is. Sky Haven Temple gets a new Akaviri icon, freestanding taverns like Nightgate Inn gets a new icon, and various factions like the East Empire Company and Thalmor have icons to indicate areas where they exert their influence. I could go on, but you get the idea. CoMap expands map marker icons in a big way and really helps fill out the map more in an interesting way.
+
+### [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/71372/71372-1658019596-1056314726.png)
+
+Tamrielic Distribution is a mod designed for Keizaal. It is basically an all-encompassing integration mod that seeks to mesh various different pieces of offical and modded content together to give a better sense of a single cohesive world. A lot of my early mods were various smaller-scale and focused versions of this goal, but Tamrielic Distribution combines them all in a single package and offers support to ensure they all work together nicely. This mod is designed around his modlist and it is the glue that holds the various different worldspaces and weapon packs together and makes sure that all this new content feels natural next to one another.
 
 ---
 
