@@ -2,6 +2,9 @@
 layout: default
 title: Changelog
 ---
+## [7.0.0 - The Distribution Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+- Everything.
+
 #### [6.5.0.4 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 - Added [Simple Children Wyrmstooth Update Patch](https://www.nexusmods.com/skyrimspecialedition/mods/72404/?tab=files&file_id=303477)
 - Fixed failed install errors due to missing readme.
