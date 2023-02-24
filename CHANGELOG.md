@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 ---
-## [7.0.0 - The Distribution Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+## [7.0.0 - The Saints & Seducers Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.0.0.png)
 - Everything.
 
