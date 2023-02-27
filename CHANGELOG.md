@@ -4,7 +4,7 @@ title: Changelog
 ---
 ## [7.0.0 - The Saints & Seducers Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.0.0.png)
-- Everything.
+- [Everything](http://www.wabbajack.org/search/Keizaal/keizaal).
 
 #### [6.5.0.4 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 - Added [Simple Children Wyrmstooth Update Patch](https://www.nexusmods.com/skyrimspecialedition/mods/72404/?tab=files&file_id=303477)
