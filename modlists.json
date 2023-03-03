@@ -1,8 +1,7 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "Keizaal",
-    "description": "Keizaal is a simple modlist that focuses on improving what is already presented to us in vanilla Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011.",
+    "description": "Keizaal is a simple modlist that focuses on improving what is already presented to us in vanilla Skyrim without compromising Bethesda\u2019s original vision that we all fell in love with back in 2011.",
     "author": "Tate Taylor",
     "maintainers": [
       "github/TateTaylorOH"
@@ -17,23 +16,23 @@
     "image_contains_title": true,
     "force_down": true,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.5.0.png",
       "readme": "https://keizaal.github.io/Keizaal/",
-      "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_9fc4d6b2-b51a-4f17-b0bf-07c8ed5aa1e0",
+      "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_8a47fa00-37e3-42a1-b91c-a96721d76e8f",
       "machineURL": "keizaal",
       "discordURL": "https://discord.gg/eYZJFP8"
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "Ap8DDoTMThg=",
-      "Size": 30113452,
-      "NumberOfArchives": 775,
-      "SizeOfArchives": 81077291421,
-      "NumberOfInstalledFiles": 194637,
-      "SizeOfInstalledFiles": 125349726483
+      "Hash": "QMUQ/hg+3T4=",
+      "Size": 24830316,
+      "NumberOfArchives": 558,
+      "SizeOfArchives": 31381619073,
+      "NumberOfInstalledFiles": 227956,
+      "SizeOfInstalledFiles": 66553008412
     },
-    "version": "6.5.0.4",
-    "RepositoryName": ""
+    "version": "7.0.0",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2023-03-03T05:17:06.1322019Z",
+    "repositoryName": ""
   }
 ]
