@@ -14,7 +14,7 @@
     "nsfw": false,
     "utility_list": false,
     "image_contains_title": true,
-    "force_down": true,
+    "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.0.0.png",
       "readme": "https://keizaal.github.io/Keizaal/",
