@@ -18,21 +18,21 @@
     "links": {
       "image": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.0.0.png",
       "readme": "https://keizaal.github.io/Keizaal/",
-      "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_1954e5d3-a1a8-41f0-9a34-888249906653",
+      "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_5ff3f22d-1591-445b-a69f-346ee865bf77",
       "machineURL": "keizaal",
       "discordURL": "https://discord.gg/eYZJFP8"
     },
     "download_metadata": {
-      "Hash": "14InOKR/z9Q=",
-      "Size": 18601577,
+      "Hash": "vnG38Y4Tz5U=",
+      "Size": 18601794,
       "NumberOfArchives": 566,
       "SizeOfArchives": 31120297263,
       "NumberOfInstalledFiles": 227726,
-      "SizeOfInstalledFiles": 66067739272
+      "SizeOfInstalledFiles": 66067739252
     },
     "version": "7.0.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-03-04T14:20:07.5570593Z",
+    "dateUpdated": "2023-03-04T18:49:06.2077329Z",
     "repositoryName": ""
   }
 ]
