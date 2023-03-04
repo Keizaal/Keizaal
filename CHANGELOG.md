@@ -2,6 +2,13 @@
 layout: default
 title: Changelog
 ---
+#### [7.0.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+- Added [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE](https://www.nexusmods.com/skyrimspecialedition/mods/1778?tab=files&file_id=35568)
+- Added [Ultra Widescreen Patch for Forget Spell (Temporary Upload)](https://www.nexusmods.com/skyrimspecialedition/mods/54854?tab=files&file_id=225118)
+- Fixed issue downloading certain archives.
+- Fixed moreHUD widget text getting cut off.
+- Fixed missing Staada dialogue.
+
 ## [7.0.0 - The Saints & Seducers Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.0.0.png)
 - [Everything](http://www.wabbajack.org/search/Keizaal/keizaal).
