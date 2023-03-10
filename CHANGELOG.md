@@ -2,6 +2,12 @@
 layout: default
 title: Changelog
 ---
+#### [7.0.0.2 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+- Added [The Great City of Winterhold Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74560?tab=files&file_id=366518) (a few mod conflicts were causing issues)
+- Added [Lost Races of Atherius](https://www.nexusmods.com/skyrimspecialedition/mods/69467?tab=files&file_id=367009)
+- Added [Watcher's Gear - From The Elder Scrolls Blades](https://www.nexusmods.com/skyrimspecialedition/mods/81536?tab=files&file_id=344299)
+- Adjusted minor things with Shirley.
+
 #### [7.0.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 - Added [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE](https://www.nexusmods.com/skyrimspecialedition/mods/1778?tab=files&file_id=35568)
 - Added [Ultra Widescreen Patch for Forget Spell (Temporary Upload)](https://www.nexusmods.com/skyrimspecialedition/mods/54854?tab=files&file_id=225118)
