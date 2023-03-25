@@ -3,14 +3,17 @@ layout: default
 title: Changelog
 ---
 #### [7.0.0.3 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+- Added [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492?tab=files&file_id=366951)
 - Added [Believable Elven Steel Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/87556?tab=files&file_id=371010)
 - Added [Better Jumping SE](https://www.nexusmods.com/skyrimspecialedition/mods/18967?tab=files&file_id=317398)
 - Added [Book Unity and Revamp Project](https://www.nexusmods.com/skyrimspecialedition/mods/50109?tab=files&file_id=207099)
+- Added [Grass Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/86502?tab=files&file_id=366908)
 - Added [Player Rotation in ShowRaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/36095?tab=files&file_id=140440)
 - Added [Practical Female Ebony Plate Armor](https://www.nexusmods.com/skyrimspecialedition/mods/86938?tab=files&file_id=368928)
 - Added [Practical Female Elven Hunter Armor](https://www.nexusmods.com/skyrimspecialedition/mods/87508?tab=files&file_id=370661)
 - Added [Practical Female Iron Armor](https://www.nexusmods.com/skyrimspecialedition/mods/87674?tab=files&file_id=371612)
 - Added [Practical Female Vigil Enforcer Armor](https://www.nexusmods.com/skyrimspecialedition/mods/87553?tab=files&file_id=370988)
+- Added [Tree LOD Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/86617?tab=files&file_id=366887)
 - Updated [Ammo Enchanting - Craft Magical Arrows and Bolts](https://www.nexusmods.com/skyrimspecialedition/mods/79764?tab=files&file_id=365762)
 - Updated [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756?tab=files&file_id=371809)
 - Updated [Cathedral 3D Mountain Flowers - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60756?tab=files&file_id=366326)
@@ -22,6 +25,7 @@ title: Changelog
 - Updated [Lunar Guard Armor](https://www.nexusmods.com/skyrimspecialedition/mods/75349?tab=files&file_id=365342)
 - Updated [Simple Dual Sheath](https://www.nexusmods.com/skyrimspecialedition/mods/50049?tab=files&file_id=366482)
 - Updated [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772?tab=files&file_id=369854)
+- Updated [unnamed landscape tweaks mod](https://www.nexusmods.com/skyrimspecialedition/mods/81041?tab=files&file_id=369010)
 - Updated [YASTM - Yet Another Soul Trap Manager](https://www.nexusmods.com/skyrimspecialedition/mods/56144?tab=files&file_id=367328)
 - Removed [Skyrim Wayshrines - Immersive Fast Travel - SWIFT SE](https://www.nexusmods.com/skyrimspecialedition/mods/17905?tab=files&file_id=241879)
 
