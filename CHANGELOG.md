@@ -2,6 +2,21 @@
 layout: default
 title: Changelog
 ---
+#### [7.0.0.4 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+- Added [Falmer Blood Elixir Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/8949)
+- Added [Grass Collision](https://www.nexusmods.com/skyrimspecialedition/mods/87816)
+- Added [Loki's Wade In Water](https://www.nexusmods.com/skyrimspecialedition/mods/42854?tab=files&file_id=172065)
+- Added [Practical Female Civil War Champions Armor](https://www.nexusmods.com/skyrimspecialedition/mods/88341?tab=files&file_id=374420)
+- Added [Practical Female Divine Crusader Armor](https://www.nexusmods.com/skyrimspecialedition/mods/88081?tab=files&file_id=373254)
+- Added [Sensible Sleepwalking - Wake up at nearest All-Maker Stone](https://www.nexusmods.com/skyrimspecialedition/mods/64680?tab=files&file_id=268853)
+- Added [Soaking Wet - Character Wetness Effect](https://www.nexusmods.com/skyrimspecialedition/mods/68025?tab=files&file_id=321587)
+- Added [Unique Stros M'Kai Rum](https://www.nexusmods.com/skyrimspecialedition/mods/43830?tab=files&file_id=177052)
+- Added [Wade In Water Redone](https://www.nexusmods.com/skyrimspecialedition/mods/71418?tab=files&file_id=326602)
+- Updated [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492?tab=files&file_id=372593)
+- Updated [Enhanced Worldspace Maps](https://www.nexusmods.com/skyrimspecialedition/mods/57176?tab=files&file_id=371884)
+- Updated [Seasons of Skyrim SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/62861?tab=files&file_id=372072)
+- Updated [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372?tab=files&file_id=372568)
+
 #### [7.0.0.3 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 - Added [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492?tab=files&file_id=366951)
 - Added [Believable Elven Steel Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/87556?tab=files&file_id=371010)
