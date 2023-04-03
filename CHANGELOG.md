@@ -14,6 +14,7 @@ title: Changelog
 - Added [Wade In Water Redone](https://www.nexusmods.com/skyrimspecialedition/mods/71418?tab=files&file_id=326602)
 - Updated [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492?tab=files&file_id=372593)
 - Updated [Enhanced Worldspace Maps](https://www.nexusmods.com/skyrimspecialedition/mods/57176?tab=files&file_id=371884)
+- Updated [Grass Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/86502?tab=files&file_id=372118)
 - Updated [Seasons of Skyrim SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/62861?tab=files&file_id=372072)
 - Updated [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372?tab=files&file_id=372568)
 
