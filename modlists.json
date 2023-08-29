@@ -16,7 +16,7 @@
     "image_contains_title": true,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.0.0.png",
+      "image": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0.png",
       "readme": "https://keizaal.github.io/Keizaal/",
       "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_35a0a22c-8059-4b4d-974f-dbf0d5603d18",
       "machineURL": "keizaal",
