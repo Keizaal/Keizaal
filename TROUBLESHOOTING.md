@@ -68,6 +68,10 @@ If some sounds aren't playing correcting, follow these steps to fix the issue.
 4. Go back to where you copied Skyrim - Sounds.bsa on your main drive. Right click on it and you should see an option that says "Pink Link Source". Click that.
 5. Go back to your Skyrim/Data folder. Right click anywhere and choose "Drop As" and then "Symbolic Link". You will see your sounds file with a shortcut symbol. You know it works when you see a little symbol next to the linked files.
 
+### "*When selecting "Continue" on Keizaal warning pop-ups my game freezes.*"
+
+Try going into the Keizaal Maintenance mod in Mod Organizer 2 and finding the "ModlistChecker.ini". There should be an option in it marked "EnableChecks" change the value to false.
+
 ### "*When updating Keizaal, Wabbajack deletes mods added on top of the list.*"
 
 During every update Wabbajack will clean out the mods folder to ensure that everything gets installed properly. However, you can add the prefix `[NoDelete]` to the names of the mods you would like to keep and Wabbajack will be sure to ignore them.
