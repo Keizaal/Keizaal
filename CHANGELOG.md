@@ -2,6 +2,10 @@
 layout: default
 title: Changelog
 ---
+## [7.1.0a - The This is Fine Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0a.png)
+- Brought Keizaal back online following Skyrim patch 1.6.1130.
+
 ## [7.1.0 - The Starfield Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0.png)
 (This changelog might not be completely accurate because I wasn't aware that Wabbajack generative changelogs had been discontinued and ongoing changes weren't consistently documented.)
