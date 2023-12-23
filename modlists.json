@@ -17,7 +17,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0.png",
+      "image": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0a.png",
       "readme": "https://keizaal.github.io/Keizaal/",
       "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_070b792a-b98f-4e32-9cd2-6d936129ad2a",
       "machineURL": "keizaal",
