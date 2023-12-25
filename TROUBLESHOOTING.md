@@ -70,7 +70,7 @@ If some sounds aren't playing correcting, follow these steps to fix the issue.
 
 ### "*When selecting "Continue" on Keizaal warning pop-ups my game freezes.*"
 
-Go into the Keizaal Maintenance mod in Mod Organizer 2 and find the "ModlistChecker.ini". There should be an option in it marked "EnableChecks" change the value to false.
+Go into the Keizaal Maintenance mod in Mod Organizer 2 and find the "ModlistUpdateChecker.ini". There should be an option in it marked "EnableChecks" change the value to false.
 
 ### "*When updating Keizaal, Wabbajack deletes mods added on top of the list.*"
 
