@@ -23,21 +23,6 @@ Speaking of the world, one of the things that I enjoy most about Skyrim is explo
 
 There are a lot of mods that make Keizaal what it is and every mod has a place to contribute towards that goal, but I consider the following to be "cornerstone mods" that will give you a good idea of what the list will be like.
 
-### [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191)
-![](https://staticdelivery.nexusmods.com/mods/1704/images/30191/30191-1572896988-939425731.png)
-
-Adamant is Keizaal's perk overhaul and it aims to expand the perk trees and over some fun new playstyles without growing too bloated and straying away from the feel of the Vanilla system. Every tree has been given a proper facelift and a lot of the new perks push you to try new and interesting things. Whether it be a shout-based or puglist character, Adamant has tons of new builds for you to try!
-
-### [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549)
-![](https://staticdelivery.nexusmods.com/mods/1704/images/34549/34549-1586478221-885699905.png)
-
-Vanilla Skyrim combat is pretty easy without much counterplay. Some people try to fix this by turning Skyrim into Dark Souls, I believe this goal is fundamentally flawed. Blade and Blunt seeks to take what is already there and Vanilla and rework it in such a way that it is still Skyrim, but with more interesting and engaging gameplay. Foremost in this goal is to make Stamina more important. Low stamina in Vanilla is usually just mildly annoying, in Blade and Blunt it could be deadly. Resource management is the name of the game in this mod and delicately balancing your Health, Magicka, and Stamina leads to some very interesting combat encounters that you just would not have in Vanilla.
-
-### [Mysticism - A Magic Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/27839)
-![](https://staticdelivery.nexusmods.com/mods/1704/images/27839/27839-1564552769-1829074082.png)
-
-Mysticism is an overhaul of Skyrim's magic. It make changes to existing Vanilla spells as well as expanding to include some new and exciting spells. The mod does a good job of integrating everything into the game in such a manner that it feels like a natural extension. None of the spells stick out much and it gives you a better progression from Novice to Master. You actually *feel* like a Master when you get to that level and it opens up a lot of fun and powerful spells you can use that level. In Vanilla Master spells were rather underwhelming, in Mysticism they feel great. Additionally, Mysticism is integrated into Adamant, new spell types are given perks which helps to make the two mods feels nicely integrated and connected to the base game.
-
 ### [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/72772/72772-1662761619-1874272167.png)
 
