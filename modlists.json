@@ -17,23 +17,23 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0a.png",
+      "image": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0b.png",
       "readme": "https://keizaal.github.io/Keizaal/",
-      "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_2902bb2a-7832-45f7-8e01-443aed07fba6",
+      "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_cce753ce-ec0e-467b-b31d-1e316117d490",
       "machineURL": "keizaal",
       "discordURL": "https://discord.gg/eYZJFP8"
     },
     "download_metadata": {
-      "Hash": "xHmCPXr3ZEQ=",
-      "Size": 173162120,
-      "NumberOfArchives": 857,
-      "SizeOfArchives": 50841251767,
-      "NumberOfInstalledFiles": 278769,
-      "SizeOfInstalledFiles": 103016461121
+      "Hash":"U/SS4doULR8=",
+      "Size":209844916,
+      "NumberOfArchives": 878,
+      "SizeOfArchives": 54297112048,
+      "NumberOfInstalledFiles": 293033,
+      "SizeOfInstalledFiles": 103056565648
     },
-    "version": "7.1.0",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2023-12-23T23:12:04.7781487Z",
+    "version": "7.1.0b",
+    "dateCreated": "2020-02-16T00:00:00Z",
+    "dateUpdated": "2024-01-18T00:00:00Z",
     "repositoryName": ""
   }
 ]
