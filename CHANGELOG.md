@@ -3,7 +3,7 @@ layout: default
 title: Changelog
 ---
 ## [7.1.0b - The This is Fine Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0a.png)
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0b.png)
 - Brought Keizaal back online following Skyrim patch 1.6.1170.
 
 ## [7.1.0a - The Everything is Fine Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
