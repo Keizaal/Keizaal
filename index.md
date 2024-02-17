@@ -43,11 +43,6 @@ Skyrim generally gives you a good amount of choice in morally questionable quest
 
 Another quest that sorely needed a "good" path was House of Horrors. This quest is one of the worst offenders in this category because it tricks the Player into thinking they are starting a quest suited for good guys and then they are quickly blindsided into a Daedric quest where there is no alternative to being a bad guy beyond letting the quest sit in your journal forever incomplete. House of Horrors - Quest Expansion adds a new route to take that will allow you to spite the evil prince and will unlock use of a brand new follower. The same author also made [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683), also featured in Keizaal, which seeks to achieve the same thing but for Peryite's Daedric quest.
 
-### [Headhunter - Bounties Redone](https://www.nexusmods.com/skyrimspecialedition/mods/51847)
-![](https://staticdelivery.nexusmods.com/mods/1704/images/51847/108240-1624891883-844138837.jpeg)
-
-While I don't think there is anything inherently wrong with the Vanilla bounty system, I cannot deny that Headhunter does improve it. You will now need to provide proof when you go to a bandit camp and clear it out; no longer will the jarl believe you just because you said so. Proof can be provided in two ways: either by arresting the chief of the camp alive, or bringing their head back in a bag. There isn't much more to it than that, but this mod does expand roleplay opportunities which is always a good thing.
-
 ### [Lawbringer](https://www.nexusmods.com/skyrimspecialedition/mods/29882)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/29882/29882-1571724157-1690149741.png)
 
