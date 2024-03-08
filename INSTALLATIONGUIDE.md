@@ -52,8 +52,6 @@ Reinstall Skyrim in a location **outside of the Program Files**. If you have iss
 
 Run the Skyrim Special Edition launcher through Steam and let it detect your settings, then launch the game. If you have not installed Anniversary Edition content yet, you will be prompted to do so now. After that, feel free to close and exit to your desktop.
 
-If you have the Anniversary Edition, make sure to let Skyrim download all the additional content at this time.
-
 # Installation
 
 Next, both Wabbajack and Keizaal will need to be downloaded and installed.
