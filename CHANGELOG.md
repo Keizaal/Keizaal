@@ -83,6 +83,7 @@ title: Changelog
 - Added Jelidity's Craftable Bear Traps
 - Added Jelidity's Rise of Wyrmstooth
 - Added [Jiub - Morrowind Appearance](https://www.nexusmods.com/skyrimspecialedition/mods/18651)
+- Added [Khajiit Has Tents](https://www.nexusmods.com/skyrimspecialedition/mods/119847)
 - Added [Lawbringer - Register and Claiming Fix](https://www.nexusmods.com/skyrimspecialedition/mods/64032)
 - Added [Local Map Upgrade](https://www.nexusmods.com/skyrimspecialedition/mods/129756)
 - Added [Lord's Mail - Ebony Styled Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/59105)
