@@ -4,8 +4,6 @@ title: Home
 ---
 # Preamble
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IVbp1xYIjWs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. The following are the core pillars of this list:
 
 1. **This modlist intends to maintain the Vanilla feel.** I want everything to feel like it belongs in the base game. No new complicated systems or anything that requires a manual to understand. This is a simple modlist; you can experience the content as if it was always there.
