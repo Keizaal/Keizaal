@@ -133,7 +133,6 @@ Keizaal uses semantic versioning to quickly determine the size of an update and 
 - <ins>**1**</ins>.0.0 = A large update that is **NOT** savegame compatible and fundamentally changes the list.
 - 1.<ins>**1**</ins>.0 = An update that is **NOT** savegame compatible.
 - 1.1.<ins>**1**</ins> = An update that **IS** savegame compatible.
-- 1.1.1.<ins>**1**</ins> = A small hotfix that **IS** savegame compatible.
 
 In layman's terms, if the first two version numbers have not changed, it is savegame compatible.
 
