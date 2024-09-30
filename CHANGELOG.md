@@ -108,7 +108,7 @@ title: Changelog
 - Added [Sharpen Other Swords](https://www.nexusmods.com/skyrimspecialedition/mods/75237)
 - Added [Siege at Icemoth](https://www.nexusmods.com/skyrimspecialedition/mods/109541)
 - Added [Simple Offence Suppression](https://www.nexusmods.com/skyrimspecialedition/mods/41764)
-- Added [Skaal Village Overhaul - Skaal Greathall Variant](https://www.nexusmods.com/skyrimspecialedition/mods/108676)
+- Added [Skaal Greathall Variant for Skaal Village Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/108676)
 - Added [Skaal Village Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/53733)
 - Added [Sky Reflection Fix](https://www.nexusmods.com/skyrimspecialedition/mods/110604)
 - Added [Skyrim Cut Content Restoration](https://www.nexusmods.com/skyrimspecialedition/mods/90744)
