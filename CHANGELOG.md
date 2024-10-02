@@ -563,8 +563,8 @@ title: Changelog
 - Added [Sufficiently Optimized Snowberries 3D](https://www.nexusmods.com/skyrimspecialedition/mods/42033/?tab=files&file_id=169701)
 - Added [Lively Children Animations (DAR)](https://www.nexusmods.com/skyrimspecialedition/mods/67557/?tab=files&file_id=281552)
 - Added [Cathedral - 3D Thistle](https://www.nexusmods.com/skyrimspecialedition/mods/67619/?tab=files&file_id=281823)
-- Fixed purple snowberry bushes.
-- Fixed purple skeevers.
+- Fixed purple snowberry bushes
+- Fixed purple skeevers
 
 ### [6.4.1 - The Tribunal Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.1/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.1.png)
@@ -591,7 +591,7 @@ title: Changelog
 - Remove [No More Creation Club News SPECIAL EDITION](https://www.nexusmods.com/skyrimspecialedition/mods/12679/?tab=files&file_id=35504)
 - Removed [Sovngarde - A Nordic Font](https://www.nexusmods.com/skyrimspecialedition/mods/386?tab=files&file_id=115926)
 - Added [QUI (Alpha)](https://www.nexusmods.com/skyrimspecialedition/mods/65343/?tab=files&file_id=272106)
-- Fixed various minor bugs present on release.
+- Fixed various minor bugs present on release
 
 ## [6.4.0 - The Engine Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.0/Keizaal.wabbajack)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.0.png)
