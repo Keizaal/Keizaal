@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 ---
-## [8.0.0 - The Trade Winds Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+## [8.0.0 - The Trade Winds Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=548221)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/8.0.0.png)
 - Rebuilt the default profile to focus on vanilla and moved SimonRim mods to an optional secondary profile
 - Removed [Ancient Nord Armo(u)ry Lite](https://www.nexusmods.com/skyrimspecialedition/mods/65124)
@@ -130,15 +130,15 @@ title: Changelog
 - Added [Wetness Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112739)
 - Updated all existing mods
 
-## [7.1.0b - The This is Fine Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+## [7.1.0b - The This is Fine Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=462710)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0b.png)
 - Brought Keizaal back online following Skyrim patch 1.6.1170.
 
-## [7.1.0a - The Everything is Fine Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+## [7.1.0a - The Everything is Fine Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=454608)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0a.png)
 - Brought Keizaal back online following Skyrim patch 1.6.1130.
 
-## [7.1.0 - The Starfield Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+## [7.1.0 - The Starfield Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=422367)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0.png)
 (This changelog might not be completely accurate because I wasn't aware that Wabbajack generative changelogs had been discontinued and ongoing changes weren't consistently documented.)
 - Added [Atronach Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/52255)
@@ -171,7 +171,7 @@ title: Changelog
 - Added [Waterbreathing Breathless Emerge](https://www.nexusmods.com/skyrimspecialedition/mods/14485)
 - Updated all existing mods
 
-#### [7.0.0.4 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+#### [7.0.0.4 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=374462)
 - Added [Falmer Blood Elixir Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/8949)
 - Added [Grass Collision](https://www.nexusmods.com/skyrimspecialedition/mods/87816)
 - Added [Loki's Wade In Water](https://www.nexusmods.com/skyrimspecialedition/mods/42854?tab=files&file_id=172065)
@@ -187,7 +187,7 @@ title: Changelog
 - Updated [Seasons of Skyrim SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/62861?tab=files&file_id=372072)
 - Updated [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372?tab=files&file_id=372568)
 
-#### [7.0.0.3 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+#### [7.0.0.3 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=371910)
 - Added [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492?tab=files&file_id=366951)
 - Added [Believable Elven Steel Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/87556?tab=files&file_id=371010)
 - Added [Better Jumping SE](https://www.nexusmods.com/skyrimspecialedition/mods/18967?tab=files&file_id=317398)
@@ -214,29 +214,29 @@ title: Changelog
 - Updated [YASTM - Yet Another Soul Trap Manager](https://www.nexusmods.com/skyrimspecialedition/mods/56144?tab=files&file_id=367328)
 - Removed [Skyrim Wayshrines - Immersive Fast Travel - SWIFT SE](https://www.nexusmods.com/skyrimspecialedition/mods/17905?tab=files&file_id=241879)
 
-#### [7.0.0.2 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+#### [7.0.0.2 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=367020)
 - Added [The Great City of Winterhold Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74560?tab=files&file_id=366518) (a few mod conflicts were causing issues)
 - Added [Lost Races of Atherius](https://www.nexusmods.com/skyrimspecialedition/mods/69467?tab=files&file_id=367009)
 - Added [Watcher's Gear - From The Elder Scrolls Blades](https://www.nexusmods.com/skyrimspecialedition/mods/81536?tab=files&file_id=344299)
 - Adjusted minor things with Shirley.
 
-#### [7.0.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+#### [7.0.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=365480)
 - Added [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE](https://www.nexusmods.com/skyrimspecialedition/mods/1778?tab=files&file_id=35568)
 - Added [Ultra Widescreen Patch for Forget Spell (Temporary Upload)](https://www.nexusmods.com/skyrimspecialedition/mods/54854?tab=files&file_id=225118)
 - Fixed issue downloading certain archives.
 - Fixed moreHUD widget text getting cut off.
 - Fixed missing Staada dialogue.
 
-## [7.0.0 - The Saints & Seducers Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+## [7.0.0 - The Saints & Seducers Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=365126)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.0.0.png)
 - [Everything](http://www.wabbajack.org/search/Keizaal/keizaal).
 
-#### [6.5.0.4 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+#### [6.5.0.4 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=303502)
 - Added [Simple Children Wyrmstooth Update Patch](https://www.nexusmods.com/skyrimspecialedition/mods/72404/?tab=files&file_id=303477)
 - Fixed failed install errors due to missing readme.
 - Fixed LOOT cyclical error.
 
-#### [6.5.0.3 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+#### [6.5.0.3 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=303243)
 - Updated [Harvest Your Blood for Septimus](https://www.nexusmods.com/skyrimspecialedition/mods/69861/?tab=files&file_id=303030)
 - Updated [Lost Races of Aetherius](https://www.nexusmods.com/skyrimspecialedition/mods/69467/?tab=files&file_id=303029)
 - Updated [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372/?tab=files&file_id=303028)
@@ -244,18 +244,18 @@ title: Changelog
 - Added [Nature's Bounty - An Immersive Lore-Friendly Resource Gathering Integration Overhaul Redux for Good Guys Mod](https://www.nexusmods.com/skyrimspecialedition/mods/72194/?tab=files&file_id=302491)
 - Fixed issue where vampires couldn't feed
 
-#### [6.5.0.2 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+#### [6.5.0.2 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=302517)
 - Updated [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372/?tab=files&file_id=302001)
 - Updated [Pirates Wield Cutlasses](https://www.nexusmods.com/skyrimspecialedition/mods/31753/?tab=files&file_id=302012)
 - Added [aMidianBorn wolf armor and skyforge weapons](https://www.nexusmods.com/skyrim/mods/34147/?tab=files&file_id=1000066733)
 - Fixed issues with `[NoDelete]`
 
-#### [6.5.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+#### [6.5.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=300946)
 - Fixed failed installations due to missing files
 - Fixed cyclical LOOT interactions
 - Fixed mismatched tree LODs
 
-## [6.5.0 - The Distribution Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+## [6.5.0 - The Distribution Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=300783)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.5.0.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=295247)
 - Updated [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686/?tab=files&file_id=289851)
@@ -513,7 +513,7 @@ title: Changelog
 - Added [Lord's Mail - Ebony Styled Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/59105/?tab=files&file_id=288879)
 - Added [Flute Animation Fix](https://www.nexusmods.com/skyrimspecialedition/mods/69609/?tab=files&file_id=291228)
 
-### [6.4.3 - The Transition Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997)
+### [6.4.3 - The Transition Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=288445)
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.3.png)
 - Updated [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756/?tab=files&file_id=288136)
 - Updated [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312/?tab=files&file_id=285632)
