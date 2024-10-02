@@ -53,7 +53,7 @@ If you still think a file is a virus, you can upload it to virustotal and get it
 
 You have likely surpassed the 255 .esp limit. When this happens Mod Organizer will automatically disable plugins to ensure that the game can launch.
 
-Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
+Please note that offical support for modified installations of Keizaal **WILL NOT** be provided.
 
 ### "*UI Elementals are being cut off the screen"*
 
@@ -81,10 +81,14 @@ During every update, Wabbajack will clean out the mods folder to ensure that eve
 
 ![No Delete Image](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/12.%20No%20Delete.PNG)
 
-Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
+Please note that offical support for modified installations of Keizaal **WILL NOT** be provided.
 
 ---
 
-Contact me (Tate Taylor) on [my community Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} for individual help and guidance. Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
+If you run into any issues installing Keizaal, please refer to the [Troubleshooting Guide](https://keizaal.github.io/Keizaal/TROUBLESHOOTING.html){:target="_blank" rel="noopener"}. It covers all of the common errors that may occur and will walk you through how to fix them.
 
-Support for manual installations is **NOT OFFERED**. There are simply too many variables that go on during manual installations, and attempting to troubleshoot each user individually is simply not realistic; it would likely be a waste of everyone’s time.
+Join [Tate Taylor's community Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} for individual help and guidance.
+
+Offical support for modified verions of Keizaal **WILL NOT** be provided. 
+
+Offical support with manual installation is **NOT OFFERED**. There are simply too many variables that go on during manual installations, and attempting to troubleshoot each user individually is simply not realistic; it would likely be a waste of everyone’s time.
