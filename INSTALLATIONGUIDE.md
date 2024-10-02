@@ -107,7 +107,7 @@ All of the Mod Configuration Menus and .inis in Keizaal have been pre-configured
 
 Keizaal is designed to enhance and expand upon what the vanilla game offers. While systems such as perk trees and combat have seen some expansions, they remain largely unchanged from the base game.
 
-If you're looking for a different experience, Keizaal also includes a secondary profile that integrates the complete [SimonRim](https://next.nexusmods.com/profile/SimonMagus/mods?gameId=1704) suite into the mod list. To switch to this profile, simply select it from the drop-down menu at the top of Mod Organizer.
+If you're looking for a different experience, Keizaal also includes a secondary profile that integrates the complete [SimonRim](https://next.nexusmods.com/profile/SimonMagus/mods?gameId=1704){:target="_blank" rel="noopener"} suite into the mod list. To switch to this profile, simply select it from the drop-down menu at the top of Mod Organizer.
 
 ![SimonRim Image](https://raw.githubusercontent.com/Keizaal/Keizaal/refs/heads/main/assets/images/installation%20guide/SimonRim.jpg)
 
