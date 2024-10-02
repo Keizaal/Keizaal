@@ -132,11 +132,11 @@ title: Changelog
 
 ## [7.1.0b - The This is Fine Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=462710){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0b.png)
-- Brought Keizaal back online following Skyrim patch 1.6.1170.
+- Brought Keizaal back online following Skyrim patch 1.6.1170
 
 ## [7.1.0a - The Everything is Fine Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=454608){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0a.png)
-- Brought Keizaal back online following Skyrim patch 1.6.1130.
+- Brought Keizaal back online following Skyrim patch 1.6.1130
 
 ## [7.1.0 - The Starfield Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=422367){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0.png)
@@ -218,14 +218,14 @@ title: Changelog
 - Added [The Great City of Winterhold Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74560?tab=files&file_id=366518) (a few mod conflicts were causing issues)
 - Added [Lost Races of Atherius](https://www.nexusmods.com/skyrimspecialedition/mods/69467?tab=files&file_id=367009)
 - Added [Watcher's Gear - From The Elder Scrolls Blades](https://www.nexusmods.com/skyrimspecialedition/mods/81536?tab=files&file_id=344299)
-- Adjusted minor things with Shirley.
+- Adjusted minor things with Shirley
 
 #### [7.0.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=365480){:target="_blank" rel="noopener"}
 - Added [Complete Widescreen Fix for Vanilla and SkyUI 2.2 and 5.2 SE](https://www.nexusmods.com/skyrimspecialedition/mods/1778?tab=files&file_id=35568)
 - Added [Ultra Widescreen Patch for Forget Spell (Temporary Upload)](https://www.nexusmods.com/skyrimspecialedition/mods/54854?tab=files&file_id=225118)
-- Fixed issue downloading certain archives.
-- Fixed moreHUD widget text getting cut off.
-- Fixed missing Staada dialogue.
+- Fixed issue downloading certain archives
+- Fixed moreHUD widget text getting cut off
+- Fixed missing Staada dialogue
 
 ## [7.0.0 - The Saints & Seducers Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=365126){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.0.0.png)
@@ -233,8 +233,8 @@ title: Changelog
 
 #### [6.5.0.4 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=303502){:target="_blank" rel="noopener"}
 - Added [Simple Children Wyrmstooth Update Patch](https://www.nexusmods.com/skyrimspecialedition/mods/72404/?tab=files&file_id=303477)
-- Fixed failed install errors due to missing readme.
-- Fixed LOOT cyclical error.
+- Fixed failed install errors due to missing readme
+- Fixed LOOT cyclical error
 
 #### [6.5.0.3 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=303243){:target="_blank" rel="noopener"}
 - Updated [Harvest Your Blood for Septimus](https://www.nexusmods.com/skyrimspecialedition/mods/69861/?tab=files&file_id=303030)
