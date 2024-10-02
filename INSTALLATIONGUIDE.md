@@ -13,13 +13,13 @@ title: Installation Guide
   - [Wabbajack Installation](#wabbajack-installation)
   - [Keizaal Installation](#keizaal-installation)
 - [Playing](#playing)
-  - [Mod Configuration](#mod-configuration)
-- [Optional Configuration](#optional-configuration)
   - [Profiles](#profiles)
-  - [Settings](#settings)
-  - [Mod Notes](#mod-notes)
+  - [Mod Configuration](#mod-configuration)
 - [Updating](#updating)
   - [Semantic Versioning](#semantic-versioning)
+- [Modification](#modification)
+  - [Mod Notes](#mod-notes)
+  - [Settings](#settings)
 
 # Information
 
@@ -97,12 +97,6 @@ Whenever you launch Skyrim from Mod Organizer, this message will pop up:
 
 **THIS IS NOT AN ERROR, DO NOT PRESS "UNLOCK"**. Simply wait a bit, and Skyrim will open normally.
 
-### Mod Configuration
-
-All of the Mod Configuration Menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
-
-# Optional Configuration
-
 ### Profiles
 
 Keizaal is designed to enhance and expand upon what the vanilla game offers. While systems such as perk trees and combat have seen some expansions, they remain largely unchanged from the base game.
@@ -111,31 +105,13 @@ If you're looking for a different experience, Keizaal also includes a secondary 
 
 ![SimonRim Image](https://raw.githubusercontent.com/Keizaal/Keizaal/refs/heads/main/assets/images/installation%20guide/SimonRim.jpg)
 
-### Settings
+### Mod Configuration
 
-If you want to edit some of Skyrim's settings, you can do so by manually editing your base game's .ini files. You can do so by navigating to the top of Mod Organizer, clicking on the puzzle piece, then selecting ".ini Editor".
-
-![Settings Image](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/7.%20Manual%20.inis.PNG)
-
-Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
-
-### Mod Notes
-
-Several mods in Keizaal's Mod Organizer have notes attached to them. If the note icon appears next to a mod, hover over it to read the notes I've added. These notes will give you some additional context about how I have configured the mod.
-
-![Mod Notes Image](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/5.%20Mod%20Notes.PNG)
+All of the Mod Configuration Menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
 
 # Updating
 
 If Keizaal receives an update, please check the changelog before doing anything. Always backup your saves or start a new game after updating. Updating is like installing. You only have to make sure that you select the same path and tick the "Overwrite Existing Modlist" button.
-
-**Wabbajack will delete all files that are not part of Keizaal when updating!**
-
-This means that any additional mods you have installed on top of Keizaal will be deleted. However, you can add the prefix `[NoDelete]` to the names of the mods you would like to keep, and Wabbajack will be sure to ignore them.
-
-![No Delete Image](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/12.%20No%20Delete.PNG)
-
-Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
 
 ### Semantic Versioning
 
@@ -149,10 +125,35 @@ In layman's terms, if the first two version numbers have not changed, it is save
 
 You can find your current version of Keizaal at the top of Mod Organizer. If the version isn't listed, you're probably using a pre-3.4.0 version.
 
+# Modification
+
+**Offical support for modified installations of Keizaal WILL NOT be provided.** However, if you'd like to make your own changes, there are a few important points to keep in mind.
+
+If you attempt to update a modified installation of Keizaal, **Wabbajack will delete all files that are not part of Keizaal** during the update process.
+
+This means that any additional mods you have installed on top of Keizaal will be deleted. To prevent this, you can add the prefix **[NoDelete]** to the names of the mods you want to keep and Wabbajack will ensure they are ignored during updates.
+
+![No Delete Image](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/12.%20No%20Delete.PNG)
+
+### Mod Notes
+
+Several mods in Keizaal's Mod Organizer have notes attached to them. If the note icon appears next to a mod, hover over it to read the notes I've added. These notes will give you some additional context about how the mod as been configured.
+
+![Mod Notes Image](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/5.%20Mod%20Notes.PNG)
+
+
+### Settings
+
+If you want to edit some of Skyrim's settings, you can do so by manually editing your base game's .ini files. You can do so by navigating to the top of Mod Organizer, clicking on the puzzle piece, then selecting "INI Editor".
+
+![Settings Image](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/7.%20Manual%20.inis.PNG)
+
 ---
 
 If you run into any issues installing Keizaal, please refer to the [Troubleshooting Guide](https://keizaal.github.io/Keizaal/TROUBLESHOOTING.html){:target="_blank" rel="noopener"}. It covers all of the common errors that may occur and will walk you through how to fix them.
 
-Contact me (Tate Taylor) on [my community Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} for individual help and guidance. Note that I **WILL NOT** provide support for installations of Keizaal that have been modified.
+Join [Tate Taylor's community Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} for individual help and guidance.
 
-Support for manual installations is **NOT OFFERED**. There are simply too many variables that go on during manual installations, and attempting to troubleshoot each user individually is simply not realistic; it would likely be a waste of everyone’s time.
+Offical support for modified verions of Keizaal **WILL NOT** be provided. 
+
+Offical support with manual installation is **NOT OFFERED**. There are simply too many variables that go on during manual installations, and attempting to troubleshoot each user individually is simply not realistic; it would likely be a waste of everyone’s time.
