@@ -15,6 +15,7 @@ title: Installation Guide
 - [Playing](#playing)
   - [Mod Configuration](#mod-configuration)
 - [Optional Configuration](#optional-configuration)
+  - [Profiles](#profiles)
   - [Settings](#settings)
   - [Mod Notes](#mod-notes)
 - [Updating](#updating)
@@ -99,6 +100,16 @@ Whenever you launch Skyrim from Mod Organizer, this message will pop up:
 ### Mod Configuration
 
 All of the Mod Configuration Menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
+
+# Optional Configuration
+
+### Profiles
+
+Keizaal is designed to enhance and expand upon what the vanilla game offers. While systems such as perk trees and combat have seen some expansions, they remain largely unchanged from the base game.
+
+If you're looking for a different experience, Keizaal also includes a secondary profile that integrates the complete [SimonRim](https://next.nexusmods.com/profile/SimonMagus/mods?gameId=1704) suite into the mod list. To switch to this profile, simply select it from the drop-down menu at the top of Mod Organizer.
+
+![SimonRim Image](https://raw.githubusercontent.com/Keizaal/Keizaal/refs/heads/main/assets/images/installation%20guide/SimonRim.jpg)
 
 ### Settings
 
