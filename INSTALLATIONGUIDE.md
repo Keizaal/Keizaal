@@ -107,7 +107,7 @@ If you're looking for a different experience, Keizaal also includes a secondary 
 
 ### Mod Configuration
 
-All of the Mod Configuration Menus and .inis in Keizaal have been pre-configured to my recommended settings. The only thing you need to do when you start a new game is play.
+All of the Mod Configuration Menus and .inis in Keizaal have been pre-configured to the recommended settings. The only thing you need to do when you start a new game is play.
 
 # Updating
 
