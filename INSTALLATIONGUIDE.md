@@ -115,15 +115,16 @@ If Keizaal receives an update, please check the changelog before doing anything.
 
 ### Semantic Versioning
 
-Keizaal uses semantic versioning to quickly determine the size of an update and if it is savegame compatible or not. This is what the version numbers mean:
+Keizaal uses semantic versioning to quickly assess the size of an update and its savegame compatibility. Here’s what the version numbers indicate:
 
-- <ins>**1**</ins>.0.0 = A large update that is **NOT** savegame compatible and fundamentally changes the list.
-- 1.<ins>**1**</ins>.0 = An update that is **NOT** savegame compatible.
-- 1.1.<ins>**1**</ins> = An update that **IS** savegame compatible.
+<ins>**1**</ins>.0.0 = MASSIVE update that is NOT savegame compatible and fundamentally changes the list.\
+1.<ins>**1**</ins>.0 = MAJOR update that is NOT savegame compatible.\
+1.1.<ins>**1**</ins> = MINOR update that IS savegame compatible.\
+1.1.1.<ins>**1**</ins> = PATCH hotfix that IS savegame compatible.
 
-In layman's terms, if the first two version numbers have not changed, it is savegame compatible.
+In layman's terms, if the first two version numbers have not changed it is savegame compatible.
 
-You can find your current version of Keizaal at the top of Mod Organizer. If the version isn't listed, you're probably using a pre-3.4.0 version.
+You can find your current version of Keizaal at the top of Mod Organizer. If the version isn't listed you're probably using a pre-3.4.0 version.
 
 # Modification
 
