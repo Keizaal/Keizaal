@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 ---
-## [8.0.0 - The Trade Winds Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=549822){:target="_blank" rel="noopener"}
+# [8.0.0 - The Trade Winds Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=549822){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/8.0.0.png)
 - Moved Keizaal to Skyrim version 1.6.1170
 - Rebuilt the default profile to focus on vanilla and moved SimonRim mods to an optional secondary profile
@@ -228,7 +228,7 @@ title: Changelog
 - Fixed moreHUD widget text getting cut off
 - Fixed missing Staada dialogue
 
-## [7.0.0 - The Saints & Seducers Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=365126){:target="_blank" rel="noopener"}
+# [7.0.0 - The Saints & Seducers Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=365126){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.0.0.png)
 - [Everything](http://www.wabbajack.org/search/Keizaal/keizaal).
 
