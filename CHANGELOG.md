@@ -4,8 +4,7 @@ title: Changelog
 ---
 # [8.0.0 - The Trade Winds Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=550075){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/8.0.0.png)
-- Moved Keizaal to Skyrim version 1.6.1170
-- Rebuilt the default profile to focus on vanilla and moved SimonRim mods to an optional secondary profile
+- Updated all existing mods
 - Removed [Ancient Nord Armo(u)ry Lite](https://www.nexusmods.com/skyrimspecialedition/mods/65124)
 - Removed [BA Bard Songs](https://www.nexusmods.com/skyrimspecialedition/mods/47202)
 - Removed Bolar the Watcher
@@ -129,7 +128,8 @@ title: Changelog
 - Added [Water Caustics](https://www.nexusmods.com/skyrimspecialedition/mods/112762)
 - Added [Wearable Ayleid Wight Armor](https://www.nexusmods.com/skyrimspecialedition/mods/109330)
 - Added [Wetness Effects](https://www.nexusmods.com/skyrimspecialedition/mods/112739)
-- Updated all existing mods
+- Moved Keizaal to Skyrim version 1.6.1170
+- Rebuilt the default profile to focus on vanilla and moved SimonRim mods to an optional secondary profile
 
 ## [7.1.0b - The This is Fine Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=462710){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0b.png)
@@ -142,6 +142,7 @@ title: Changelog
 ## [7.1.0 - The Starfield Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=422367){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0.png)
 (This changelog might not be completely accurate because I wasn't aware that Wabbajack generative changelogs had been discontinued and ongoing changes weren't consistently documented.)
+- Updated all existing mods
 - Added [Atronach Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/52255)
 - Added [Betty Netch](https://www.nexusmods.com/skyrimspecialedition/mods/88777)
 - Added [Brawl Lines Expansion and Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/94070)
@@ -170,9 +171,13 @@ title: Changelog
 - Added [The Heart of Dibella - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/94863)
 - Added [Water Blending](https://www.nexusmods.com/skyrimspecialedition/mods/95145)
 - Added [Waterbreathing Breathless Emerge](https://www.nexusmods.com/skyrimspecialedition/mods/14485)
-- Updated all existing mods
 
 #### [7.0.0.4 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=374462){:target="_blank" rel="noopener"}
+- Updated [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492?tab=files&file_id=372593)
+- Updated [Enhanced Worldspace Maps](https://www.nexusmods.com/skyrimspecialedition/mods/57176?tab=files&file_id=371884)
+- Updated [Grass Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/86502?tab=files&file_id=372118)
+- Updated [Seasons of Skyrim SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/62861?tab=files&file_id=372072)
+- Updated [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372?tab=files&file_id=372568)
 - Added [Falmer Blood Elixir Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/8949)
 - Added [Grass Collision](https://www.nexusmods.com/skyrimspecialedition/mods/87816)
 - Added [Loki's Wade In Water](https://www.nexusmods.com/skyrimspecialedition/mods/42854?tab=files&file_id=172065)
@@ -182,24 +187,8 @@ title: Changelog
 - Added [Soaking Wet - Character Wetness Effect](https://www.nexusmods.com/skyrimspecialedition/mods/68025?tab=files&file_id=321587)
 - Added [Unique Stros M'Kai Rum](https://www.nexusmods.com/skyrimspecialedition/mods/43830?tab=files&file_id=177052)
 - Added [Wade In Water Redone](https://www.nexusmods.com/skyrimspecialedition/mods/71418?tab=files&file_id=326602)
-- Updated [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492?tab=files&file_id=372593)
-- Updated [Enhanced Worldspace Maps](https://www.nexusmods.com/skyrimspecialedition/mods/57176?tab=files&file_id=371884)
-- Updated [Grass Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/86502?tab=files&file_id=372118)
-- Updated [Seasons of Skyrim SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/62861?tab=files&file_id=372072)
-- Updated [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372?tab=files&file_id=372568)
 
 #### [7.0.0.3 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=371910){:target="_blank" rel="noopener"}
-- Added [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492?tab=files&file_id=366951)
-- Added [Believable Elven Steel Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/87556?tab=files&file_id=371010)
-- Added [Better Jumping SE](https://www.nexusmods.com/skyrimspecialedition/mods/18967?tab=files&file_id=317398)
-- Added [Book Unity and Revamp Project](https://www.nexusmods.com/skyrimspecialedition/mods/50109?tab=files&file_id=207099)
-- Added [Grass Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/86502?tab=files&file_id=366908)
-- Added [Player Rotation in ShowRaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/36095?tab=files&file_id=140440)
-- Added [Practical Female Ebony Plate Armor](https://www.nexusmods.com/skyrimspecialedition/mods/86938?tab=files&file_id=368928)
-- Added [Practical Female Elven Hunter Armor](https://www.nexusmods.com/skyrimspecialedition/mods/87508?tab=files&file_id=370661)
-- Added [Practical Female Iron Armor](https://www.nexusmods.com/skyrimspecialedition/mods/87674?tab=files&file_id=371612)
-- Added [Practical Female Vigil Enforcer Armor](https://www.nexusmods.com/skyrimspecialedition/mods/87553?tab=files&file_id=370988)
-- Added [Tree LOD Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/86617?tab=files&file_id=366887)
 - Updated [Ammo Enchanting - Craft Magical Arrows and Bolts](https://www.nexusmods.com/skyrimspecialedition/mods/79764?tab=files&file_id=365762)
 - Updated [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756?tab=files&file_id=371809)
 - Updated [Cathedral 3D Mountain Flowers - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60756?tab=files&file_id=366326)
@@ -214,6 +203,17 @@ title: Changelog
 - Updated [unnamed landscape tweaks mod](https://www.nexusmods.com/skyrimspecialedition/mods/81041?tab=files&file_id=369010)
 - Updated [YASTM - Yet Another Soul Trap Manager](https://www.nexusmods.com/skyrimspecialedition/mods/56144?tab=files&file_id=367328)
 - Removed [Skyrim Wayshrines - Immersive Fast Travel - SWIFT SE](https://www.nexusmods.com/skyrimspecialedition/mods/17905?tab=files&file_id=241879)
+- Added [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492?tab=files&file_id=366951)
+- Added [Believable Elven Steel Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/87556?tab=files&file_id=371010)
+- Added [Better Jumping SE](https://www.nexusmods.com/skyrimspecialedition/mods/18967?tab=files&file_id=317398)
+- Added [Book Unity and Revamp Project](https://www.nexusmods.com/skyrimspecialedition/mods/50109?tab=files&file_id=207099)
+- Added [Grass Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/86502?tab=files&file_id=366908)
+- Added [Player Rotation in ShowRaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/36095?tab=files&file_id=140440)
+- Added [Practical Female Ebony Plate Armor](https://www.nexusmods.com/skyrimspecialedition/mods/86938?tab=files&file_id=368928)
+- Added [Practical Female Elven Hunter Armor](https://www.nexusmods.com/skyrimspecialedition/mods/87508?tab=files&file_id=370661)
+- Added [Practical Female Iron Armor](https://www.nexusmods.com/skyrimspecialedition/mods/87674?tab=files&file_id=371612)
+- Added [Practical Female Vigil Enforcer Armor](https://www.nexusmods.com/skyrimspecialedition/mods/87553?tab=files&file_id=370988)
+- Added [Tree LOD Lighting](https://www.nexusmods.com/skyrimspecialedition/mods/86617?tab=files&file_id=366887)
 
 #### [7.0.0.2 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=367020){:target="_blank" rel="noopener"}
 - Added [The Great City of Winterhold Patch Collection](https://www.nexusmods.com/skyrimspecialedition/mods/74560?tab=files&file_id=366518) (a few mod conflicts were causing issues)
