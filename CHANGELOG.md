@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 ---
-## [8.0.0 - The Trade Winds Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=549822){:target="_blank" rel="noopener"}
+# [8.0.0 - The Trade Winds Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=550075){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/8.0.0.png)
 - Rebuilt the default profile to focus on vanilla and moved SimonRim mods to an optional secondary profile
 - Removed [Ancient Nord Armo(u)ry Lite](https://www.nexusmods.com/skyrimspecialedition/mods/65124)
