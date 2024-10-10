@@ -3,7 +3,11 @@ layout: default
 title: Changelog
 ---
 #### [8.0.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/){:target="_blank" rel="noopener"}
+- Fixed "plugins.txt did not match" install error
 - Moved Keizaal's preconfigured settings to their own mod so that they aren't accidently overridden
+- Fixed issue where [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) shrines would overlap with Khajiit caravan tents
+- Fixed issue where some beds in inns were misaligned in the SimonRim profile
+- Improved snow matching
 - Added [Court Wizards Sell Staves](https://www.nexusmods.com/skyrimspecialedition/mods/51838)
 - Added [Crash Logger](https://www.nexusmods.com/skyrimspecialedition/mods/59818)
 - Added [Dismiss Steward](https://www.nexusmods.com/skyrimspecialedition/mods/22236)
@@ -32,6 +36,7 @@ title: Changelog
 - Updated [Spell Perk Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)
 - Updated [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
 - Removed [Trainwreck - A Crash Logger](https://www.nexusmods.com/skyrimspecialedition/mods/106440)
+- Removed obsolete widescreen patches
 
 # [8.0.0 - The Trade Winds Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=549822){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/8.0.0.png)
