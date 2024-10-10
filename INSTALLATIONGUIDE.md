@@ -120,7 +120,7 @@ Keizaal uses a four-digit versioning scheme to quickly assess the size and saveg
 <ins>**1**</ins>.0.0 = MASSIVE update that is NOT savegame compatible and fundamentally changes the list\
 1.<ins>**1**</ins>.0 = MAJOR update that is NOT savegame compatible\
 1.1.<ins>**1**</ins> = MINOR update that IS savegame compatible\
-1.1.1.<ins>**1**</ins> = PATCH hotfix that IS savegame compatible
+1.1.1.<ins>**1**</ins> = PATCH fix that IS savegame compatible
 
 In layman's terms, if the first two version numbers have not changed, it is savegame compatible.
 
