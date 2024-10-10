@@ -16,7 +16,7 @@ title: Installation Guide
   - [Profiles](#profiles)
   - [Mod Configuration](#mod-configuration)
 - [Updating](#updating)
-  - [Semantic Versioning](#semantic-versioning)
+  - [Versioning](#versioning)
 - [Modification](#modification)
   - [Mod Notes](#mod-notes)
   - [Settings](#settings)
@@ -113,16 +113,16 @@ All of the Mod Configuration Menus and .inis in Keizaal have been pre-configured
 
 If Keizaal receives an update, please check the changelog before doing anything. Always backup your saves or start a new game after updating. Updating is like installing. You only have to make sure that you select the same path and tick the "Overwrite Existing Modlist" button.
 
-### Semantic Versioning
+### Versioning
 
-Keizaal uses semantic versioning to quickly assess the size of an update and its savegame compatibility. Here’s what the version numbers indicate:
+Keizaal uses a four-digit versioning scheme to quickly assess the size and savegame compatibility of an update. Here’s what the version numbers indicate:
 
 <ins>**1**</ins>.0.0 = MASSIVE update that is NOT savegame compatible and fundamentally changes the list.\
 1.<ins>**1**</ins>.0 = MAJOR update that is NOT savegame compatible.\
 1.1.<ins>**1**</ins> = MINOR update that IS savegame compatible.\
 1.1.1.<ins>**1**</ins> = PATCH hotfix that IS savegame compatible.
 
-In layman's terms, if the first two version numbers have not changed it is savegame compatible.
+In layman's terms, if the first two version numbers have not changed, it is savegame compatible.
 
 You can find your current version of Keizaal at the top of Mod Organizer. If the version isn't listed you're probably using a pre-3.4.0 version.
 
