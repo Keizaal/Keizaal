@@ -4,6 +4,7 @@ title: Changelog
 ---
 #### [8.0.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/){:target="_blank" rel="noopener"}
 - Fixed "plugins.txt did not match" install error
+- Fixed "designated write target" launch error
 - Moved Keizaal's preconfigured settings to their own mod so that they aren't accidently overridden
 - Fixed issue where [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) shrines would overlap with Khajiit caravan tents in the SimonRim profile
 - Fixed issue where some beds in inns were misaligned in the SimonRim profile
