@@ -22,6 +22,7 @@ title: Changelog
 - Added [Run for Your Lives](https://www.nexusmods.com/skyrimspecialedition/mods/2272)
 - Added [Sensible Quest Prerequisites - Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/121948)
 - Added [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)
+- Added [Stairs of Safety - Farmhouses](https://www.nexusmods.com/skyrimspecialedition/mods/92592)
 - Added [Smoother Skies](https://www.nexusmods.com/skyrimspecialedition/mods/58250)
 - Added [Subtleties of Skyrim - Red Mountain Lava - Distant Ships - Vvardenfell Mushroom](https://www.nexusmods.com/skyrimspecialedition/mods/130563)
 - Added [Vampire Attacks Outside Walled Cities Restored](https://www.nexusmods.com/skyrimspecialedition/mods/21287)
