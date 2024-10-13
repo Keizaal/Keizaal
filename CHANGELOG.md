@@ -9,6 +9,7 @@ title: Changelog
 - Fixed issue where [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) shrines would overlap with Khajiit caravan tents in the SimonRim profile
 - Fixed issue where some beds in inns were misaligned in the SimonRim profile
 - Improved snow matching
+- Added [Blended Roads less bumpiness - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/131032)
 - Added [Court Wizards Sell Staves](https://www.nexusmods.com/skyrimspecialedition/mods/51838)
 - Added [Crash Logger](https://www.nexusmods.com/skyrimspecialedition/mods/59818)
 - Added [Dismiss Steward](https://www.nexusmods.com/skyrimspecialedition/mods/22236)
