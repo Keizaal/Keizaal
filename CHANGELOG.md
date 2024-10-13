@@ -2,17 +2,19 @@
 layout: default
 title: Changelog
 ---
-#### [8.0.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=551601){:target="_blank" rel="noopener"}
+#### [8.0.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/){:target="_blank" rel="noopener"}
 - Fixed "plugins.txt did not match" install error
 - Fixed "designated write target" launch error
 - Moved Keizaal's preconfigured settings to their own mod so that they aren't accidently overridden
 - Fixed issue where [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) shrines would overlap with Khajiit caravan tents in the SimonRim profile
 - Fixed issue where some beds in inns were misaligned in the SimonRim profile
 - Improved snow matching
+- Added [All Thieves Guild Jobs Concurrently](https://www.nexusmods.com/skyrimspecialedition/mods/14883)
 - Added [Blended Roads less bumpiness - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/131032)
 - Added [Court Wizards Sell Staves](https://www.nexusmods.com/skyrimspecialedition/mods/51838)
 - Added [Crash Logger](https://www.nexusmods.com/skyrimspecialedition/mods/59818)
 - Added [Dismiss Steward](https://www.nexusmods.com/skyrimspecialedition/mods/22236)
+- Added [Less Tedious Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/6581)
 - Added [Misc. Blended Road Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42643)
 - Added [Mudcrab Burrowing](https://www.nexusmods.com/skyrimspecialedition/mods/130654)
 - Added [Remove Landscape Vertex Color](https://www.nexusmods.com/skyrimspecialedition/mods/64132)
