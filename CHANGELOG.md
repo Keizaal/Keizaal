@@ -2,7 +2,7 @@
 layout: default
 title: Changelog
 ---
-#### [8.0.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/){:target="_blank" rel="noopener"}
+#### [8.0.0.1 Hotfix](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=551783&game_id=1704){:target="_blank" rel="noopener"}
 - Fixed "plugins.txt did not match" install error
 - Fixed "designated write target" launch error
 - Moved Keizaal's preconfigured settings to their own mod so that they aren't accidently overridden
