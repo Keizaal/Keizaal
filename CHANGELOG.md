@@ -34,6 +34,7 @@ title: Changelog
 - Updated [Environs - Abandoned Abodes](https://www.nexusmods.com/skyrimspecialedition/mods/82410)
 - Updated [Flute Animation Fix](https://www.nexusmods.com/skyrimspecialedition/mods/69609)
 - Updated [HD Local Map](https://www.nexusmods.com/skyrimspecialedition/mods/74722)
+- Updated [House Rule - Lawbringer for Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/57243)
 - Updated [Knotwork](https://www.nexusmods.com/skyrimspecialedition/mods/128235)
 - Updated [Kynareth Replaces Talos - Civil War Consequence](https://www.nexusmods.com/skyrimspecialedition/mods/91440)
 - Updated [More Informative Console](https://www.nexusmods.com/skyrimspecialedition/mods/19250)
