@@ -52,6 +52,7 @@ title: Changelog
 - Updated [Spell Perk Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)
 - Updated [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614)
 - Removed [Trainwreck - A Crash Logger](https://www.nexusmods.com/skyrimspecialedition/mods/106440)
+- Made [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) optional (disabled by default)
 - Removed obsolete widescreen patches
 
 # [8.0.0 - The Trade Winds Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=550075){:target="_blank" rel="noopener"}
