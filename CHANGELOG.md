@@ -3,6 +3,7 @@ layout: default
 title: Changelog
 ---
 #### [8.0.0.1 Hotfix](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=551783&game_id=1704){:target="_blank" rel="noopener"}
+- Moved Keizaal's Skyrim install to a portable setup within Keizaal's folder to prevent users from encountering issues related to old modded installs
 - Fixed "plugins.txt did not match" install error
 - Fixed "designated write target" launch error
 - Moved Keizaal's preconfigured settings to their own mod so that they aren't accidently overridden
@@ -10,11 +11,15 @@ title: Changelog
 - Fixed issue where Pilgrim shrines would overlap with Khajiit caravan tents in the SimonRim profile
 - Fixed issue where some beds in inns were misaligned in the SimonRim profile
 - Improved snow matching
+- Added [1st Person Greatsword Idle Animation Fix](https://www.nexusmods.com/skyrimspecialedition/mods/75031)
 - Added [All Thieves Guild Jobs Concurrently](https://www.nexusmods.com/skyrimspecialedition/mods/14883)
 - Added [Blended Roads less bumpiness - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/131032)
 - Added [Court Wizards Sell Staves](https://www.nexusmods.com/skyrimspecialedition/mods/51838)
 - Added [Crash Logger](https://www.nexusmods.com/skyrimspecialedition/mods/59818)
 - Added [Dismiss Steward](https://www.nexusmods.com/skyrimspecialedition/mods/22236)
+- Added [Dwemer Water Wheels - Markarth - Wyrmstooth - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/131933)
+- Added [First Person Paused Menus Light Detachment Fix](https://www.nexusmods.com/skyrimspecialedition/mods/112451)
+- Added [Lost Races of Nirn - Dwemer - Ayleid - Maormer - Snow Elf - Tsaesci](https://www.nexusmods.com/skyrimspecialedition/mods/69467)
 - Added [Less Tedious Thieves Guild](https://www.nexusmods.com/skyrimspecialedition/mods/6581)
 - Added [Misc. Blended Road Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/42643)
 - Added [Mudcrab Burrowing](https://www.nexusmods.com/skyrimspecialedition/mods/130654)
@@ -23,6 +28,7 @@ title: Changelog
 - Added [Sensible Quest Prerequisites - Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/121948)
 - Added [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)
 - Added [Stairs of Safety - Farmhouses](https://www.nexusmods.com/skyrimspecialedition/mods/92592)
+- Added [Stonehollow Overhaul for Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/131619)
 - Added [Smoother Skies](https://www.nexusmods.com/skyrimspecialedition/mods/58250)
 - Added [Subtleties of Skyrim - Red Mountain Lava - Distant Ships - Vvardenfell Mushroom](https://www.nexusmods.com/skyrimspecialedition/mods/130563)
 - Added [Vampire Attacks Outside Walled Cities Restored](https://www.nexusmods.com/skyrimspecialedition/mods/21287)
