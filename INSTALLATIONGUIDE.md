@@ -105,6 +105,8 @@ If you're looking for a different experience, Keizaal also includes a secondary 
 
 ![SimonRim Image](https://raw.githubusercontent.com/Keizaal/Keizaal/refs/heads/main/assets/images/installation%20guide/SimonRim.jpg)
 
+Savegames are linked to each profile, so be sure to select the correct one after updating; otherwise, you might not find your saved progress!
+
 ### Mod Configuration
 
 All of the Mod Configuration Menus and .inis in Keizaal have been pre-configured to the recommended settings. The only thing you need to do when you start a new game is play.
