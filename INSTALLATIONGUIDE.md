@@ -105,7 +105,7 @@ If you're looking for a different experience, Keizaal also includes a secondary 
 
 ![SimonRim Image](https://raw.githubusercontent.com/Keizaal/Keizaal/refs/heads/main/assets/images/installation%20guide/SimonRim.jpg)
 
-**Savegames are linked to each profile**, so be sure to select the correct one after updating; otherwise, you might not find your saved progress!
+**Savegames are linked to each profile**, so make sure to select the correct one before launching the game. If you don’t, you might not find your saved progress!
 
 ### Mod Configuration
 
