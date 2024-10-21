@@ -55,6 +55,10 @@ You have likely surpassed the 255 .esp limit. When this happens Mod Organizer wi
 
 Please note that offical support for modified installations of Keizaal **WILL NOT** be provided.
 
+### **Savegames are missing after an update.**
+
+Savegames are linked to each profile, so make sure to select the correct one before launching the game. If you don’t, you might not find your saved progress!
+
 ### "*UI Elementals are being cut off the screen"*
 
 You probably have a 21:9 monitor; Skyrim's UI is designed only for a 16:9 aspect ratio. To fix this, enable all the mods under "Ultrawide Fixes" in Mod Organizer.
