@@ -55,7 +55,7 @@ You have likely surpassed the 255 .esp limit. When this happens Mod Organizer wi
 
 Please note that offical support for modified installations of Keizaal **WILL NOT** be provided.
 
-### **Savegames are missing after an update.**
+### "*Savegames are missing after an update.*"
 
 Savegames are linked to each profile, so make sure to select the correct one before launching the game. If you don’t, you might not find your saved progress!
 
