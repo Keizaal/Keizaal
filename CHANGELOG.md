@@ -4,7 +4,7 @@ title: Changelog
 ---
 #### [8.0.0.2 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=){:target="_blank" rel="noopener"}
 - Fixed issue where Farkas was sent to the void, never to return
-- Added [C.O.I.N. - Treasury Exchange](https://www.nexusmods.com/skyrimspecialedition/mods/131682)
+- Added [C.O.I.N. - Treasury Exchange](https://www.nexusmods.com/skyrimspecialedition/mods/131682) (disabled unless you turn off the "Automatically Exchange Coins" setting in C.O.I.N.'s MCM)
 - Added [Dwemer Water Wheels - Markarth - Wyrmstooth - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/131933)
 - Added [Horse Save Load Fix](https://www.nexusmods.com/skyrimspecialedition/mods/132110)
 - Added [Lost Races of Nirn - Female Skin Textures (Snow Elves - Maormer)](https://www.nexusmods.com/skyrimspecialedition/mods/90443)
