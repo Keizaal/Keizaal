@@ -24,6 +24,7 @@ title: Changelog
 - Updated [Skyrim Silver - Currency Swapper for Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/127897)
 - Updated [Unofficial Skyrim Special Edition Patch - USSEP](https://www.nexusmods.com/skyrimspecialedition/mods/266)
 - Removed Actually Upscaled Skyrim
+- Removed Keizaal's intro video replacer
 - Removed [Nordic Snow](https://www.nexusmods.com/skyrimspecialedition/mods/670)
 
 #### [8.0.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=554157){:target="_blank" rel="noopener"}
