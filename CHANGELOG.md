@@ -2,7 +2,31 @@
 layout: default
 title: Changelog
 ---
-#### [8.0.0.1 Hotfix](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=551783&game_id=1704){:target="_blank" rel="noopener"}
+#### [8.0.0.2 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=){:target="_blank" rel="noopener"}
+- Fixed issue where Farkas was sent to the voice, never to return
+- Added [C.O.I.N. - Treasury Exchange](https://www.nexusmods.com/skyrimspecialedition/mods/131682)
+- Added [Dwemer Water Wheels - Markarth - Wyrmstooth - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/131933)
+- Added [Horse Save Load Fix](https://www.nexusmods.com/skyrimspecialedition/mods/132110)
+- Added [Lost Races of Nirn - Female Skin Textures (Snow Elves - Maormer)](https://www.nexusmods.com/skyrimspecialedition/mods/90443)
+- Added [More Morrowind-y Staff Enchanter](https://www.nexusmods.com/skyrimspecialedition/mods/132004)
+- Updated [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
+- Updated [Crash Logger SSE AE VR - PDB support](https://www.nexusmods.com/skyrimspecialedition/mods/59818)
+- Updated [Elven Supremacy - Currency Swapper for Thalmor](https://www.nexusmods.com/skyrimspecialedition/mods/129717)
+- Updated [Feral - Claw Unarmed Attacks for Beast Races - Vampires - Werewolves](https://www.nexusmods.com/skyrimspecialedition/mods/34552)
+- Updated [Gibberish - Currency Swapper for Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/127871)
+- Updated [Harvest Your Blood for Septimus](https://www.nexusmods.com/skyrimspecialedition/mods/69861)
+- Updated [Knotwork](https://www.nexusmods.com/skyrimspecialedition/mods/128235)
+- Updated [Lost Races of Nirn - Dwemer - Ayleid - Maormer - Snow Elf - Tsaesci](https://www.nexusmods.com/skyrimspecialedition/mods/69467)
+- Updated [Morrowind Mint - Currency Swapper for Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/129387)
+- Updated [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
+- Updated [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
+- Updated [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)
+- Updated [Skyrim Silver - Currency Swapper for Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/127897)
+- Updated [Unofficial Skyrim Special Edition Patch - USSEP](https://www.nexusmods.com/skyrimspecialedition/mods/266)
+- Removed Actually Upscaled Skyrim
+- Removed [Nordic Snow](https://www.nexusmods.com/skyrimspecialedition/mods/670)
+
+#### [8.0.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=554157){:target="_blank" rel="noopener"}
 - Moved Keizaal's Skyrim install to a portable setup within Keizaal's folder to prevent users from encountering issues related to old modded installs
 - Fixed "plugins.txt did not match" install error
 - Fixed "designated write target" launch error
