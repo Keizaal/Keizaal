@@ -22,6 +22,7 @@ title: Changelog
 - Updated [Morrowind Mint - Currency Swapper for Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/129387)
 - Updated [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
 - Updated [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
+- Updated [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195)
 - Updated [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)
 - Updated [Skyrim Silver - Currency Swapper for Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/127897)
 - Updated [Unofficial Skyrim Special Edition Patch - USSEP](https://www.nexusmods.com/skyrimspecialedition/mods/266)
