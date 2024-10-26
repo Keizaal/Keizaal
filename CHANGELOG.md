@@ -10,6 +10,7 @@ title: Changelog
 - Added [Lost Races of Nirn - Female Skin Textures (Snow Elves - Maormer)](https://www.nexusmods.com/skyrimspecialedition/mods/90443)
 - Added [More Morrowind-y Staff Enchanter](https://www.nexusmods.com/skyrimspecialedition/mods/132004)
 - Updated [Actor Limit Fix](https://www.nexusmods.com/skyrimspecialedition/mods/32349)
+- Added [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805)
 - Updated [Bug Fixes SSE](https://www.nexusmods.com/skyrimspecialedition/mods/33261)
 - Updated [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
 - Updated [Crash Logger SSE AE VR - PDB support](https://www.nexusmods.com/skyrimspecialedition/mods/59818)
