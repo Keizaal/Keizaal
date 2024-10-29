@@ -6,6 +6,7 @@ title: Changelog
 - Added [Assorted Vampire Fixes and Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/120532)
 - Updated [Skyrim Cut Content Restoration](https://www.nexusmods.com/skyrimspecialedition/mods/90744)
 - Updated [Local Map Upgrade](https://www.nexusmods.com/skyrimspecialedition/mods/129756)
+- Removed [No More Silver in Castle Volkihar](https://www.nexusmods.com/skyrimspecialedition/mods/79339)
 
 #### [8.0.0.2 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=556190){:target="_blank" rel="noopener"}
 - Fixed issue where Farkas was sent to the void, never to return
