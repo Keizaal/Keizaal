@@ -7,8 +7,10 @@ title: Changelog
 - Added [Arena - Encounter Zone Scaling for Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/131925)
 - Added [Assorted Vampire Fixes and Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/120532)
 - Added [Legion - A Bruma Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/108588)
+- Updated [C.O.I.N. - Treasury Exchange](https://www.nexusmods.com/skyrimspecialedition/mods/131682)
 - Updated [Skyrim Cut Content Restoration](https://www.nexusmods.com/skyrimspecialedition/mods/90744)
 - Updated [Local Map Upgrade](https://www.nexusmods.com/skyrimspecialedition/mods/129756)
+- Updated [Thalmor comforts - Aldmeri Cultured Furniture](https://www.nexusmods.com/skyrimspecialedition/mods/132317)
 - Removed [No More Silver in Castle Volkihar](https://www.nexusmods.com/skyrimspecialedition/mods/79339)
 
 #### [8.0.0.2 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=556190){:target="_blank" rel="noopener"}
