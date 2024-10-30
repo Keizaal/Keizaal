@@ -13,7 +13,7 @@ title: Changelog
 - Updated [Thalmor comforts - Aldmeri Cultured Furniture](https://www.nexusmods.com/skyrimspecialedition/mods/132317)
 - Removed [No More Silver in Castle Volkihar](https://www.nexusmods.com/skyrimspecialedition/mods/79339)
 
-#### [8.0.0.2 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=556190){:target="_blank" rel="noopener"}
+#### [8.0.0.2 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=557025){:target="_blank" rel="noopener"}
 - Fixed issue where Farkas was sent to the void, never to return
 - Added [C.O.I.N. - Treasury Exchange](https://www.nexusmods.com/skyrimspecialedition/mods/131682) (disabled unless you turn off the "Automatically Exchange Coins" setting in C.O.I.N.'s MCM)
 - Added [Dwemer Water Wheels - Markarth - Wyrmstooth - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/131933)
