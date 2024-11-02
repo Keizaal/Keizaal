@@ -61,7 +61,7 @@ Savegames are linked to each profile, so make sure to select the correct one bef
 
 ### "*UI Elementals are being cut off the screen"*
 
-You probably have a 21:9 monitor; Skyrim's UI is designed only for a 16:9 aspect ratio. To fix this, enable all the mods under "Ultrawide Fixes" in Mod Organizer.
+You probably have a 21:9 monitor; Skyrim's UI is designed only for a 16:9 aspect ratio. To fix this, enable "Complete Widescreen Fix for Vanilla and SkyUI" in Mod Organizer.
 
 ![Optional Mods Image](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/18.%20Optional%20Mods.png)
 
