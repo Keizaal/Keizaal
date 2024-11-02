@@ -3,9 +3,11 @@ layout: default
 title: Changelog
 ---
 ### [8.0.1 - The Staves Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id){:target="_blank" rel="noopener"} (Coming Soon)
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/8.0.0.png)
 - Added a few patches that were missing
 - Added [Arena - Encounter Zone Scaling for Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/131925)
 - Added [Assorted Vampire Fixes and Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/120532)
+- Added [Granite Hill - Cut Content Restoration](https://www.nexusmods.com/skyrimspecialedition/mods/117585)
 - Added [Legion - A Bruma Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/108588)
 - Added [Mainland Staff Enchanters](https://www.nexusmods.com/skyrimspecialedition/mods/132632)
 - Added [Staff Enchanting Plus](https://www.nexusmods.com/skyrimspecialedition/mods/132680)
