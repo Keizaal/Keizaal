@@ -46,7 +46,7 @@ title: Changelog
 - Removed Keizaal's intro video replacer
 - Removed [Nordic Snow](https://www.nexusmods.com/skyrimspecialedition/mods/670)
 
-#### [8.0.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=554157){:target="_blank" rel="noopener"}
+#### [8.0.0.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=558313){:target="_blank" rel="noopener"}
 - Moved Keizaal's Skyrim install to a portable setup within Keizaal's folder to prevent users from encountering issues related to old modded installs
 - Fixed "plugins.txt did not match" install error
 - Fixed "designated write target" launch error
