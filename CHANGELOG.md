@@ -3,7 +3,7 @@ layout: default
 title: Changelog
 ---
 ### [8.0.1 - The Staves Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id){:target="_blank" rel="noopener"} (Coming Soon)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/8.0.0.png)
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/8.0.1.png)
 - Added a few patches that were missing
 - Added [Arena - Encounter Zone Scaling for Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/131925)
 - Added [Assorted Vampire Fixes and Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/120532)
