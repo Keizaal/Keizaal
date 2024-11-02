@@ -4,11 +4,8 @@ title: Changelog
 ---
 ### [8.0.1 - The Staves Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=558316){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/8.0.1.png)
-- Added a few patches that were missing
-- Added [Arena - Encounter Zone Scaling for Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/131925)
 - Added [Assorted Vampire Fixes and Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/120532)
 - Added [Granite Hill - Cut Content Restoration](https://www.nexusmods.com/skyrimspecialedition/mods/117585)
-- Added [Legion - A Bruma Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/108588)
 - Added [Mainland Staff Enchanters](https://www.nexusmods.com/skyrimspecialedition/mods/132632)
 - Added [Staff Enchanting Plus](https://www.nexusmods.com/skyrimspecialedition/mods/132680)
 - Updated [C.O.I.N. - Treasury Exchange](https://www.nexusmods.com/skyrimspecialedition/mods/131682)
@@ -16,6 +13,11 @@ title: Changelog
 - Updated [Skyrim Cut Content Restoration](https://www.nexusmods.com/skyrimspecialedition/mods/90744)
 - Updated [Thalmor comforts - Aldmeri Cultured Furniture](https://www.nexusmods.com/skyrimspecialedition/mods/132317)
 - Removed [No More Silver in Castle Volkihar](https://www.nexusmods.com/skyrimspecialedition/mods/79339)
+
+__SimonRim Profile:__
+- Added a few patches that were missing
+- Added [Arena - Encounter Zone Scaling for Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/131925)
+- Added [Legion - A Bruma Encounter Zone Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/108588)
 
 #### [8.0.0.2 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=557025){:target="_blank" rel="noopener"}
 - Fixed issue where Farkas was sent to the void, never to return
@@ -52,9 +54,6 @@ title: Changelog
 - Fixed "designated write target" launch error
 - Moved Keizaal's preconfigured settings to their own mod so that they aren't accidently overridden
 - Fixed issue where some location records weren't being forwarded to `Occlusion.esp`
-- Fixed issue where [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) shrines could not be prayed at in the SimonRim profile
-- Fixed issue where Pilgrim shrines would overlap with Khajiit caravan tents in the SimonRim profile
-- Fixed issue where some beds in inns were misaligned in the SimonRim profile
 - Improved snow matching
 - Added [1st Person Greatsword Idle Animation Fix](https://www.nexusmods.com/skyrimspecialedition/mods/75031)
 - Added [All Thieves Guild Jobs Concurrently](https://www.nexusmods.com/skyrimspecialedition/mods/14883)
@@ -99,6 +98,11 @@ title: Changelog
 - Removed [Trainwreck - A Crash Logger](https://www.nexusmods.com/skyrimspecialedition/mods/106440)
 - Made [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080) optional (disabled by default)
 - Removed obsolete widescreen patches
+
+__SimonRim Profile:__
+- Fixed issue where [Pilgrim](https://www.nexusmods.com/skyrimspecialedition/mods/54099) shrines could not be prayed at
+- Fixed issue where Pilgrim shrines would overlap with Khajiit caravan tents
+- Fixed issue where some beds in inns were misaligned
 
 # [8.0.0 - The Trade Winds Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=550075){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/8.0.0.png)
