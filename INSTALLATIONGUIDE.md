@@ -109,7 +109,7 @@ If you're looking for a different experience, Keizaal also includes a secondary 
 
 ### Mod Configuration
 
-All of the Mod Configuration Menus and .inis in Keizaal (found in the "Keizaal Settings" mod) have been pre-configured to the recommended settings. The only thing you need to do when you start a new game is play.
+All of the Mod Configuration Menus and .inis in Keizaal have been pre-configured to the recommended settings. The only thing you need to do when you start a new game is play.
 
 # Updating
 
@@ -150,6 +150,10 @@ Several mods in Keizaal's Mod Organizer have notes attached to them. If the note
 If you want to edit some of Skyrim's settings, you can do so by manually editing your base game's .ini files. You can do so by navigating to the top of Mod Organizer, clicking on the puzzle piece, then selecting "INI Editor".
 
 ![Settings Image](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/7.%20Manual%20.inis.PNG)
+
+Keizaal's Mod Configuration Menu and .ini tweaks can be found in the "Keizaal Settings" mod in Mod Organizer.
+
+![Keizaal Settings](https://raw.githubusercontent.com/Keizaal/Keizaal/refs/heads/main/assets/images/installation%20guide/KeizaalSettings.png)
 
 ---
 
