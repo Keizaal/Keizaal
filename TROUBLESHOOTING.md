@@ -82,11 +82,3 @@ During every update, Wabbajack will clean out the mods folder to ensure that eve
 ![No Delete Image](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/12.%20No%20Delete.PNG)
 
 Please note that offical support for modified installations of Keizaal **WILL NOT** be provided.
-
----
-
-Join [Tate Taylor's community Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} for individual help and guidance.
-
-Offical support for modified verions of Keizaal **WILL NOT** be provided. 
-
-Offical support with manual installation is **NOT OFFERED**. There are simply too many variables that go on during manual installations, and attempting to troubleshoot each user individually is simply not realistic; it would likely be a waste of everyone’s time.
