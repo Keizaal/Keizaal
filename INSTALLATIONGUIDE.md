@@ -20,6 +20,7 @@ title: Installation Guide
 - [Modification](#modification)
   - [Mod Notes](#mod-notes)
   - [Settings](#settings)
+- [Support](#support)
 
 # Information
 
@@ -155,7 +156,7 @@ Keizaal's preconfigured mod settings can be found in the "Keizaal Settings" mod 
 
 ![Keizaal Settings](https://raw.githubusercontent.com/Keizaal/Keizaal/refs/heads/main/assets/images/installation%20guide/KeizaalSettings.png)
 
----
+# Support
 
 If you run into any issues installing Keizaal, please refer to the [Troubleshooting Guide](https://keizaal.github.io/Keizaal/TROUBLESHOOTING.html){:target="_blank" rel="noopener"}. It covers all of the common errors that may occur and will walk you through how to fix them.
 
