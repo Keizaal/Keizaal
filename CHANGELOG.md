@@ -2850,7 +2850,6 @@ __SimonRim Profile:__
 - Added Keening Rework HD
 - Removed BethINI
 
-
 #### [3.1.0.2 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/3.2.2/Keizaal.wabbajack)
 - Updated Faction - Pit Fighter - Revamped to 1.2.3
 - Updated BethINI to 3.5.0
