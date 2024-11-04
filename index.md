@@ -113,6 +113,8 @@ Wyrmstooth and Bruma are some fun new lands to explore, but both share a common 
 
 Tamrielic Distribution is a mod designed for Keizaal. It is basically an all-encompassing integration mod that seeks to mesh various different pieces of official and modded content together to give a better sense of a single cohesive world. A lot of my early mods were various smaller-scale and focused versions of this goal, but Tamrielic Distribution combines them all in a single package and offers support to ensure they all work together nicely. This mod is designed around his modlist and it is the glue that holds the various different worldspaces and weapon packs together and makes sure that all this new content feels natural next to one another.
 
----
+# Closing
 
-I hope this overview of Keizaal was helpful to you. If you like what you've read, consider giving the modlist a try; click [here](https://keizaal.github.io/Keizaal/INSTALLATIONGUIDE.html) to go to the installation guide. If you have any specific questions about the modlist, feel free to contact me (Tate Taylor) on [my community Discord server](https://discord.gg/eYZJFP8) to learn more.
+I hope this overview of Keizaal was helpful to you. If you like what you've read, consider giving the modlist a try; click [here](https://keizaal.github.io/Keizaal/INSTALLATIONGUIDE.html) to go to the installation guide. 
+
+If you have any specific questions about the modlist, feel free to contact me (Tate Taylor) on [my community Discord server](https://discord.gg/eYZJFP8) to learn more.
