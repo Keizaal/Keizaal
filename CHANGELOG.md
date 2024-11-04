@@ -3194,76 +3194,76 @@ __SimonRim Profile:__
 - MCM menus are now completely automated
 
 ### [2.1.1](https://drive.google.com/file/d/11bQc605a8Kx3wBIQdKRxq_xeOpveoiVs/view?usp=sharing)
-- Fixed College of Winterhold z-fighting.
+- Fixed College of Winterhold z-fighting
 
 ## [2.1.0](https://drive.google.com/file/d/18c2KUoMIRxp7NAjAqf952LzRBH7kwrhm/view?usp=sharing)
-- Updated Adamant - A Perk Overhaul to 2.0.
-- Updated Aetherius - A Race Overhaul to 2.0.
-- Added Mundus - A Standing Stone Overhaul.
-- Added the Truth ENB and a host of ENB enhancing mods.
-- Added more texture, mesh, and visual mods than I can realistically list here.
-- Added a whole host of new RaceMenu options including special presets made by people who aided me in Keizaal's development.
-- Swapped Cathedral - Water for Realistic Water Two.
-- Swapped Cathedral - Humans, Mer, and Beastfolk for Tempered Males and Females and Masculine and Feminine Khajiit and Argonians.
-- Swapped The Elder Scrolls - Veydosebrom for Enhanced Landscape's Grass.
-- Fixed Vilkas not properly sparing with the player during Take Up Arms.
+- Updated Adamant - A Perk Overhaul to 2.0
+- Updated Aetherius - A Race Overhaul to 2.0
+- Added Mundus - A Standing Stone Overhaul
+- Added the Truth ENB and a host of ENB enhancing mods
+- Added more texture, mesh, and visual mods than I can realistically list here
+- Added a whole host of new RaceMenu options including special presets made by people who aided me in Keizaal's development
+- Swapped Cathedral - Water for Realistic Water Two
+- Swapped Cathedral - Humans, Mer, and Beastfolk for Tempered Males and Females and Masculine and Feminine Khajiit and Argonians
+- Swapped The Elder Scrolls - Veydosebrom for Enhanced Landscape's Grass
+- Fixed Vilkas not properly sparing with the player during Take Up Arms
 
 ### [2.0.2](https://drive.google.com/file/d/1gyIoxju7Ne5Vo1UsVYl-a26559zqp3Vx/view?usp=sharing)
-- Fixed players being unable to engage Kodlak in the proper dialogue to join the Companions.
-- Fixed Argonian body textures not appearing properly.
-- Added Fix Note icon for SkyUI.
-- Added Landscape Fixes For Grass Mods.
-- Added SkySight Skins - Ultra HD.
-- Added Remove QuickSave Button from SkyUI System Menu.
-- Added Beards.
-- Added Sovngarde HD.
-- Added Sovngarde Awaits!.
-- Added zEdit.
-- Added FallRim Tools.
-- Updated Beyond Skyrim in Skyrim to 1.2.1.
-- Removed Cutting Room Floor.
+- Fixed players being unable to engage Kodlak in the proper dialogue to join the Companions
+- Fixed Argonian body textures not appearing properly
+- Added Fix Note icon for SkyUI
+- Added Landscape Fixes For Grass Mods
+- Added SkySight Skins - Ultra HD
+- Added Remove QuickSave Button from SkyUI System Menu
+- Added Beards
+- Added Sovngarde HD
+- Added Sovngarde Awaits!
+- Added zEdit
+- Added FallRim Tools
+- Updated Beyond Skyrim in Skyrim to 1.2.1
+- Removed Cutting Room Floor
 
 ### [2.0.1](https://drive.google.com/file/d/1KFkJbzI1valk2ke68mmw6PxhpjkZJxhQ/view?usp=sharing )
-- Added Better Shaped Weapons.
-- Updated Cities of the North - Dawnstar to 1.2.
-- Removed Cathedral - Armory (which was mistakenly left in).
-- Removed Better Container Controls for SkyUI.
-- Adjusted install order for More Informative Console to ensure that it works properly.
+- Added Better Shaped Weapons
+- Updated Cities of the North - Dawnstar to 1.2
+- Removed Cathedral - Armory (which was mistakenly left in)
+- Removed Better Container Controls for SkyUI
+- Adjusted install order for More Informative Console to ensure that it works properly
 
 # [2.0.0](https://drive.google.com/file/d/1lO8BH30h0NYAHpcy-lezM82bPxUwboUu/view?usp=sharing)
-- Actually fixed the Imperial Mages in Helgen trying to fight Alduin with their fists.
-- Fixed Z-Fighting between Open Cities Skyrim and DynDOLOD.
-- Added Beyond Skyrim Bruma - Intervention Spells.
-- Added Purist's Vanilla Patch.
-- Added The Northerner Diaries - Immersive Edition.
-- Added Thieves Guild Requirements.
-- Added All Thieves Guild Jobs Concurrently.
-- Added Enhanced Skyrim Factions - The Companions Guild.
-- Added Extended UI.
-- Added a swanky new main menu.
-- Swapped Cathedral Weathers for Obsidian Weathers.
-- Added too many visual and quality-of-life mods to list here. Check the manifest for a full account.
+- Actually fixed the Imperial Mages in Helgen trying to fight Alduin with their fists
+- Fixed Z-Fighting between Open Cities Skyrim and DynDOLOD
+- Added Beyond Skyrim Bruma - Intervention Spells
+- Added Purist's Vanilla Patch
+- Added The Northerner Diaries - Immersive Edition
+- Added Thieves Guild Requirements
+- Added All Thieves Guild Jobs Concurrently
+- Added Enhanced Skyrim Factions - The Companions Guild
+- Added Extended UI
+- Added a swanky new main menu
+- Swapped Cathedral Weathers for Obsidian Weathers
+- Added too many visual and quality-of-life mods to list here. Check the manifest for a full account
 
 ### [1.1.3](https://drive.google.com/file/d/1k0cUw3X5OZBZUmnenAGQ6pW8UQanAkLp/view?usp=sharing)
-- Fixed missing textures for Skyforge Weaponry.
-- Added Forsworn Skinchangers.
+- Fixed missing textures for Skyforge Weaponry
+- Added Forsworn Skinchangers
 
 ### [1.1.2](https://drive.google.com/file/d/1eCgHOLorLFJYxdOdZfsPBANg88BSJWiX/view?usp=sharing)
-- "Fixed" the Imperial Mages in Helgen trying to fight Alduin with their fists.
-- Added some minor conflict resolution fixes in Keizaal Patch.esp.
-- Edited Beyond Skyrim Distribution.esp to prevent some clipping.
-- Removed Dual Wield Parrying.
-- Swapped Cathedral - Armory for the Book of Silence.
-- Added recommended MCM configurations in the Installation Guide.
+- "Fixed" the Imperial Mages in Helgen trying to fight Alduin with their fists
+- Added some minor conflict resolution fixes in Keizaal Patch.esp
+- Edited Beyond Skyrim Distribution.esp to prevent some clipping
+- Removed Dual Wield Parrying
+- Swapped Cathedral - Armory for the Book of Silence
+- Added recommended MCM configurations in the Installation Guide
 
 ### [1.1.1](https://drive.google.com/file/d/1-89EiiQVZQafpy4S1xwokNM5dDw8J-mE/view?usp=sharing )
-- Swapped FNIS for Nemesis.
+- Swapped FNIS for Nemesis
 
 ## [1.1.0](https://drive.google.com/file/d/1BBmPOx7Gvr9J8QabA65YAi8jvpu6ceot/view?usp=sharing )
-- Fixed minor install order issue.
-- Updated Cathedral Weathers and Seasons to 2.0.8.
-- Updated DynDOLOD to 2.8.1.
-- Added a secondary profile to allow users to toggle Open Cities off.
+- Fixed minor install order issue
+- Updated Cathedral Weathers and Seasons to 2.0.8
+- Updated DynDOLOD to 2.8.1
+- Added a secondary profile to allow users to toggle Open Cities off
 
 # [1.0.0](https://drive.google.com/file/d/1K6jvKI8LAZ3z_kTgj7IYABamlbHdodUw/view?usp=sharing )
 - Initial release
