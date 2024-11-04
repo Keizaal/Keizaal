@@ -141,7 +141,7 @@ This means that any additional mods you have installed on top of Keizaal will be
 
 ### Mod Notes
 
-Several mods in Keizaal's Mod Organizer have notes attached to them. If the note icon appears next to a mod, hover over it to read the notes I've added. These notes will give you some additional context about how the mod as been configured.
+Several mods in Keizaal's Mod Organizer have notes attached to them. If the note icon appears next to a mod, hover over it to read the notes. These notes will give you some additional context about how the mod has been configured.
 
 ![Mod Notes Image](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/5.%20Mod%20Notes.PNG)
 
