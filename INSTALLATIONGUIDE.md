@@ -32,7 +32,7 @@ If you run into any issues installing Keizaal, please refer to the [Troubleshoot
 
 ### Automated Downloads
 
-Automated downloads from Nexus are only available through Wabbajack with an active [premium membership](https://users.nexusmods.com/account/billing). If you do not have a premium membership, Wabbajack will prompt you to manually download the necessary files.
+Automated downloads from Nexus are only available through Wabbajack with an active [premium membership](https://users.nexusmods.com/account/billing){:target="_blank" rel="noopener"}. If you do not have a premium membership, Wabbajack will prompt you to manually download the necessary files.
 
 If you activate the premium membership after beginning a Wabbajack install, you can restart Wabbajack to enable automated downloads.
 
