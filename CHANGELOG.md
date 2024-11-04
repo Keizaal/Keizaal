@@ -1522,12 +1522,12 @@ __SimonRim Profile:__
 - Added [Solstheim Objects SMIMed - High Poly Dark Elf Furniture](https://www.nexusmods.com/skyrimspecialedition/mods/53779/?tab=files&file_id=220888)
 - Added [Nilheim - Misc Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/53792/?tab=files&file_id=220941)
 
-#### [4.6.2.2](https://github.com/Keizaal/Keizaal/releases/download/4.6.2.2/Keizaal.wabbajack)
+#### [4.6.2.2 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/4.6.2.2/Keizaal.wabbajack)
 - Actually fixed the Headhunter "cleave" bug
 - Updated [Forget Spell](https://www.nexusmods.com/skyrimspecialedition/mods/51125/?tab=files&file_id=219718)
 - Updated [Guard Dialogue Overhaul SE](https://www.nexusmods.com/skyrimspecialedition/mods/22075?tab=files&file_id=219520)
 
-#### [4.6.2.1](https://github.com/Keizaal/Keizaal/releases/download/4.6.2.1/Keizaal.wabbajack)
+#### [4.6.2.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/4.6.2.1/Keizaal.wabbajack)
 - Fixed issue where Headhunter's "cleave" effects would play whenever closing any container if you had a bounty item in your inventory
 - Updated [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252/?tab=files&file_id=218671)
 - Removed [True Directional Movement Boss Ini Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/53238/?tab=files&file_id=218640)
@@ -1564,7 +1564,7 @@ __SimonRim Profile:__
 - Added [Shovels Bury Bodies](https://www.nexusmods.com/skyrimspecialedition/mods/52984/?tab=files&file_id=217488)
 - Added [Skeleton Replacer HD - SE](https://www.nexusmods.com/skyrimspecialedition/mods/52845/?tab=files&file_id=216765)
 
-#### [4.6.0.1](https://github.com/Keizaal/Keizaal/releases/download/4.6.0.1/Keizaal.wabbajack)
+#### [4.6.0.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/4.6.0.1/Keizaal.wabbajack)
 - Updated [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397/?tab=files&file_id=217169)
 - Added [xLODGen.83.7z](https://mega.nz/file/EcJhgKpY#4Q86Rd1hUepjm233r8Q_7x3fTWx9axJN2CUc8FXrBsg)
 
@@ -1636,14 +1636,14 @@ __SimonRim Profile:__
 - Added Don't Stay in The Water
 - Added Particle Lights for ENB - Nordic Ruins Candles
 
-#### [4.5.2.2](https://github.com/Keizaal/Keizaal/releases/download/4.5.2.2/Keizaal.wabbajack)
+#### [4.5.2.2 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/4.5.2.2/Keizaal.wabbajack)
 - Updated Adamant - A Perk Overhaul
 - Updated Apothecary - An Alchemy Overhaul
 - Removed Halted Stream Mine - Revisied (made redundant with Dungeons - Revisited)
 - Removed Project Clarity AIO (made redudant with Base Coat)
 - Fixed incorrect ownership in Bluesky Manor
 
-#### [4.5.2.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.2.1/Keizaal.wabbajack)
+#### [4.5.2.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/4.5.2.1/Keizaal.wabbajack)
 - Added Apothecary - An Alchemy Overhaul
 
 ### [4.5.2](https://github.com/Keizaal/Keizaal/releases/download/4.5.2/Keizaal.wabbajack)
@@ -1660,7 +1660,7 @@ __SimonRim Profile:__
 - Added Unique Quill of Gemination
 - Added Unique Skulls HD - SE
 
-#### [4.5.1.1](https://github.com/Keizaal/Keizaal/releases/download/4.5.1.1/Keizaal.wabbajack)
+#### [4.5.1.1 Hotfix](https://github.com/Keizaal/Keizaal/releases/download/4.5.1.1/Keizaal.wabbajack)
 - Updated Nilheim BQ Fix
 - Removed Birds and Flocks SSE Edition
 - Removed No Spinning Death Animation LITE
@@ -1877,7 +1877,7 @@ __SimonRim Profile:__
 - Removed Skyrim 3D Trees and Plants
 - Removed Majestic Mountains - Mesh Tangent Space Fixes
 
-#### [4.2.2.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.2/Keizaal.wabbajack)
+#### [4.2.2.1 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.2/Keizaal.wabbajack)
 - Updated Giant Campfires Cast Shadows- Immersive Giant Fire Lighting Overhaul
 - Updated Equip Enchantment Fix
 - Updated Whiterun Mesh Fixes
@@ -1920,7 +1920,7 @@ __SimonRim Profile:__
 - Regenned LODs
 - Fixed crash in Blackreach
 
-#### [4.2.0.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.0.1/Keizaal.wabbajack)
+#### [4.2.0.1 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/4.2.0.1/Keizaal.wabbajack)
 - Updated Ancient Nord Stalhrim
 - Added Immersive Faction and Character Attire
 - Added aMidianBorn Iron Armor
@@ -1981,13 +1981,13 @@ __SimonRim Profile:__
 - Removed Remiro's Fort Dawngaurd
 - Removed Dwemer Tech Glowmapped
 
-#### [4.1.0.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.0.2/Keizaal.wabbajack)
+#### [4.1.0.2 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.0.2/Keizaal.wabbajack)
 - Updated Scrambled Bugs
 - Updated Mainland Stahlrim
 - Added Dwemer Tech Glowmapped
 - Fixed formID issue with Keizaal Tweaks - Tiber Septim Room Improvements.esp.
 
-#### [4.1.0.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.0.1/Keizaal.wabbajack)
+#### [4.1.0.1 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/4.1.0.1/Keizaal.wabbajack)
 - Added Just Ice
 - Added Skyrim 3D Icefloes
 - Added Tiber Septim Room Improvement
@@ -2070,14 +2070,14 @@ __SimonRim Profile:__
 - Added Misc Tweaks - Night Eye Redux
 - Added Madena - The Pacifist
 
-#### [4.0.8.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8.2/Keizaal.wabbajack)
+#### [4.0.8.2 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8.2/Keizaal.wabbajack)
 - Updated Project Clarity
 - Updated ELFX Fixes
 - Added Horse Stamina Widget - Script Free
 - Added Cleaned Skyrim Textures
 - Reduced the modlist size by nearly half
 
-#### [4.0.8.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8.1/Keizaal.wabbajack)
+#### [4.0.8.1 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.8.1/Keizaal.wabbajack)
 - Updated Lucien
 - Updated Iconic Statues
 - Updated Copy Paste in Console
@@ -2124,13 +2124,13 @@ __SimonRim Profile:__
 - Added various missing fixes for Widescreen
 - Removed Alduin's Wall Main Menu Replacer
 
-#### [4.0.6.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6.2/Keizaal.wabbajack)
+#### [4.0.6.2 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6.2/Keizaal.wabbajack)
 - Removed Project Clarity AIO
 - Removed aMidianBorn Book of Silence AIO
 - Added individual unpacked Project Clarity modules
 - Added individual unpacked aMidianBorn Book of Silence Modules
 
-#### [4.0.6.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6.1/Keizaal.wabbajack)
+#### [4.0.6.1 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.6.1/Keizaal.wabbajack)
 - Updated Mysticism
 - Regenned LODs
 - Improved performance related to particle lights
@@ -2200,7 +2200,7 @@ __SimonRim Profile:__
 - Fixed the Battle of Whiterun (Imperial) not progressing correctly
 - Fixed some holes
 
-#### [4.0.4.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.4.1/Keizaal.wabbajack)
+#### [4.0.4.1 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.4.1/Keizaal.wabbajack)
 - Updated R.A.S.S
 - Updated Iconic's Paragon Gems
 - Added More Lights for ENB - Paragon Gems
@@ -2267,7 +2267,7 @@ __SimonRim Profile:__
 - Iconic's Gray Fox Bust
 - Added Horses for Followers
  
-#### [4.0.2.5](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.5/Keizaal.wabbajack)
+#### [4.0.2.5 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.5/Keizaal.wabbajack)
 - Updated Radiant Requiremnets
 - Updated OnHit Animations Framework
 - Updated Adamant
@@ -2283,7 +2283,7 @@ __SimonRim Profile:__
 - Removed Cathedral - Humans, Mer, and Beastfolk
 - Removed various graphics mods in preperation for graphical rework
 
-#### [4.0.2.4](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.4/Keizaal.wabbajack)
+#### [4.0.2.4 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.4/Keizaal.wabbajack)
 - Updated More Craftable Equipment
 - Updated Blade and Blunt
 - Updated Arena
@@ -2297,7 +2297,7 @@ __SimonRim Profile:__
 - Added PraedythXVI's ENB Light Staves
 - Fixed "Running Wild" quest in Whiterun, previously it was broken and uncompletable
 
-#### [4.0.2.3](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.3/Keizaal.wabbajack)
+#### [4.0.2.3 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.3/Keizaal.wabbajack)
 - Updated Assorted Mesh Fixes
 - Added No Sunlight Through Mountains
 - Added CC's Remastered Murals
@@ -2305,14 +2305,14 @@ __SimonRim Profile:__
 - Added Iconic's Saerek and Torsten Skull Key
 - Fixed the Riften Crash
 
-#### [4.0.2.2](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.2/Keizaal.wabbajack)
+#### [4.0.2.2 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.2/Keizaal.wabbajack)
 - Updated Assorted Mesh Fixes
 - Added Morrowind Threads - A Netch Leather Integration Mod
 - Removed Creation Club Integration - Netch Leather Armor
 - Fixed missing properties in a few quests around Whiterun
 - Fixed dark af lighting.
 
-#### [4.0.2.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.1/Keizaal.wabbajack)
+#### [4.0.2.1 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.2.1/Keizaal.wabbajack)
 - Added Practical Pirate Armor
 - Added Practical Pirate Armor Distribution
 - Removed Simple Weapon Parrying due to CTD issues
@@ -2332,7 +2332,7 @@ __SimonRim Profile:__
 - Fixed CTD issue in Riften (hopefully)
 - Fixed misc landscape issues
 
-#### [4.0.1.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1.1/Keizaal.wabbajack)
+#### [4.0.1.1 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1.1/Keizaal.wabbajack)
 - Fixed Serenity and Tactical Valtheim being excluded from the .wabbajack.
 
 ### [4.0.1](https://github.com/PierreDespereaux/Keizaal/releases/download/4.0.1/Keizaal.wabbajack)
@@ -2404,3 +2404,867 @@ __SimonRim Profile:__
 - Removed Legion Signifers
 - Removed Red Dragon Crown
 - Removed Predator Vision
+
+### [3.5.2](https://github.com/PierreDespereaux/Keizaal/releases/download/3.5.2/Keizaal.wabbajack)
+- Updated moreHUD
+- Updated Cathedral 3D Mountain Flower
+- Updated Assorted Mesh Fixes
+- Updated Tale of Two Mers
+- Added Simple Werewolf Favorite Howls Menu
+- Added First Person Dialogue Camera
+- Added AllGUD Conditions Fix
+- Added Project Clarity - Architecture
+- Added Dragonsreach Balcony Landscape Fix
+- Added Civil War Deserters
+- Added Immersion and Lore Continuity
+- Added Font Overhaul
+- Added Dragon Wall Wisdom
+- Added Glowing Mushrooms by Mari
+- Added Glorious Doors of Skyrim SE
+- Added Catir's College Creatures
+- Added Dynamic Volumetric Lighting and Sun Shadows
+- Removed EVG Animation Variance
+- Removed FPS Stabilizer
+- Downscaled several overly large textures to improve performance
+
+#### [3.5.1.2 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/3.5.1.2/Keizaal.wabbajack)
+- Updated More to Say
+- Updated Morthal Quest Coffin Retexture
+- Updated Project Clarity - Creatures
+- Updated DynDOLOD
+- Updated SMIM - Quality Addon
+- Updated moreHUD
+- Added Saddlebags
+- Added Parapet's Vanity SmoothCam Preset
+- Fixed MO2 error warnings
+- Fixed missing bed textures
+- Fixed Peltapalooza and Landscape Fixes for Grass Mods being unchecked in MO2
+
+#### [3.5.1.1 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/3.5.1.1/Keizaal.wabbajack)
+- Fixed several bugs
+
+### [3.5.1](https://github.com/PierreDespereaux/Keizaal/releases/download/3.5.1/Keizaal.wabbajack)
+- Updated Cathedral Player and NPC Overhaul - HMB II
+- Updated 2K Imperial Tents 
+- Updated Beard of Power
+- Updated Mod Organizer 2
+- Fixed several small mistakes within the .inis and MO2
+- Fixed a bug that prevented users from claiming Bleak Falls Tower (hopefully)
+- Reorganized Keizaal's Mod Organizer
+
+## [3.5.0](https://github.com/PierreDespereaux/Keizaal/releases/download/3.5.0/Keizaal.wabbajack)
+- Updated OnHitAnimation Framework
+- Updated DynDOLOD
+- Added BethINI
+- Added ENB and ReShade Manager
+- Added XP32 Maximum Skeleton Special Edition - Fixed Scripts
+- Added WiZkiD Landscape and Grass
+- Added Carcette's Retribution
+- Added Skyrim Skill Uncapper
+- Added Skyrim Skill Uncapper - Adamant Arena
+- Removed Enhanced Landscapes - Grass
+
+#### [3.4.1.2 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/3.4.1.2/Keizaal.wabbajack)
+- Updated DynDOLOD
+- Updated Assorted Mesh Fixes
+- Updated XP32
+- Updated Class Sprinting Redone
+- Added CC's Alduin's Wall
+- Added A Fitting Throne for Vyrthur
+- Added Dunmerized Gray Quarter
+- Added Morthal Quest Coffin Retexture
+- Added Argonian Shouts Revoiced
+- Fixed missing FNIS.esp
+- Removed even more redundant mods
+
+#### [3.4.1.1 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/3.4.1.1/Keizaal.wabbajack)
+- Updated Assorted Mesh Fixes
+- Updated Particle Lights for ENB - Ingredients
+- Added Practical Female Armor
+- Added Practical Female Hide Armor
+- Added Practical Female Blades Armor
+- Added Male Horns for Female Iron Helmet
+- Added Give Beggars Food
+- Added The Companions Ain't Hachikos
+- Added Crispy Dumplings
+- Fixed CTD related to Simplified Immersive Patrols, the mod have been removed
+- Fixed issue where the Jagged Crown wouldn't be removed from your inventory
+- Removed a few more redundant mods
+
+### [3.4.1](https://github.com/PierreDespereaux/Keizaal/releases/download/3.4%2C1/Keizaal.wabbajack)
+- Updated Better Dynamic Ash
+- Updated iEquip
+- Updated Misc Tweaks - Better Horses
+- Updated QuickLoot
+- Updated Mysticism
+- Updated Faction - Pit Fighter - Revamped
+- Added WiZkiD Trees Selection
+- Added WiZkiD Variety
+- Added WiZkiD Water Wells with Real Water
+- Added Better Combat Escape
+- Added HMB Facegen Patches
+- Added FAR - Forgotten Argonian Roots
+- Added The 418th Step
+- Added Word Wall Transperency Fix
+- Added SNOW
+- Added Gamepad++ (disabled by default)
+- Added Yes I'm Sure
+- Added Netch Leather Armor on Solstheim
+- Added Nib's Lucien Face Replacer
+- Added High Poly Sweet Rolls
+- Added Wash That Blood Off
+- Added High Poly Gleamblossoms
+- Added Sales Overflow Solved
+- Added Name Those Ash Piles
+- Added Alduin's Wall Main Menu Replacer
+- Added Sovngarde Main Menu Music
+- Added Frozen Bethesda Intro
+- Added Cooleoj's Revisited Series
+- Added Skyrim Sewers 4
+- Added More to Say
+- Removed Enhanced Vanilla Trees
+- Removed a ton of redundant mods
+- Reorganized the load order from the ground up
+
+## [3.4.0](https://github.com/PierreDespereaux/Keizaal/releases/download/3.4.0/Keizaal.wabbajack)
+- Updated Project Clarity - Effects
+- Updated Project Clarity - Creatures
+- Updated iEquip
+- Updated DynDOLOD
+- Added RedBag's Solitude
+- Added The Paarthurnax Resolution
+- Added Dawnguard Rewritten - Arvak
+- Added Vampire Lord Armor
+- Added Blue Palace Terrace
+- Added Enhanced Reanimation
+- Added No Nirnroot Glow
+- Added Assorted Tiny Tweaks
+- Added Falmor Blood Elixir Replacer
+- Added Stros M'Mai Rum Replacer
+- Added Orphan Rock Coven
+- Added Somebody Elses' Problem - Ignore Forsworn Conspiracy
+- Added Windhelm Enhanced - Metalwork
+- Added Windhelm Enhanced - Gray Quarter Flags
+- Added Unique Duplicates
+- Added 3D Juniper Trees and Berries
+- Added Daggerfall Inspired Sanguine
+- Added Foreign Gear for Foreigners
+- Removed the Parthurnaax Ultimatum
+- Added Bearnado Markarth Mashup
+- Removed Immersive Realistic Party Clothing Overhaul Enhanced Revised Special Edition
+- Tweak the Truth ENB to better display particle lights and provide a more dynamic day-night cycle
+- Seperated Keizaal Patch.esp into individual .esps based on what mods they effect
+
+#### [3.3.4.3 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/3.3.4.3/Keizaal.wabbajack)
+- Updated DynDOLOD
+- Project Clarity - Effects
+- Updated OnHit Animations Framework
+- Updated Stagger Direction Fix
+- Updated ELFX Fixes
+- Added WiZkiD Carriages
+- Added Bent Pines II
+- Added Unique Stormcloak Gear
+- Added Windhelm Enhanced - 500 Companions Wall HD Retexture
+- Regenned for grass LOD
+- Put the Christmas decorations away for the year
+- Fixed issue that would prevent users from downloading Keizaal Resources.7z automatically.
+
+#### [3.3.4.2 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/3.3.4.2/Keizaal.wabbajack)
+- Updated DynDOLOD
+- Updated Jazbay by Mari to 1.1.1
+- Updated ELFX Fixes to 5.5.0
+- Added Vampire Lord Serana
+- Added Torom the Spitz
+- Added Obscure's Faces of Winterhold
+- Added GKB Waves
+- Added More Chainmail
+- Added Immersive College NPCs
+- Added Mannequin Stay Put
+- Added a little bit of Christmas cheer to the main menu and loading screens.
+
+#### [3.3.4.1 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/3.4.6/Keizaal.wabbajack)
+- Added Closing Time
+- Removed NPC AI Process Position Fix
+- Fixed some minor load order issues
+
+### [3.3.4](https://github.com/PierreDespereaux/Keizaal/releases/download/3.4.5/Keizaal.wabbajack)
+- Updated Equip Enchantment Fix to 1.2.1
+- Updated Unofficial Skyrim Special Edition Patch to 4.2.4b
+- Updated Depths of Skyrim to 1.1.7
+- Updated Project Clarity - Effects to 2.0.1
+- Added Unique Ancient Shrouded Armor
+- Added SkyHUD
+- Added Jazbay by Mari
+- Added Spiky Grass by Mari
+- Added Nirnroot buy Nari
+- Added Dragons Tongue by Mari
+- Added Logical Outfits and Classes for Dark Brotherhood Forever
+- Added Oblivion-like Loading Screens
+- Added The Elder Scrolls: Legends Loading Screens
+- Added UHDAP Replacer for Talkative Dragons
+- Added Unique Border Gates
+- Added Civil War Intro Scenes Play Once
+- Added Cinematic Intro
+- Added Yet Another Main Menu
+- Added Whiterun Hold Refine
+- Added Markarth Side Refine
+- Added Stormcloak Rebellion Refine
+- Added Housecarl Companions Refine
+- Added Natural Teeth
+- Added Hallgarth's Additional (Vanilla) Hair
+- Added Natural Eyes
+- Added WICO - Windsong Immersive Character Overhaul
+- Added Skyrim Landscape and Water Fixes
+- Added WiZkiD Carriages
+- Added Cathedral Player and NPC Overhaul - HMB II
+- Added More Werewolves
+- Added Unique Stormcloak Gear
+- Removed Enhanced Lighting for ENB
+- Removed Darker Nights for Obsidian Weathers
+- Removed Better Shrouded Armor - Ancient Replacer Only
+- Removed Better Telekinesis
+
+### [3.3.3](https://github.com/PierreDespereaux/Keizaal/releases/download/3.4.4/Keizaal.wabbajack)
+- Updated Project Clarity suite
+- Updated OnHit Animations Framework to 1.1.3
+- Updated Script Free Flinching to 1.3.1
+- Updated Unofficial Skyrim Special Edition Patch to 4.2.4
+- Updated Equip Enchantment Fix to 1.2.1
+- Added Stagger Direction Fix
+- Added Dreams Unique Horses
+- Added Sepolcri - A Complete Burial Overhaul
+- Added Simple Horse
+- Added Waterbreathing Breathless Emerge
+- Added Feed the Animals
+- Added Smart No More Stupid Dog
+- Added Quiet Dog - Stand or Lying
+- Added Aim Fix
+- Added True Faces
+- Added Real Rabbits
+- Added Birds and Flocks
+- Added Improved Horse Step Sounds
+- Added Price and Pauper
+- Added Unique Dragon Aspect
+- Added Scarecrows of Skyrim
+- Added Shadows of Sunlight - In Small Exterior Worldspaces
+- Added 3-Vane Fletching for Ebony Arrows
+- Added Cuyi's Bosmeri Antlers
+- Added Solstheim Lighthouse
+- Added Skaal Fishing Camp
+- Added More Tavern Idles
+- Added R.A.S.S. - Rain Ash and Snow Shaders
+- Added RedBag's Dragonsreach
+- Added Red Dragon Crown
+- Added Legion Signifiers
+- Added Unique Ancient Shrouded Armor
+- Added SkyHUD
+- Added Beasty Greatsword
+- Added Jazby by Mari
+- Added Spiky Grass by Mari
+- Added Nirnroot by Mari
+- Added Dragon's Tongue by Mari
+- Added Logical Outfits and Classes the Dark Brotherhood Forever
+- Removed Better Shrouded Armor - Ancient Replacer Only
+- Removed High Poly Rabbit
+
+#### [3.3.2.1 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/3.4.3/Keizaal.wabbajack)
+- Fixed issue between AllGUD an the skeleton mesh.
+- Updated zxlice hitStop to 0.9.3a
+- Updated Stockades of Skyrim 3D to 0.5.0
+- Updated DynDOLOD to 3.0.0 alpha 10
+- Added Hearthfire Display Case Fix
+- Added Realistic Husky Sounds
+- Added Vigilance is a Husky
+- Added Attack Dog Replacer
+- Added Depths of Skyrim
+- Added Unique Doors for CoTN Dawnstar
+- Added Lucien Lachance Restored
+- Added Swift Steeds Shadowmere Mustang Mare
+- Added Predator Vision - Vampire, Werewolf, and Khajiit
+- Added Riekling Barrels SMIM
+
+### [3.3.2](https://github.com/PierreDespereaux/Keizaal/releases/download/3.4.2/Keizaal.wabbajack)
+- Updated Adamant - A Perk Overhaul to 4.2.3
+- Updated The Falkreath Hauntings to 2.0.0
+- Updated No Grass in Objects to 6.0.0
+- Updated Unoffical Skyrim Special Edition Patch to 4.2.4
+- Updated all Project Clarity modules
+- Updated DynDOLOD to 3.0.0
+- Regenned all LODs to high detail with ultra trees.
+- Added Essential Favorites
+- Added Spice of Life - Orc Longhouses
+- Added Difficulty Balance
+- Added Tale of Two Mers - An Armor Variant Mod
+- Added DVA - Dynamic Vampire Appearance
+- Added Telvanni Reborn
+- Added Frankly HD Masque of Clavicus Vile
+- Added Frankly HD Dawnguard Armor and Weapons
+- Added Project Clarity - Statues
+- Added Frankly HD Lockpicking Interface
+- Added Remiros' Ebony Blade HD
+- Added Keening 4K
+- Added Skyland AIO
+- Added Raven Rock - Fix Exit on Horseback
+- Added Dreams's Unique Dogs
+- Added Shiny Texture Fix for SRO
+- Added Rudy HD - More Lights for ENB
+- Added Near Vanilla Project - Temple of Kynareth
+- Added Near Vanilla Project - Eye of Magnus
+- Added Near Vanilla Project - Portal to Sovngarde
+- Added WM's Flora Fixes - Revamped
+- Added Perfect Terrain LOD for Skyrim Realistic Overhaul
+- Added Unique Horksbane
+- Added Relationship Dialogue Overhaul
+- Added Guard Dialogue Overhaul
+- Added Realistic AI Detection - Lite
+- Added Manor Roads
+- Added Blackreach Tentacle Mesh Fix
+- Added Stockades of Skyrim 3D
+- Added Hearthfire Map Marker Fix
+- Added Immersive Patrols
+- Added Misc Tweaks - No Starting Spells
+- Added Misc Tweaks - Outfit Tweaks
+- Added Misc Tweaks - Better Horses
+- Added Misc Tweaks - Better Ancient Knowledge Perk
+- Added Civil War Aftermath
+- Added Morrowloot Miscellania - Dremora Bound Weapons
+- Added Beast Skeletons - Revised
+- Added Better Shrouded Armor SSE - Ancient Replacer Only
+- Removed Noble Skyrim
+- Removed HD LODs
+- Removed Osmodius
+- Removed Nordic Locks
+- Removed Rally's Tal Mithryn
+- Removed Rally's All the Things
+- Removed Rally's Solstheim Landscapes
+- Removed Rally's Reikling Settlements
+
+### [3.3.1](https://github.com/PierreDespereaux/Keizaal/releases/download/3.4.1/Keizaal.wabbajack)
+- Updated Project Clarity - Effects to 1.3.1
+- Added Elven Steel Weapons
+- Added Diverse Werewolves Collection
+- Added Covered Entrances
+- Added Red Dragon Cultists
+- Added Better Claws and Gauntlets
+- Added Tamriel Master Lights
+- Added Blowing in the Wind
+- Added Equip Enchantment Fix
+- Added Better Telekinesis
+- Added zclice hitStop
+- Added Centered Blue Palace Throne 
+- Added Enhanced Light and FX
+- Added Enhanced Lights for ENB
+- Added Forgotten Retex Project
+- Added Essential Favorites
+- Added Ghosts of the Deathbells
+- Added Diverse Skyrim
+- Added Tale of Two Mer - A Race Armor Expansion
+- Removed Luminosity
+- Removed Window Shadows
+- Made Faction - Pit Fighter optional
+- Expanded Towns and Cities still under maintenance
+- Moon and Star still under maintenance
+
+## [3.3.0](https://github.com/PierreDespereaux/Keizaal/releases/download/3.4.0/Keizaal.wabbajack)
+- Added Weapon Speed Effect Fix
+- Armor Mesh Fixes
+- Added Hjaltbrand
+- Added Vastly More Unique Visage of Mzund
+- Added Gemling Queen Jewelery
+- Added WiZkiD - Hall of the Dead Stained Glass Windows
+- Added WiZkiD - Pavo's House
+- Added Rally's Butterfiles, Moths, and Torchbugs
+- Added Realistic Skin Shaders - Falmer and Hagravens
+- Added Realistic Skin Shaders - Giants
+- Added Eyes AO Clipping Fix
+- Added Improved Eye Reflections
+- Added Northborn Scars
+- Added Window Shadows
+- Added Bee and Bard Unique Drinks
+- Added Near Vanilla Project - Portal to Sovngarde Redone
+- Added Quality Cubemaps
+- Added Volcanic Heat Haze
+- Added Rally's Raven Rock
+- Added Rally's Solstheim Landscapes
+- Added Cleaned Skyrim Textures
+- Added Scaleform Translation Plus Plus
+- Added Equip Enchantment Fix
+- Added Classic Sprinting Redone
+- Added NPC AI Process Position Fix
+- Added Storefront
+- Added Favorite Misc Items
+- Added Loki's Wade in Water
+- Added Creation Club Armor Textures Upscaled
+- Added Project Clarity - Effects
+- Added Durnehviir Resurrected
+- Added Stones of Barzenziah Whereabout
+- Added Gildergreen Regrown
+- Added Finding Helgi and Laelette
+- Added Finding Derkeethus
+- Added Finding Susanna Alive
+- Added Finding Velehk Sain
+- Added Bibliophile's Arcanaeum
+- Added Bounty Preview
+- Added The Falkreath Hauntings
+- Added Simply Knock
+- Added Grahl - The Ice Troll
+- Added Misc. SMIM Fixes
+- Added Bogmort - Swamp Monsters of Morthal
+- Updated iEquip to 1.5.1
+- Updated Blended Roads Redone to 1.5.1
+- Updated No Grass in Object to 5.0.0
+- Updated Unofficial Skyrim Creation Club Content Patch to 5.6.0
+- Removed Closing Time
+- Removed The Decayed Dragon - Durnehviir
+- Removed Moon and Star for maintenance
+- Removed Expanded Towns and Cities for maintenance
+- Alphabetized the entire modlist in MO2 where possible.
+
+## [3.2.0](https://github.com/PierreDespereaux/Keizaal/releases/download/3.3.0/Keizaal.wabbajack)
+- Updated Mod Organizer 2 to 2.3.2
+- Updated SKSE64 to 2.0.19
+- Updated Rodryk's Dragon Bridge to 1.0.3
+- Updated No Grass in Objects to 3.0.0
+- Updated Misc. Blended Road Fixes to 1.1.0
+- Added the Shadowscale Set
+- Added Beast Hair Horn Beard and Brow
+- Added Expanded Towns and Cities
+- Added .NET Script Framework
+- Added Dark Brotherhood Mask Fix
+- Added iEquip (disabled by default in the MCM)
+- Added Papyrus Extender
+- Added East Empire Company Armor
+- Added Trees with Trunks
+- Added Moon and Star
+- Added Moon and Star Fixes
+- Added Beards of Power
+- Added QuickLoot
+- Added Dlizzio's Mesh Fixes
+- Added Smooth Windhelm Ground Meshes
+- Added East Empire Strongbox Logo
+- Added Rustic Maps
+- Added Rustic Amulets
+- Added Chill Out Aela
+- Added Bring Meeko to Lod
+- Added Jagged Crown - Replacer
+- Added Keening Rework HD
+- Removed BethINI
+
+
+#### [3.1.0.2 Hotfix](https://github.com/PierreDespereaux/Keizaal/releases/download/3.2.2/Keizaal.wabbajack)
+- Updated Faction - Pit Fighter - Revamped to 1.2.3
+- Updated BethINI to 3.5.0
+- Added Flinching
+- Added Jump Behavior Overhaul
+- Added Re-timed Hit Frames
+- Added SSE FPS Stabilizer
+- Added Modern Clap Bug Fix
+- Regenerated LODs
+
+#### [3.1.0.1 Hotfix](https://drive.google.com/uc?export=download&id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9)
+- Updated Faction - Pit Fighter - Revamped to 1.2.1
+- Added Improved Closefaced Helmets
+- Added Ulfric Wears the Jagged Crown
+- Added Simple Offence Suppression
+
+## [3.1.0](https://drive.google.com/uc?export=download&id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9)
+- Updated Faction - Pit Fighter - Revamped to 1.2.0
+- Updated EVG Conditional Idles to 1.4.0
+- Updated No Grass in Objects to 2.0.0
+- Updated Project Clarity - Armor to 2.2.0
+- Updated 3D Whiterun Trellis to 1.4.0
+- Added Rodryk's Dragon Bridge
+- Added Toxic - A Venom Mod
+- Added Dragonborn - All Maker Lunatism
+- Added DAR - Dynamic Swimming
+- Added Face Discoloration Fix
+- Added 3D Solitude Market Trellis
+- Removed Majestic Landscapes
+- Removed Stronger Swimming Animations
+
+#### [3.0.1.1 Hotfix](https://drive.google.com/uc?export=download&id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9)
+- Fixed issue that had users downloading way more archives than required.
+- Added Faction - Pit Fighter - Revamped
+- Added GIST - Genuinely Intelligent Soul Trap
+- Added Creation Club Crossbow integration (disabled by default)
+
+### [3.0.1](https://drive.google.com/uc?export=download&id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9)
+- Updated Briaka's Draugr Overhaul to 3.0.1
+- Added Faction - Pit Fighter
+- Added Lawbringer 
+- Added Incognito
+- Added No Grass in Objects
+- Added Dot Crosshair
+- Added iHUD - Immersive HUD
+- Added SmoothCam
+- Added Classic Morag Tong Armor Replacer
+- Added 3D Snowberries
+- Added Movement Behavior Overhaul
+- Added Crosshair-aligned Crossbow
+- Added Metallurgy - Ingots, Ore, and Veins HD
+- Added Bounty Hunter - Bounty Quest Tweaks
+- Added Salmon Roe Replacer
+- Added Remiros' Auri-el HD Redone
+- Added Remiros' Wabbajack
+- Added Remiros' Fort Dawnguard
+- Added Skyrim Unbound (unticked by default)
+- Added Alternate Conversation Camera (unticked by default)
+- Added Creation Club Armor Integration (unticked by default)
+- Removed CC's Ore Veins
+
+#### [3.0.0.1 Hotfix](https://drive.google.com/uc?export=download&id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9)
+- Added EVG Animation Variance
+- Added Cathedral 3D Pine Grass
+- Updated Snowberries by Mari to 1.3.0
+- Fixed an issue that caused A Quality World Map to not appear correctly.
+- Fixed an issue that caused 3D Mountain Flowers to not appear correctly.
+
+# [3.0.0](https://drive.google.com/uc?export=download&id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9)
+- Updated all outdated mods
+- Updated Unique Weapons for Snow Elves
+- Added Scion - A Vampire Overhaul
+- Added Adamantine Addons - Shrines and Amulets
+- Added Cities of the North - Winterhold
+- Added Thrones of Skyrim
+- Added Project Clarity - Creature Textures Redone
+- Added Majestic Landscapes
+- Added Underground - a dungeon texture overhaul
+- Added Soul Carin HD
+- Added Real Ice
+- Added 3D Whiterun Trellis
+- Added ElSopa talos Statue HD
+- Added aMidianBorn Dark Elven Armor - Remastered
+- Added Snow Berries by Mari
+- Added Cathedral - Mountain Flowers 3D
+- Added Red Mountain Erupts
+- Removed Beyond Skyrim - Bruma
+
+### [2.7.1](https://drive.google.com/uc?id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9&export=download)
+- Updated Aetherius - A Race Overhaul to 2.2.0
+- Updated CC's Enhanced Ore Veins to 8.0.1
+- Updated Water for ENB to 1.2.0
+- Updated moreHUD to 3.8.0
+- Updated moreHUD Inventory Edition to 1.0.17
+- Updated Rudy HQ - Hay SE to 1.2.0
+- Updated SSE Engine Fixes to 5.3.5
+- Updated Dynamic Distant Objects LOD - DynDOLOD to 2.8.4
+- Fixed missing assets for Beyond Skyrim - Bruma
+
+## [2.7.0](https://drive.google.com/uc?id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9&export=download)
+- Added Oil
+- Added Blacksmith Forge Water Fix
+- Added JS Lockpicking UI
+- Added JS Purses and Septims
+- Added Rustic Dragons
+- Added Deadly Spell Impacts
+- Updated Blade and Blunt to 1.1.2
+- Updated Engine Fixes to 5.3.3
+- Updated I'm Walkin' Here to 1.5.0
+- Updated Tavern AI Fix to 1.1.0
+- Updated Adamant to 3.0.2
+- Updated XP32 to 4.7.2
+- Updated Embers HD to 1.3.9
+- Updated Open Cities Skyrim to 3.1.6
+- Updated 3D High Hrothgar Steps to 1.0.1
+- Updated MgfFix to 1.5.4
+- Updated Arctic to 2.1.0
+- Updated Inferno to 4.1.0
+- Updated Closing Time to 2.3.0
+
+## [2.6.0](https://drive.google.com/uc?id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9&export=download)
+- Added Book Covers of Skyrim
+- Added Project Clarity
+- Added Authentic Eyes
+- Added Flowers and Plants Mesh Fix SE
+- Added Beyond Skyrim - Bruma Tree LOD Billboards
+- Updated Nordic Snow to 3.4.3
+- Updated SSE Engine Fixes to 5.2.0
+-  Updated Aetherius to 2.1.3
+- Updated Adamant to 2.1.7
+- Updated Briraka's Draugr Overhaul to 2.5.0
+- Updated Mundas to 1.1.0
+- Updated Misc Retexture Project to 2.2.1
+- Updated Blade and Blunt to 1.1.0
+- Updated Enhanced Vanilla Trees to 2.0.0
+
+### [2.5.11](https://drive.google.com/uc?id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9&export=download)
+- Updated Adamant to 2.1.6
+- Updated DynDOLOD to 2.8.2
+- Updated Majestic Mountains to 3.10
+- Updated Improved College Entry - Questline Tweaks to 2.7.0
+- Updated Feral - Claw Unarmed Attacks for Beast Races to 2.0.0
+
+### [2.5.10](https://drive.google.com/uc?id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9&export=download)
+- Added Stormfang - Blade of Unending
+- Added Rally's Tel Mithryn
+- Added Unique Horksbane
+- Updated Pirates Wield Cutlasses to 2.2.0
+- Updated Pirate's Life for Me to 1.0.2
+- Updated The Vigilants New Clothes to 1.0.2
+- Updated Majestic Mountains to 3.0.0
+- Updated Better Dynamic Majestic Mountains to 8.0.0
+- Updated 360 Movement Behavior to to 1.3.2
+- Updated Alik'r Aren't Welcome to 1.0.1
+- Updated Sovngarde Awaits!
+
+### [2.5.9](https://drive.google.com/uc?id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9&export=download)
+- Added Unofficial Creation Club Content Patches (disabled by default)
+- Added the Vigilant's New Clothes (disabled by default)
+- Added Pirate's Life for Me (disabled by default)
+- Added Diverse Redguard Clothes (disabled by default)
+- Updated Adamant to 2.1.5
+- Fixed missing Better Shaped Weapons meshes
+- Distributed Chitin Weapons to the Reavers on Solstheim
+- Fixed visual bug with the Chitin Sword
+- Restricted crafting Beyond Skyrim variants of weapons and armor per province to keep the crafting menu clean
+- Removed Beyond Skyrim recipes for items that were impossible to craft
+- Restricted Beyond Skyrim Ebony Jewelry to require the Ebony Smithing perk
+- Fixed inconsistency between the Cyrodiil Iron Sword and Vanilla Iron Sword
+
+### [2.5.8](https://drive.google.com/uc?id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9&export=download)
+- Updated Briraka's Draugr Overhaul to 2.5.0
+- Swapped Dawnguard and Dragonborn Delayed for Timing is Everything
+- Set up automated MCMs for Timing is Everything and All Geared Up Derivative
+
+### [2.5.7](https://drive.google.com/uc?id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9&export=download)
+- Added Modest Elderly
+- Added Ivory Weapons
+- Added Stronger Swimming Animations
+- Added Thistle by Mari
+- Updated Performance Optimized Textures to 9.0.0
+- Updated the Unofficial Skyrim Special Edition Patch to 4.2.3
+- Updated Cities of the North - Morthal to 1.1.0
+- Updated Save the Icerunner to 1.1.2
+- Updated Beyond Skyrim in Skyrim to 1.2.5
+- Updated Pirates Wield Cutlasses to 2.1.0
+
+### [2.5.6](https://drive.google.com/uc?id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9&export=download)
+- Updated Beyond Skyrim in Skyrim to 1.2.4
+- Updated Beyond Skyrim - Bruma Upscaled Textures
+- Redirected Mari's download locations to the Skyrim LE Nexus instead of the Skyrim SE Nexus 
+- Fixed facegen bugs in Beyond Skyrim - Bruma
+- Tweaked Enhanced Skyrim Factions - The Companions Guild's quest requirements
+
+### [2.5.5](https://drive.google.com/uc?id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9&export=download)
+- Added Better Volkihar Secret Entrance
+- Added Rally's Riekling Outposts
+- Added All-Maker Stone HD Retexture
+- Added Aetherial Crown
+- Added JS Berenziah 
+- (Hopefully) fixed SSE Water's downloading issues
+
+### [2.5.4](https://drive.google.com/uc?id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9&export=download)
+- Fixed several mesh mesh issues with Stalhrim weapons
+
+### [2.5.3](https://drive.google.com/uc?id=11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9&export=download)
+- Added Briraka's Draugr Overhaul
+
+### [2.5.2](https://drive.google.com/file/d/11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9/view?usp=sharing)
+- Added Save the Icerunner - Lights Out Alternate Routes
+- Updated Obscure's College of Winterhold to 1.6.1
+- Updated Misc. College of Winterhold Tweaks to 1.5.1
+- Updated Blade and Blunt to 1.0.3
+- Updated Run for Your Lives to 4.0.3
+
+### [2.5.1](https://drive.google.com/file/d/11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9/view?usp=sharing)
+- Updated Adamant to 2.1.4
+- Updated Blade and Blunt to 1.0.1
+- Updated Rustic Windows to 2.0.1
+- Updated Blended Roads to 1.7.1
+- Updated Closing Time to 1.1.1
+- Updated Better Dynamic Snow to 2.10.1
+- Updated High Poly Project to 4.9
+- Updated moreHUD to 3.7.8
+- Updated Engine Fixes to 5.2.0
+- Updated Typography in Skyrim to 1.1.0
+- Updated Better Jumping to 1.7.1
+- Updated Performance Optimized Textures to 8.0
+- Updated BethINI to 3.3
+- Updated Project Dova-Hen - Alternate Chicken Texture to 1.2
+- Swapped Hyperborean Snow for Nordic Snow
+- Swapped Rustic Monuments and Tombstones and Rustic Word Walls for Rustic Reliefs
+
+## [2.5.0](https://drive.google.com/file/d/11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9/view?usp=sharing)
+- Updated Adamant to 2.1.3
+- Updated Performance Optimized Textures for SSE to 7.0
+- Added Blade and Blunt - A Combat Overhaul
+- Added Red Eagle Remade
+- Added All Geared Up Derivative
+- Added Contraband Confiscation
+- Added Amulet Evangelism - Priests Sell Amulets
+- Added Chitin Weapons for Solstheim
+- Added Vampire Attacks Restored Outside City Walls
+- Added Dawngard - Alternate Start Route
+- Added Beyond Skyrim - Bruma Upscaled Textures
+- Added Feral - Claw Unarmed Attackes for Beast Races
+- Added Better Honey Nut Treats
+- Added HD Bees and Honeycombs
+- Added Improved Dragonfly
+- Added True Homehooked Meals
+- Added Ultra HD Apple Pies
+
+## [2.4.0](https://drive.google.com/file/d/11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9/view?usp=sharing)
+- Updated Adamant to 2.0.8
+- Updated the Truth to 1.00.21
+- Updated EVG Conditional Idles to 1.3.1
+- Added Cities of the North - Morthal
+- Added Kireina Facemorphs
+- Added Amulet Evangelism
+- Added Contraband Confiscation
+- Added Improved College Entry
+- Added Companions Questline Tweaks
+- Added A Lovely Letter Alternate Routes
+- Added Alik'r Aren't Welcome Here
+- Added Freed Prisoner Uses Items
+- Added Dismiss Steward
+- Added Thugs Not Assassins
+- Added Spooky Philter of the Phantom
+- Added Immersive Realistic Party Clothing Overhaul Enhanced Revised Special Edition
+- Added Hunters Not Bandits
+- Added The Paarthurnax Ultimatum
+- Added Tavern AI Fix
+- Added Removing Ugly Details from Logs
+- Added Cathedral - Mushrooms
+- Added Tundra Cotton by Mari
+- Added Lavender by Mari
+- Added Closing Time
+- Added Better Mammoth Tusks
+- Swapped Sovngarde Mist Font Replacer for Typography
+- Removed Rougeshot mods
+
+### [2.3.6](https://drive.google.com/file/d/11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9/view?usp=sharing)
+- Updated moreHUD to 3.7.6
+- Added Dynamic Animation Replacer
+- Added EVG Conditional Idles 
+- Added Better Bears
+- Swapped Realistic Water Two for Cathedral - Water
+- Included Customizable Camera preset for third person
+
+### [2.3.5](https://drive.google.com/file/d/11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9/view?usp=sharing)
+- Updated Lucien to 1.5.0
+- Removed Titillating Barrels
+
+### [2.3.4](https://drive.google.com/file/d/11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9/view?usp=sharing)
+- Added Frankly HD Stormcloak and City Guards
+- Updated Adamant to 2.0.7
+- Updated Beyond Skyrim in Skyrim to 1.2.3
+- Updated DynDOLOD to 2.82
+- Updated moreHUD to 3.7.4
+- Updated Engine Fixes to 5.1.1
+- Removed Carriage and Ferry Overhaul
+- Removed Nemesis PCEA
+- Gave SKSE64 a swanky new icon
+
+### [2.3.3](https://drive.google.com/file/d/11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9/view?usp=sharing)
+- Added Bullish Bovine
+- Added Unique Weapons for Snow Elves
+- Add Beth.ini
+- Added Quests are in Skyrim
+- Updated Renthal Nettle to 3.0
+- Fixed xEdit QuickAutoClean errors with Dragonborn.esm
+- Fixed a few install order issues
+- Modified automated MCM options for moreHUD
+
+### [2.3.2](https://drive.google.com/file/d/11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9/view?usp=sharing)
+- Updated Adamant to 2.0.5
+-Updated Majestic Mountains to 2.90
+- Updated Rally's All the Things to 1.1
+- Updated moreHUD to 3.7.2
+- Removed Beast Skeletons
+- Tweaked a few minor things in my graphical suite
+
+### [2.3.1](https://drive.google.com/file/d/11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9/view?usp=sharing)
+- Fixed form 43 error with the Bruma SMIM Patch
+- Reverted to an earlier version of moreHUD
+
+## [2.3.0](https://drive.google.com/file/d/11X8IQbtBo0Amwm90TUImW5Bru_hMQcm9/view?usp=sharing)
+- Everything
+
+### [2.2.0](https://drive.google.com/file/d/1yvZ5x785RuECbRs1HDKyR_NGbGDcdNtw/view?usp=sharing)
+- Updated Adamant to 2.02
+- Updated Aetherius to 2.01
+- Added Arena - An Encounter Zone Overhaul
+- Added Carriage and Ferry Overhaul
+- Added Misc. College of Winterhold Tweaks
+- Added a whole host of new graphical mods and tweaks (see the Modwat.ch for a full list)
+- Swapped Belt-Fastened Quivers for XP32 Skeleton
+- Swapped Timing is Everything for Dawnguard and Dragonborn Delayed
+- Removed the Purist Vanilla Patch
+- Fixed the ENB Particle Patch to ensure that all users can download it successfully
+- Fixed miscellaneous occlusion bugs
+- MCM menus are now completely automated
+
+### [2.1.1](https://drive.google.com/file/d/11bQc605a8Kx3wBIQdKRxq_xeOpveoiVs/view?usp=sharing)
+- Fixed College of Winterhold z-fighting.
+
+## [2.1.0](https://drive.google.com/file/d/18c2KUoMIRxp7NAjAqf952LzRBH7kwrhm/view?usp=sharing)
+- Updated Adamant - A Perk Overhaul to 2.0.
+- Updated Aetherius - A Race Overhaul to 2.0.
+- Added Mundus - A Standing Stone Overhaul.
+- Added the Truth ENB and a host of ENB enhancing mods.
+- Added more texture, mesh, and visual mods than I can realistically list here.
+- Added a whole host of new RaceMenu options including special presets made by people who aided me in Keizaal's development.
+- Swapped Cathedral - Water for Realistic Water Two.
+- Swapped Cathedral - Humans, Mer, and Beastfolk for Tempered Males and Females and Masculine and Feminine Khajiit and Argonians.
+- Swapped The Elder Scrolls - Veydosebrom for Enhanced Landscape's Grass.
+- Fixed Vilkas not properly sparing with the player during Take Up Arms.
+
+### [2.0.2](https://drive.google.com/file/d/1gyIoxju7Ne5Vo1UsVYl-a26559zqp3Vx/view?usp=sharing)
+- Fixed players being unable to engage Kodlak in the proper dialogue to join the Companions.
+- Fixed Argonian body textures not appearing properly.
+- Added Fix Note icon for SkyUI.
+- Added Landscape Fixes For Grass Mods.
+- Added SkySight Skins - Ultra HD.
+- Added Remove QuickSave Button from SkyUI System Menu.
+- Added Beards.
+- Added Sovngarde HD.
+- Added Sovngarde Awaits!.
+- Added zEdit.
+- Added FallRim Tools.
+- Updated Beyond Skyrim in Skyrim to 1.2.1.
+- Removed Cutting Room Floor.
+
+### [2.0.1](https://drive.google.com/file/d/1KFkJbzI1valk2ke68mmw6PxhpjkZJxhQ/view?usp=sharing )
+- Added Better Shaped Weapons.
+- Updated Cities of the North - Dawnstar to 1.2.
+- Removed Cathedral - Armory (which was mistakenly left in).
+- Removed Better Container Controls for SkyUI.
+- Adjusted install order for More Informative Console to ensure that it works properly.
+
+# [2.0.0](https://drive.google.com/file/d/1lO8BH30h0NYAHpcy-lezM82bPxUwboUu/view?usp=sharing)
+- Actually fixed the Imperial Mages in Helgen trying to fight Alduin with their fists.
+- Fixed Z-Fighting between Open Cities Skyrim and DynDOLOD.
+- Added Beyond Skyrim Bruma - Intervention Spells.
+- Added Purist's Vanilla Patch.
+- Added The Northerner Diaries - Immersive Edition.
+- Added Thieves Guild Requirements.
+- Added All Thieves Guild Jobs Concurrently.
+- Added Enhanced Skyrim Factions - The Companions Guild.
+- Added Extended UI.
+- Added a swanky new main menu.
+- Swapped Cathedral Weathers for Obsidian Weathers.
+- Added too many visual and quality-of-life mods to list here. Check the manifest for a full account.
+
+### [1.1.3](https://drive.google.com/file/d/1k0cUw3X5OZBZUmnenAGQ6pW8UQanAkLp/view?usp=sharing)
+- Fixed missing textures for Skyforge Weaponry.
+- Added Forsworn Skinchangers.
+
+### [1.1.2](https://drive.google.com/file/d/1eCgHOLorLFJYxdOdZfsPBANg88BSJWiX/view?usp=sharing)
+- "Fixed" the Imperial Mages in Helgen trying to fight Alduin with their fists.
+- Added some minor conflict resolution fixes in Keizaal Patch.esp.
+- Edited Beyond Skyrim Distribution.esp to prevent some clipping.
+- Removed Dual Wield Parrying.
+- Swapped Cathedral - Armory for the Book of Silence.
+- Added recommended MCM configurations in the Installation Guide.
+
+### [1.1.1](https://drive.google.com/file/d/1-89EiiQVZQafpy4S1xwokNM5dDw8J-mE/view?usp=sharing )
+- Swapped FNIS for Nemesis.
+
+## [1.1.0](https://drive.google.com/file/d/1BBmPOx7Gvr9J8QabA65YAi8jvpu6ceot/view?usp=sharing )
+- Fixed minor install order issue.
+- Updated Cathedral Weathers and Seasons to 2.0.8.
+- Updated DynDOLOD to 2.8.1.
+- Added a secondary profile to allow users to toggle Open Cities off.
+
+# [1.0.0](https://drive.google.com/file/d/1K6jvKI8LAZ3z_kTgj7IYABamlbHdodUw/view?usp=sharing )
+- Initial release
