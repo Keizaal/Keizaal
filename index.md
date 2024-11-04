@@ -23,6 +23,21 @@ Speaking of the world, one of the things that I enjoy most about Skyrim is explo
 
 There are a lot of mods that make Keizaal what it is, and every mod has a place to contribute towards that goal, but I consider the following to be "cornerstone mods" that will give you a good idea of what the list will be like.
 
+### [Constellations - Additional Player Skills](https://www.nexusmods.com/skyrimspecialedition/mods/117352)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/117352/117352-1713720590-446127423.png)
+
+I've never felt that Skyrim needed three additional skills, but I can't deny that their presence really spices things up. Constellations introduces new skill trees for Athletics, Hand-to-Hand, and Sorcery. These skills are seamlessly integrated into the base game and appear in the skills menu alongside all the vanilla trees. Each new skill enhances gameplay options significantly. Want to be a monk who never touches a weapon? Hand-to-Hand has you covered. How about a lightning-fast barbarian who never runs out of steam? Give Athletics a try. Or perhaps you prefer to be a learned enchanter who uses staves instead of spells? Sorcery is the way to go. These new options truly refresh the experience and allow for experimentation in ways that haven’t been possible since you first played the game!
+
+### [Staff Enchanting Plus](https://www.nexusmods.com/skyrimspecialedition/mods/132680)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/132680/132680-1730235599-274314572.jpeg)
+
+Staff Enchanting is a mechanic added by the Dragonborn expansion in 2012, but it has its limitations. The way you "enchant" staves is more like crafting them at a forge, which restricts the types of staves you can create. Staff Enchanting Plus dramatically improves this by overhauling the system to resemble traditional enchanting. Now, you can take an unenchanted staff and a morpholith (magic stone) and combine them with any spell you know to create a staff of that type! This new system makes Staff Enchanting a viable playstyle, even at early levels. This mod pairs wonderfully with the Sorcery skill from Constellations, ensuring you always have access to the staves you need or want at any level of play.
+
+### [Mainland Staff Enchanters](https://www.nexusmods.com/skyrimspecialedition/mods/132632)
+![](https://staticdelivery.nexusmods.com/mods/1704/images/132632/132632-1730245182-510145202.jpeg)
+
+While Staff Enchanting Plus unlocks the mechanic and makes it useful at all stages of play, it’s still limited by the fact that the only staff enchanter in the game is on Solstheim, requiring Heart Stones that can only be found on that island. That’s where Mainland Staff Enchanters comes in. This companion mod adds a variety of staff enchanters for you to use outside of Solstheim. They utilize the same systems introduced by Staff Enchanting Plus, but instead of requiring Heart Stones, they use Soul Gems. This ensures that you can take advantage of staves from the very beginning of the game!
+
 ### [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/72772/72772-1662761619-1874272167.png)
 
