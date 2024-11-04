@@ -24,7 +24,7 @@ title: Installation Guide
 
 # Information
 
-**Keizaal requires [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/).** 
+**Keizaal requires [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/){:target="_blank" rel="noopener"}.** 
 
 This modlist takes up roughly 115GB of hard drive space (77GB installation with 38GB of downloads) and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid-state drive for optimal performance. You will run into very long loading times and stuttering with a standard hard disk drive. 
 
