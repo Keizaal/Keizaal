@@ -29,7 +29,7 @@ Download and install the [Skyrim Special Edition: Creation Kit](https://store.st
 
 ### "*ModOrganizer.exe throws an error when trying to launch.*"
 
-Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
+Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/17/release/vc_redist.x64.exe). Be sure to restart your computer afterward.
 
 ### "*SKSE throws an error when the game launches.*"
 
