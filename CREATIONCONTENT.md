@@ -5,59 +5,59 @@ title: Creation Content
 
 # Creation Club
 
-The following creations are available in Keizaal. Mods that modify these Creations or alter how they begin are listed alongside them.
+**Keizaal requires [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/){:target="_blank" rel="noopener"}**, however not every piece of Creation Club content is present in the modlist. The following creations are available in Keizaal. Mods that modify these Creations or alter how they begin are listed alongside them.
 
 | Creations | Mods |
 | --- | --- |
-| Adventurer's Backpack | [Functional Adventurer's Backpack - Innate Carry Weight Boost](https://www.nexusmods.com/skyrimspecialedition/mods/79971) |
-| Alternative Armors - Daedric Mail | [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647) |
-| Alternative Armors - Dragonscale | [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647) |
-| Alternative Armors - Dwarven Mail | [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647) |
-| Alternative Armors - Ebony Plate | [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647) |
-| Alternative Armors - Elven Hunter | [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647) |
-| Alternative Armors - Iron | [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372) |
-| Alternative Armors - Leather | [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372) |
-| Alternative Armors - Silver | [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372) |
-| Alternative Armors - Stalhrim Fur | [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647) |
-| Alternative Armors - Steel Soldier | [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647) |
-| Arcane Archer Pack | [Ammo Enchanting - Craft Magical Arrows and Bolts](https://www.nexusmods.com/skyrimspecialedition/mods/79764) |
+| Adventurer's Backpack | [Functional Adventurer's Backpack - Innate Carry Weight Boost](https://www.nexusmods.com/skyrimspecialedition/mods/79971){:target="_blank" rel="noopener"} |
+| Alternative Armors - Daedric Mail | [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647){:target="_blank" rel="noopener"} |
+| Alternative Armors - Dragonscale | [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647){:target="_blank" rel="noopener"} |
+| Alternative Armors - Dwarven Mail | [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647){:target="_blank" rel="noopener"} |
+| Alternative Armors - Ebony Plate | [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647){:target="_blank" rel="noopener"} |
+| Alternative Armors - Elven Hunter | [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647){:target="_blank" rel="noopener"} |
+| Alternative Armors - Iron | [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372){:target="_blank" rel="noopener"} |
+| Alternative Armors - Leather | [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372){:target="_blank" rel="noopener"} |
+| Alternative Armors - Silver | [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372){:target="_blank" rel="noopener"} |
+| Alternative Armors - Stalhrim Fur | [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647){:target="_blank" rel="noopener"} |
+| Alternative Armors - Steel Soldier | [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647){:target="_blank" rel="noopener"} |
+| Arcane Archer Pack | [Ammo Enchanting - Craft Magical Arrows and Bolts](https://www.nexusmods.com/skyrimspecialedition/mods/79764){:target="_blank" rel="noopener"} |
 | Bone Wolf | |
-| Bow of Shadows | [Bow of Shadows - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/81188) |
+| Bow of Shadows | [Bow of Shadows - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/81188){:target="_blank" rel="noopener"} |
 | Camping | |
-| Chrysamere | [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647) |
+| Chrysamere | [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647){:target="_blank" rel="noopener"} |
 | Civil War Champions | |
-| Dead Man's Dread | [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372) |
-| Divine Crusader | [Knight of the North - Divine Crusader Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/45869) |
+| Dead Man's Dread | [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372){:target="_blank" rel="noopener"} |
+| Divine Crusader | [Knight of the North - Divine Crusader Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/45869){:target="_blank" rel="noopener"} |
 | Dwarven Armored Mudcrab | |
-| Elite Crossbows | [Kachunk - Creation Club Crossbow Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71081), [Thwack - Crossbow Collection Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/42653) |
-| Expanded Crossbow Pack | [Kachunk - Creation Club Crossbow Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71081), [Thwack - Crossbow Collection Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/42653) |
-| Farming | [CC Farming - Tweaks Enhancements and Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/69029) |
-| Fearsome Fists | [Functional Fearsome Fists - Innate Unarmed Boost](https://www.nexusmods.com/skyrimspecialedition/mods/59460) |
-| Fishing | [Simple Fishing Overhaul - Animations and Improved Quest Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/103440) |
-| Ghosts of the Tribunal | [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019) |
+| Elite Crossbows | [Kachunk - Creation Club Crossbow Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71081){:target="_blank" rel="noopener"}, [Thwack - Crossbow Collection Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/42653){:target="_blank" rel="noopener"} |
+| Expanded Crossbow Pack | [Kachunk - Creation Club Crossbow Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71081){:target="_blank" rel="noopener"}, [Thwack - Crossbow Collection Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/42653){:target="_blank" rel="noopener"} |
+| Farming | [CC Farming - Tweaks Enhancements and Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/69029){:target="_blank" rel="noopener"} |
+| Fearsome Fists | [Functional Fearsome Fists - Innate Unarmed Boost](https://www.nexusmods.com/skyrimspecialedition/mods/59460){:target="_blank" rel="noopener"} |
+| Fishing | [Simple Fishing Overhaul - Animations and Improved Quest Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/103440){:target="_blank" rel="noopener"} |
+| Ghosts of the Tribunal | [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019){:target="_blank" rel="noopener"} |
 | Goblins | |
-| Goldbrand | [Catir Club - Immersive Creation Club Integration](https://www.nexusmods.com/skyrimspecialedition/mods/66864) |
+| Goldbrand | [Catir Club - Immersive Creation Club Integration](https://www.nexusmods.com/skyrimspecialedition/mods/66864){:target="_blank" rel="noopener"} |
 | Headman's Cleaver | |
-| Horse Armor - Elven | [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195) |
-| Horse Armor - Steel | [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195) |
-| Lord's Mail | [Morihaus' Refuge - Lord's Mail Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/68558) |
-| Netch Leather Armor | [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372) |
+| Horse Armor - Elven | [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195){:target="_blank" rel="noopener"} |
+| Horse Armor - Steel | [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195){:target="_blank" rel="noopener"} |
+| Lord's Mail | [Morihaus' Refuge - Lord's Mail Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/68558){:target="_blank" rel="noopener"} |
+| Netch Leather Armor | [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372){:target="_blank" rel="noopener"} |
 | Nix-Hound | |
-| Nordic Jewelry | [Jewels of the Nords - Nordic Jewelry Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/81500) |
+| Nordic Jewelry | [Jewels of the Nords - Nordic Jewelry Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/81500){:target="_blank" rel="noopener"} |
 | Plague of the Dead | Plague of the Dead - Disable Quest |
-| Rare Curios | [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372) |
-| Ruin's Edge | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) |
-| Saints & Seducers | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) |
-| Saturalia Holiday Pack | [Seasonal Saturalia Merchant](https://www.nexusmods.com/skyrimspecialedition/mods/78672) |
-| Shadowrend | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) |
-| Staff of Sheogorath | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) |
+| Rare Curios | [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372){:target="_blank" rel="noopener"} |
+| Ruin's Edge | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772){:target="_blank" rel="noopener"} |
+| Saints & Seducers | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772){:target="_blank" rel="noopener"} |
+| Saturalia Holiday Pack | [Seasonal Saturalia Merchant](https://www.nexusmods.com/skyrimspecialedition/mods/78672){:target="_blank" rel="noopener"} |
+| Shadowrend | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772){:target="_blank" rel="noopener"} |
+| Staff of Sheogorath | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772){:target="_blank" rel="noopener"} |
 | Staves | |
-| Stendarr's Hammer | [Stendarr's Chosen - Stendarr's Hammer Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/110617) |
-| Survival Mode | [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244) |
-| The Cause | [The Cause - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/66676) |
-| The Contest | [Catir Club - Immersive Creation Club Integration](https://www.nexusmods.com/skyrimspecialedition/mods/66864) |
-| Vigil Enforcer Armor Set | [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372) |
-| Wild Horses | [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195) |
+| Stendarr's Hammer | [Stendarr's Chosen - Stendarr's Hammer Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/110617){:target="_blank" rel="noopener"} |
+| Survival Mode | [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244){:target="_blank" rel="noopener"} |
+| The Cause | [The Cause - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/66676){:target="_blank" rel="noopener"} |
+| The Contest | [Catir Club - Immersive Creation Club Integration](https://www.nexusmods.com/skyrimspecialedition/mods/66864){:target="_blank" rel="noopener"} |
+| Vigil Enforcer Armor Set | [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372){:target="_blank" rel="noopener"} |
+| Wild Horses | [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195){:target="_blank" rel="noopener"} |
 
 These creations are **not** included in Keizaal.
 
@@ -86,4 +86,4 @@ These creations are **not** included in Keizaal.
 
 # Verified Creations
 
-As per Wabbajack's [Paid Mods Policy](https://wiki.wabbajack.org/policies_and_license/Paid%20Mods%20Policy.html) "Paid mods are ineligible to be included in any Wabbajack list. 'Paid mods' are considered to be any mod that has not been commissioned/contracted/created directly by the base game's studio or publisher, and requires a user to buy the mod before it can be downloaded/installed."
+As per Wabbajack's [Paid Mods Policy](https://wiki.wabbajack.org/policies_and_license/Paid%20Mods%20Policy.html){:target="_blank" rel="noopener"} "Paid mods are ineligible to be included in any Wabbajack list. 'Paid mods' are considered to be any mod that has not been commissioned/contracted/created directly by the base game's studio or publisher, and requires a user to buy the mod before it can be downloaded/installed."
