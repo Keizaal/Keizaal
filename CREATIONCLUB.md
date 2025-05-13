@@ -53,5 +53,5 @@ The following creations are avaible in Keizaal. Mods that edit the creation or o
 | Survival Mode |
 | The Cause |
 | The Contest |
-| Vigil Enforcer Armor Set           |
+| Vigil Enforcer Armor Set |
 | Wild Horses |
