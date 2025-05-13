@@ -13,6 +13,7 @@ title: Installation Guide
   - [Wabbajack Installation](#wabbajack-installation)
   - [Keizaal Installation](#keizaal-installation)
 - [Playing](#playing)
+  - [Creation Content](#creation-content)
   - [Profiles](#profiles)
   - [Mod Configuration](#mod-configuration)
 - [Updating](#updating)
