@@ -43,11 +43,11 @@ The following creations are avaible in Keizaal. Mods that edit the creation or o
 | Nordic Jewelry |
 | Plague of the Dead |
 | Rare Curios |
-| Ruin's Edge | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772)
-| Saints & Seducers | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772)
+| Ruin's Edge | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) |
+| Saints & Seducers | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) |
 | Saturalia Holiday Pack |
-| Shadowrend | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772)
-| Staff of Sheogorath | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772)
+| Shadowrend | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) |
+| Staff of Sheogorath | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772) |
 | Staves |
 | Stendarr's Hammer |
 | Survival Mode |
