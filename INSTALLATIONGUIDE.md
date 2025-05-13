@@ -98,6 +98,10 @@ Whenever you launch Skyrim from Mod Organizer, this message will pop up:
 
 **THIS IS NOT AN ERROR, DO NOT PRESS "UNLOCK"**. Simply wait a bit, and Skyrim will open normally.
 
+### Creation Content
+
+**"While Keizaal requires the [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/){\:target="\_blank" rel="noopener"}, not all Creation Club content is included in the modlist. For details on Creation Club and Verified Creations, visit the [Creation Content](https://keizaal.github.io/Keizaal/CREATIONCONTENT.html) page."**
+
 ### Profiles
 
 Keizaal is designed to enhance and expand upon what the vanilla game offers. While systems such as perk trees and combat have seen some expansions, they remain largely unchanged from the base game.
