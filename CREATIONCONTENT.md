@@ -5,7 +5,7 @@ title: Creation Content
 
 # Creation Club
 
-The following creations are available in Keizaal, with mods that modify or change their starting conditions listed alongside.
+The following creations are available in Keizaal. Mods that modify these Creations or alter how they begin are listed alongside them.
 
 | Creations | Mods |
 | --- | --- |
