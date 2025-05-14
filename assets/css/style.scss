@@ -56,9 +56,14 @@ header {
   position: sticky;
   top: 0;
   z-index: 20;
-  right: 20;
-  background-color: $base-back-color;
-  border-bottom: 2px solid #ffffff; 
+  background-color: $sidebar-back-color;
+  padding: 1rem 0;
+  border-bottom: 2px solid #ffffff;
+  width: 100vw;           // force full viewport width
+  left: 0;                // anchor to left edge
+  right: 0;               // anchor to right edge
+  box-sizing: border-box; // include padding in width
+  overflow-x: hidden;     // prevent content spill
 }
 
 #sidebar {
