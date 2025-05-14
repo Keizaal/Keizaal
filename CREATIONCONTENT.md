@@ -86,4 +86,4 @@ These creations are **not** included in Keizaal.
 
 # Verified Creations
 
-As per Wabbajack's [Paid Mods Policy](https://wiki.wabbajack.org/policies_and_license/Paid%20Mods%20Policy.html){:target="_blank" rel="noopener"} "Paid mods are ineligible to be included in any Wabbajack list. 'Paid mods' are considered to be any mod that has not been commissioned/contracted/created directly by the base game's studio or publisher, and requires a user to buy the mod before it can be downloaded/installed."
+As per Wabbajack's [Paid Mods Policy](https://wiki.wabbajack.org/policies_and_license/Paid%20Mods%20Policy.html){:target="_blank" rel="noopener"} "Paid mods are ineligible to be included in any Wabbajack list. 'Paid mods' are considered to be any mod that has not been commissioned/contracted/created directly by the base game's studio or publisher, and requires a user to buy the mod before it can be downloaded/installed." For further clarification of this policy, refer to [Wabbajack's Discord server](https://www.wabbajack.org/discord){:target="_blank" rel="noopener"}.
