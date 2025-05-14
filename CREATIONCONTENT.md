@@ -81,7 +81,6 @@ title: Creation Content
 | Redguard Elite Armaments |
 | Spell Knight Armor |
 | Staff of Hasedoki |
-| Stendarr's Hammer |
 | Sunder & Wraithguard |
 | The Gray Cowl Returns! |
 | Umbra |
