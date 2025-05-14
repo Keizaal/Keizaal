@@ -52,6 +52,17 @@ body {
 	justify-content: space-around;
 }
 
+header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background-color: $sidebar-back-color; // match sidebar
+  padding: 1rem 0;
+  border-bottom: 2px solid #ffffff; // white divider line
+  width: 100%;
+}
+
+
 #sidebar {
    width:185px;
    padding:1em;
