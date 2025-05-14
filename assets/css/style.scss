@@ -45,6 +45,12 @@ body {
    margin:0 auto;
 }
 
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;  // disable horizontal scroll
+}
+
 .wrapper{
 	width: auto;
 	display: flex;
