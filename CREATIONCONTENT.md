@@ -7,7 +7,7 @@ title: Creation Content
 
 **Keizaal requires the [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/){\:target="\_blank" rel="noopener"}**, though not all Creation Club content is included in the modlist. The tables below detail the status of each creation in Keizaal, along with any mods that modify or affect how they begin.
 
-## Creations Included in Keizaal
+### Creations Included in Keizaal
 
 | Creations | Mods |
 | --- | --- |
@@ -61,7 +61,7 @@ title: Creation Content
 | Vigil Enforcer Armor Set | [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372){:target="_blank" rel="noopener"} |
 | Wild Horses | [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195){:target="_blank" rel="noopener"} |
 
-## Creations Excluded from Keizaal
+### Creations Excluded from Keizaal
 
 | Creations | 
 | --- |
