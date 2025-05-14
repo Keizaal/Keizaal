@@ -50,7 +50,7 @@ body {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
-	margin-left: 0px;
+	margin-right: 2px;
 }
 
 header {
@@ -211,7 +211,7 @@ tr:hover {
 }
 
 main {
-   margin-left: 0px;
+   margin-right: 2px;
    padding: 2em 2em 2em 200px;
    max-width: 1000px;
    margin: 0 auto;
