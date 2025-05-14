@@ -50,6 +50,7 @@ body {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
+	margin-left: 210px;
 }
 
 #sidebar {
@@ -202,6 +203,7 @@ tr:hover {
 }
 
 main {
+   margin-left: 210px;
    h1, h2, h3, h4, h5, h6 {
       color:$header-text-color;
    }
