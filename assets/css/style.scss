@@ -50,13 +50,13 @@ body {
 	display: flex;
 	flex-direction: row;
 	justify-content: space-around;
-	margin-right: 2px;
 }
 
 header {
   position: sticky;
   top: 0;
   z-index: 20;
+  right: 2;
   background-color: $base-back-color;
   border-bottom: 2px solid #ffffff; 
 }
@@ -211,7 +211,6 @@ tr:hover {
 }
 
 main {
-   margin-right: 2px;
    padding: 2em 2em 2em 200px;
    max-width: 1000px;
    margin: 0 auto;
