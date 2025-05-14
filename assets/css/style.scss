@@ -58,16 +58,8 @@ header {
   top: 0;
   z-index: 20;
   background-color: $sidebar-back-color; 
-  padding: 1rem 0;
   border-bottom: 2px solid #ffffff; 
   width: 100%;
-}
-
-header img {
-  display: block;
-  max-height: 100px; // adjust as needed
-  width: auto;
-  height: auto;
 }
 
 #sidebar {
