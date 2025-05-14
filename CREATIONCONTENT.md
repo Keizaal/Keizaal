@@ -7,6 +7,8 @@ title: Creation Content
 
 **Keizaal requires [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/){:target="_blank" rel="noopener"}**, however not every piece of Creation Club content is present in the modlist. The following creations are available in Keizaal. Mods that modify these Creations or alter how they begin are listed alongside them.
 
+## Creations Included in Keizaal
+
 | Creations | Mods |
 | --- | --- |
 | Adventurer's Backpack | [Functional Adventurer's Backpack - Innate Carry Weight Boost](https://www.nexusmods.com/skyrimspecialedition/mods/79971){:target="_blank" rel="noopener"} |
@@ -60,6 +62,8 @@ title: Creation Content
 | Wild Horses | [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195){:target="_blank" rel="noopener"} |
 
 These creations are **not** included in Keizaal.
+
+## Creations Excluded from Keizaal
 
 | Creations | 
 | --- |
