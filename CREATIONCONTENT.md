@@ -25,7 +25,7 @@ title: Creation Content
 | Bow of Shadows | [Bow of Shadows - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/81188){:target="_blank" rel="noopener"} |
 | Camping | |
 | Chrysamere | [On a Crimson Trail](https://www.nexusmods.com/skyrimspecialedition/mods/52647){:target="_blank" rel="noopener"} |
-| Civil War Champions | [Civil War Champions Reintegrated](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=386363&nmm=1&game_id=1704) |
+| Civil War Champions | [Civil War Champions Reintegrated](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=386363&nmm=1&game_id=1704){:target="_blank" rel="noopener"} |
 | Dead Man's Dread | [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372){:target="_blank" rel="noopener"} |
 | Divine Crusader | [Knight of the North - Divine Crusader Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/45869){:target="_blank" rel="noopener"} |
 | Dwarven Armored Mudcrab | |
