@@ -5,7 +5,7 @@ title: Creation Content
 
 # Creation Club
 
-**Keizaal requires the [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/){\:target="\_blank" rel="noopener"}**, though not all Creation Club content is included in the modlist. The tables below detail the status of each creation in Keizaal, along with any mods that modify or affect how they begin.
+**Keizaal requires the [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/){:target="_blank" rel="noopener"}**, though not all Creation Club content is included in the modlist. The tables below detail the status of each creation in Keizaal, along with any mods that modify or affect how they begin.
 
 ### Creations Included in Keizaal
 
