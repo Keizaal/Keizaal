@@ -53,6 +53,14 @@ body {
 	margin-left: 0px;
 }
 
+header {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background-color: $base-back-color;
+  padding: 1rem 0;
+}
+
 #sidebar {
    width:185px;
    padding:1em;
