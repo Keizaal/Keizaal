@@ -336,9 +336,32 @@ details > summary {
   padding: 1.5em 2em;
   margin-top: 3em;
   border-top: 1px solid lighten($base-back-color, 10%);
-  
   padding-left: 200px;
   max-width: 1000px;
   margin-left: auto;
   margin-right: auto;
+}
+
+#site-footer .footer-content {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+#site-footer nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5em;
+}
+
+#site-footer nav ul li a {
+  color: $base-link-color;
+  text-decoration: none;
+}
+
+#site-footer nav ul li a:hover {
+  text-decoration: underline;
 }
