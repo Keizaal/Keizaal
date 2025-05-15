@@ -331,7 +331,7 @@ details > summary {
 }
 
 #site-footer {
-  background-color: darken($base-back-color, 5%);
+  background-color: $base-back-color;
   color: $base-text-color;
   text-align: center;
   padding: 1.5em 2em;
