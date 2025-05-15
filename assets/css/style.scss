@@ -331,18 +331,34 @@ details > summary {
 }
 
 #site-footer {
-  background-color: $base-back-color;
+  background-color: darken($base-back-color, 5%);
   color: $base-text-color;
   text-align: center;
-  padding: 1.5em 0; // Remove horizontal padding here
+  padding: 1.5em 2em;
   margin-top: 3em;
   border-top: 1px solid lighten($base-back-color, 10%);
-  width: 100%; // Ensure full-width footer
 }
 
 #site-footer .footer-content {
   max-width: 1000px;
   margin: 0 auto;
-  padding-left: 200px; // match main content offset
-  padding-right: 2em;
+}
+
+#site-footer nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 1em 0 0 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1.5em;
+}
+
+#site-footer nav ul li a {
+  color: $base-link-color;
+  text-decoration: none;
+}
+
+#site-footer nav ul li a:hover {
+  text-decoration: underline;
 }
