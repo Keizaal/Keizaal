@@ -25,7 +25,7 @@ If Wabbajack fails to download any of the basegame files during the installation
 
 ### "*Tools_HavokBehaviorPostProcess_readme.txt fails to download.*"
 
-Download and install the [Skyrim Special Edition: Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/) via Steam.
+Download and install the [Skyrim Special Edition: Creation Kit](https://store.steampowered.com/app/1946180/Skyrim_Special_Edition_Creation_Kit/){:target="_blank" rel="noopener"} via Steam.
 
 ### "*ModOrganizer.exe throws an error when trying to launch.*"
 
