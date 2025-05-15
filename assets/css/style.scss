@@ -336,12 +336,12 @@ details > summary {
   padding: 1.5em 2em;
   margin-top: 3em;
   border-top: 1px solid lighten($base-back-color, 10%);
-}
-
-#site-footer .footer-content {
+  
+  // Align with main content
   padding-left: 200px;
   max-width: 1000px;
-  margin: 0 auto;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #site-footer nav ul {
