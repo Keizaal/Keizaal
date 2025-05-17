@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Creation Content
+description: Information regarding creation content in Keizaal.
 ---
 
 # Creation Club
