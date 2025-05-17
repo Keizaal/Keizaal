@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Troubleshooting
-description: Common troubleshooting steps for Keizaal.
+description: Troubleshooting steps for common issues users face while using Keizaal.
 ---
 
 ### "*Wabbajack is stuck during installation.*"
