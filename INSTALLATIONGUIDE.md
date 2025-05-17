@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Installation Guide
+description: A detailed step-by-step guide for installing Keizaal.
 ---
 
 # Table of Contents
