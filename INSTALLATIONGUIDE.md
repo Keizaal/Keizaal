@@ -2,6 +2,7 @@
 layout: default
 title: Installation Guide
 description: A detailed step-by-step guide for installing Keizaal.
+image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png
 ---
 
 # Table of Contents
