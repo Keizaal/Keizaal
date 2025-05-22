@@ -3,7 +3,11 @@
   <head>
       <meta charset="utf-8" />
       <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-      <meta name="image" property="og:image" content="https://raw.githubusercontent.com/Keizaal/Keizaal/refs/heads/main/assets/images/branding/KeizaalLogoSmallBlack.png" />
+      {% if page.image %}
+      <meta property="og:image" content="{{ page.image }}" />
+      {% else %}
+      <meta property="og:image" content="https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png" />
+    {% endif %}
 {% seo %}
       <link rel="stylesheet" href="{{ 'assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" />
       <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
