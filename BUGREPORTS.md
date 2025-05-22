@@ -2,6 +2,7 @@
 layout: default
 title: Bug Reports
 description: The process for reporting a bug in Keizaal.
+image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png
 ---
 # Bug Reports
 **Do not** report bugs with the Wabbajack client, *only* issues you experience in-game. Consider bringing your issue up in the [Discord server](https://discord.gg/eYZJFP8) before submitting a formal bug report.
