@@ -175,9 +175,9 @@ tr:nth-child(even) {
   background-color: lighten($base-back-color, 2%);
 }
 
-tr:hover {
-  background-color: lighten($base-back-color, 10%);
-}
+// tr:hover {
+//  background-color: lighten($base-back-color, 10%);
+// }
 
 // =======================================================
 // Patron List
