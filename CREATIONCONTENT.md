@@ -56,7 +56,6 @@ image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/bran
 | [Shadowrend](https://en.uesp.net/wiki/Skyrim:Shadowrend){:target="_blank" rel="noopener"} | ✓ | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772){:target="_blank" rel="noopener"} |
 | [Staff of Sheogorath](https://en.uesp.net/wiki/Skyrim:Staff_of_Sheogorath){:target="_blank" rel="noopener"} | ✓ | [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772){:target="_blank" rel="noopener"} |
 | [Staves](https://en.uesp.net/wiki/Skyrim:Staves_(Creation)){:target="_blank" rel="noopener"} | ✓ |
-| [Stendarr's Hammer](https://en.uesp.net/wiki/Skyrim:Stendarr%27s_Hammer){:target="_blank" rel="noopener"} | ✓ | [Stendarr's Chosen - Stendarr's Hammer Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/110617){:target="_blank" rel="noopener"} |
 | [Survival Mode](https://en.uesp.net/wiki/Skyrim:Survival_Mode){:target="_blank" rel="noopener"} | ✓ | [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244){:target="_blank" rel="noopener"} |
 | [Vigil Enforcer Armor Set](https://en.uesp.net/wiki/Skyrim:Vigil_Enforcer_Armor_Set){:target="_blank" rel="noopener"} | ✓ | [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372){:target="_blank" rel="noopener"} |
 | [Wild Horses](https://en.uesp.net/wiki/Skyrim:Wild_Horses){:target="_blank" rel="noopener"} | ✓ | [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195){:target="_blank" rel="noopener"} |
@@ -77,6 +76,7 @@ image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/bran
 | [Redguard Elite Armaments](https://en.uesp.net/wiki/Skyrim:Redguard_Elite_Armaments){:target="_blank" rel="noopener"} | X |
 | [Spell Knight Armor](https://en.uesp.net/wiki/Skyrim:Spell_Knight_Armor){:target="_blank" rel="noopener"} | X |
 | [Staff of Hasedoki](https://en.uesp.net/wiki/Skyrim:Staff_of_Hasedoki){:target="_blank" rel="noopener"} | X |
+| [Stendarr's Hammer](https://en.uesp.net/wiki/Skyrim:Stendarr%27s_Hammer){:target="_blank" rel="noopener"} | X | |
 | [Sunder & Wraithguard](https://en.uesp.net/wiki/Skyrim:Sunder_%26_Wraithguard){:target="_blank" rel="noopener"} | X |
 | [Umbra](https://en.uesp.net/wiki/Skyrim:Umbra){:target="_blank" rel="noopener"} | X |
 
