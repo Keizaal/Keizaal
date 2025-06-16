@@ -67,17 +67,23 @@ image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/bran
 | [Arcane Accessories](https://en.uesp.net/wiki/Skyrim:Arcane_Accessories){:target="_blank" rel="noopener"} | X |
 | [Arms of Chaos](https://en.uesp.net/wiki/Skyrim:Arms_of_Chaos){:target="_blank" rel="noopener"} | X |
 | [Bittercup](https://en.uesp.net/wiki/Skyrim:Bittercup){:target="_blank" rel="noopener"} | X |
+| [Bloodchill Manor](https://en.uesp.net/wiki/Skyrim:Bloodchill_Manor){:target="_blank" rel="noopener"} | X |
 | [Dawnfang & Duskfang](https://en.uesp.net/wiki/Skyrim:Dawnfang_%26_Duskfang){:target="_blank" rel="noopener"} | X |
 | [Forgotten Seasons](https://en.uesp.net/wiki/Skyrim:Forgotten_Seasons){:target="_blank" rel="noopener"} | X |
+| [Gallows Hall](https://en.uesp.net/wiki/Skyrim:Gallows_Hall){:target="_blank" rel="noopener"} | X |
 | [The Gray Cowl Returns!](https://en.uesp.net/wiki/Skyrim:The_Gray_Cowl_Returns!){:target="_blank" rel="noopener"} | X |
+| [Hendraheim](https://en.uesp.net/wiki/Skyrim:Hendraheim){:target="_blank" rel="noopener"} | X |
+| [Myrwatch](https://en.uesp.net/wiki/Skyrim:Myrwatch){:target="_blank" rel="noopener"} | X |
 | [Nchuanthumz: Dwarven Home](https://en.uesp.net/wiki/Skyrim:Nchuanthumz:_Dwarven_Home){:target="_blank" rel="noopener"} | X |
 | [Necromantic Grimoire](https://en.uesp.net/wiki/Skyrim:Necromantic_Grimoire){:target="_blank" rel="noopener"} | X |
 | [Pets of Skyrim](https://en.uesp.net/wiki/Skyrim:Pets_of_Skyrim){:target="_blank" rel="noopener"} | X |
 | [Redguard Elite Armaments](https://en.uesp.net/wiki/Skyrim:Redguard_Elite_Armaments){:target="_blank" rel="noopener"} | X |
+| [Shadowfoot Sanctum](https://en.uesp.net/wiki/Skyrim:Shadowfoot_Sanctum){:target="_blank" rel="noopener"} | X |
 | [Spell Knight Armor](https://en.uesp.net/wiki/Skyrim:Spell_Knight_Armor){:target="_blank" rel="noopener"} | X |
 | [Staff of Hasedoki](https://en.uesp.net/wiki/Skyrim:Staff_of_Hasedoki){:target="_blank" rel="noopener"} | X |
 | [Stendarr's Hammer](https://en.uesp.net/wiki/Skyrim:Stendarr%27s_Hammer){:target="_blank" rel="noopener"} | X | |
 | [Sunder & Wraithguard](https://en.uesp.net/wiki/Skyrim:Sunder_%26_Wraithguard){:target="_blank" rel="noopener"} | X |
+| [Tundra Homestead](https://en.uesp.net/wiki/Skyrim:Tundra_Homestead){:target="_blank" rel="noopener"} | X |
 | [Umbra](https://en.uesp.net/wiki/Skyrim:Umbra){:target="_blank" rel="noopener"} | X |
 
 # Verified Creations
