@@ -5,7 +5,7 @@ image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/bran
 ---
 # Preamble
 
-Hello there! I’m [Tate Taylor](https://tatetayloroh.github.io/TateTaylorOH/){:target="_blank" rel="noopener"}, the curator of Keizaal, and I’m excited to share what my modlist has to offer!
+Hello there! I’m [Tate Taylor](https://tatetayloroh.github.io/TateTaylorOH/README.html){:target="_blank" rel="noopener"}, the curator of Keizaal, and I’m excited to share what my modlist has to offer!
 
 Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. The following are the core pillars of this list:
 
