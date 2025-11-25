@@ -27,16 +27,17 @@
       "discordURL": "https://discord.gg/eYZJFP8"
     },
     "download_metadata": {
-      "Hash": "gFmn1Uk+fME=",
-      "Size": 13007956,
-      "NumberOfArchives": 1013,
-      "SizeOfArchives": 40639413851,
-      "NumberOfInstalledFiles": 195347,
-      "SizeOfInstalledFiles": 83020259157
+      "Hash": "/sQN76aZTjk=",
+      "Size": 13063471,
+      "NumberOfArchives": 1011,
+      "SizeOfArchives": 40597427505,
+      "NumberOfInstalledFiles": 195179,
+      "SizeOfInstalledFiles": 82976451121
     },
-    "version": "8.0.1",
+    "version": "8.0.1.1",
     "dateCreated": "2020-02-16T00:00:00Z",
     "dateUpdated": "2024-11-02T21:43:22.3329047Z",
     "repositoryName": ""
   }
 ]
+
