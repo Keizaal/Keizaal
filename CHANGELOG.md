@@ -4,7 +4,7 @@ title: Changelog
 description: The complete version changelog for Keizaal.
 image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png
 ---
-#### [8.0.1.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=557025){:target="_blank" rel="noopener"}
+#### [8.0.1.1 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=690936){:target="_blank" rel="noopener"}
 - Removed [Additional Music](https://www.nexusmods.com/skyrimspecialedition/mods/80277) to bring Keizaal back online
 
 ### [8.0.1 - The Staves Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=558316){:target="_blank" rel="noopener"}
