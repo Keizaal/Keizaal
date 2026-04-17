@@ -581,3 +581,27 @@ details > summary {
 .ko-fi {
 	margin: 25px 16px 4px;
 }
+
+// =======================================================
+// Responsive
+// =======================================================
+@media (max-width: 35rem) {
+  body {min-width:100%}
+  main {padding: 1em}
+  .wrapper {
+    display:block;
+  }
+  .site-icons img {
+    max-height: 96px;
+    display: inline-block !important;
+    margin: 0em !important;
+  }
+  #sidebar {
+    position:relative;
+    width: auto;
+    height: auto;
+    margin-right: 0em;
+  }
+  #sidebar aside {margin:0em}
+  #site-footer {padding-left:0em}
+}
