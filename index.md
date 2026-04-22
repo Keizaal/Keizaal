@@ -116,6 +116,6 @@ Tamrielic Distribution is a mod designed for Keizaal. It is basically an all-enc
 
 # Closing
 
-I hope this overview of Keizaal was helpful to you. If you like what you've read, consider giving the modlist a try; click [here](https://keizaal.github.io/Keizaal/INSTALLATIONGUIDE.html) to go to the installation guide. 
+I hope this overview of Keizaal was helpful to you. If you like what you've read, consider giving the modlist a try; click [here](https://keiza.al/installation) to go to the installation guide. 
 
 If you have any specific questions about the modlist, feel free to contact me (Tate Taylor) on [my community Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} to learn more.
