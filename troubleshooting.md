@@ -13,7 +13,7 @@ Simply restart Wabbajack; you will not lose progress on your downloads.
 
 Try resetting your Wabbajack client. Start by closing Wabbajack, then press `Windows + R` on your keyboard and type in `%localappdata%`. A Windows Explorer window should pop up; find and delete the folder called Wabbajack inside.
 
-Alternatively, you can try to manually install the failed mod downloads. You can find links to recently added and updated mods in the [Changelog](https://keizaal.github.io/Keizaal/CHANGELOG.html){:target="_blank" rel="noopener"}. 
+Alternatively, you can try to manually install the failed mod downloads. You can find links to recently added and updated mods in the [Changelog](https://keiza.al/changelog){:target="_blank" rel="noopener"}. 
 
 Place the manually downloaded mods in your downloads folder where the other Wabbajack downloads are in your Mod Organizer. Do not extract them. Note that some of these are big files and may take a while.
 
