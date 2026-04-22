@@ -31,7 +31,7 @@ image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/bran
 
 This modlist takes up roughly 115GB of hard drive space (77GB installation with 38GB of downloads) and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid-state drive for optimal performance. You will run into very long loading times and stuttering with a standard hard disk drive. 
 
-If you run into any issues installing Keizaal, please refer to the [Troubleshooting Guide](https://keizaal.github.io/Keizaal/TROUBLESHOOTING.html){:target="_blank" rel="noopener"}. It covers all of the common errors that may occur and will walk you through how to fix them.
+If you run into any issues installing Keizaal, please refer to the [Troubleshooting Guide](https://keiza.al/troubleshooting){:target="_blank" rel="noopener"}. It covers all of the common errors that may occur and will walk you through how to fix them.
 
 ### Automated Downloads
 
@@ -103,7 +103,7 @@ Whenever you launch Skyrim from Mod Organizer, this message will pop up:
 
 ### Creation Content
 
-While Keizaal requires the [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/){:target="_blank" rel="noopener"}, not all Creation Club content is included in the modlist. For details on Creation Club and Verified Creations, visit the [Creation Content](https://keizaal.github.io/Keizaal/CREATIONCONTENT.html){:target="_blank" rel="noopener"} page.
+While Keizaal requires the [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/){:target="_blank" rel="noopener"}, not all Creation Club content is included in the modlist. For details on Creation Club and Verified Creations, visit the [Creation Content](https://keiza.al/creations){:target="_blank" rel="noopener"} page.
 
 ### Profiles
 
@@ -165,7 +165,7 @@ Keizaal's preconfigured mod settings can be found in the "Keizaal Settings" mod 
 
 # Support
 
-If you run into any issues installing Keizaal, please refer to the [Troubleshooting Guide](https://keizaal.github.io/Keizaal/TROUBLESHOOTING.html){:target="_blank" rel="noopener"}. It covers all of the common errors that may occur and will walk you through how to fix them.
+If you run into any issues installing Keizaal, please refer to the [Troubleshooting Guide](https://keiza.al/creations){:target="_blank" rel="noopener"}. It covers all of the common errors that may occur and will walk you through how to fix them.
 
 Join [Tate Taylor's community Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} for individual help and guidance.
 
