@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Home
 image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png
 ---
 # Preamble
