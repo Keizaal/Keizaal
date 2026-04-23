@@ -124,6 +124,7 @@ A number of smaller mods will also be getting axed in this update as well. There
 - Removed [Environs - Whiterun Watchtower Doesn't Stay Broken](https://www.nexusmods.com/skyrimspecialedition/mods/76261)
 - Removed [Falmer Blood Elixir Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/8949)
 - Removed [Forsworn and Thalmor Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/80188)
+- Removed [Frame Generation - Community Shaders ](https://www.nexusmods.com/skyrimspecialedition/mods/140199) (Depreciated: Included in Community Shaders 1.4+)
 - Removed [House Rule - Lawbringer for Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/57243)
 - Removed [Imperial Law - Lawbringer for Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/57099)
 - Removed [Lawbringer](https://www.nexusmods.com/skyrimspecialedition/mods/29882)
