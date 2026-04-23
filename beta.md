@@ -5,6 +5,7 @@ description: Information about the beta test for Keizaal's new version.
 image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png
 ---
 # Keizaal Beta
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/9.0.0.png)
 Thank you for participating in the Keizaal 9.0.0 Beta! 
 
 This theme of this update is returning everything back to basics and focusing up on making Skyrim's core experience the best it can be. Consistency is key here, I want to ensure that there is a nice level of quality across the board so that you are never taken out of the experience.
@@ -20,7 +21,6 @@ A number of smaller mods will also be getting axed in this update as well. There
 **[Beta Download Link](https://www.nexusmods.com/skyrimspecialedition/mods/68997)**
 
 ## Changelog (WIP)
-### [9.0.0 - The Back to Basics Update BETA](https://www.nexusmods.com/skyrimspecialedition/mods/68997){:target="_blank" rel="noopener"}
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/9.0.0.png)
+#### [9.0.0 - The Back to Basics Update BETA](https://www.nexusmods.com/skyrimspecialedition/mods/68997){:target="_blank" rel="noopener"}
 - Removed Beyond Skyrim - Bruma
 - Removed Wyrmstooth
