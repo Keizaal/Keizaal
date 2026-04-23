@@ -23,6 +23,21 @@ A number of smaller mods will also be getting axed in this update as well. There
 
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
+- Added [Cloud Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139185)
+- Added [Dynamic Location Pop-ups](https://www.nexusmods.com/skyrimspecialedition/mods/153122)
+- Added [Fishing Extension Framework](https://www.nexusmods.com/skyrimspecialedition/mods/139626)
+- Added [Player Name Randomizer - Show in UI](https://www.nexusmods.com/skyrimspecialedition/mods/119235)
+- Added [Grass Collision - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/87816)
+- Added [Sky Sync - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/153543)
+- Added [Terrain Blending - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/157076)
+- Added [Terrain Helper](https://www.nexusmods.com/skyrimspecialedition/mods/143149)
+- Added [Terrain Variation - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/148123)
+- Added [Upscaling - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/156952)
+- Updated [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444)
+- Updated [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)
+- Updated [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
+- Updated [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772)
+- Updated [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
 - Removed [Assorted Tiny Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/43834)
 - Removed [Atronach Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/52255)
 - Removed [Bandit Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/63733)
