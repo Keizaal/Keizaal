@@ -14,7 +14,7 @@ This will manifest in upgrading to the most recent versions of all the essential
 
 Due to the large number of resources I needed to dedicate to making Wyrmstooth and Bruma compatible and consistent with the base game, they have both been cut. Both mods were rather tangential to the main Skyrim experience and oftentimes I'd notice that players didn't really interact with them much. 
 
-Does this mean that Beyond Skyrim will not be part of the modlist going foward? Not necessarily. Bruma has always been in an award state where it had a lot of great content but playing it fealt disjointed and full of plot points that were never followed up on. This update is focusing on consistency and the way that Bruma teases constantly teases these things makes it stand out against vanilla content. Going forward I will evaluate Beyond Skyrim releases for inclusion only when they have been released in a more standalone form.
+Does this mean that Beyond Skyrim will not be part of the modlist going foward? Not necessarily. Bruma has always been in an awkward state where it had a lot of great content but playing it felt disjointed and full of plot points that were never followed up on. This update is focusing on consistency and the way that Bruma constantly teases these things makes it stand out against vanilla content. Going forward I will evaluate Beyond Skyrim releases for inclusion only when they have been released in a more standalone form.
 
 A number of smaller mods will also be getting axed in this update as well. There are a lot of small "immersion" mods in Keizaal that the majority of players will never really notice. This is taking up space in this modlist and opening up more avenues for things to go wrong. You can see more details in the below changelog.
 
