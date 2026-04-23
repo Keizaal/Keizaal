@@ -144,7 +144,6 @@ A number of smaller mods will also be getting axed in this update as well. There
 - Updated [Switch Camera During Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/95269)
 - Updated [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372)
 - Updated [Terre's 4K Fur Textures for CoverKhajiits - Vanilla CBBE UNP BHUNP SoS HIMBO](https://www.nexusmods.com/skyrimspecialedition/mods/76568)
-- Updated [The Dragon Bridge](https://www.nexusmods.com/skyrimspecialedition/mods/63858)
 - Updated [The Great City Of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/17127)
 - Updated [The Great Town of Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032)
 - Updated [The Heart of Dibella - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/94863)
