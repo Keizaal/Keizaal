@@ -21,7 +21,8 @@ A number of smaller mods will also be getting axed in this update as well. There
 
 **[Beta Download Link](https://www.nexusmods.com/skyrimspecialedition/mods/68997)**
 
-## Changelog (WIP)
+## Changelog
+*Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 - Removed [Assorted Tiny Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/43834)
 - Removed [Atronach Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/52255)
 - Removed [Bandit Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/63733)
