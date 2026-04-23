@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Troubleshooting
+title: Troubleshooting Guide
 description: Troubleshooting steps for common issues users face while using Keizaal.
 image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png
 ---
