@@ -21,6 +21,11 @@ A number of smaller mods will also be getting axed in this update as well. There
 
 **[Beta Download Link](https://www.nexusmods.com/skyrimspecialedition/mods/68997)**
 
+## Know Issues
+- Currency Swapped vendor menus display "Gold" instead of the relevant currency
+  - **Solved:** Incompatibility with SkyUI 6, Currency Swapper needs updated
+- Some Container Distribution Framework reference exlcusions aren't being properly ignored
+
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
