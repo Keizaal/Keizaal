@@ -9,7 +9,7 @@ image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/bran
 
 Thank you for participating in the Keizaal 9.0.0 Beta!
 
-The theme of this update is returning everything to basics and focusing on making The Skyrim’s core experience the best it can be. Consistency is key here, I want to ensure that there is a nice level of quality across the board so that you are never taken out of the experience.
+The theme of this update is returning everything to basics and focusing on making Skyrim’s core experience the best it can be. Consistency is key here, I want to ensure that there is a nice level of quality across the board so that you are never taken out of the experience.
 
 This will manifest in upgrading to the most recent versions of all the essential mods in Keizaal. The list was last updated in 2024 and several mods have had large updates such as [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) and [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). It is important to ensure that everything is working smoothly and interacting in an easy-to-understand way without the need to refer to external documentation.
 
