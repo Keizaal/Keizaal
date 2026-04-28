@@ -22,8 +22,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 **[Beta Download Link](https://www.nexusmods.com/skyrimspecialedition/mods/68997)**
 
 ## Know Issues
-- Currency swapped vendor menus display "Gold" instead of the relevant currency
-  - **Solved:** Incompatibility with SkyUI 6, [Currency Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/127686) needs updated
+- [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701) cannot be opened via the system menu.
 - Some [Container Distribution Framework](https://www.nexusmods.com/skyrimspecialedition/mods/120152) reference exlcusions aren't being properly ignored
 
 ## Changelog
