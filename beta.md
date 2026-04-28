@@ -148,6 +148,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - Updated [Vittorias Alternate Wedding](https://www.nexusmods.com/skyrimspecialedition/mods/62466)
 - Updated [Water Effects Brightness and Reflection Fix](https://www.nexusmods.com/skyrimspecialedition/mods/63862)
 - Updated [Widescreen Scale Removed for 1-6-1130 and higher](https://www.nexusmods.com/skyrimspecialedition/mods/136793)
+- Removed [Automatic Animations - Including Icon Identification](https://www.nexusmods.com/skyrimspecialedition/mods/59484)
 - Removed [Arcane Archer Pack Creation](https://creations.bethesda.net/en/skyrim/details/d9ce1801-c218-44bd-90f6-8a9817da6c05/Arcane_Archer_Pack)
 - Removed [Assorted Tiny Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/43834)
 - Removed [Atronach Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/52255)
