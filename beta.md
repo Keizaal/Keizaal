@@ -194,6 +194,8 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - Removed [Move Beyond Skyrim Cabbage Roll to Baking Station](https://www.nexusmods.com/skyrimspecialedition/mods/84875)
 - Removed [Open for Business - Lawbringer and Assorted Tweaks for Siege at Icemoth](https://www.nexusmods.com/skyrimspecialedition/mods/110277)
 - Removed [Plague of the Dead Creation](https://creations.bethesda.net/en/skyrim/details/5920e4db-04b9-437d-bb32-4087232f6fe9/Plague_of_the_Dead)
+- Removed [Precision - Accurate Melee Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/72347)
+- Removed [Precision Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/74887)
 - Removed [Raven Rock Building Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/53962)
 - Removed [Saturalia Holiday Pack Creation](https://creations.bethesda.net/en/skyrim/details/e81db1b8-2d93-4520-b156-92ac79c59ea7/Saturalia_Holiday_Pack)
 - Removed [Seasonal Weathers Framework - Seasons support for Weathers Mods](https://www.nexusmods.com/skyrimspecialedition/mods/63562)
