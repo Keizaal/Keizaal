@@ -24,7 +24,10 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Know Issues
 - [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701) cannot be opened via the system menu
   - **Solved:** Incompatibility with [SkyUI 6](https://www.nexusmods.com/skyrimspecialedition/mods/12604), Photo Mode needs updated
-    - **Temporary Workaround:** [Knotwork](https://www.nexusmods.com/skyrimspecialedition/mods/128235) will be kept on version 2.1.0 since it includes an old version of the system menu swf which allows for Photo Mode to be opened properly 
+    - **Temporary Workaround:** [Knotwork](https://www.nexusmods.com/skyrimspecialedition/mods/128235) will be kept on version 2.1.0 since it includes an old version of the system menu swf which allows for Photo Mode to be opened properly
+- The Installed Content menu is not visible in the system menu
+  - **Solved:** Incompatibility with [SkyUI 6](https://www.nexusmods.com/skyrimspecialedition/mods/12604), [Knotwork](https://www.nexusmods.com/skyrimspecialedition/mods/128235) needs updated
+    - **Note:** Knotwork will remain on 2.1.0 until [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701) has been properly updated for SkyUI 6
 - Some [Container Distribution Framework](https://www.nexusmods.com/skyrimspecialedition/mods/120152) reference exlcusions aren't being properly ignored
 
 ## Changelog
