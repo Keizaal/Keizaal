@@ -22,7 +22,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 **[Beta Download Link](https://www.nexusmods.com/skyrimspecialedition/mods/68997)**
 
 ## Know Issues
-- [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701) cannot be opened via the system menu.
+- [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701) cannot be opened via the system menu
 - Some [Container Distribution Framework](https://www.nexusmods.com/skyrimspecialedition/mods/120152) reference exlcusions aren't being properly ignored
 
 ## Changelog
