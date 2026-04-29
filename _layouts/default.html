@@ -15,6 +15,12 @@
       <meta name="google-site-verification" content="jSueJx3jsZPBZAXLoa0FslQH0cTCV6zv7iYh72gH0aA" />
       <link rel="icon" href="https://raw.githubusercontent.com/Keizaal/Keizaal/refs/heads/main/assets/images/branding/KeizaalLogoSmallBlack.png"  type="image/x-icon" />
    </head>
+  <script>
+  document.addEventListener('DOMContentLoaded', function() {
+    var currentYear = new Date().getFullYear();
+    document.getElementById('currentYear').textContent = currentYear;
+  });
+  </script>
    <body>
       <a id="skip-nav" href="#content">Skip navigation and jump to content</a>
       <div class="wrapper">
@@ -109,7 +115,7 @@
                     <li><a href="https://www.patreon.com/TateTaylor">Patreon</a></li>
                   </ul>
                 </nav>
-                <p>&copy; 2025 <a href="https://tatetayloroh.com/">Tate Taylor</a> | Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></p>
+                <p>&copy; <span id="currentYear"><a href="https://tatetayloroh.com/">Tate Taylor</a> | Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></p>
               </div>
             </footer>
    </body>
