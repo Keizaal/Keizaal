@@ -35,6 +35,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
 **[9.0.0-beta2](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta2/Keizaal.wabbajack)**
+
 *Safe to update mid-game.*
 - Fixed visual errors caused by using outdated Community Shaders addons 
 - Updated [Cloud Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139185)
