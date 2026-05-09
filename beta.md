@@ -2,7 +2,7 @@
 layout: default
 title: 9.0.0 Beta Test
 description: Information about the beta test for Keizaal's new version.
-image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png
+image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/9.0.0.png
 ---
 # [9.0.0 - The Back to Basics Update BETA](https://www.nexusmods.com/skyrimspecialedition/mods/68997){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/9.0.0.png)
