@@ -34,6 +34,21 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
+### 9.0.0-beta2
+- Fixed visual errors caused by using outdated Community Shaders addons 
+- Updated [Cloud Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139185)
+- Updated [Screen Space Global Illumination (SSGI) - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/130375)
+- Updated [Sky Sync - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/153543)
+- Updated [Skylighting - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139352)
+- Updated [Terrain Blending - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/157076)
+- Updated [Upscaling - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/156952)
+- Updated [Wetness Effects - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/112739)
+- Removed [Grass Collision - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/87816) (**Depreciated:** Included in [Community Shaders 1.5+](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
+- Removed [Grass Lighting - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86502) (**Depreciated:** Included in [Community Shaders 1.5+](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
+- Removed [Screen Space Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/93209) (**Depreciated:** Included in [Community Shaders 1.5+](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
+- Removed [Subsurface Scattering - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/114114) (**Depreciated:** Included in [Community Shaders 1.5+](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
+
+### 9.0.0-beta1
 - Added [Cloud Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139185)
 - Added [Combat Music Extender](https://www.nexusmods.com/skyrimspecialedition/mods/133384)
 - Added [Consistent Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/152314)
