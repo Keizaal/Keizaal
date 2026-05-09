@@ -14,7 +14,7 @@
       "Corgis",
       "High Fantasy",
       "SFW",
-      "Vanilla+"
+      "Vanilla\u002B"
     ],
     "nsfw": false,
     "utility_list": false,
@@ -28,7 +28,12 @@
       "machineURL": "keizaal",
       "discordURL": "https://discord.gg/eYZJFP8",
       "websiteURL": "https://keiza.al",
-      "nexusCollection": null
+      "nexusCollection": {
+        "collectionId": "446937",
+        "slug": "eufvlz",
+        "domainName": "skyrimspecialedition",
+        "lastRevisionNumber": 1
+      }
     },
     "download_metadata": {
       "Hash": "/sQN76aZTjk=",
@@ -36,7 +41,8 @@
       "NumberOfArchives": 1011,
       "SizeOfArchives": 40597427505,
       "NumberOfInstalledFiles": 195179,
-      "SizeOfInstalledFiles": 82976451121
+      "SizeOfInstalledFiles": 82976451121,
+      "TotalSize": 123573878626
     },
     "version": "8.0.1.1",
     "dateCreated": "2020-02-16T00:00:00Z",
