@@ -43,6 +43,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - Added [Water Edge Adjustment](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=651225&game_id=1704&nmm=1)
 - Removed [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961)
 - Removed [Rob's Bug Fixes - TGC Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/70185) (**Deprecated:** Included in [The Great Town of Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032) 2.0+)
+- Removed [Taarengrav Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/84371)
 - Regenerated LOD
 
 ### [9.0.0-beta2](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta2/Keizaal.wabbajack)
