@@ -38,12 +38,14 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 *Safe to update mid-game.*
 
 - Fixed issue where the [Immersive Equipment Display](https://www.nexusmods.com/skyrimspecialedition/mods/62001) preset was not loading automatically
+- Added [aMidianBorn wolf armor and skyforge weapons](https://www.nexusmods.com/skyrim/mods/34147) (Vanilla weapon retextures only)
 - Added [Happy Little Trees - Pines Only - Vanilla Trunks and Snow](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=718803&game_id=1704&nmm=1)
 - Added [Red Mountain Plume Visible from Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/66048)
 - Added [Skyfall's COTN Falkreath Reshaped](https://www.nexusmods.com/skyrimspecialedition/mods/144037)
 - Added [Water Edge Adjustment](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=651225&game_id=1704&nmm=1)
 - Removed [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961)
 - Removed [Rob's Bug Fixes - TGC Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/70185) (**Deprecated:** Included in [The Great Town of Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032) 2.0+)
+- Removed [Skyforge Steel - Art and Honor](https://www.nexusmods.com/skyrimspecialedition/mods/80049)
 - Removed [Taarengrav Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/84371)
 - Regenerated LOD
 
