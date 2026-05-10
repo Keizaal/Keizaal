@@ -34,9 +34,18 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
-### [9.0.0-beta2](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta2/Keizaal.wabbajack)
-
+### [9.0.0-beta3](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta3/Keizaal.wabbajack) (Unreleased)
 *Safe to update mid-game.*
+
+- Fixed issue where the [Immersive Equipment Display](https://www.nexusmods.com/skyrimspecialedition/mods/62001) preset was not loading automatically
+- Added [Happly Little Trees - Pines Only - Vanilla Trunks and Snow](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=718803&game_id=1704&nmm=1)
+- Added [Water Edge Adjustment](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=651225&game_id=1704&nmm=1)
+- Removed [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961)
+- Regenerated LOD
+
+### [9.0.0-beta2](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta2/Keizaal.wabbajack)
+*Safe to update mid-game.*
+
 - Fixed visual errors caused by using outdated Community Shaders addons 
 - Updated [Cloud Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139185)
 - Updated [Screen Space Global Illumination (SSGI) - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/130375)
