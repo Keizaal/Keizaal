@@ -34,7 +34,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
-### [9.0.0-beta3](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta3/Keizaal.wabbajack) (Unreleased)
+### [9.0.0-beta3](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta3/Keizaal.wabbajack)
 *Safe to update mid-game.*
 
 - Fixed issue where the [Immersive Equipment Display](https://www.nexusmods.com/skyrimspecialedition/mods/62001) preset was not loading automatically
