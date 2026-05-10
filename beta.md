@@ -38,7 +38,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 *Safe to update mid-game.*
 
 - Fixed issue where the [Immersive Equipment Display](https://www.nexusmods.com/skyrimspecialedition/mods/62001) preset was not loading automatically
-- Added [Happly Little Trees - Pines Only - Vanilla Trunks and Snow](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=718803&game_id=1704&nmm=1)
+- Added [Happy Little Trees - Pines Only - Vanilla Trunks and Snow](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=718803&game_id=1704&nmm=1)
 - Added [Red Mountain Plume Visible from Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/66048)
 - Added [Water Edge Adjustment](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=651225&game_id=1704&nmm=1)
 - Removed [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961)
