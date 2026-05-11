@@ -19,7 +19,7 @@ Does this mean that Beyond Skyrim won't be part of the modlist in the future? I 
 
 A number of smaller mods will also be removed in this update. Keizaal includes many small “immersion” mods that most players will never notice. These take up space in the modlist and create more opportunities for issues to arise. You can find more details in the changelog below.
 
-**[Beta Download Link](https://keiza.al/beta/download)**
+**[Beta Download Link](https://keiza.al/beta/download){:target="_blank" rel="noopener"}**
 
 ## Know Issues
 - The SimonRim profile is unavailable, it is still work-in-progress
@@ -34,7 +34,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
-### [9.0.0-beta3](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta3/Keizaal.wabbajack)
+### [9.0.0-beta3](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta3/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
 - Fixed issue where the [Immersive Equipment Display](https://www.nexusmods.com/skyrimspecialedition/mods/62001) preset was not loading automatically
@@ -49,7 +49,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - Removed [Taarengrav Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/84371)
 - Regenerated LOD
 
-### [9.0.0-beta2](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta2/Keizaal.wabbajack)
+### [9.0.0-beta2](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
 - Fixed visual errors caused by using outdated Community Shaders addons 
@@ -65,7 +65,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - Removed [Screen Space Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/93209) (**Deprecated:** Included in [Community Shaders 1.5+](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
 - Removed [Subsurface Scattering - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/114114) (**Deprecated:** Included in [Community Shaders 1.5+](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
 
-### [9.0.0-beta1](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta1/Keizaal.wabbajack)
+### [9.0.0-beta1](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 - Added [Cloud Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139185)
 - Added [Combat Music Extender](https://www.nexusmods.com/skyrimspecialedition/mods/133384)
 - Added [Consistent Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/152314)
