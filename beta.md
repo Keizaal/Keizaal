@@ -4,7 +4,7 @@ title: 9.0.0 Beta Test
 description: Information about the beta test for Keizaal's new version.
 image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/9.0.0.png
 ---
-# [9.0.0 Beta - The Back to Basics Update](https://keiza.al/downloadbeta){:target="_blank" rel="noopener"}
+# [9.0.0 Beta - The Back to Basics Update](https://keiza.al/download/beta){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/9.0.0.png)
 
 Thank you for participating in the Keizaal 9.0.0 Beta!
@@ -19,7 +19,7 @@ Does this mean that Beyond Skyrim won't be part of the modlist in the future? I 
 
 A number of smaller mods will also be removed in this update. Keizaal includes many small “immersion” mods that most players will never notice. These take up space in the modlist and create more opportunities for issues to arise. You can find more details in the changelog below.
 
-**[Beta Download Link](https://keiza.al/downloadbeta)**
+**[Beta Download Link](https://keiza.al/download/beta)**
 
 ## Know Issues
 - The SimonRim profile is unavailable, it is still work-in-progress
