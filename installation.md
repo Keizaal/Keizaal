@@ -167,7 +167,7 @@ Keizaal's preconfigured mod settings can be found in the "Keizaal Settings" mod 
 
 If you run into any issues installing Keizaal, please refer to the [Troubleshooting Guide](https://keiza.al/troubleshooting){:target="_blank" rel="noopener"}. It covers all of the common errors that may occur and will walk you through how to fix them.
 
-Join [Tate Taylor's community Discord server](https://discord.gg/eYZJFP8){:target="_blank" rel="noopener"} for individual help and guidance.
+Join [Tate Taylor's community Discord server](https://keiza.al/discord){:target="_blank" rel="noopener"} for individual help and guidance.
 
 Offical support for modified verions of Keizaal **WILL NOT** be provided. 
 
