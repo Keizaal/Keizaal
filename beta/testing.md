@@ -34,6 +34,11 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
+### [9.0.0-beta7](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta7/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Safe to update mid-game.*
+
+- Fixed issue with Subsurface Scattering that caused characters with shaders to have glowing red eyes
+
 ### [9.0.0-beta6](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta6/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Do **not** switch to the SimonRim Profile mid-game.*
 
