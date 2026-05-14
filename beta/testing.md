@@ -34,6 +34,16 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
+### [9.0.0-beta3](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta4/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Safe to update mid-game.*
+
+- Added [Classic Weathers Redone](https://www.nexusmods.com/skyrimspecialedition/mods/136036)
+- Updated [M.I.N.T. - Mint-Issued National Tenders](https://www.nexusmods.com/skyrimspecialedition/mods/178940)
+- Updated [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195)
+- Updated [Vanilla-like Tweaks and Fixes for 'Book Covers Skyrim' (USSEP and CRF)](https://www.nexusmods.com/skyrimspecialedition/mods/59669)
+- Removed [Classic Weathers Extended](https://www.nexusmods.com/skyrimspecialedition/mods/96684)
+- Removed [Classic Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/81348)
+
 ### [9.0.0-beta3](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta3/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
