@@ -38,6 +38,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 *Safe to update mid-game.*
 
 - Regenerated the Lunar Weapons Patch to fix missing coverage areas
+- Added [Stay At The System Page NG](https://www.nexusmods.com/skyrimspecialedition/mods/76927)
 - Updated [M.I.N.T. - Mint-Issued National Tenders](https://www.nexusmods.com/skyrimspecialedition/mods/178940)
 - Removed some unnecessary Seasons patches
 
