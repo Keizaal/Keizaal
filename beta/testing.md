@@ -34,6 +34,13 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
+### [9.0.0-beta5](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta5/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Safe to update mid-game.*
+
+- Regenerated the Lunar Weapons Patch to fix missing coverage areas
+- Updated [M.I.N.T. - Mint-Issued National Tenders](https://www.nexusmods.com/skyrimspecialedition/mods/178940)
+- Remove some unnecessary Seasons patches
+
 ### [9.0.0-beta4](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta4/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
