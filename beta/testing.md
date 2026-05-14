@@ -34,6 +34,11 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
+### [9.0.0-beta6](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta6/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Do **not** switch to the SimonRim Profile mid-game.*
+
+- Rebuilt a **very** rough version of the SimonRim Profile for testing. Further patching is highly likely, use at your own risk!
+
 ### [9.0.0-beta5](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta5/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
