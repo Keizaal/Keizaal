@@ -34,7 +34,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
-### [9.0.0-beta3](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta4/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [9.0.0-beta4](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta4/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
 - Cleaned around 30GB of orphaned mods still being included in Keizaal's download
@@ -45,7 +45,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - Removed [Classic Weathers Extended](https://www.nexusmods.com/skyrimspecialedition/mods/96684)
 - Removed [Classic Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/81348)
 
-### [9.0.0-beta4](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta3/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [9.0.0-beta3](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta3/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
 - Fixed issue where the [Immersive Equipment Display](https://www.nexusmods.com/skyrimspecialedition/mods/62001) preset was not loading automatically
