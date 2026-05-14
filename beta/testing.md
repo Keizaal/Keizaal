@@ -37,6 +37,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ### [9.0.0-beta3](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta4/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
+- Cleaned around 30GB of orphaned mods still being included in Keizaal's download
 - Added [Classic Weathers Redone](https://www.nexusmods.com/skyrimspecialedition/mods/136036)
 - Updated [M.I.N.T. - Mint-Issued National Tenders](https://www.nexusmods.com/skyrimspecialedition/mods/178940)
 - Updated [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195)
