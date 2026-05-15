@@ -34,6 +34,11 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
+### [9.0.0-beta8](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta8/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Safe to update mid-game.*
+
+- Added workaround for Eyrir hanging after his speech
+
 ### [9.0.0-beta7](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta7/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
