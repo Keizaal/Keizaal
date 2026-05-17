@@ -34,6 +34,14 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
+### [9.0.0-beta9](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta9/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Safe to update mid-game.*
+
+- Added [Durak's Crossbow Conversation 2 RETRIBUTION - The Player Has Seen a Crossbow Before](https://www.nexusmods.com/skyrimspecialedition/mods/58331)
+- Updated [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)
+- Updated [M.I.N.T. - Mint-Issued National Tenders](https://www.nexusmods.com/skyrimspecialedition/mods/178940)
+- Updated [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195)
+
 ### [9.0.0-beta8](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta8/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
