@@ -44,10 +44,12 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 *Safe to update mid-game.*
 
 - Added [Durak's Crossbow Conversation 2 RETRIBUTION - The Player Has Seen a Crossbow Before](https://www.nexusmods.com/skyrimspecialedition/mods/58331)
+- Added [QUI](https://www.nexusmods.com/skyrimspecialedition/mods/65343)
 - Updated [C.O.I.N. - Coins of Interesting Nature](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
 - Updated [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)
 - Updated [M.I.N.T. - Mint-Issued National Tenders](https://www.nexusmods.com/skyrimspecialedition/mods/178940)
 - Updated [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195)
+- Removed [Stay At The System Page NG](https://www.nexusmods.com/skyrimspecialedition/mods/76927)
 
 ### [9.0.0-beta8](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta8/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
