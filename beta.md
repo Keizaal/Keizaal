@@ -1,0 +1,321 @@
+---
+layout: default
+title: 9.0.0 Beta Testing
+description: Information about the beta test for Keizaal's new version.
+image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/9.0.0.png
+---
+# [9.0.0 Beta - The Back to Basics Update](https://keiza.al/beta/download){:target="_blank" rel="noopener"}
+![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/9.0.0.png)
+
+Thank you for participating in the Keizaal 9.0.0 Beta!
+
+The theme of this update is returning everything to basics and focusing on making Skyrim’s core experience the best it can be. Consistency is key here, I want to ensure that there is a nice level of quality across the board so that you are never taken out of the experience.
+
+This will manifest in upgrading to the most recent versions of all the essential mods in Keizaal. The list was last updated in 2024 and several mods have had large updates such as [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604) and [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). It is important to ensure that everything is working smoothly and interacting in an easy-to-understand way without the need to refer to external documentation.
+
+Due to the significant resources required to make [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/4556) and [Beyond Skyrim: Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917) compatible and consistent with the rest of the list, both have been removed. These mods happen outside of the rest of Skyrim, literally and metaphorically, and oftentimes I’d notice that players didn’t really interact with them much because there's already so much to do in Skyrim.
+
+Does this mean that Beyond Skyrim won't be part of the modlist in the future? I can’t say for certain yet, but there’s no reason full releases from Beyond Skyrim wouldn’t be included. Bruma contains a lot of great content, but it was designed as a pre-release for [Cyrodiil](https://beyondskyrim.org/project/cyrodiil). There are some things in the Bruma files that aren't used yet, and in-game, characters talk about things that are going to be in Cyrodiil, but aren't in Bruma. Adding Bruma requires a notable amount of resources and time, and I’d prefer to reserve that effort for full releases in future versions.
+
+A number of smaller mods will also be removed in this update. Keizaal includes many small “immersion” mods that most players will never notice. These take up space in the modlist and create more opportunities for issues to arise. You can find more details in the changelog below.
+
+**[Beta Download Link](https://keiza.al/beta/download){:target="_blank" rel="noopener"}**
+
+## Know Issues
+- The SimonRim profile is *very* work-in-progress, **use at your own risk**
+- [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701) cannot be opened via the system menu
+  - **Solved:** Incompatibility with [SkyUI 6](https://www.nexusmods.com/skyrimspecialedition/mods/12604), Photo Mode needs updated
+    - **Temporary Workaround:** [Knotwork](https://www.nexusmods.com/skyrimspecialedition/mods/128235) will be kept on version 2.1.0 since it includes an old version of the system menu swf which allows for Photo Mode to be opened properly
+- The Installed Content menu is not visible in the system menu
+  - **Solved:** Incompatibility with [SkyUI 6](https://www.nexusmods.com/skyrimspecialedition/mods/12604), [Knotwork](https://www.nexusmods.com/skyrimspecialedition/mods/128235) needs updated
+    - **Note:** Knotwork will remain on 2.1.0 until [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701) has been properly updated for SkyUI 6
+- Some [Container Distribution Framework](https://www.nexusmods.com/skyrimspecialedition/mods/120152) reference exclusions aren't being properly ignored
+
+## Changelog
+*Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
+
+### [9.0.0-beta10](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta10/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Safe to update mid-game.*
+
+- Fixed issue where the SimonRim Profile wasn't being properly installed
+- Updated [M.I.N.T. - Mint-Issued National Tenders](https://www.nexusmods.com/skyrimspecialedition/mods/178940)
+
+### [9.0.0-beta9](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta9/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Safe to update mid-game.*
+
+- Added [Durak's Crossbow Conversation 2 RETRIBUTION - The Player Has Seen a Crossbow Before](https://www.nexusmods.com/skyrimspecialedition/mods/58331)
+- Added [QUI](https://www.nexusmods.com/skyrimspecialedition/mods/65343)
+- Updated [C.O.I.N. - Coins of Interesting Nature](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
+- Updated [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)
+- Updated [M.I.N.T. - Mint-Issued National Tenders](https://www.nexusmods.com/skyrimspecialedition/mods/178940)
+- Updated [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195)
+- Removed [Stay At The System Page NG](https://www.nexusmods.com/skyrimspecialedition/mods/76927)
+
+### [9.0.0-beta8](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta8/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Safe to update mid-game.*
+
+- Added workaround for Eyrir hanging after his speech
+
+### [9.0.0-beta7](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta7/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Safe to update mid-game.*
+
+- Fixed issue with Subsurface Scattering that caused characters with shaders to have glowing red eyes
+
+### [9.0.0-beta6](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta6/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Do **not** switch to the SimonRim Profile mid-game.*
+
+- Rebuilt a *very* rough version of the SimonRim Profile for testing. Further patching is highly likely, use at your own risk!
+
+### [9.0.0-beta5](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta5/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Safe to update mid-game.*
+
+- Regenerated the Lunar Weapons Patch to fix missing coverage areas
+- Added [Stay At The System Page NG](https://www.nexusmods.com/skyrimspecialedition/mods/76927)
+- Updated [M.I.N.T. - Mint-Issued National Tenders](https://www.nexusmods.com/skyrimspecialedition/mods/178940)
+- Removed some unnecessary Seasons patches
+
+### [9.0.0-beta4](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta4/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Safe to update mid-game.*
+
+- Cleaned around 30GB of orphaned mods still being included in Keizaal's download
+- Added [Classic Weathers Redone](https://www.nexusmods.com/skyrimspecialedition/mods/136036)
+- Updated [M.I.N.T. - Mint-Issued National Tenders](https://www.nexusmods.com/skyrimspecialedition/mods/178940)
+- Updated [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195)
+- Updated [Vanilla-like Tweaks and Fixes for 'Book Covers Skyrim' (USSEP and CRF)](https://www.nexusmods.com/skyrimspecialedition/mods/59669)
+- Removed [Classic Weathers Extended](https://www.nexusmods.com/skyrimspecialedition/mods/96684)
+- Removed [Classic Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/81348)
+
+### [9.0.0-beta3](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta3/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Safe to update mid-game.*
+
+- Fixed issue where the [Immersive Equipment Display](https://www.nexusmods.com/skyrimspecialedition/mods/62001) preset was not loading automatically
+- Added [aMidianBorn wolf armor and skyforge weapons](https://www.nexusmods.com/skyrim/mods/34147) (Vanilla weapon retextures only)
+- Added [Happy Little Trees - Pines Only - Vanilla Trunks and Snow](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=718803&game_id=1704&nmm=1)
+- Added [Red Mountain Plume Visible from Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/66048)
+- Added [Skyfall's COTN Falkreath Reshaped](https://www.nexusmods.com/skyrimspecialedition/mods/144037)
+- Added [Water Edge Adjustment](https://www.nexusmods.com/Core/Libs/Common/Widgets/DownloadPopUp?id=651225&game_id=1704&nmm=1)
+- Removed [Happy Little Trees](https://www.nexusmods.com/skyrimspecialedition/mods/50961)
+- Removed [Rob's Bug Fixes - TGC Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/70185) (**Deprecated:** Included in [The Great Town of Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032) 2.0+)
+- Removed [Skyforge Steel - Art and Honor](https://www.nexusmods.com/skyrimspecialedition/mods/80049)
+- Removed [Taarengrav Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/84371)
+- Regenerated LOD
+
+### [9.0.0-beta2](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Safe to update mid-game.*
+
+- Fixed visual errors caused by using outdated Community Shaders addons 
+- Updated [Cloud Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139185)
+- Updated [Screen Space Global Illumination (SSGI) - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/130375)
+- Updated [Sky Sync - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/153543)
+- Updated [Skylighting - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139352)
+- Updated [Terrain Blending - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/157076)
+- Updated [Upscaling - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/156952)
+- Updated [Wetness Effects - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/112739)
+- Removed [Grass Collision - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/87816) (**Deprecated:** Included in [Community Shaders 1.5+](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
+- Removed [Grass Lighting - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86502) (**Deprecated:** Included in [Community Shaders 1.5+](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
+- Removed [Screen Space Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/93209) (**Deprecated:** Included in [Community Shaders 1.5+](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
+- Removed [Subsurface Scattering - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/114114) (**Deprecated:** Included in [Community Shaders 1.5+](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
+
+### [9.0.0-beta1](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+- Added [Cloud Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139185)
+- Added [Combat Music Extender](https://www.nexusmods.com/skyrimspecialedition/mods/133384)
+- Added [Consistent Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/152314)
+- Added [Cracked Tusk Keep - Cultured Orc additions](https://www.nexusmods.com/skyrimspecialedition/mods/120690)
+- Added [Dynamic Location Pop-ups](https://www.nexusmods.com/skyrimspecialedition/mods/153122)
+- Added [Dynamic Stacked Object Models](https://www.nexusmods.com/skyrimspecialedition/mods/149850)
+- Added [Fishing Extension Framework](https://www.nexusmods.com/skyrimspecialedition/mods/139626)
+- Added [Grass Collision - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/87816)
+- Added [HorsePower - Modernized Horse Riding (Total Riding Overhaul)](https://www.nexusmods.com/skyrimspecialedition/mods/169335)
+- Added [Local Map Upgrade](https://www.nexusmods.com/skyrimspecialedition/mods/129756)
+- Added [M.I.N.T. - Mint-Issued National Tenders](https://www.nexusmods.com/skyrimspecialedition/mods/178940)
+- Added [Names for the Nameless](https://www.nexusmods.com/skyrimspecialedition/mods/46504)
+- Added [Perk Trees - Unlocked Mechanics and Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/134760)
+- Added [Reimperialized Fort Frostmoth - Location Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/134592)
+- Added [Sky Sync - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/153543)
+- Added [Stendarr's Chosen - Stendarr's Hammer Reintegration](https://www.nexusmods.com/skyrimspecialedition/mods/110617)
+- Added [Terrain Blending - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/157076)
+- Added [Terrain Helper](https://www.nexusmods.com/skyrimspecialedition/mods/143149)
+- Added [Terrain Variation - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/148123)
+- Added [Thalmor comforts - Aldmeri Cultured Furniture](https://www.nexusmods.com/skyrimspecialedition/mods/132317)
+- Added [The Dragon Bridge](https://www.nexusmods.com/skyrimspecialedition/mods/63858)
+- Added [Upscaling - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/156952)
+- Updated [Additional Dremora Faces](https://www.nexusmods.com/skyrimspecialedition/mods/97946)
+- Updated [Address Library for SKSE Plugins](https://www.nexusmods.com/skyrimspecialedition/mods/32444)
+- Updated [Akaviri Hats Pack](https://www.nexusmods.com/skyrimspecialedition/mods/83975)
+- Updated [Auto Audio Switch](https://www.nexusmods.com/skyrimspecialedition/mods/134404)
+- Updated [Auto Input Switch](https://www.nexusmods.com/skyrimspecialedition/mods/54309)
+- Updated [Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/60805)
+- Updated [Better Third Person Selection - BTPS](https://www.nexusmods.com/skyrimspecialedition/mods/64339)
+- Updated [Betty Netch](https://www.nexusmods.com/skyrimspecialedition/mods/88777)
+- Updated [C.O.I.N. - Coins of Interesting Natures](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
+- Updated [CC Farming - Tweaks Enhancements and Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/69029)
+- Updated [Chapter II - Jeremy Soule Inspired Music](https://www.nexusmods.com/skyrimspecialedition/mods/37792)
+- Updated [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123)
+- Updated [Combat Music Fix NG Updated](https://www.nexusmods.com/skyrimspecialedition/mods/110459)
+- Updated [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)
+- Updated [Comprehensive Attack Rate Patch - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/89042)
+- Updated [Considerate Followers - Followers are Silent During Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/133659)
+- Updated [ConsolePlusPlus](https://www.nexusmods.com/skyrimspecialedition/mods/79975)
+- Updated [Constellations - Additional Player Skills](https://www.nexusmods.com/skyrimspecialedition/mods/117352)
+- Updated [Container Distribution Framework](https://www.nexusmods.com/skyrimspecialedition/mods/120152)
+- Updated [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980)
+- Updated [Corkbulb (Ammunition) Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/92827)
+- Updated [Crash Logger SSE AE VR - PDB support](https://www.nexusmods.com/skyrimspecialedition/mods/59818)
+- Updated [Description Framework](https://www.nexusmods.com/skyrimspecialedition/mods/105799)
+- Updated [Divines Prayer Animations](https://www.nexusmods.com/skyrimspecialedition/mods/109175)
+- Updated [DVA - Dynamic Vampire Appearance](https://www.nexusmods.com/skyrimspecialedition/mods/96817)
+- Updated [Dynamic Spell Descriptions](https://www.nexusmods.com/skyrimspecialedition/mods/136026)
+- Updated [DynDOLOD](https://www.nexusmods.com/skyrimspecialedition/mods/52897)
+- Updated [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990)
+- Updated [Elven Supremacy - Currency Swapper for Thalmor](https://www.nexusmods.com/skyrimspecialedition/mods/129717)
+- Updated [Enchantment Art Extender](https://www.nexusmods.com/skyrimspecialedition/mods/105492)
+- Updated [Enhanced Worldspace Maps](https://www.nexusmods.com/skyrimspecialedition/mods/57176)
+- Updated [Falmer Servant Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/120995)
+- Updated [Gesture Animation Remix (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/64420)
+- Updated [Granite Hill - Cut Content Restoration](https://www.nexusmods.com/skyrimspecialedition/mods/117585)
+- Updated [Grass Lighting - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86502)
+- Updated [Hunters Not Bandits](https://www.nexusmods.com/skyrimspecialedition/mods/1547)
+- Updated [Husky Wolf - Wolves Use Husky Model](https://www.nexusmods.com/skyrimspecialedition/mods/76824)
+- Updated [ImGui Icons](https://www.nexusmods.com/skyrimspecialedition/mods/114790)
+- Updated [Innocence Lost - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/80974)
+- Updated [Journeyman - A Fast Travel Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/92220)
+- Updated [Just Blood - Dirt and Blood Lite](https://www.nexusmods.com/skyrimspecialedition/mods/46501)
+- Updated [Khajiit Has Tents](https://www.nexusmods.com/skyrimspecialedition/mods/119847)
+- Updated [Load Screen Shading Fix](https://www.nexusmods.com/skyrimspecialedition/mods/98647)
+- Updated [Lost Races of Nirn - Ayleid - Dwemer - Maormer - Snow Elf - Tsaesci](https://www.nexusmods.com/skyrimspecialedition/mods/69467)
+- Updated [Mainland Staff Enchanters](https://www.nexusmods.com/skyrimspecialedition/mods/132632)
+- Updated [MCM Helper](https://www.nexusmods.com/skyrimspecialedition/mods/53000)
+- Updated [Mfg Fix NG](https://www.nexusmods.com/skyrimspecialedition/mods/133568)
+- Updated [Missile's IED Preset - Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/67770)
+- Updated [Morrowind Mint - Currency Swapper for Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/129387)
+- Updated [No Volkihar Outfits on Regular Vampires](https://www.nexusmods.com/skyrimspecialedition/mods/24881)
+- Updated [NPC Animation Remix (OAR)](https://www.nexusmods.com/skyrimspecialedition/mods/63471)
+- Updated [NPCs React To Necromancy (And More)](https://www.nexusmods.com/skyrimspecialedition/mods/70428)
+- Updated [Open Animation Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/92109)
+- Updated [Optional Quick Start - SE](https://www.nexusmods.com/skyrimspecialedition/mods/63953)
+- Updated [Papyrus Ini Manipulator](https://www.nexusmods.com/skyrimspecialedition/mods/65634)
+- Updated [Papyrus Tweaks NG](https://www.nexusmods.com/skyrimspecialedition/mods/77779)
+- Updated [Perk Entry Point Extender](https://www.nexusmods.com/skyrimspecialedition/mods/91192)
+- Updated [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701)
+- Updated [Player Name Randomizer - Show in UI](https://www.nexusmods.com/skyrimspecialedition/mods/119235)
+- Updated [powerofthree's Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/51073)
+- Updated [Precision Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/74887)
+- Updated [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195)
+- Updated [Pronouns](https://www.nexusmods.com/skyrimspecialedition/mods/43816)
+- Updated [Race Compatibility SKSE (RCS)](https://www.nexusmods.com/skyrimspecialedition/mods/122592)
+- Updated [RaceMenu](https://www.nexusmods.com/skyrimspecialedition/mods/19080)
+- Updated [Racial Abilities - Greater Power Replacement](https://www.nexusmods.com/skyrimspecialedition/mods/108759)
+- Updated [Rare Curios - Bolts Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/39903)
+- Updated [Run For Your Lives](https://www.nexusmods.com/skyrimspecialedition/mods/2272)
+- Updated [Save and Load Accelerator for SKSE Cosaves - S.L.A.C.K.](https://www.nexusmods.com/skyrimspecialedition/mods/163969)
+- Updated [Settling of Squad - Set Follower Home](https://www.nexusmods.com/skyrimspecialedition/mods/125471)
+- Updated [Siege at Icemoth](https://www.nexusmods.com/skyrimspecialedition/mods/109541)
+- Updated [SkyPatcher](https://www.nexusmods.com/skyrimspecialedition/mods/106659)
+- Updated [Skyrim Cut Content Restoration](https://www.nexusmods.com/skyrimspecialedition/mods/90744)
+- Updated [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772)
+- Updated [Skyrim Silver - Currency Swapper for Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/127897)
+- Updated [SkyUI](https://www.nexusmods.com/skyrimspecialedition/mods/12604)
+- Updated [SmoothCam](https://www.nexusmods.com/skyrimspecialedition/mods/41252)
+- Updated [Spell Perk Item Distributor (SPID)](https://www.nexusmods.com/skyrimspecialedition/mods/36869)
+- Updated [Splashes of Storms](https://www.nexusmods.com/skyrimspecialedition/mods/72115)
+- Updated [SSE Engine Fixes (skse64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/17230)
+- Updated [Subtitles](https://www.nexusmods.com/skyrimspecialedition/mods/113214)
+- Updated [Survival Mode Improved - SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/78244)
+- Updated [Switch Camera During Dialogue](https://www.nexusmods.com/skyrimspecialedition/mods/95269)
+- Updated [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372)
+- Updated [Terre's 4K Fur Textures for CoverKhajiits - Vanilla CBBE UNP BHUNP SoS HIMBO](https://www.nexusmods.com/skyrimspecialedition/mods/76568)
+- Updated [The Great City Of Winterhold](https://www.nexusmods.com/skyrimspecialedition/mods/17127)
+- Updated [The Great Town of Karthwasten](https://www.nexusmods.com/skyrimspecialedition/mods/33032)
+- Updated [The Heart of Dibella - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/94863)
+- Updated [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683)
+- Updated [The Whispering Door - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/76606)
+- Updated [True Directional Movement - Diagonal Sprinting Fix](https://www.nexusmods.com/skyrimspecialedition/mods/53797)
+- Updated [Unofficial Skyrim Creation Club Content Patches](https://www.nexusmods.com/skyrimspecialedition/mods/18975)
+- Updated [Vanilla Remastered (Optimized) - Textures Upscaled and Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/134352)
+- Updated [Vittorias Alternate Wedding](https://www.nexusmods.com/skyrimspecialedition/mods/62466)
+- Updated [Water Effects Brightness and Reflection Fix](https://www.nexusmods.com/skyrimspecialedition/mods/63862)
+- Updated [Widescreen Scale Removed for 1-6-1130 and higher](https://www.nexusmods.com/skyrimspecialedition/mods/136793)
+- Removed [Arcane Archer Pack Creation](https://creations.bethesda.net/en/skyrim/details/d9ce1801-c218-44bd-90f6-8a9817da6c05/Arcane_Archer_Pack)
+- Removed [Assorted Tiny Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/43834)
+- Removed [Atronach Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/52255)
+- Removed [Automatic Animations - Including Icon Identification](https://www.nexusmods.com/skyrimspecialedition/mods/59484)
+- Removed [Bandit Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/63733)
+- Removed [Bespoke Bruma Black and Brown Bears](https://www.nexusmods.com/skyrimspecialedition/mods/135413)
+- Removed [Better Atronach Forge Offering Box - No More Dwemer Dresser - High Polygon Summoning Circle](https://www.nexusmods.com/skyrimspecialedition/mods/132887)
+- Removed [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
+- Removed [Beyond Skyrim Bruma - Adamantium Addon](https://www.nexusmods.com/skyrimspecialedition/mods/71740)
+- Removed [Beyond Skyrim- The Lost Roscrean Blade](https://www.nexusmods.com/skyrimspecialedition/mods/31548)
+- Removed [Bogmort - Mud Monsters of Morthal Swamp](https://www.nexusmods.com/skyrimspecialedition/mods/22447)
+- Removed [Carriages and Stables Dialogue Bundle](https://www.nexusmods.com/skyrimspecialedition/mods/79297)
+- Removed [Cathedral - Water Overhaul and Bug Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/22962)
+- Removed [Civil War Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/77566)
+- Removed [Dawn of the Dawnbreaker](https://www.nexusmods.com/skyrimspecialedition/mods/111399?tab=files&file_id=469850)
+- Removed [Destination Weddings](https://www.nexusmods.com/skyrimspecialedition/mods/78127)
+- Removed [Dialogue History](https://www.nexusmods.com/skyrimspecialedition/mods/114238)
+- Removed [DrJacopo's - 3D Deathbell](https://www.nexusmods.com/skyrimspecialedition/mods/76460)
+- Removed [DrJacopo's - 3D Dragons Tongue](https://www.nexusmods.com/skyrimspecialedition/mods/85694)
+- Removed [DrJacopo's - 3D Lavender](https://www.nexusmods.com/skyrimspecialedition/mods/68310)
+- Removed [DrJacopo's - 3D Snow Berries](https://www.nexusmods.com/skyrimspecialedition/mods/69415)
+- Removed [DrJacopo's - 3D Solstheim Grass](https://www.nexusmods.com/skyrimspecialedition/mods/90945)
+- Removed [DrJacopo's - 3D Sword Ferns](https://www.nexusmods.com/skyrimspecialedition/mods/82978)
+- Removed [DrJacopo's - 3D Thistle](https://www.nexusmods.com/skyrimspecialedition/mods/67619)
+- Removed [DrJacopo's - 3D Tundra Cotton](https://www.nexusmods.com/skyrimspecialedition/mods/68068)
+- Removed [Dwemer Water Wheels - Markarth - Wyrmstooth - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/131933)
+- Removed [East Empire Strongbox Logo](https://www.nexusmods.com/skyrimspecialedition/mods/70396)
+- Removed [Elven Supremacy - Currency Swapper for Thalmor](https://www.nexusmods.com/skyrimspecialedition/mods/129717)
+- Removed [Enhanced Worldspace Maps - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/57176)
+- Removed [Environs - Abandoned Abodes](https://www.nexusmods.com/skyrimspecialedition/mods/82410)
+- Removed [Environs - Hroggar's House](https://www.nexusmods.com/skyrimspecialedition/mods/83457)
+- Removed [Environs - Riften Warehouse](https://www.nexusmods.com/skyrimspecialedition/mods/88024)
+- Removed [Environs - The Greenwood Shack](https://www.nexusmods.com/skyrimspecialedition/mods/73732)
+- Removed [Environs - The Ruined Tundra Farmhouse](https://www.nexusmods.com/skyrimspecialedition/mods/72981)
+- Removed [Environs - The Shrines of Talos](https://www.nexusmods.com/skyrimspecialedition/mods/85141)
+- Removed [Environs - Whiterun Watchtower Doesn't Stay Broken](https://www.nexusmods.com/skyrimspecialedition/mods/76261)
+- Removed [Falmer Blood Elixir Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/8949)
+- Removed [Forsworn and Thalmor Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/80188)
+- Removed [Frame Generation - Community Shaders ](https://www.nexusmods.com/skyrimspecialedition/mods/140199) (**Deprecated:** Included in [Community Shaders 1.4+](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
+- Removed [Gibberish - Currency Swapper for Skyrim: Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/127871)
+- Removed [Goblins Creation](https://creations.bethesda.net/en/skyrim/details/fd1ce004-0e69-44a1-8b9b-45288c237cec/Goblins)
+- Removed [House Rule - Lawbringer for Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/57243)
+- Removed [Imperial Law - Lawbringer for Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/57099)
+- Removed [Lawbringer](https://www.nexusmods.com/skyrimspecialedition/mods/29882)
+- Removed [Lethal Traps](https://www.nexusmods.com/skyrimspecialedition/mods/3860)
+- Removed [Light Limit Fix - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/99548) (**Deprecated:** Included in [Community Shaders 1.4+](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
+- Removed [Mehrunes Dagon Unique Shrine - Shrine Objects Swapped - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/133264)
+- Removed [More Craftable Equipment - Unenchanted Clothing and Specialty Gear](https://www.nexusmods.com/skyrimspecialedition/mods/44666)
+- Removed [More Hircinic Aspects of Hircine- Mihail's Shards of Immersion (SE-AE version)](https://www.nexusmods.com/skyrimspecialedition/mods/89917)
+- Removed [Morrowind Mint - Currency Swapper for Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/129387)
+- Removed [Morthal Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/90737)
+- Removed [Move Beyond Skyrim Cabbage Roll to Baking Station](https://www.nexusmods.com/skyrimspecialedition/mods/84875)
+- Removed [Open for Business - Lawbringer and Assorted Tweaks for Siege at Icemoth](https://www.nexusmods.com/skyrimspecialedition/mods/110277)
+- Removed [Plague of the Dead Creation](https://creations.bethesda.net/en/skyrim/details/5920e4db-04b9-437d-bb32-4087232f6fe9/Plague_of_the_Dead)
+- Removed [Precision - Accurate Melee Collisions](https://www.nexusmods.com/skyrimspecialedition/mods/72347)
+- Removed [Precision Creatures](https://www.nexusmods.com/skyrimspecialedition/mods/74887)
+- Removed [Raven Rock Building Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/53962)
+- Removed [Saturalia Holiday Pack Creation](https://creations.bethesda.net/en/skyrim/details/e81db1b8-2d93-4520-b156-92ac79c59ea7/Saturalia_Holiday_Pack)
+- Removed [Seasonal Weathers Framework - Seasons support for Weathers Mods](https://www.nexusmods.com/skyrimspecialedition/mods/63562)
+- Removed [Seasons of Skyrim SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/62861)
+- Removed [Security Overhaul SKSE - Extra Locks - 11 New Locks](https://www.nexusmods.com/skyrimspecialedition/mods/126119)
+- Removed [Security Overhaul SKSE - Lock Variations](https://www.nexusmods.com/skyrimspecialedition/mods/58224)
+- Removed [Security Overhaul SKSE - Regional Locks](https://www.nexusmods.com/skyrimspecialedition/mods/62781)
+- Removed [Select Your Season](https://www.nexusmods.com/skyrimspecialedition/mods/64278)
+- Removed [Sharpen Other Swords II - AnimObject Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/75237)
+- Removed [Shrubs of Snow - Seasons of Skyrim SKSE](https://www.nexusmods.com/skyrimspecialedition/mods/63463)
+- Removed [Skeuomorphism of Skyrim - Immersive Plaque Reading Interface](https://www.nexusmods.com/skyrimspecialedition/mods/119849)
+- Removed [Skyrim Silver - Currency Swapper for Windhelm](https://www.nexusmods.com/skyrimspecialedition/mods/127897)
+- Removed [Snazzy Bookcases - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/92407)
+- Removed [Solstheim Lighthouse](https://www.nexusmods.com/skyrimspecialedition/mods/14329)
+- Removed [Synod and Whisper Robes Improved - B.S. Bruma Edit](https://www.nexusmods.com/skyrimspecialedition/mods/35334)
+- Removed [Tactical Valtheim](https://www.nexusmods.com/skyrimspecialedition/mods/9101)
+- Removed [The Halls of Rielle - Beyond Skyrim Bruma and The Cause Combined](https://www.nexusmods.com/skyrimspecialedition/mods/58213)
+- Removed [Turn of the Seasons](https://www.nexusmods.com/skyrimspecialedition/mods/63623)
+- Removed [Unique Duplicates - Radiant Raiment and Party Clothes Recolored](https://www.nexusmods.com/skyrimspecialedition/mods/39061)
+- Removed [Unique Goldenglow Estate Crossing](https://www.nexusmods.com/skyrimspecialedition/mods/56606)
+- Removed [Unique Stros M'Kai Rum](https://www.nexusmods.com/skyrimspecialedition/mods/43830)
+- Removed [Unique Wooden Bridges - Base Object Swapper](https://www.nexusmods.com/skyrimspecialedition/mods/114971)
+- Removed [Vaermina's Torpor - Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/88439)
+- Removed [Vampire Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/83484)
+- Removed [White Phial Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/6113)
+- Removed [Worldspace Transition Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/48889)
+- Removed [Wyrm Tamer - Lawbringer for Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/55190)
+- Removed [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
