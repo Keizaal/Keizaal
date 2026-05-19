@@ -34,18 +34,18 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
-### [9.0.0-beta11](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta11/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [9.0.0-beta.11](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.11/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 - Fixed incorrect [Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705) config
 - Updated [C.O.I.N. - Coins of Interesting Nature](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
 
-### [9.0.0-beta10](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta10/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [9.0.0-beta.10](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.10/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
 - Fixed issue where the SimonRim Profile wasn't being properly installed
 - Updated [M.I.N.T. - Mint-Issued National Tenders](https://www.nexusmods.com/skyrimspecialedition/mods/178940)
 
-### [9.0.0-beta9](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta9/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [9.0.0-beta.09](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.09/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
 - Added [Durak's Crossbow Conversation 2 RETRIBUTION - The Player Has Seen a Crossbow Before](https://www.nexusmods.com/skyrimspecialedition/mods/58331)
@@ -56,22 +56,22 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - Updated [Press H to Horse](https://www.nexusmods.com/skyrimspecialedition/mods/81195)
 - Removed [Stay At The System Page NG](https://www.nexusmods.com/skyrimspecialedition/mods/76927)
 
-### [9.0.0-beta8](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta8/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [9.0.0-beta.08](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.08/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
 - Added workaround for Eyrir hanging after his speech
 
-### [9.0.0-beta7](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta7/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [9.0.0-beta.07](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.07/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
 - Fixed issue with Subsurface Scattering that caused characters with shaders to have glowing red eyes
 
-### [9.0.0-beta6](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta6/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [9.0.0-beta.06](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.06/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Do **not** switch to the SimonRim Profile mid-game.*
 
 - Rebuilt a *very* rough version of the SimonRim Profile for testing. Further patching is highly likely, use at your own risk!
 
-### [9.0.0-beta5](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta5/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [9.0.0-beta.05](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.05/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
 - Regenerated the Lunar Weapons Patch to fix missing coverage areas
@@ -79,7 +79,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - Updated [M.I.N.T. - Mint-Issued National Tenders](https://www.nexusmods.com/skyrimspecialedition/mods/178940)
 - Removed some unnecessary Seasons patches
 
-### [9.0.0-beta4](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta4/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [9.0.0-beta.04](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.04/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
 - Cleaned around 30GB of orphaned mods still being included in Keizaal's download
@@ -90,7 +90,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - Removed [Classic Weathers Extended](https://www.nexusmods.com/skyrimspecialedition/mods/96684)
 - Removed [Classic Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/81348)
 
-### [9.0.0-beta3](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta3/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [9.0.0-beta.03](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.03/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
 - Fixed issue where the [Immersive Equipment Display](https://www.nexusmods.com/skyrimspecialedition/mods/62001) preset was not loading automatically
@@ -105,7 +105,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - Removed [Taarengrav Barrow](https://www.nexusmods.com/skyrimspecialedition/mods/84371)
 - Regenerated LOD
 
-### [9.0.0-beta2](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta2/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [9.0.0-beta.02](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.02/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
 - Fixed visual errors caused by using outdated Community Shaders addons 
@@ -121,7 +121,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - Removed [Screen Space Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/93209) (**Deprecated:** Included in [Community Shaders 1.5+](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
 - Removed [Subsurface Scattering - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/114114) (**Deprecated:** Included in [Community Shaders 1.5+](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
 
-### [9.0.0-beta1](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta1/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [9.0.0-beta.01](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.01/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 - Added [Cloud Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139185)
 - Added [Combat Music Extender](https://www.nexusmods.com/skyrimspecialedition/mods/133384)
 - Added [Consistent Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/152314)
