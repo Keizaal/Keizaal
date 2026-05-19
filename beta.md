@@ -36,7 +36,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 
 ### [9.0.0-beta11](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta11/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
-- Fixed incorrect Display Tweaks config
+- Fixed incorrect [Display Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/34705) config
 - Updated [C.O.I.N. - Coins of Interesting Nature](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
 
 ### [9.0.0-beta10](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta10/Keizaal.wabbajack){:target="_blank" rel="noopener"}
