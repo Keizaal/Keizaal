@@ -34,14 +34,12 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
-<!--
 ### [9.0.0-beta.12](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.12/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
 - Fixed broken download links after migrating Keizaal assets from Nexus back to GitHub
 - Updated [C.O.I.N. - Coins of Interesting Nature](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
 
--->
 ### [9.0.0-beta.11](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.11/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
