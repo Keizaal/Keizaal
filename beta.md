@@ -33,6 +33,11 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
+### [9.0.0-beta.13](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.14/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Safe to update mid-game.*
+
+- Fixed hash mismatch with Keizaal's asssets
+
 ### [9.0.0-beta.13](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.13/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
