@@ -29,7 +29,6 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - The Installed Content menu is not visible in the system menu
   - **Solved:** Incompatibility with [SkyUI 6](https://www.nexusmods.com/skyrimspecialedition/mods/12604), [Knotwork](https://www.nexusmods.com/skyrimspecialedition/mods/128235) needs updated
     - **Note:** Knotwork will remain on 2.1.0 until [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701) has been properly updated for SkyUI 6
-- Some [Container Distribution Framework](https://www.nexusmods.com/skyrimspecialedition/mods/120152) reference exclusions aren't being properly ignored
 
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
