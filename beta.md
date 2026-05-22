@@ -33,6 +33,12 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
+### [9.0.0-beta.16](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.16/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Safe to update mid-game.*
+
+- Fixed graphical issues related to Community Shaders
+- Added [Scene Tweak - Companions Werewolf Bloodritual](https://www.nexusmods.com/skyrimspecialedition/mods/46687)
+
 ### [9.0.0-beta.15](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.15/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
