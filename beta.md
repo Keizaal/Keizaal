@@ -38,7 +38,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 
 - Fixed issues with the SimonRim profile regrading mods that should've been disabled when using the suite
 - Added [Start Game Settings](https://www.nexusmods.com/skyrimspecialedition/mods/180690)
-- Added [Upscaling - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/156952)
+- Added [Upscaling - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/156952) (Mistakenly removed in previous version)
 - Updated [C.O.I.N. - Coins of Interesting Nature](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
 - Updated [M.I.N.T. - Mint-Issued National Tenders](https://www.nexusmods.com/skyrimspecialedition/mods/178940)
 - Removed [Soft Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/74632) (**Deprecated:** Included in [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
