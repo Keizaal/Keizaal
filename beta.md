@@ -33,6 +33,17 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
+### [9.0.0-beta.18](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.17/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Safe to update mid-game.*
+
+- Fixed issues with the SimonRim profile regrading mods that should've been disabled when using the suite
+- Added [Start Game Settings](https://www.nexusmods.com/skyrimspecialedition/mods/180690)
+- Added [Upscaling - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/156952)
+- Updated [C.O.I.N. - Coins of Interesting Nature](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
+- Updated [M.I.N.T. - Mint-Issued National Tenders](https://www.nexusmods.com/skyrimspecialedition/mods/178940)
+- Removed [Soft Shadows](https://www.nexusmods.com/skyrimspecialedition/mods/74632) (**Deprecated:** Included in [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
+- Removed [Twilight](https://www.nexusmods.com/skyrimspecialedition/mods/82665) (**Deprecated:** Included in [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
+
 ### [9.0.0-beta.17](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.17/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
