@@ -33,7 +33,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
-### [9.0.0-beta.18](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.17/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+### [9.0.0-beta.18](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.18/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
 - Fixed issues with the SimonRim profile regrading mods that should've been disabled when using the suite
