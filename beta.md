@@ -33,6 +33,11 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
+### [9.0.0-beta.19](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.19/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Safe to update mid-game.*
+- Fixed issue where rooms couldn't be rented in the SimonRim profile.
+- Updated [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756)
+
 ### [9.0.0-beta.18](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.18/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 
