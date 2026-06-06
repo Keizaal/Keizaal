@@ -33,6 +33,17 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
+### [9.0.0-beta.20](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.20/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+*Due to the removal of Haugbui it is recommended that you save in an area away from draugr before updating.*
+- Added [Favorites Menu Effects Description](https://www.nexusmods.com/skyrimspecialedition/mods/143532)
+- Added [It's A Banded Iron Shield Because It's An Iron Shield That's Banded](https://www.nexusmods.com/skyrimspecialedition/mods/181374)
+- Added [Partial Form Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/161274) (hopefully this will help patch some stray minor incompatibilities in the SimonRim Profile)
+- Added F[inally A Steel Plate Shield For The Elder Scrolls V Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/30868)
+- Updated [C.O.I.N. - Coins of Interesting Nature](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
+- Updated [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123)
+- Updated [Skyrim Cut Content Restoration](https://www.nexusmods.com/skyrimspecialedition/mods/90744)
+- Removed [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188)
+
 ### [9.0.0-beta.19](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.19/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Safe to update mid-game.*
 - Fixed issue where rooms couldn't be rented in the SimonRim profile
