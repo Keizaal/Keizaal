@@ -38,7 +38,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - Added [Favorites Menu Effects Description](https://www.nexusmods.com/skyrimspecialedition/mods/143532)
 - Added [It's A Banded Iron Shield Because It's An Iron Shield That's Banded](https://www.nexusmods.com/skyrimspecialedition/mods/181374)
 - Added [Partial Form Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/161274) (hopefully this will help patch some stray minor incompatibilities in the SimonRim Profile)
-- Added F[inally A Steel Plate Shield For The Elder Scrolls V Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/30868)
+- Added [Finally A Steel Plate Shield For The Elder Scrolls V Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/30868)
 - Updated [C.O.I.N. - Coins of Interesting Nature](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
 - Updated [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123)
 - Updated [Skyrim Cut Content Restoration](https://www.nexusmods.com/skyrimspecialedition/mods/90744)
