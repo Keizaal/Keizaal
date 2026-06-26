@@ -33,6 +33,47 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 ## Changelog
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
+### [9.0.0-beta.21](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.21/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+***Requires** new game.*
+- [Added Real Tutorial Prompts](https://www.nexusmods.com/skyrimspecialedition/mods/182843)
+- Added [REDACTED]
+- Added [Simply Skin - Female Texture Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/98131)
+- Added [Simply Skin - Male Texture Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/107637)
+- Added [The Sigil Shop - Soul Proprietorship](https://www.nexusmods.com/skyrimspecialedition/mods/182423)
+- Added AEGIS - Anniversary Edition General Integration System
+- Added **Anniversary Edition Content:** [Alternative Armors - Dragon Plate](https://creations.bethesda.net/en/skyrim/details/d4f7c5bc-a653-4ee0-83de-87fabab0e22f/Alternative_Armors___Dragon_Plate)
+- Added **Anniversary Edition Content:** [Alternative Armors - Dwarven Plate](https://creations.bethesda.net/en/skyrim/details/77364928-82ba-42d5-ad1d-3ce32fa67cc9/Alternative_Armors___Dwarven_Plate)
+- Added **Anniversary Edition Content:** [Alternative Armors - Orcish Plate](https://creations.bethesda.net/en/skyrim/details/b0e189fa-56f4-4210-be64-30edb8a17a6c/Alternative_Armors___Orcish_Plate)
+- Added **Anniversary Edition Content:** [Alternative Armors - Orcish Scaled](https://creations.bethesda.net/en/skyrim/details/ebfcac77-6464-4c6b-b6e7-fc6e7d848578/Alternative_Armors___Orcish_Scaled)
+- Added **Anniversary Edition Content:** [Arcane Accessories](https://creations.bethesda.net/en/skyrim/details/f633f480-6225-4991-b8db-373e481aa199/Arcane_Accessories)
+- Added **Anniversary Edition Content:** [Arms of Chaos](https://creations.bethesda.net/en/skyrim/details/99282e97-242d-479d-a8fd-ec25883f41e8/Arms_of_Chaos)
+- Added **Anniversary Edition Content:** [Dawnfang & Duskfang](https://creations.bethesda.net/en/skyrim/details/a12aacea-74b0-4260-9b63-dddc8f30ec79/Dawnfang___Duskfang)
+- Added **Anniversary Edition Content:** [Forgotten Seasons](https://creations.bethesda.net/en/skyrim/details/d0b30f99-ea45-44d2-ace8-595fbed10ca1/Forgotten_Seasons)
+- Added **Anniversary Edition Content:** [Necromantic Grimoire](https://creations.bethesda.net/en/skyrim/details/9bbcdace-4556-4e87-b821-0c9b6f2958d0/Necromantic_Grimoire)
+- Added **Anniversary Edition Content:** [Redguard Elite Armaments](https://creations.bethesda.net/en/skyrim/details/20c780a7-345f-4dcb-b720-b335fe18058a/Redguard_Elite_Armaments)
+- Added **Anniversary Edition Content:** [Spell Knight Armor](https://creations.bethesda.net/en/skyrim/details/d568352d-b7a8-4d3a-bf17-ab0c12a60d91/Spell_Knight_Armor)
+- Added **Anniversary Edition Content:** [Staff of Hasedoki](https://creations.bethesda.net/en/skyrim/details/0fd2e813-b549-4f35-b038-532b7ab93a2e/Staff_of_Hasedoki)
+- Added **Anniversary Edition Content:** [Sunder & Wraithguard](https://creations.bethesda.net/en/skyrim/details/ace42b6f-b504-4a13-a0fc-fcb963cfe874/Sunder___Wraithguard)
+- Added **Anniversary Edition Content:** [The Gray Cowl Returns!](https://creations.bethesda.net/en/skyrim/details/1bc8a5b4-708e-4fc0-967f-6da1f11903ae/The_Gray_Cowl_Returns)
+- Added **Anniversary Edition Content:** [Umbra](https://creations.bethesda.net/en/skyrim/details/110e25d2-227a-4bfd-b538-29121a0416b4/Umbra)
+- Updated [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756)
+- Updated [C.O.I.N. - Coins of Interesting Nature](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
+- Updated [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397)
+- Updated [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990)
+- Updated [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019)
+- Updated [Knight of the North - Divine Crusader Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/45869)
+- Updated [Pirates Wield Cutlasses](https://www.nexusmods.com/skyrimspecialedition/mods/31753)
+- Updated [Realistic Pirate Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/110672)
+- Updated [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372)
+- Updated [Versatile Item and Group Re-Assignment - C.O.C.K.S. Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/85419)
+- Updated [Vigilance the Husky](https://www.nexusmods.com/skyrimspecialedition/mods/49935)
+- Removed [Rare Curios - Bolts Expanded](https://www.nexusmods.com/skyrimspecialedition/mods/39903) (**Deprecated:** Included in AEGIS - Anniversary Edition General Integration System)
+- Removed [Tempered Racial Textures](https://www.nexusmods.com/skyrimspecialedition/mods/54573)
+- Removed [Tempered Skins for Females](https://www.nexusmods.com/skyrimspecialedition/mods/8505)
+- Removed [Tempered Skins for Males](https://www.nexusmods.com/skyrimspecialedition/mods/7902)
+- Removed [Xavbio Retexture Suite](https://www.nexusmods.com/games/skyrimspecialedition/mods?title=Retexture&uploader=xavbio)
+- Removed [Yee Haaaa Horse Saddle Retexture](https://www.nexusmods.com/skyrimspecialedition/mods/42508)
+
 ### [9.0.0-beta.20](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.20/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 *Due to the removal of Haugbui it is recommended that you save in an area away from draugr before updating.*
 - Added [Favorites Menu Effects Description](https://www.nexusmods.com/skyrimspecialedition/mods/143532)
@@ -184,6 +225,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - Removed [Subsurface Scattering - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/114114) (**Deprecated:** Included in [Community Shaders 1.5+](https://www.nexusmods.com/skyrimspecialedition/mods/86492))
 
 ### [9.0.0-beta.01](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.01/Keizaal.wabbajack){:target="_blank" rel="noopener"}
+- Added Anniversary Edition Content: Stendarr's Hammer
 - Added [Cloud Shadows - Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/139185)
 - Added [Combat Music Extender](https://www.nexusmods.com/skyrimspecialedition/mods/133384)
 - Added [Consistent Vanilla Hair](https://www.nexusmods.com/skyrimspecialedition/mods/152314)
