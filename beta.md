@@ -35,11 +35,6 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 
 ### [9.0.0-beta.21](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.21/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 ***Requires** new game.*
-- [Added Real Tutorial Prompts](https://www.nexusmods.com/skyrimspecialedition/mods/182843)
-- Added [REDACTED]
-- Added [Simply Skin - Female Texture Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/98131)
-- Added [Simply Skin - Male Texture Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/107637)
-- Added [The Sigil Shop - Soul Proprietorship](https://www.nexusmods.com/skyrimspecialedition/mods/182423)
 - Added AEGIS - Anniversary Edition General Integration System
 - Added **Anniversary Edition Content:** [Alternative Armors - Dragon Plate](https://creations.bethesda.net/en/skyrim/details/d4f7c5bc-a653-4ee0-83de-87fabab0e22f/Alternative_Armors___Dragon_Plate)
 - Added **Anniversary Edition Content:** [Alternative Armors - Dwarven Plate](https://creations.bethesda.net/en/skyrim/details/77364928-82ba-42d5-ad1d-3ce32fa67cc9/Alternative_Armors___Dwarven_Plate)
@@ -56,12 +51,19 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - Added **Anniversary Edition Content:** [Sunder & Wraithguard](https://creations.bethesda.net/en/skyrim/details/ace42b6f-b504-4a13-a0fc-fcb963cfe874/Sunder___Wraithguard)
 - Added **Anniversary Edition Content:** [The Gray Cowl Returns!](https://creations.bethesda.net/en/skyrim/details/1bc8a5b4-708e-4fc0-967f-6da1f11903ae/The_Gray_Cowl_Returns)
 - Added **Anniversary Edition Content:** [Umbra](https://creations.bethesda.net/en/skyrim/details/110e25d2-227a-4bfd-b538-29121a0416b4/Umbra)
+- Added [Finally A Nordic Light (Bear) Armor For The Elder Scrolls V Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/44861)
+- Added [REDACTED]
+- [Added Real Tutorial Prompts](https://www.nexusmods.com/skyrimspecialedition/mods/182843)
+- Added [Simply Skin - Female Texture Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/98131)
+- Added [Simply Skin - Male Texture Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/107637)
+- Added [The Sigil Shop - Soul Proprietorship](https://www.nexusmods.com/skyrimspecialedition/mods/182423)
 - Updated [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756)
 - Updated [C.O.I.N. - Coins of Interesting Nature](https://www.nexusmods.com/skyrimspecialedition/mods/51439)
 - Updated [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397)
 - Updated [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990)
 - Updated [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019)
 - Updated [Knight of the North - Divine Crusader Reworked](https://www.nexusmods.com/skyrimspecialedition/mods/45869)
+- Updated [New Armory Series - Elven Steel Weapons](https://www.nexusmods.com/skyrimspecialedition/mods/78888)
 - Updated [Pirates Wield Cutlasses](https://www.nexusmods.com/skyrimspecialedition/mods/31753)
 - Updated [Realistic Pirate Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/110672)
 - Updated [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372)
