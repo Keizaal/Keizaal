@@ -51,6 +51,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - Added **Anniversary Edition Content:** [Sunder & Wraithguard](https://creations.bethesda.net/en/skyrim/details/ace42b6f-b504-4a13-a0fc-fcb963cfe874/Sunder___Wraithguard)
 - Added **Anniversary Edition Content:** [The Gray Cowl Returns!](https://creations.bethesda.net/en/skyrim/details/1bc8a5b4-708e-4fc0-967f-6da1f11903ae/The_Gray_Cowl_Returns)
 - Added **Anniversary Edition Content:** [Umbra](https://creations.bethesda.net/en/skyrim/details/110e25d2-227a-4bfd-b538-29121a0416b4/Umbra)
+- Added [Finally A Non-Dragon Priest Generic Destruction Staff For The Elder Scrolls V Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/182299)
 - Added [Finally A Nordic Light (Bear) Armor For The Elder Scrolls V Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/44861)
 - Added [REDACTED]
 - Added [Real Tutorial Prompts](https://www.nexusmods.com/skyrimspecialedition/mods/182843)
