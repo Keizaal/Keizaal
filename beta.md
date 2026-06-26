@@ -53,7 +53,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - Added **Anniversary Edition Content:** [Umbra](https://creations.bethesda.net/en/skyrim/details/110e25d2-227a-4bfd-b538-29121a0416b4/Umbra)
 - Added [Finally A Nordic Light (Bear) Armor For The Elder Scrolls V Skyrim Special Edition](https://www.nexusmods.com/skyrimspecialedition/mods/44861)
 - Added [REDACTED]
-- [Added Real Tutorial Prompts](https://www.nexusmods.com/skyrimspecialedition/mods/182843)
+- Added [Real Tutorial Prompts](https://www.nexusmods.com/skyrimspecialedition/mods/182843)
 - Added [Simply Skin - Female Texture Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/98131)
 - Added [Simply Skin - Male Texture Replacer](https://www.nexusmods.com/skyrimspecialedition/mods/107637)
 - Added [The Sigil Shop - Soul Proprietorship](https://www.nexusmods.com/skyrimspecialedition/mods/182423)
