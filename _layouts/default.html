@@ -9,7 +9,8 @@
       <meta property="og:image" content="https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png" />
     {% endif %}
 {% seo %}
-      <link rel="stylesheet" href="{{ 'assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" />
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+	  <link rel="stylesheet" href="{{ 'assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" />
       <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
       <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
       <meta name="google-site-verification" content="jSueJx3jsZPBZAXLoa0FslQH0cTCV6zv7iYh72gH0aA" />
@@ -22,95 +23,58 @@
   });
   </script>
    <body>
-      <a id="skip-nav" href="#content">Skip navigation and jump to content</a>
-      <div class="wrapper">
-         <div id="sidebar">
-            <nav aria-labelledby="primary-navigation">
-               <h1 id="primary-navigation"></h1>
-               <ul>
-                  <li>
-                     <a href="{{ '/' | relative_url }}">Main Page</a>
-                  </li>
-                  <li>
-                     <a href="{{ '/installation' | relative_url }}">Installation</a>
-                  </li>
-                  <li>
-                     <a href="{{ '/troubleshooting' | relative_url }}">Troubleshooting</a>
-                  </li>
-                  <li>
-                     <a href="{{ '/creations' | relative_url }}">Creation Content</a>
-                  </li>
-                  <li>
-                     <a href="{{ '/changelog' | relative_url }}">Changelog</a>
-                  </li>
-                  <li>
-                     <a href="{{ '/testimonials' | relative_url }}">Testimonials</a>
-                  </li>
-               </ul>
-            </nav>
-            <nav aria-labelledby="contribute-navigation">
-               <h1 id="contribute-navigation">Contribute</h1>
-               <ul>
-                  <li>
-                     <a href="{{ '/beta' | relative_url }}">Join the Beta Test</a>
-                  </li>
-                  <li>
-                     <a href="{{ '/bugs' | relative_url }}">Submit a Bug Report</a>
-                  </li>
-                  <li>
-                     <a href="https://ko-fi.com/tatetaylor">Buy Me a Coffee</a>
-                  </li>
-                  <li>
-                     <a href="https://www.patreon.com/TateTaylor">Become a Patron</a>
-                  </li>
-               </ul>
-            </nav>
-            <nav aria-labelledby="external-navigation">
-               <h1 id="external-navigation"></h1>
-               <ul>
-                  <li>
-                     <a href="https://tatetayloroh.com/readme">About Me</a>
-                  </li>
-               </ul>
-            </nav>
-            <aside class="site-icons">
-               <img class="project-icon"
-                  src="https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/branding/Keizaal%20Logo.png"
-               />
-              <a href="https://www.nexusmods.com/users/14941634">
-                <img class="project-icon"
-                     src="https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/Catir%20Approved.png"
-                     alt="Catir Approved Banner">
-              </a>
-            </aside>
-         </div>
-         <main>
-            <header>
-               <h1>
-                  <img alt="Keizaal: A Simple Modlist"
-                     src="https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png"
-                  />
-               </h1>
+<div class="container-fluid text-light">
+    <div class="row">
+        <!-- Navigation Component -->
+        <nav class="col col-12 col-md-3 col-xl-2 bg-black navbar navbar-expand-md navbar-dark flex-md-column pt-md-0">
+            <div class="container-fluid flex-md-column align-items-stretch sticky-top">
+				<div class="d-none d-md-block my-3">
+					<a href="{{ '/' | relative_url }}">
+						<img class="img-fluid" src="https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/branding/Keizaal%20Logo.png"></img>
+					</a>
+				</div>
+                <a class="navbar-brand d-none d-md-block" href="{{ '/' | relative_url }}"><img class="img-fluid" alt="Keizaal: A Simple Modlist" src="https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png"/></a>
+                <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#sidebarMenu">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                <div class="collapse navbar-collapse" id="sidebarMenu">
+                    <ul class="navbar-nav flex-column w-100">
+                        <li class="nav-item"><a class="nav-link" href="{{ '/' | relative_url }}">Main Page</a></li>
+                        <li class="nav-item"><a class="nav-link" href="{{ '/installation' | relative_url }}">Installation</a></li>
+						<li class="nav-item"><a class="nav-link" href="{{ '/troubleshooting' | relative_url }}">Troublshooting</a></li>
+						<li class="nav-item"><a class="nav-link" href="{{ '/creations' | relative_url }}">Creation Content</a></li>
+						<li class="nav-item"><a class="nav-link" href="{{ '/changelog' | relative_url }}">Changelog</a></li>
+						<li class="nav-item"><a class="nav-link" href="{{ '/testimonials' | relative_url }}">Testimonials</a></li>
+						<h5 class="text-light pt-3" id="contribute-navigation">Contribute</h5>
+						<li class="nav-item"><a class="nav-link" href="{{ '/beta' | relative_url }}">Join the Beta Test</a></li>
+						<li class="nav-item"><a class="nav-link" href="{{ '/bugs' | relative_url }}">Submit a Bug Report</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://ko-fi.com/tatetaylor">Buy Me a Coffee</a></li>
+                        <li class="nav-item"><a class="nav-link" href="https://www.patreon.com/TateTaylor">Become a Patron</a></li>
+						<hr>
+						<li class="nav-item nav-link disabled">&copy; <span id="currentYear"></span> Tate Taylor</li>
+						<li class="nav-item"><a class="nav-link" href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></li>
+					</ul>
+                </div>
+				<div class="d-none d-md-block my-3">
+					<a href="https://www.nexusmods.com/profile/Catir">
+						<img class="img-fluid mt-3 px-3" src="https://raw.githubusercontent.com/PierreDespereaux/PierreDespereaux/master/assets/images/Catir%20Approved.png" alt="Catir Approved">
+					</a>
+				</div>
+            </div>
+        </nav>
+        <!-- Main Content -->
+        <main class="col col-12 col-md-9 col-xl-10 p-0 ms-md-auto">
+            <div class="container py-4 pb-5">
+			<header class="d-none d-md-block">
+				<img class="img-fluid" alt="Keizaal: A Simple Modlist" src="https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png"/>
             </header>
             <article id="content">
             {{ content }}
             </article>
-         </main>
-      </div>
-            <footer id="site-footer">
-              <div class="footer-content">
-                <nav>
-                  <ul>
-                    <li><a href="https://www.nexusmods.com/users/61720101">Nexus Mods</a></li>
-                    <li><a href="https://creations.bethesda.net/en/skyrim/all?author_displayname=TateTaylorOH">Bethesda.net</a></li>
-                    <li><a href="https://www.nexusmods.com/skyrimspecialedition/mods/68997">Keizaal</a></li>
-                    <li><a href="https://discord.gg/eYZJFP8">Discord</a></li>
-                    <li><a href="https://ko-fi.com/tatetaylor">Ko-fi</a></li>
-                    <li><a href="https://www.patreon.com/TateTaylor">Patreon</a></li>
-                  </ul>
-                </nav>
-                <p>&#127279; <span id="currentYear"></span> <a href="https://tatetayloroh.com/">Tate Taylor</a> | Licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a></p>
-              </div>
-            </footer>
+			</div>
+        </main>
+    </div>
+</div> 
+   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
    </body>
 </html>
