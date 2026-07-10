@@ -9,8 +9,8 @@ $link-color: #8198ef; // Controls color of generic links
 // =======================================================
 // Font Settings
 // =======================================================
-@import url('https://fonts.googleapis.com/css?family=Arvo:400,700,400italic'); // Google Fonts link to header font
-$header-font: Arvo, serif; // Controls font family of headers
+@import url('https://fonts.googleapis.com/css?family=Spectral:400,700,400italic'); // Google Fonts link to header font
+$header-font: Spectral, serif; // Controls font family of headers
 
 // =======================================================
 // Custom CSS
@@ -19,6 +19,10 @@ a {color: $link-color; text-decoration: none; transition: color 0.2s ease-in-out
 article img {max-width: 100%; height: auto;}
 body {background-color:#222;}
 h1,h2,h3,h4,h5 {font-family: $header-font;}
+table {border-collapse: collapse; margin-bottom: 1.5em;}
+th, td {padding: 0.75em 1em; border: 1px solid #101010; text-align: left;}
+th {background-color: #101010; font-weight: bold;}
+tr:nth-child(even) {background-color: #181818;}
 
 .bg-black {background-color:#101010;}
 .card {border:none;background-color:#181818;}
