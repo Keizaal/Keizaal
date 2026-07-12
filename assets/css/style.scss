@@ -9,8 +9,12 @@ $link-color: #8198ef; // Controls color of generic links
 // =======================================================
 // Font Settings
 // =======================================================
-@import url('https://fonts.googleapis.com/css?family=Spectral+SC:400,700,400italic'); // Google Fonts link to header font
-$header-font: Spectral SC, serif; // Controls font family of headers
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@400;700&display=swap');
+$body-font: 'Jost', sans-serif;
+
+@import url('https://fonts.googleapis.com/css2?family=Spectral+SC:wght@400;700&display=swap');
+$header-font: 'Spectral SC', serif;
+
 
 // =======================================================
 // Custom CSS
