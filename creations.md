@@ -7,7 +7,7 @@ image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/bran
 
 # Creation Club
 
-**Keizaal requires the [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/){:target="_blank" rel="noopener"}**, though not all [Anniversary Edition](https://store.steampowered.com/app/1746860/The_Elder_Scrolls_V_Skyrim_Anniversary_Upgrade/) content is included in the modlist. The table below details the status of each creation, along with any mods that affect how they begin or otherwise modify them.
+**Keizaal requires the [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/){:target="_blank" rel="noopener"}**, though not all Anniversary Edition content is included in the modlist. The table below details the status of each creation, along with any mods that affect how they begin or otherwise modify them.
 
 | Creations | Inclusion | Mods |
 | :--- | :---: | :--- |
