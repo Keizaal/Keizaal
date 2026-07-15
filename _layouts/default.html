@@ -1,21 +1,21 @@
 <!doctype html>
 <html lang="{{ site.lang | default: 'en-US' }}">
-  <head>
-      <meta charset="utf-8" />
-      <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-      {% if page.image %}
-      <meta property="og:image" content="{{ page.image }}" />
-      {% else %}
-      <meta property="og:image" content="https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png" />
-      {% endif %}
-      {% seo %}
-      <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-	  <link rel="stylesheet" href="{{ 'assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" />
-      <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-      <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
-      <meta name="google-site-verification" content="jSueJx3jsZPBZAXLoa0FslQH0cTCV6zv7iYh72gH0aA" />
-      <link rel="icon" href="https://raw.githubusercontent.com/Keizaal/Keizaal/refs/heads/main/assets/images/branding/KeizaalLogoSmallBlack.png"  type="image/x-icon" />
-   </head>
+	<head>
+		<meta charset="utf-8" />
+		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+		{% if page.image %}
+		<meta property="og:image" content="{{ page.image }}" />
+		{% else %}
+		<meta property="og:image" content="https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/branding/Keizaal%20Website%20Banner.png" />
+		{% endif %}
+		{% seo %}
+		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+		<link rel="stylesheet" href="{{ 'assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" />
+		<script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
+		<meta name="google-site-verification" content="jSueJx3jsZPBZAXLoa0FslQH0cTCV6zv7iYh72gH0aA" />
+		<link rel="icon" href="https://raw.githubusercontent.com/Keizaal/Keizaal/refs/heads/main/assets/images/branding/KeizaalLogoSmallBlack.png"  type="image/x-icon" />
+	</head>
 	<script>
 	document.addEventListener('DOMContentLoaded', function() {
 	var currentYear = new Date().getFullYear();
@@ -37,11 +37,12 @@
 	});
 	</script>
 	<body>
+		<!-- Popup Component -->
 		<div class="modal fade" id="popup404" tabindex="-1" aria-labelledby="popup404Title" aria-hidden="true">
 			<div class="modal-dialog modal-dialog-centered modal-lg">
 				<div class="modal-content bg-black text-light">
 					<div class="modal-header">
-						<h2 class="modal-title fs-5" id="popup404Title">Page Not Found?</h2>
+						<h2 class="modal-title fs-5" id="popup404Title">404 ERROR</h2>
 					</div>
 					<div class="modal-body">
 						<p>This page may have moved or no longer exists.</p>
@@ -58,18 +59,18 @@
 					<div class="modal-header">
 						<h2 class="modal-title fs-5" id="popupTitle">I am not associated with Keizaal Online.</h2>
 					</div>
-		<div class="modal-body">
-			<p>Hello, I&#39;m <a href="https://tatetayloroh.com/">Tate Taylor</a>, you may know me from mods such as <a href="https://www.nexusmods.com/skyrimspecialedition/mods/51439">C.O.I.N.</a>, <a href="https://www.nexusmods.com/skyrimspecialedition/mods/50164">Gladys the Corgi</a>, and <a href="https://www.nexusmods.com/skyrimspecialedition/mods/72772">Skyrim: Extended Cut - Saints and Seducers</a>. You may also know me from my <a href="https://www.wabbajack.org/">Wabbajack</a> modlist <a href="https://keiza.al/">Keizaal</a>, which is the oldest modlist still available for download on the platform. As I approach the full release of Keizaal 9, I wanted to clear a few things up.</p>
-			<p>Over the past six months or so the Skyrim mutiplayer project known as <a href="https://keizaal.com/">Keizaal Online</a> has exploded in popularity. Due to us sharing names, I&#39;ve come across a ton of people (including some friends!) assuming that I am somehow involved with this project. I just want to make it clear that <strong>I am not associated with Keizaal Online</strong>.</p>
-			<p>To be honest, Keizaal Online has been causing quite a few headaches for me. Not only has it completely destroyed the ability to easily search for my modlist online but now a stream of people have been bothering me about problems associated with Keizaal Online.</p>
-			<p>About a month ago someone DM&#39;d me <em>begging</em> for me to unban them despite how many times I told them I had nothing to do with Keizaal Online. This is just one of many instances that have come out of this confusion. I&#39;ve since built a filter to prevent lost Keizaal Online users from entering my Discord server. I don&#39;t like doing this, but the alternative was to continue letting these people waste my time.</p>
-			<p>I really wish they hadn&#39;t named their project the same as my mine. I&#39;ve been working on Keizaal for six years and this is one of the most annoying things to come from my time curating it.</p>
-			<p>Anyway, I just wanted to clear that up. I&#39;m sure this won&#39;t stop the confusion, but I at least wanted to get some eyes on it to inform more members of the community.</p>
-			<p>Thank you for reading!</p>
-			</div>
-		<div class="modal-footer">
-			<a href="#" data-bs-dismiss="modal" onclick="event.preventDefault();"><b>Close</b></a>
-		</div>
+					<div class="modal-body">
+						<p>Hello, I&#39;m <a href="https://tatetayloroh.com/">Tate Taylor</a>, you may know me from mods such as <a href="https://www.nexusmods.com/skyrimspecialedition/mods/51439">C.O.I.N.</a>, <a href="https://www.nexusmods.com/skyrimspecialedition/mods/50164">Gladys the Corgi</a>, and <a href="https://www.nexusmods.com/skyrimspecialedition/mods/72772">Skyrim: Extended Cut - Saints and Seducers</a>. You may also know me from my <a href="https://www.wabbajack.org/">Wabbajack</a> modlist <a href="https://keiza.al/">Keizaal</a>, which is the oldest modlist still available for download on the platform. As I approach the full release of Keizaal 9, I wanted to clear a few things up.</p>
+						<p>Over the past six months or so the Skyrim mutiplayer project known as <a href="https://keizaal.com/">Keizaal Online</a> has exploded in popularity. Due to us sharing names, I&#39;ve come across a ton of people (including some friends!) assuming that I am somehow involved with this project. I just want to make it clear that <strong>I am not associated with Keizaal Online</strong>.</p>
+						<p>To be honest, Keizaal Online has been causing quite a few headaches for me. Not only has it completely destroyed the ability to easily search for my modlist online but now a stream of people have been bothering me about problems associated with Keizaal Online.</p>
+						<p>About a month ago someone DM&#39;d me <em>begging</em> for me to unban them despite how many times I told them I had nothing to do with Keizaal Online. This is just one of many instances that have come out of this confusion. I&#39;ve since built a filter to prevent lost Keizaal Online users from entering my Discord server. I don&#39;t like doing this, but the alternative was to continue letting these people waste my time.</p>
+						<p>I really wish they hadn&#39;t named their project the same as my mine. I&#39;ve been working on Keizaal for six years and this is one of the most annoying things to come from my time curating it.</p>
+						<p>Anyway, I just wanted to clear that up. I&#39;m sure this won&#39;t stop the confusion, but I at least wanted to get some eyes on it to inform more members of the community.</p>
+						<p>Thank you for reading!</p>
+					</div>
+					<div class="modal-footer">
+						<a href="#" data-bs-dismiss="modal" onclick="event.preventDefault();"><b>Close</b></a>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -126,6 +127,6 @@
 		        </main>
 		    </div>
 		</div> 
-	   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 	</body>
 </html>
