@@ -23,11 +23,17 @@
   });
   </script>
   <script>
-  window.addEventListener('DOMContentLoaded', () => {
-  	const targetReferrer = "https://keizaal.online"; 
-    if (document.referrer.includes(targetReferrer)) {
-      document.getElementById('welcomeModal').style.display = 'flex';
-    }
+  window.addEventListener("DOMContentLoaded", () => {
+      try {
+          const referrer = new URL(document.referrer);
+  
+          if (referrer.hostname === "keizaal.online" ||
+              referrer.hostname === "www.keizaal.online") {
+              document.getElementById("welcomeModal").style.display = "flex";
+          }
+      } catch (e) {
+          // No valid referrer
+      }
   });
   </script>
    <body>
