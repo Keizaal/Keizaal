@@ -24,18 +24,35 @@
 	</script>
 	<script>
 	document.addEventListener("DOMContentLoaded", () => {
-	    const params = new URLSearchParams(window.location.search);
-	    if (params.get("from") === "kzo") {
-	        const modal = new bootstrap.Modal(
-	            document.getElementById("popupModal")
-	        );
-	        modal.show();
-	        history.replaceState({}, "", window.location.pathname);
-	    }
+		const params = new URLSearchParams(window.location.search);
+		const source = params.get("from");
+		const modals = {404: "popup404", kzo: "popupKZO"};
+		if (modals[source]) {
+			const modal = new bootstrap.Modal(
+				document.getElementById(modals[source])
+			);
+			modal.show();
+			history.replaceState({}, "", window.location.pathname);
+		}
 	});
 	</script>
 	<body>
-		<div class="modal fade" id="popupModal" tabindex="-1" aria-labelledby="popupTitle" aria-hidden="true">
+		<div class="modal fade" id="popup404" tabindex="-1" aria-labelledby="popup404Title" aria-hidden="true">
+			<div class="modal-dialog modal-dialog-centered modal-lg">
+				<div class="modal-content bg-black text-light">
+					<div class="modal-header">
+						<h2 class="modal-title fs-5" id="popup404Title">Page Not Found?</h2>
+					</div>
+					<div class="modal-body">
+						<p>This page may have moved or no longer exists.</p>
+					</div>
+					<div class="modal-footer">
+						<a href="#" data-bs-dismiss="modal" onclick="event.preventDefault();"><b>Close</b></a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="modal fade" id="popupKZO" tabindex="-1" aria-labelledby="popupTitle" aria-hidden="true">
 			<div class="modal-dialog modal-dialog-centered modal-lg">
 				<div class="modal-content bg-black text-light">
 					<div class="modal-header">
