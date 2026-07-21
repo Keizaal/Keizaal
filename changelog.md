@@ -247,7 +247,7 @@ __SimonRim Profile:__
 ## [7.1.0 - The Starfield Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=422367){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0.png)
 
-(This changelog might not be completely accurate because I wasn't aware that Wabbajack generative changelogs had been discontinued and ongoing changes weren't consistently documented.)
+*This changelog might not be completely accurate because I wasn't aware that Wabbajack generative changelogs had been discontinued and ongoing changes weren't consistently documented.*
 - Added [Atronach Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/52255)
 - Added [Betty Netch](https://www.nexusmods.com/skyrimspecialedition/mods/88777)
 - Added [Brawl Lines Expansion and Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/94070)
