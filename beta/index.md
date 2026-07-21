@@ -34,7 +34,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 
 ### [9.0.0-beta.21](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.21/Keizaal.wabbajack){:target="_blank" rel="noopener"}
 ***Requires** new game.*
-- Added AEGIS - Anniversary Edition General Integration System
+- Added [AEGIS - Anniversary Edition General Integration System](https://www.nexusmods.com/skyrimspecialedition/mods/181864)
 - Added **Anniversary Edition Content:** [Alternative Armors - Dragon Plate](https://creations.bethesda.net/en/skyrim/details/d4f7c5bc-a653-4ee0-83de-87fabab0e22f/Alternative_Armors___Dragon_Plate)
 - Added **Anniversary Edition Content:** [Alternative Armors - Dwarven Plate](https://creations.bethesda.net/en/skyrim/details/77364928-82ba-42d5-ad1d-3ce32fa67cc9/Alternative_Armors___Dwarven_Plate)
 - Added **Anniversary Edition Content:** [Alternative Armors - Orcish Plate](https://creations.bethesda.net/en/skyrim/details/b0e189fa-56f4-4210-be64-30edb8a17a6c/Alternative_Armors___Orcish_Plate)
