@@ -1,7 +1,7 @@
 ---
 ---
 # Preamble
-
+---
 Hello there! I’m [Tate Taylor](https://tatetayloroh.com/readme){:target="_blank" rel="noopener"}, the curator of Keizaal, and I’m excited to share what my modlist has to offer!
 
 Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without compromising Bethesda’s original vision that we all fell in love with back in 2011. The following are the core pillars of this list:
