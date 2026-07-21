@@ -1,9 +1,8 @@
 ---
-title: 9.0.0 Beta Test
+title: 9.0.0 Beta - The Back to Basics Update
 description: Information about the beta test for Keizaal's new version.
 image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/9.0.0.png
 ---
-# [9.0.0 Beta - The Back to Basics Update](https://keiza.al/beta/download){:target="_blank" rel="noopener"}
 ![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/9.0.0.png)
 
 Thank you for participating in the Keizaal 9.0.0 Beta!
