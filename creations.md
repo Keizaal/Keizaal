@@ -2,9 +2,8 @@
 title: Creation Content
 description: Information regarding creation content in Keizaal.
 ---
-
 # Anniversary Edition Creations
-
+---
 **Keizaal requires the [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/){:target="_blank" rel="noopener"}**, though not all Anniversary Edition content is included in the modlist. The table below details the status of each creation, along with any mods that affect how they begin or otherwise modify them.
 
 | Creations | Inclusion | Mods |
@@ -85,5 +84,5 @@ description: Information regarding creation content in Keizaal.
 | [Umbra](https://en.uesp.net/wiki/Skyrim:Umbra){:target="_blank" rel="noopener"} | X |
 
 # Verified Creations
-
+---
 As per Wabbajack's [Paid Mods Policy](https://wiki.wabbajack.org/policies_and_license/Paid%20Mods%20Policy.html){:target="_blank" rel="noopener"} "Paid mods are ineligible to be included in any Wabbajack list. 'Paid mods' are considered to be any mod that has not been commissioned/contracted/created directly by the base game's studio or publisher, and requires a user to buy the mod before it can be downloaded/installed." For further clarification of this policy, refer to [Wabbajack's Discord server](https://www.wabbajack.org/discord){:target="_blank" rel="noopener"}.
