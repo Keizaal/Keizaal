@@ -29,6 +29,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
     - **Note:** Knotwork will remain on 2.1.0 until [Photo Mode](https://www.nexusmods.com/skyrimspecialedition/mods/91701) has been properly updated for SkyUI 6
 
 ## Changelog
+---
 *Keizaal 9.0.0 is a work-in-progress and these changes are not final.*
 
 ### [9.0.0-beta.21](https://github.com/Keizaal/Keizaal/releases/download/9.0.0-beta.21/Keizaal.wabbajack){:target="_blank" rel="noopener"}
