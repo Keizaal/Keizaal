@@ -1,0 +1,10 @@
+<script src="https://utteranc.es/client.js"
+        repo="{{ include.repo | default: site.utterances.repo | default: site.github.repository_nwo }}"
+        issue-term="{{ include.issue-term | default: site.utterances.issue-term | default: 'pathname' }}"
+        {%- if include.label or site.utterances.label -%}
+        label="Comment"
+        {%- endif -%}
+        theme="{{ include.theme | default: site.utterances.theme | default: 'github-light' }}"
+        crossorigin="anonymous"
+        async>
+</script>
