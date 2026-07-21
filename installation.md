@@ -4,25 +4,6 @@ description: A detailed step-by-step guide for installing Keizaal.
 ---
 # Installation Guide
 ---
-## Table of Contents
-- [Information](#information)
-  - [Automated Downloads](#automated-downloads)
-- [Setup](#setup)
-  - [Clean Install](#clean-install)
-- [Installation](#installation)
-  - [Wabbajack Installation](#wabbajack-installation)
-  - [Keizaal Installation](#keizaal-installation)
-- [Playing](#playing)
-  - [Creation Content](#creation-content)
-  - [Profiles](#profiles)
-  - [Mod Configuration](#mod-configuration)
-- [Updating](#updating)
-  - [Versioning](#versioning)
-- [Modification](#modification)
-  - [Mod Notes](#mod-notes)
-  - [Settings](#settings)
-- [Support](#support)
-
 ## Information
 ---
 **Keizaal requires [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/){:target="_blank" rel="noopener"}.** 
