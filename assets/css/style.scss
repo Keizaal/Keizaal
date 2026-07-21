@@ -33,11 +33,5 @@ tr:nth-child(even) {background-color: #181818;}
 .text-secondary {color:#949494 !important;}
 .utterances {max-width:100%;}
 
-.gallery {display: grid; grid-template-columns: repeat(auto-fill, minmax(180px, 1fr)); gap: 16px;}
-.gallery img {width: 100%; height: auto; display: block; border-radius: 8px;}
-
-.video-container {width: 100%; aspect-ratio: 16 / 9; margin-bottom: 1rem;}
-.video-container iframe {width: 100%; height: 100%; border: 0;}
-
 @media (min-width: 768px) {nav {min-height: 100vh;}}
 @media (min-width: 1920px) {.col-xl-2 {width:12.5%;}.col-xl-10 {width:87.5%;}}
