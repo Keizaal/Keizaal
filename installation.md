@@ -134,7 +134,7 @@ In layman's terms, if the first two version numbers have not changed, it is save
 You can find your current version of Keizaal at the top of Mod Organizer. If the version isn't listed you're probably using a pre-3.4.0 version.
 
 ## Modification
-
+---
 **Offical support for modified installations of Keizaal WILL NOT be provided.** However, if you'd like to make your own changes, there are a few important points to keep in mind.
 
 If you attempt to update a modified installation of Keizaal, **Wabbajack will delete all files that are not part of Keizaal** during the update process.
