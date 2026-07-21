@@ -38,7 +38,7 @@ If you activate the premium membership after beginning a Wabbajack install, you 
 
 Support for manual installations is **NOT OFFERED**. There are simply too many variables that go on during manual installations, and attempting to troubleshoot each user individually is simply not realistic; it would likely be a waste of everyone’s time.
 
-# Setup
+## Setup
 
 Before the Keizaal installation can begin, there are a few preliminary setup steps that need to be done.
 
@@ -54,7 +54,7 @@ Reinstall Skyrim in a location **outside of the Program Files**. If you have iss
 
 Run the Skyrim Special Edition launcher through Steam and let it detect your settings, then launch the game. If you have not installed Anniversary Edition content yet, you will be prompted to do so now. After that, feel free to close and exit to your desktop.
 
-# Installation
+## Installation
 
 Next, both Wabbajack and Keizaal will need to be downloaded and installed.
 
@@ -80,7 +80,7 @@ When you’re ready, press the triangular start button.
 
 After starting the installation, a window will pop up and ask for you to authorize Wabbajack to use your Nexus account. Log in and authorize Wabbajack on Nexus, and the installation will proceed. Wabbajack will now install the modlist; this will take a while, so be patient. When Wabbajack is finished, the left panel should say "Installation Complete".
 
-# Playing
+## Playing
 
 Now that Keizaal has been installed, you will need to launch Skyrim in a slightly different way.
 
@@ -116,7 +116,7 @@ If you're looking for a different experience, Keizaal also includes a secondary 
 
 All of the Mod Configuration Menus have been pre-configured to the recommended settings. The only thing you need to do when you start a new game is play.
 
-# Updating
+## Updating
 
 If Keizaal receives an update, please check the changelog before doing anything. Always backup your saves or start a new game after updating. Updating is like installing. You only have to make sure that you select the same path and tick the "Overwrite Existing Modlist" button.
 
@@ -133,7 +133,7 @@ In layman's terms, if the first two version numbers have not changed, it is save
 
 You can find your current version of Keizaal at the top of Mod Organizer. If the version isn't listed you're probably using a pre-3.4.0 version.
 
-# Modification
+## Modification
 
 **Offical support for modified installations of Keizaal WILL NOT be provided.** However, if you'd like to make your own changes, there are a few important points to keep in mind.
 
@@ -160,7 +160,7 @@ Keizaal's preconfigured mod settings can be found in the "Keizaal Settings" mod 
 
 ![Keizaal Settings](https://raw.githubusercontent.com/Keizaal/Keizaal/refs/heads/main/assets/images/installation%20guide/KeizaalSettings.png)
 
-# Support
+## Support
 
 If you run into any issues installing Keizaal, please refer to the [Troubleshooting Guide](https://keiza.al/troubleshooting){:target="_blank" rel="noopener"}. It covers all of the common errors that may occur and will walk you through how to fix them.
 
