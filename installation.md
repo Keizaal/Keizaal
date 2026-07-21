@@ -80,7 +80,7 @@ Whenever you launch Skyrim from Mod Organizer, this message will pop up:
 
 ### Creation Content
 
-While Keizaal requires the [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/){:target="_blank" rel="noopener"}, not all Creation Club content is included in the modlist. For details on Creation Club and Verified Creations, visit the [Creation Content](https://keiza.al/creations){:target="_blank" rel="noopener"} page.
+While Keizaal requires the [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/){:target="_blank" rel="noopener"}, not all Anniversary Edition content is included in the modlist. For details on Anniversary Edition and Verified Creations, visit the [Creation Content](https://keiza.al/creations){:target="_blank" rel="noopener"} page.
 
 ### Profiles
 
