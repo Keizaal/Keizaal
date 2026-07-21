@@ -3,6 +3,7 @@ title: Troubleshooting Guide
 description: Troubleshooting steps for common issues users face while using Keizaal.
 ---
 # Troubleshooting
+---
 ### "*Wabbajack is stuck during installation.*"
 
 Simply restart Wabbajack; you will not lose progress on your downloads.
