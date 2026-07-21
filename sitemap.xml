@@ -1,52 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="/download/49393253d-4bea5592d/sitemap.xsl"?>
+<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
        <loc>https://keiza.al/</loc>
-       <lastmod>2026-07-13T13:45:16+00:00</lastmod>
+       <lastmod>2026-07-21T16:59:25+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>1.0000</priority>
   </url>
   <url>
        <loc>https://keiza.al/installation.html</loc>
-       <lastmod>2026-07-13T13:45:16+00:00</lastmod>
+       <lastmod>2026-07-21T16:59:25+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://keiza.al/troubleshooting.html</loc>
-       <lastmod>2026-07-13T13:45:16+00:00</lastmod>
+       <lastmod>2026-07-21T16:59:25+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://keiza.al/creations.html</loc>
-       <lastmod>2026-07-13T13:45:16+00:00</lastmod>
+       <lastmod>2026-07-21T16:59:25+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://keiza.al/changelog.html</loc>
-       <lastmod>2026-07-13T13:45:16+00:00</lastmod>
+       <lastmod>2026-07-21T16:59:25+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://keiza.al/testimonials.html</loc>
-       <lastmod>2026-07-13T13:45:16+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://keiza.al/beta.html</loc>
-       <lastmod>2026-07-13T13:45:16+00:00</lastmod>
+       <lastmod>2026-07-21T16:59:25+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://keiza.al/bugs.html</loc>
-       <lastmod>2026-07-13T13:45:16+00:00</lastmod>
+       <lastmod>2026-07-21T16:59:25+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
