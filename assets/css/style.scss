@@ -18,7 +18,9 @@ $header-font: 'Spectral SC', serif;
 // =======================================================
 // Custom CSS
 // =======================================================
-#content img {max-width: 800px !important; width: 100%; height: auto; display: block; margin: auto; border-radius: 8px}
+#content img {max-width: 800px !important; width: 100%; height: auto; border-radius: 8px;}
+#content.image-center img {display: block; margin-left: auto; margin-right: auto;}
+
 a {color: $link-color; text-decoration: none; transition: color 0.2s ease-in-out; &:hover {color: darken($link-color, 15%);}}
 body {font-family: $body-font; background-color:#222;}
 h1,h2,h3,h4,h5 {font-family: $header-font;}
