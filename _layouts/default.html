@@ -38,7 +38,20 @@
 		<div class="container-fluid text-light">
 		    <div class="row">
 				<!-- Popup Component -->
-				{% include popups.html %}
+				<div class="modal fade" id="popup404" tabindex="-1" aria-labelledby="popup404Title" aria-hidden="true">
+				  <div class="modal-dialog modal-dialog-centered modal-lg" style="max-width: 500px;">
+				    <div class="modal-content bg-black text-light">
+						{% include popup404.html %}
+				    </div>
+				  </div>
+				</div>
+				<div class="modal fade" id="popupKZO" tabindex="-1" aria-labelledby="popupTitle" aria-hidden="true">
+				  <div class="modal-dialog modal-dialog-centered modal-lg">
+				    <div class="modal-content bg-black text-light">
+						{% include popupKZO.html %}
+				    </div>
+				  </div>
+				</div>
 		        <!-- Navigation Component -->
 		        <nav class="col col-12 col-md-3 col-xl-2 bg-black navbar navbar-expand-md navbar-dark flex-md-column pt-md-0">
 		            <div class="container-fluid flex-md-column align-items-stretch sticky-top">
