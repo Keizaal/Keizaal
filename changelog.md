@@ -6,7 +6,7 @@ description: The complete version changelog for Keizaal.
 - Removed [Additional Music](https://www.nexusmods.com/skyrimspecialedition/mods/80277) to bring Keizaal back online
 
 ### [8.0.1 - The Staves Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=558316){:target="_blank" rel="noopener"}
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/8.0.1.png)
+![](https://keiza.al/assets/img/releases/8.0.1.png)
 - Added [Assorted Vampire Fixes and Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/120532)
 - Added [Granite Hill - Cut Content Restoration](https://www.nexusmods.com/skyrimspecialedition/mods/117585)
 - Added [Mainland Staff Enchanters](https://www.nexusmods.com/skyrimspecialedition/mods/132632)
@@ -108,7 +108,7 @@ __SimonRim Profile:__
 - Fixed issue where some beds in inns were misaligned
 
 # [8.0.0 - The Trade Winds Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=550075){:target="_blank" rel="noopener"}
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/8.0.0.png)
+![](https://keiza.al/assets/img/releases/8.0.0.png)
 - Moved Keizaal to Skyrim version 1.6.1170
 - Rebuilt the default profile to focus on vanilla and moved SimonRim mods to an optional secondary profile
 - Added [Additional Dremora Faces](https://www.nexusmods.com/skyrimspecialedition/mods/97946)
@@ -245,7 +245,7 @@ __SimonRim Profile:__
 - Brought Keizaal back online following Skyrim patch 1.6.1130
 
 ## [7.1.0 - The Starfield Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=422367){:target="_blank" rel="noopener"}
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.1.0.png)
+![](https://keiza.al/assets/img/releases/7.1.0.png)
 
 *This changelog might not be completely accurate because I wasn't aware that Wabbajack generative changelogs had been discontinued and ongoing changes weren't consistently documented.*
 - Added [Atronach Friendly Fire](https://www.nexusmods.com/skyrimspecialedition/mods/52255)
@@ -335,7 +335,7 @@ __SimonRim Profile:__
 - Fixed missing Staada dialogue
 
 # [7.0.0 - The Saints & Seducers Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=365126){:target="_blank" rel="noopener"}
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/7.0.0.png)
+![](https://keiza.al/assets/img/releases/7.0.0.png)
 - [Everything](http://www.wabbajack.org/search/Keizaal/keizaal).
 
 #### [6.5.0.4 Hotfix](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=303502){:target="_blank" rel="noopener"}
@@ -363,7 +363,7 @@ __SimonRim Profile:__
 - Fixed mismatched tree LODs
 
 ## [6.5.0 - The Distribution Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=300783){:target="_blank" rel="noopener"}
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.5.0.png)
+![](https://keiza.al/assets/img/releases/6.5.0.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=295247)
 - Updated [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686/?tab=files&file_id=289851)
 - Updated [Bandit Lines Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/63733/?tab=files&file_id=291842)
@@ -621,7 +621,7 @@ __SimonRim Profile:__
 - Added [Flute Animation Fix](https://www.nexusmods.com/skyrimspecialedition/mods/69609/?tab=files&file_id=291228)
 
 ### [6.4.3 - The Transition Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=288445){:target="_blank" rel="noopener"}
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.3.png)
+![](https://keiza.al/assets/img/releases/6.4.3.png)
 - Updated [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756/?tab=files&file_id=288136)
 - Updated [Cathedral - 3D Mountain Flowers](https://www.nexusmods.com/skyrimspecialedition/mods/41312/?tab=files&file_id=285632)
 - Removed [Red Mountain Volcano - Tamriels Natural Wonder](https://github.com/Keizaal/Keizaal-Miscellaneous/releases/download/Miscellaneous/Red.Mountain.Volcano.-.Tamriels.Natural.Wonder.rar)
@@ -640,7 +640,7 @@ __SimonRim Profile:__
 - Fixed issues with Vittora's Alternate Wedding and Open Cities
 
 ### [6.4.2 - The Dwemer Towers Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.2/Keizaal.wabbajack)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.2.png)
+![](https://keiza.al/assets/img/releases/6.4.2.png)
 - Updated [Anga's Mill - Cities of the North Addon](https://www.nexusmods.com/skyrimspecialedition/mods/64398/?tab=files&file_id=282184)
 - Updated [College of Winterhold Quest Start Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/53817/?tab=files&file_id=281002)
 - Updated [Conditional Expressions - Subtle Face Animations](https://www.nexusmods.com/skyrimspecialedition/mods/45148/?tab=files&file_id=281378)
@@ -674,7 +674,7 @@ __SimonRim Profile:__
 - Fixed purple skeevers
 
 ### [6.4.1 - The Tribunal Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.1/Keizaal.wabbajack)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.1.png)
+![](https://keiza.al/assets/img/releases/6.4.1.png)
 - Updated [Assorted mesh fixes](https://www.nexusmods.com/skyrimspecialedition/mods/32117/?tab=files&file_id=279709)
 - Updated [Ghosts of the Tribunal - Reduced Cut](https://www.nexusmods.com/skyrimspecialedition/mods/67019/?tab=files&file_id=280246)
 - Updated [Water Mod - ENB Displacement Textures](https://www.nexusmods.com/skyrimspecialedition/mods/56520/?tab=files&file_id=279321)
@@ -701,7 +701,7 @@ __SimonRim Profile:__
 - Fixed various minor bugs present on release
 
 ## [6.4.0 - The Engine Update](https://github.com/Keizaal/Keizaal/releases/download/6.4.0/Keizaal.wabbajack)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.4.0.png)
+![](https://keiza.al/assets/img/releases/6.4.0.png)
 - Updated [SSE Engine Fixes (skse64 plugin)](https://www.nexusmods.com/skyrimspecialedition/mods/17230/?tab=files&file_id=244121)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=278495)
 - Updated [Better Third Person Selection - BTPS](https://www.nexusmods.com/skyrimspecialedition/mods/64339/?tab=files&file_id=277317)
@@ -835,7 +835,7 @@ __SimonRim Profile:__
 - Fixed incorrect conditions on Bruma craftables
 
 ### [6.3.1 - The Mills Update](https://github.com/Keizaal/Keizaal/releases/download/6.3.1/Keizaal.wabbajack)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.3.1.png)
+![](https://keiza.al/assets/img/releases/6.3.1.png)
 - Updated [Immersive Interactions - Animated Actions](https://www.nexusmods.com/skyrimspecialedition/mods/47670/?tab=files&file_id=268010)
 - Updated [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=268298)
 - Updated [Tavern AI fix](https://www.nexusmods.com/skyrimspecialedition/mods/23107/?tab=files&file_id=267651)
@@ -866,7 +866,7 @@ __SimonRim Profile:__
 - Fixed followers not following you into Dragonsreach
 
 ## [6.3.0 - The Great Towns Update](https://github.com/Keizaal/Keizaal/releases/download/6.3.0/Keizaal.wabbajack)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.3.0.png)
+![](https://keiza.al/assets/img/releases/6.3.0.png)
 - Updated [Survival Mode Improved](https://www.nexusmods.com/skyrimspecialedition/mods/56374/?tab=files&file_id=266384)
 - Updated [Contextual Crosshair](https://www.nexusmods.com/skyrimspecialedition/mods/63980/?tab=files&file_id=266556)
 - Updated [Screenshot Helper](https://www.nexusmods.com/skyrimspecialedition/mods/64124/?tab=files&file_id=266991)
@@ -896,7 +896,7 @@ __SimonRim Profile:__
 - Switched from Project Clarity AIO to the individual modules to hopefully prevent Wabbajack from erroring out
 
 ### [6.2.1 - The Seasons Update](https://github.com/Keizaal/Keizaal/releases/download/6.2.1/Keizaal.wabbajack)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.2.1.png)
+![](https://keiza.al/assets/img/releases/6.2.1.png)
 - Updated [Andrealphus' Exploit Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/46753/?tab=files&file_id=243297)
 - Updated [House of Horrors - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57285/?tab=files&file_id=242900)
 - Updated [House Rule - Lawbringer for Solstheim](https://www.nexusmods.com/skyrimspecialedition/mods/57243/?tab=files&file_id=261415)
@@ -958,7 +958,7 @@ __SimonRim Profile:__
 - Added [Dayspring Canyon Paper Map for FWMF](https://www.nexusmods.com/skyrimspecialedition/mods/61917/?tab=files&file_id=259942)
 
 ## [6.2.0 - The Serenity Update](https://github.com/Keizaal/Keizaal/releases/download/6.2.0/Keizaal.wabbajack)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.2.0.png)
+![](https://keiza.al/assets/img/releases/6.2.0.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=252925)
 - Updated [Bogmort - Mud Monsters of Morthal Swamp](https://www.nexusmods.com/skyrimspecialedition/mods/22447/?tab=files&file_id=252590)
 - Updated [Extended Encounters](https://www.nexusmods.com/skyrimspecialedition/mods/44810/?tab=files&file_id=260395)
@@ -1017,7 +1017,7 @@ __SimonRim Profile:__
 - Added [Spiders of Solstheim - Transparency Fix](https://www.nexusmods.com/skyrimspecialedition/mods/60012/?tab=files&file_id=248753)
 
 ## [6.1.0 - The Hand to Hand Update](https://github.com/Keizaal/Keizaal/releases/download/6.1.0/Keizaal.wabbajack)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.1.0.png)
+![](https://keiza.al/assets/img/releases/6.1.0.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=248524)
 - Updated [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686/?tab=files&file_id=248246)
 - Updated [Beyond Skyrim - Bruma SE](https://www.nexusmods.com/skyrimspecialedition/mods/10917/?tab=files&file_id=248311)
@@ -1135,7 +1135,7 @@ __SimonRim Profile:__
 - Fixed bug where exiting the Blue Palace would suck you into Bizzaro World Solitude
 
 ### [6.0.1 - The Best of Both Update](https://github.com/Keizaal/Keizaal/releases/download/6.0.1/Keizaal.wabbajack)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.0.1.png)
+![](https://keiza.al/assets/img/releases/6.0.1.png)
 - Updated [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123/?tab=files&file_id=240339)
 - Updated [Crystal Mudcrabs](https://www.nexusmods.com/skyrimspecialedition/mods/52981/?tab=files&file_id=239976)
 - Updated [eFPS - Exterior FPS boost](https://www.nexusmods.com/skyrimspecialedition/mods/54907/?tab=files&file_id=238577)
@@ -1176,7 +1176,7 @@ __SimonRim Profile:__
 - Massively reduced the size of [Keizaal.wabbajack](https://github.com/Keizaal/Keizaal/releases/download/6.0.0.1/Keizaal.wabbajack)
 
 # [6.0.0 - The Bruma Update](https://github.com/Keizaal/Keizaal/releases/download/6.0.0/Keizaal.wabbajack)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/6.0.0.png)
+![](https://keiza.al/assets/img/releases/6.0.0.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=239470)
 - Updated [Aetherius - A Race Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26686/?tab=files&file_id=235426)
 - Updated [Ancient Nord Stalhrim](https://www.nexusmods.com/skyrimspecialedition/mods/48756/?tab=files&file_id=240473)
@@ -1337,7 +1337,7 @@ __SimonRim Profile:__
 - Added [Haugbui - A Draugr Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/26188/?tab=files&file_id=239528)
 
 ### [5.1.2 - The Merlin Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.2/Keizaal.wabbajack)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.2.png)
+![](https://keiza.al/assets/img/releases/5.1.2.png)
 - Updated [East Empire Company Armor](https://www.nexusmods.com/skyrimspecialedition/mods/54990/?tab=files&file_id=230915)
 - Updated [Pilgrim - A Religion Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/54099/?tab=files&file_id=232264)
 - Updated [True Directional Movement - Modernized Third Person Gameplay](https://www.nexusmods.com/skyrimspecialedition/mods/51614/?tab=files&file_id=230041)
@@ -1370,7 +1370,7 @@ __SimonRim Profile:__
 - Added [Candle Lag Fix](https://www.nexusmods.com/skyrimspecialedition/mods/18774/?tab=files&file_id=225302)
 
 ### [5.1.1 - The Obsidian Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.1/Keizaal.wabbajack)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.1.png)
+![](https://keiza.al/assets/img/releases/5.1.1.png)
 - Updated [College of Winterhold Quest Start Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/53817/?tab=files&file_id=228093)
 - Updated [Skyrim Unbound Reborn (Alternate Start)](https://www.nexusmods.com/skyrimspecialedition/mods/27962/?tab=files&file_id=227657)
 - Updated [lilebonymace's patches xEdit scripts and stuff](https://www.nexusmods.com/skyrimspecialedition/mods/36042/?tab=files&file_id=227662)
@@ -1400,7 +1400,7 @@ __SimonRim Profile:__
 - Added [Pirates Wield Scurvy Cutlasses](https://www.nexusmods.com/skyrimspecialedition/mods/55289/?tab=files&file_id=227049)
 
 ## [5.1.0 - The Wander Update](https://github.com/Keizaal/Keizaal/releases/download/5.1.0/Keizaal.wabbajack)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.1.0.png)
+![](https://keiza.al/assets/img/releases/5.1.0.png)
 - Updated [.NET Script Framework](https://www.nexusmods.com/skyrimspecialedition/mods/21294/?tab=files&file_id=224837)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=225886)
 - Updated [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=215109)
@@ -1457,7 +1457,7 @@ __SimonRim Profile:__
 - Added [Take a Seat - New DAR Sitting Animations](https://www.nexusmods.com/skyrimspecialedition/mods/54193/?tab=files&file_id=225430)
 
 ### [5.0.1 - The Pilgrim Update](https://github.com/Keizaal/Keizaal/releases/download/5.0.1/Keizaal.wabbajack)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.0.1.png)
+![](https://keiza.al/assets/img/releases/5.0.1.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=222180)
 - Updated [Apothecary - An Alchemy Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/52130/?tab=files&file_id=221865)
 - Updated [Blade and Blunt - A Combat Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/34549/?tab=files&file_id=221708)
@@ -1483,7 +1483,7 @@ __SimonRim Profile:__
 - Added [Improvement Names Customized SSE](https://www.nexusmods.com/skyrimspecialedition/mods/27776/?tab=files&file_id=126534)
 
 # [5.0.0 - The Wyrmstooth Update](https://github.com/Keizaal/Keizaal/releases/download/5.0.0/Keizaal.wabbajack)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/5.0.0.png)
+![](https://keiza.al/assets/img/releases/5.0.0.png)
 - Updated [Adamant - A Perk Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/30191/?tab=files&file_id=219797)
 - Updated [Canis Hysteria - The Werewolf Disease](https://www.nexusmods.com/skyrimspecialedition/mods/52397/?tab=files&file_id=220733)
 - Updated [Crystal Mudcrabs - A Creature Addon](https://www.nexusmods.com/skyrimspecialedition/mods/52981/?tab=files&file_id=219846)
