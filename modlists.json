@@ -22,7 +22,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/8.0.1.png",
+      "image": "https://keiza.al/assets/img/releases/8.0.1.png",
       "readme": "https://keiza.al/installation",
       "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_9918a909-fcbd-4821-83c5-b700567195a7",
       "machineURL": "keizaal",
