@@ -28,7 +28,7 @@ Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/17/release/vc_re
 
 ### "*SKSE throws an error when the game launches.*"
 
-![SKSE Error Image](https://keiza.al/assets/img/pages/installation/SKSEPluginError.png)
+![SKSE Error Image](https://keiza.al/assets/img/pages/troubleshooting/SKSEPluginError.png)
 
 Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe) and select "Repair Installation" when you run the installer. Be sure to restart your computer afterward.
 
