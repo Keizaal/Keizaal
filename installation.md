@@ -26,7 +26,7 @@ A clean install of Skyrim is **required** to correctly install Keizaal.
 
 Navigate to your Skyrim installation on Steam. Right-click on Skyrim and click the "Uninstall" button.
 
-![Uninstall Image](https://keiza.al/assets/img/pages/installation/)
+![Uninstall Image](https://keiza.al/assets/img/pages/installation/Uninstall.png)
 
 Reinstall Skyrim in a location **outside of the Program Files**. If you have issues reinstalling Skyrim outside of Program Files, try using the [Steam Library Setup Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide){:target="_blank" rel="noopener"}.
 
@@ -66,13 +66,13 @@ Navigate back to your Keizaal installation folder and run ModOrganizer.exe.
 
 You should now be on a screen that displays all of your installed mods on the left and all of your plugin files on the right.
 
-![Mod Organizer 2 Image](https://keiza.al/assets/img/pages/installation/MO)
+![Mod Organizer 2 Image](https://keiza.al/assets/img/pages/installation/MO2.png)
 
 You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the right plugins pane and pressing “Play”. Beneath the Play button, there is a way to add a Skyrim shortcut to your desktop for added convenience.
 
 Whenever you launch Skyrim from Mod Organizer, this message will pop up:
 
-![Launch Pop-up Image](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/LaunchPopup.png)
+![Launch Pop-up Image](https://keiza.al/assets/img/pages/installation/LaunchPopup.png)
 
 **THIS IS NOT AN ERROR, DO NOT PRESS "UNLOCK"**. Simply wait a bit, and Skyrim will open normally.
 
