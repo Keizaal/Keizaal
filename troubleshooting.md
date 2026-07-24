@@ -28,7 +28,7 @@ Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/17/release/vc_re
 
 ### "*SKSE throws an error when the game launches.*"
 
-![SKSE Error Image](https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/installation%20guide/SKSEPluginError.png)
+![SKSE Error Image](https://keiza.al/assets/img/pages/installation/SKSEPluginError.png)
 
 Download the newest [Visual C++ 2019 redists](https://aka.ms/vs/16/release/vc_redist.x64.exe) and select "Repair Installation" when you run the installer. Be sure to restart your computer afterward.
 
@@ -68,6 +68,6 @@ If some sounds aren't playing correctly, follow these steps to fix the issue.
 
 During every update, Wabbajack will clean out the mods folder to ensure that everything gets installed properly. However, you can add the prefix `[NoDelete]` to the names of the mods you would like to keep, and Wabbajack will be sure to ignore them.
 
-![No Delete Image](https://raw.githubusercontent.com/PierreDespereaux/Keizaal/main/assets/images/installation%20guide/12.%20No%20Delete.PNG)
+![No Delete Image](https://keiza.al/assets/img/pages/installation/NoDelete.png)
 
 Please note that offical support for modified installations of Keizaal **WILL NOT** be provided.
