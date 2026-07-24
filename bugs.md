@@ -6,7 +6,7 @@ description: The process for reporting a bug in Keizaal.
 
 Submit your bug report to [Nexus' Bugs tab](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=bugs){:target="_blank" rel="noopener"}.
 
-![](https://keiza.al/img/pages/bugs/BugsTab.jpg)
+![Bugs Tab Image](https://keiza.al/assets/img/pages/bugs/BugsTab.jpg)
 
 When submitting a bug report please use the following template:
 
