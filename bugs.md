@@ -32,4 +32,3 @@ If applicable, add screenshots to help explain your problem. Additionally, if yo
 
 **Additional context**\
 Add any other context about the problem here.
-v
