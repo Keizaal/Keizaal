@@ -26,7 +26,7 @@ A clean install of Skyrim is **required** to correctly install Keizaal.
 
 Navigate to your Skyrim installation on Steam. Right-click on Skyrim and click the "Uninstall" button.
 
-![Uninstall Image](https://keiza.al/assets/img/pages/installation/uninstall.png)
+![Uninstall Image](https://keiza.al/assets/img/pages/installation/WabbajackSetup.png)
 
 Reinstall Skyrim in a location **outside of the Program Files**. If you have issues reinstalling Skyrim outside of Program Files, try using the [Steam Library Setup Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide){:target="_blank" rel="noopener"}.
 
@@ -42,7 +42,7 @@ Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wa
 
 Create a new folder called “Wabbajack” in a location **outside of the Program Files**. Extract Wabbjack.exe into this folder.
 
-![Wabbajack Setup Image](https://keiza.al/assets/img/pages/WabbajackSetup.png)
+![Wabbajack Setup Image](https://keiza.al/assets/img/pages/installation/WabbajackSetup.pngWabbajackSetup.png)
 
 ### Keizaal Installation 
 
@@ -52,7 +52,7 @@ Open Wabbajack.exe and select the Keizaal modlist from the Wabbajack UI.
 
 Once the installation window opens, ensure that the “Installation Location” matches the Keizaal folder you just created. The download location should populate automatically.
 
-![Keizaal Installation Image](https://keiza.al/assets/img/pages/Installing.png)
+![Keizaal Installation Image](https://keiza.al/assets/img/pages/installation/WabbajackSetup.pngInstalling.png)
 
 When you’re ready, press the triangular start button.
 
@@ -66,7 +66,7 @@ Navigate back to your Keizaal installation folder and run ModOrganizer.exe.
 
 You should now be on a screen that displays all of your installed mods on the left and all of your plugin files on the right.
 
-![Mod Organizer 2 Image](https://keiza.al/assets/img/pages/MO)
+![Mod Organizer 2 Image](https://keiza.al/assets/img/pages/installation/WabbajackSetup.pngMO)
 
 You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the right plugins pane and pressing “Play”. Beneath the Play button, there is a way to add a Skyrim shortcut to your desktop for added convenience.
 
@@ -86,7 +86,7 @@ Keizaal is designed to enhance and expand upon what the vanilla game offers. Whi
 
 If you're looking for a different experience, Keizaal also includes a secondary profile that integrates the complete [SimonRim](https://next.nexusmods.com/profile/SimonMagus/mods?gameId=1704){:target="_blank" rel="noopener"} suite into the mod list. To switch to this profile, simply select it from the drop-down menu at the top of Mod Organizer.
 
-![SimonRim Image](https://keiza.al/assets/img/pages/SimonRim.jpg)
+![SimonRim Image](https://keiza.al/assets/img/pages/installation/WabbajackSetup.pngSimonRim.jpg)
 
 **Savegames are linked to each profile**, so make sure to select the correct one before launching the game. If you don’t, you might not find your saved progress!
 
@@ -119,24 +119,24 @@ If you attempt to update a modified installation of Keizaal, **Wabbajack will de
 
 This means that any additional mods you have installed on top of Keizaal will be deleted. To prevent this, you can add the prefix **[NoDelete]** to the names of the mods you want to keep and Wabbajack will ensure they are ignored during updates.
 
-![No Delete Image](https://keiza.al/assets/img/pages/NoDelete.png)
+![No Delete Image](https://keiza.al/assets/img/pages/installation/WabbajackSetup.pngNoDelete.png)
 
 ### Mod Notes
 
 Several mods in Keizaal's Mod Organizer have notes attached to them. If the note icon appears next to a mod, hover over it to read the notes. These notes will give you some additional context about how the mod has been configured.
 
-![Mod Notes Image](https://keiza.al/assets/img/pages/Notes.png)
+![Mod Notes Image](https://keiza.al/assets/img/pages/installation/WabbajackSetup.pngNotes.png)
 
 
 ### Settings
 
 If you want to edit some of Skyrim's settings, you can do so by manually editing your base game's .ini files. You can do so by navigating to the top of Mod Organizer, clicking on the puzzle piece, then selecting "INI Editor".
 
-![Settings Image](https://keiza.al/assets/img/pages/INIs.png)
+![Settings Image](https://keiza.al/assets/img/pages/installation/WabbajackSetup.pngINIs.png)
 
 Keizaal's preconfigured mod settings can be found in the "Keizaal Settings" mod in Mod Organizer.
 
-![Keizaal Settings](https://keiza.al/assets/img/pages/Settings.png)
+![Keizaal Settings](https://keiza.al/assets/img/pages/installation/WabbajackSetup.pngSettings.png)
 
 ## Support
 ---
