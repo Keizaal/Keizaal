@@ -10,7 +10,7 @@ Simply restart Wabbajack; you will not lose progress on your downloads.
 
 Try resetting your Wabbajack client. Start by closing Wabbajack, then press `Windows + R` on your keyboard and type in `%localappdata%`. A Windows Explorer window should pop up; find and delete the folder called Wabbajack inside.
 
-Alternatively, you can try to manually install the failed mod downloads. You can find links to recently added and updated mods in the [Changelog](https://keiza.al/changelog){:target="_blank" rel="noopener"}. 
+Alternatively, you can try to manually install the failed mod downloads. You can find links to recently added and updated mods in the [Changelog](https://keiza.al/changelog). 
 
 Place the manually downloaded mods in your downloads folder where the other Wabbajack downloads are in your Mod Organizer. Do not extract them. Note that some of these are big files and may take a while.
 
@@ -18,7 +18,7 @@ Place the manually downloaded mods in your downloads folder where the other Wabb
 
 If Wabbajack fails to download any of the basegame files during the installation process, close Wabbajack, follow these steps, and then try running the installer again.
 
-1. Verify the integrity of your game files through Steam, following [these instructions](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335){:target="_blank" rel="noopener"}.
+1. Verify the integrity of your game files through Steam, following [these instructions](https://support.steampowered.com/kb_article.php?ref=2037-QEUH-3335).
 2. Make sure that the game is set to English in Steam.
 3. Open the game through Steam once to create any registry entries and INI files you don't already have, then immediately exit the launcher.
 
@@ -40,9 +40,9 @@ This occasionally happens with certain mods; don't worry, they **are installed**
 
 If you are experiencing problems such as the skse64_loader.exe being deleted, try adding the folder where Keizaal is installed to exclusions in your antivirus of choice.
 
-**Note:** If you're using Webroot or any other free 3rd party antivirus, adding the folders to exclusions may not be enough. You'll likely need to disable or uninstall your 3rd party AV as they can incorrectly mark usvfs_proxy_x86.exe, among other files, as a virus, a file needed for Mod Organizer 2 to work. We recommend doing so anyway in case it's a free one, as Windows Defender is likely much better at stopping threats than that is (according to data from [av-test.org](https://www.av-test.org/en/antivirus/home-windows/){:target="_blank" rel="noopener"}).
+**Note:** If you're using Webroot or any other free 3rd party antivirus, adding the folders to exclusions may not be enough. You'll likely need to disable or uninstall your 3rd party AV as they can incorrectly mark usvfs_proxy_x86.exe, among other files, as a virus, a file needed for Mod Organizer 2 to work. We recommend doing so anyway in case it's a free one, as Windows Defender is likely much better at stopping threats than that is (according to data from [av-test.org](https://www.av-test.org/en/antivirus/home-windows/)).
 
-If you still think a file is a virus, you can upload it to virustotal and get it scanned by multiple antiviruses. [Here](https://www.virustotal.com/gui/file/356c029b7bf0bed41460ceacf2c756560101b9b0977c349925d81d76392dd0c4/detection){:target="_blank" rel="noopener"} is a scan of the file mentioned above, of which some antiviruses report a false positive.
+If you still think a file is a virus, you can upload it to virustotal and get it scanned by multiple antiviruses. [Here](https://www.virustotal.com/gui/file/356c029b7bf0bed41460ceacf2c756560101b9b0977c349925d81d76392dd0c4/detection) is a scan of the file mentioned above, of which some antiviruses report a false positive.
 
 ### "*Plugins are getting deactivated in the right panel.*"
 
@@ -58,7 +58,7 @@ Savegames are linked to each profile, so make sure to select the correct one bef
 
 If some sounds aren't playing correctly, follow these steps to fix the issue.
 
-1. Download and install Link Shell Extension, which can be found [here](http://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html){:target="_blank" rel="noopener"}.
+1. Download and install Link Shell Extension, which can be found [here](http://schinagl.priv.at/nt/hardlinkshellext/linkshellextension.html).
 2. Navigate to your Skyrim/Data folder and look for a file named Skyrim - Sounds.bsa. Copy this file and paste it somewhere on your main drive.
 3. Delete Skyrim - Sounds.bsa from the Data folder.
 4. Go back to where you copied Skyrim - Sounds.bsa on your main drive. Right-click on it, and you should see an option that says "Pink Link Source". Click that.
