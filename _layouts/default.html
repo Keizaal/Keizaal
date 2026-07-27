@@ -17,31 +17,35 @@
 		<link rel="icon" href="https://keiza.al/assets/img/icon.png"  type="image/x-icon" />
 	</head>
 	<script>
-	document.addEventListener('DOMContentLoaded', function() {
-		var currentYear = new Date().getFullYear();
-	document.getElementById('currentYear').textContent = currentYear;
-	});
 	document.addEventListener("DOMContentLoaded", () => {
+		// Set current year
+		document.getElementById("currentYear").textContent = new Date().getFullYear();
+	
+		// Show modal based on URL parameter
 		const params = new URLSearchParams(window.location.search);
 		const source = params.get("from");
-		const modals = {404: "popup404", kzo: "popupKZO"};
-		if (modals[source]) {
-			const modal = new bootstrap.Modal(
-				document.getElementById(modals[source])
-			);
-			modal.show();
-			history.replaceState({}, "", window.location.pathname);
-		}
-	});
-	document.addEventListener("DOMContentLoaded", function () {
-	  document.querySelectorAll('a[href]').forEach(function (link) {
-	    const url = new URL(link.href, window.location.origin);
+		const modals = {
+			404: "popup404",
+			kzo: "popupKZO"
+		};
 	
-	    if (url.origin !== window.location.origin) {
-	      link.target = "_blank";
-	      link.rel = "noopener noreferrer";
-	    }
-	  });
+		if (modals[source]) {
+			const modalElement = document.getElementById(modals[source]);
+			if (modalElement) {
+				new bootstrap.Modal(modalElement).show();
+				history.replaceState({}, "", window.location.pathname);
+			}
+		}
+	
+		// Make external links open in a new tab
+		document.querySelectorAll("a[href]").forEach(link => {
+			const url = new URL(link.href, window.location.href);
+	
+			if (url.origin !== window.location.origin) {
+				link.target = "_blank";
+				link.rel = "noopener noreferrer";
+			}
+		});
 	});
 	</script>
 	<body>
