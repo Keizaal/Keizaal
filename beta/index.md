@@ -15,6 +15,7 @@ image_align: center
   }
 </script>
 ![](https://keiza.al/assets/img/releases/9.0.0.png)
+
 Thank you for participating in the Keizaal 9.0.0 Beta!
 
 The theme of this update is returning everything to basics and focusing on making Skyrim’s core experience the best it can be. Consistency is key here, I want to ensure that there is a nice level of quality across the board so that you are never taken out of the experience.
