@@ -33,6 +33,16 @@
 			history.replaceState({}, "", window.location.pathname);
 		}
 	});
+	document.addEventListener("DOMContentLoaded", function () {
+	  document.querySelectorAll('a[href]').forEach(function (link) {
+	    const url = new URL(link.href, window.location.origin);
+	
+	    if (url.origin !== window.location.origin) {
+	      link.target = "_blank";
+	      link.rel = "noopener noreferrer";
+	    }
+	  });
+	});
 	</script>
 	<body>
 		<div class="container-fluid text-light">
