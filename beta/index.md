@@ -5,14 +5,19 @@ image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/rele
 image_align: center
 ---
 <script>
-  function openDownload(event) {
-      event.preventDefault();
-      const win = window.open(event.currentTarget.href, "_blank");
-  
-      setTimeout(() => {
-          if (win) win.close();
-      }, 5000);
-  }
+function downloadFile(event) {
+    event.preventDefault();
+
+    const iframe = document.createElement("iframe");
+    iframe.style.display = "none";
+    iframe.src = event.currentTarget.href;
+
+    document.body.appendChild(iframe);
+
+    setTimeout(() => {
+        iframe.remove();
+    }, 10000);
+}
 </script>
 ![](https://keiza.al/assets/img/releases/9.0.0.png)
 
@@ -28,7 +33,7 @@ Does this mean that Beyond Skyrim won't be part of the modlist in the future? I 
 
 A number of smaller mods will also be removed in this update. Keizaal includes many small “immersion” mods that most players will never notice. These take up space in the modlist and create more opportunities for issues to arise. You can find more details in the changelog below.
 
-<b><a href="https://keiza.al/beta/download" onclick="openDownload(event)">Beta Download Link</a></b>
+<b><a href="https://keiza.al/beta/download" onclick="downloadFile(event)">">Beta Download Link</a></b>
 
 ## Know Issues
 - The SimonRim profile is *very* work-in-progress, **use at your own risk**
