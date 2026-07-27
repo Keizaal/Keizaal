@@ -2,15 +2,15 @@
 title: Installation
 description: A detailed step-by-step guide for installing Keizaal.
 ---
-**Keizaal requires [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/){:target="_blank" rel="noopener"}.** 
+**Keizaal requires [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/).** 
 
 This modlist takes up roughly 115GB of hard drive space (77GB installation with 38GB of downloads) and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid-state drive for optimal performance. You will run into very long loading times and stuttering with a standard hard disk drive. 
 
-If you run into any issues installing Keizaal, please refer to the [Troubleshooting Guide](https://keiza.al/troubleshooting){:target="_blank" rel="noopener"}. It covers all of the common errors that may occur and will walk you through how to fix them.
+If you run into any issues installing Keizaal, please refer to the [Troubleshooting Guide](https://keiza.al/troubleshooting). It covers all of the common errors that may occur and will walk you through how to fix them.
 
 ### Automated Downloads
 
-Automated downloads from Nexus are only available through Wabbajack with an active [premium membership](https://users.nexusmods.com/account/billing){:target="_blank" rel="noopener"}. If you do not have a premium membership, Wabbajack will prompt you to manually download the necessary files.
+Automated downloads from Nexus are only available through Wabbajack with an active [premium membership](https://users.nexusmods.com/account/billing). If you do not have a premium membership, Wabbajack will prompt you to manually download the necessary files.
 
 If you activate the premium membership after beginning a Wabbajack install, you can restart Wabbajack to enable automated downloads.
 
@@ -28,7 +28,7 @@ Navigate to your Skyrim installation on Steam. Right-click on Skyrim and click t
 
 ![Uninstall Image](https://keiza.al/assets/img/pages/installation/Uninstall.png)
 
-Reinstall Skyrim in a location **outside of the Program Files**. If you have issues reinstalling Skyrim outside of Program Files, try using the [Steam Library Setup Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide){:target="_blank" rel="noopener"}.
+Reinstall Skyrim in a location **outside of the Program Files**. If you have issues reinstalling Skyrim outside of Program Files, try using the [Steam Library Setup Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
 
 Run the Skyrim Special Edition launcher through Steam and let it detect your settings, then launch the game. If you have not installed Anniversary Edition content yet, you will be prompted to do so now. After that, feel free to close and exit to your desktop.
 
@@ -78,13 +78,13 @@ Whenever you launch Skyrim from Mod Organizer, this message will pop up:
 
 ### Creation Content
 
-While Keizaal requires the [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/){:target="_blank" rel="noopener"}, not all Anniversary Edition content is included in the modlist. For details on Anniversary Edition and Verified Creations, visit the [Creation Content](https://keiza.al/creations){:target="_blank" rel="noopener"} page.
+While Keizaal requires the [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/), not all Anniversary Edition content is included in the modlist. For details on Anniversary Edition and Verified Creations, visit the [Creation Content](https://keiza.al/creations) page.
 
 ### Profiles
 
 Keizaal is designed to enhance and expand upon what the vanilla game offers. While systems such as perk trees and combat have seen some expansions, they remain largely unchanged from the base game.
 
-If you're looking for a different experience, Keizaal also includes a secondary profile that integrates the complete [SimonRim](https://next.nexusmods.com/profile/SimonMagus/mods?gameId=1704){:target="_blank" rel="noopener"} suite into the mod list. To switch to this profile, simply select it from the drop-down menu at the top of Mod Organizer.
+If you're looking for a different experience, Keizaal also includes a secondary profile that integrates the complete [SimonRim](https://next.nexusmods.com/profile/SimonMagus/mods?gameId=1704) suite into the mod list. To switch to this profile, simply select it from the drop-down menu at the top of Mod Organizer.
 
 ![SimonRim Image](https://keiza.al/assets/img/pages/installation/SimonRim.jpg)
 
@@ -140,9 +140,9 @@ Keizaal's preconfigured mod settings can be found in the "Keizaal Settings" mod 
 
 ## Support
 ---
-If you run into any issues installing Keizaal, please refer to the [Troubleshooting Guide](https://keiza.al/troubleshooting){:target="_blank" rel="noopener"}. It covers all of the common errors that may occur and will walk you through how to fix them.
+If you run into any issues installing Keizaal, please refer to the [Troubleshooting Guide](https://keiza.al/troubleshooting). It covers all of the common errors that may occur and will walk you through how to fix them.
 
-Join [Tate Taylor's community Discord server](https://keiza.al/discord){:target="_blank" rel="noopener"} for individual help and guidance.
+Join [Tate Taylor's community Discord server](https://keiza.al/discord) for individual help and guidance.
 
 Offical support for modified verions of Keizaal **WILL NOT** be provided. 
 
