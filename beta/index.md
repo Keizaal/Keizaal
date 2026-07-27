@@ -4,8 +4,17 @@ description: Information about the beta test for Keizaal's new version.
 image: https://raw.githubusercontent.com/Keizaal/Keizaal/main/assets/images/releases/9.0.0.png
 image_align: center
 ---
+<script>
+  function openDownload(event) {
+      event.preventDefault();
+      const win = window.open(event.currentTarget.href, "_blank");
+  
+      setTimeout(() => {
+          if (win) win.close();
+      }, 5000);
+  }
+</script>
 ![](https://keiza.al/assets/img/releases/9.0.0.png)
-
 Thank you for participating in the Keizaal 9.0.0 Beta!
 
 The theme of this update is returning everything to basics and focusing on making Skyrim’s core experience the best it can be. Consistency is key here, I want to ensure that there is a nice level of quality across the board so that you are never taken out of the experience.
@@ -18,7 +27,7 @@ Does this mean that Beyond Skyrim won't be part of the modlist in the future? I 
 
 A number of smaller mods will also be removed in this update. Keizaal includes many small “immersion” mods that most players will never notice. These take up space in the modlist and create more opportunities for issues to arise. You can find more details in the changelog below.
 
-**[Beta Download Link](https://keiza.al/beta/download)**
+<b><a href="https://keiza.al/beta/download" onclick="openDownload(event)">Beta Download Link</a></b>
 
 ## Know Issues
 - The SimonRim profile is *very* work-in-progress, **use at your own risk**
