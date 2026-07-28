@@ -8,7 +8,7 @@ defaults:
       path: ""
     values:
       layout: default
-      image: https://keiza.al/assets/images/branding/Keizaal%20Website%20Banner.png
+      image: https://keiza.al/assets/img/banner.png
 
 utterances:
   theme: github-dark
