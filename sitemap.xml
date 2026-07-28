@@ -4,43 +4,37 @@
 
   <url>
        <loc>https://keiza.al/</loc>
-       <lastmod>2026-07-21T16:59:25+00:00</lastmod>
+       <lastmod>2026-07-27T19:16:36+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>1.0000</priority>
   </url>
   <url>
        <loc>https://keiza.al/installation.html</loc>
-       <lastmod>2026-07-21T16:59:25+00:00</lastmod>
+       <lastmod>2026-07-27T19:16:36+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://keiza.al/troubleshooting.html</loc>
-       <lastmod>2026-07-21T16:59:25+00:00</lastmod>
+       <lastmod>2026-07-27T19:16:36+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://keiza.al/creations.html</loc>
-       <lastmod>2026-07-21T16:59:25+00:00</lastmod>
+       <lastmod>2026-07-27T19:16:36+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://keiza.al/changelog.html</loc>
-       <lastmod>2026-07-21T16:59:25+00:00</lastmod>
+       <lastmod>2026-07-27T19:16:36+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
   <url>
        <loc>https://keiza.al/testimonials.html</loc>
-       <lastmod>2026-07-21T16:59:25+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
-  <url>
-       <loc>https://keiza.al/bugs.html</loc>
-       <lastmod>2026-07-21T16:59:25+00:00</lastmod>
+       <lastmod>2026-07-27T19:16:36+00:00</lastmod>
        <changefreq>daily</changefreq>
        <priority>0.6400</priority>
   </url>
