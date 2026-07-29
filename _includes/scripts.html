@@ -1,1 +1,23 @@
-
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+<script>
+  document.addEventListener("DOMContentLoaded", () => {
+    // Set current year
+    document.getElementById("currentYear").textContent = new Date().getFullYear();
+  
+    // Show modal based on URL parameter
+    const params = new URLSearchParams(window.location.search);
+    const source = params.get("from");
+    const modals = {
+      404: "popup404",
+      kzo: "popupKZO"
+    };
+  
+    if (modals[source]) {
+      const modalElement = document.getElementById(modals[source]);
+      if (modalElement) {
+        new bootstrap.Modal(modalElement).show();
+        history.replaceState({}, "", window.location.pathname);
+      }
+    }
+  });
+</script>
