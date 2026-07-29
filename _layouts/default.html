@@ -10,47 +10,11 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
 		<meta name="google-site-verification" content="jSueJx3jsZPBZAXLoa0FslQH0cTCV6zv7iYh72gH0aA" />
 		<link rel="icon" href="https://keiza.al/assets/img/icon.png"  type="image/x-icon" />
-		<script>
-			document.addEventListener("DOMContentLoaded", () => {
-				// Set current year
-				document.getElementById("currentYear").textContent = new Date().getFullYear();
-			
-				// Show modal based on URL parameter
-				const params = new URLSearchParams(window.location.search);
-				const source = params.get("from");
-				const modals = {
-					404: "popup404",
-					kzo: "popupKZO"
-				};
-			
-				if (modals[source]) {
-					const modalElement = document.getElementById(modals[source]);
-					if (modalElement) {
-						new bootstrap.Modal(modalElement).show();
-						history.replaceState({}, "", window.location.pathname);
-					}
-				}
-			});
-		</script>
 	</head>
 	<body>
 		<div class="container-fluid text-light">
 		    <div class="row">
-				<!-- Popup Component -->
-				<div class="modal fade" id="popup404" tabindex="-1" aria-labelledby="popup404Title" aria-hidden="true">
-				  <div class="modal-dialog modal-dialog-centered modal-lg" style="max-width: 500px;">
-				    <div class="modal-content bg-black text-light">
-						{% include popups/404.html %}
-				    </div>
-				  </div>
-				</div>
-				<div class="modal fade" id="popupKZO" tabindex="-1" aria-labelledby="popupTitle" aria-hidden="true">
-				  <div class="modal-dialog modal-dialog-centered modal-lg">
-				    <div class="modal-content bg-black text-light">
-						{% include popups/kzo.html %}
-				    </div>
-				  </div>
-				</div>
+				{% include popups.html %}
 				{% include navigation.html %}
 		        <!-- Main Content -->
 		        <main class="col col-12 col-md-9 col-xl-10 p-0 ms-md-auto">
@@ -71,6 +35,6 @@
 		        </main>
 		    </div>
 		</div> 
-		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+		{% include scripts.html %}
 	</body>
 </html>
