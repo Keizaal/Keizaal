@@ -10,8 +10,5 @@ defaults:
       layout: default
       image: "https://keiza.al/assets/img/thumbnail.png"
 
-plugins:
-  - jekyll-redirect-from
-
 utterances:
   theme: github-dark
