@@ -1,6 +1,7 @@
 ---
 title: Troubleshooting
 description: Troubleshooting steps for common issues users face while using Keizaal.
+redirect_from: /TROUBLESHOOTING.html/
 ---
 ### "*Wabbajack is stuck during installation.*"
 
