@@ -1,6 +1,7 @@
 ---
 title: Creation Content
 description: Information regarding creation content in Keizaal.
+redirect_from: /CREATIONCONTENT.html/
 ---
 **Keizaal requires the [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/)**, though not all Anniversary Edition content is included in the modlist. The table below details the status of each creation, along with any mods that affect how they begin or otherwise modify them.
 
