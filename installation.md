@@ -1,7 +1,7 @@
 ---
 title: Installation
 description: A detailed step-by-step guide for installing Keizaal.
-redirect_from: https://keizaal.github.io/Keizaal/INSTALLATIONGUIDE.html
+redirect_from: https://keiza.al/INSTALLATIONGUIDE.html
 ---
 **Keizaal requires [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/).** 
 
