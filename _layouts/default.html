@@ -8,7 +8,7 @@
 		<link rel="stylesheet" href="{{ 'assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}" />
 		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=yes" />
 		<meta name="google-site-verification" content="jSueJx3jsZPBZAXLoa0FslQH0cTCV6zv7iYh72gH0aA" />
-		<link rel="icon" href="https://keiza.al/assets/img/icon.png"  type="image/x-icon" />
+		<link rel="icon" href="{{ '/assets/img/icon.png' | relative_url }}"  type="image/x-icon" />
 		{% include scripts.html %}
 	</head>
 	<body>
@@ -19,7 +19,7 @@
 		        <main class="col col-12 col-md-9 col-xl-10 p-0 ms-md-auto">
 		            <div class="container py-4 pb-5">
 						<header class="d-none d-md-block mb-4 w-75 mx-auto">
-							<img class="img-fluid" alt="Keizaal: A Simple Modlist" src="http://keiza.al/assets/img/banner.png"/>
+							<img class="img-fluid" alt="Keizaal: A Simple Modlist" src="{{ '/assets/img/banner.png' | relative_url }}"/>
 			            </header>
 			            <article id="article-content">
 							<div id="content" class="image-{{ page.image_align | default: 'left' }}">
