@@ -3,11 +3,11 @@
     <div class="container-fluid flex-md-column align-items-stretch sticky-top">
         <div class="d-none d-md-block my-3">
             <a href="{{ '/' | relative_url }}">
-                <img class="img-fluid" src="https://keiza.al/assets/img/logo.png"></img>
+                <img class="img-fluid" src="{{ '/assets/img/logo.png' | relative_url }}"></img>
             </a>
         </div>
         <a class="navbar-brand d-none d-md-block" href="{{ '/' | relative_url }}"><h3 class="mb-0">Keizaal</h3></a>
-        <a class="d-md-none col-8" href="{{ '/' | relative_url }}"><img class="img-fluid" alt="Keizaal: A Simple Modlist" src="http://keiza.al/assets/img/banner.png"/></a>
+        <a class="d-md-none col-8" href="{{ '/' | relative_url }}"><img class="img-fluid" alt="Keizaal: A Simple Modlist" src="{{ '/assets/img/banner.png' | relative_url }}"/></a>
         <button class="navbar-toggler" data-bs-toggle="collapse" data-bs-target="#sidebarMenu">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -26,7 +26,7 @@
                 <li class="nav-item"><a class="nav-link" href="https://www.patreon.com/TateTaylor">Become a Patron</a></li>
                 <hr>
                 <li class="nav-item nav-link disabled">&copy; <span id="currentYear"></span> Tate Taylor</li>
-                <li class="nav-item"><a class="nav-link" href="https://keiza.al/LICENSE.txt">CC BY-NC-SA 4.0</a></li>
+                <li class="nav-item"><a class="nav-link" href="{{ '/LICENSE.txt' | relative_url }}">CC BY-NC-SA 4.0</a></li>
             </ul>
         </div>
         <div class="d-none d-md-block my-3">
