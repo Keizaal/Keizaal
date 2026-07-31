@@ -20,5 +20,21 @@
       }
     }
   });
+
+  // Show preview image modal
+  document.querySelectorAll('#article-content img').forEach(img => {
+    img.dataset.bsToggle = 'modal';
+    img.dataset.bsTarget = '#imagePreviewModal';
+  });
+  
+  const imagePreviewModal = document.getElementById('imagePreviewModal');
+  
+  imagePreviewModal.addEventListener('show.bs.modal', function (event) {
+    const triggerImage = event.relatedTarget;
+    const modalImage = imagePreviewModal.querySelector('#modalPreviewImage');
+  
+    modalImage.src = triggerImage.src;
+    modalImage.alt = triggerImage.alt;
+  });
 </script>
 <!-- End Scripts include -->
