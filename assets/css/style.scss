@@ -23,7 +23,7 @@ $media-max-width: 800px;
 // =======================================================
 // Custom CSS
 // =======================================================
-#article-content img {max-width: min(100%, #{$media-max-width}); border-radius: .25rem; display: block;}
+#article-content img {max-width: min(100%, #{$media-max-width}); border-radius: .25rem; display: block; cursor: pointer;}
 #article-content.image-left img {margin-left: 0; margin-right: 0;}
 #article-content.image-center img {margin-left: auto; margin-right: auto;}
 #article-content.image-right img {margin-left: auto; margin-right: 0;}
