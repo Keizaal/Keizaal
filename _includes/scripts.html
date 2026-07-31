@@ -19,22 +19,26 @@
         history.replaceState({}, "", window.location.pathname);
       }
     }
-  });
-
-  // Show preview image modal
-  document.querySelectorAll('#article-content img').forEach(img => {
-    img.dataset.bsToggle = 'modal';
-    img.dataset.bsTarget = '#imagePreviewModal';
-  });
   
-  const imagePreviewModal = document.getElementById('imagePreviewModal');
+    // Show image preview modal
+    document.querySelectorAll('#article-content img').forEach(img => {
+      img.dataset.bsToggle = 'modal';
+      img.dataset.bsTarget = '#imagePreviewModal';
+    });
   
-  imagePreviewModal.addEventListener('show.bs.modal', function (event) {
-    const triggerImage = event.relatedTarget;
-    const modalImage = imagePreviewModal.querySelector('#modalPreviewImage');
+    const imagePreviewModal = document.getElementById('imagePreviewModal');
   
-    modalImage.src = triggerImage.src;
-    modalImage.alt = triggerImage.alt;
+    if (imagePreviewModal) {
+      imagePreviewModal.addEventListener('show.bs.modal', function (event) {
+        const triggerImage = event.relatedTarget;
+        const modalImage = imagePreviewModal.querySelector('#modalPreviewImage');
+  
+        if (triggerImage && modalImage) {
+          modalImage.src = triggerImage.src;
+          modalImage.alt = triggerImage.alt;
+        }
+      });
+    }
   });
 </script>
 <!-- End Scripts include -->
