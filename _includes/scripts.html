@@ -9,7 +9,6 @@
     const source = params.get("from");
     const modals = {
       404: "popup404",
-      kzo: "popupKZO"
     };
   
     if (modals[source]) {
@@ -20,10 +19,20 @@
       }
     }
   
-    // Show image preview modal
+    // Show image preview
     document.querySelectorAll('#article-content img').forEach(img => {
-      img.dataset.bsToggle = 'modal';
-      img.dataset.bsTarget = '#imagePreviewModal';
+      if (window.innerWidth < 768) {
+        // Open Mobile page
+        img.style.cursor = 'pointer';
+    
+        img.addEventListener('click', () => {
+          window.location.href = img.src;
+        });
+      } else {
+        // Open Desktop modal
+        img.dataset.bsToggle = 'modal';
+        img.dataset.bsTarget = '#imagePreviewModal';
+      }
     });
   
     const imagePreviewModal = document.getElementById('imagePreviewModal');
