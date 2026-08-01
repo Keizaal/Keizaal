@@ -1,9 +1,6 @@
 <!-- Begin Scripts include -->
 <script>
   document.addEventListener("DOMContentLoaded", () => {
-    // Set current year
-    document.getElementById("currentYear").textContent = new Date().getFullYear();
-  
     // Show modal based on URL parameter
     const params = new URLSearchParams(window.location.search);
     const source = params.get("from");
