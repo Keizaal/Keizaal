@@ -43,8 +43,8 @@ tr:nth-child(even) {background-color: #181818;}
 .utterances {max-width:100%;}
 
 .modal-image {display: block; max-width: calc(100vw - 3rem); max-height: calc(100vh - 6rem);}
-.modal-content {width: auto;}
-.modal-dialog {max-width: fit-content;}
+.modal-image .modal-content {width: auto;}
+.modal-image .modal-dialog {max-width: fit-content;}
 .img-fluid.modal-image {max-height: 85vh; object-fit: contain;}
 
 @media (min-width: 1200px) {nav {min-height: 100vh;}}
