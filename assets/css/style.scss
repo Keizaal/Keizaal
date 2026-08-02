@@ -28,6 +28,10 @@ $media-max-width: 800px;
 #article-content.image-center img {margin-left: auto; margin-right: auto;}
 #article-content.image-right img {margin-left: auto; margin-right: 0;}
 
+#modal-image-viewer .modal-content {width: auto;}
+#modal-image-viewer .modal-dialog {max-width: fit-content;}
+#modal-image-viewer .img-fluid {max-height: 85vh; object-fit: contain;}
+
 a {color: $link-color; text-decoration: none; transition: color 0.2s ease-in-out; &:hover {color: darken($link-color, 15%);}}
 body {font-family: $body-font; background-color:#222;}
 h1,h2,h3,h4,h5 {font-family: $header-font;}
@@ -39,14 +43,9 @@ tr:nth-child(even) {background-color: #181818;}
 .bg-black {background-color:#101010;}
 .card {border:none;background-color:#181818;}
 .modal-header, .modal-footer {border: none;}
+.modal-image {display: block; max-width: calc(100vw - 3rem); max-height: calc(100vh - 6rem);}
 .text-secondary {color:#949494 !important;}
 .utterances {max-width:100%;}
-
-.modal-image {display: block; max-width: calc(100vw - 3rem); max-height: calc(100vh - 6rem);}
-
-#modal-image-viewer .modal-content {width: auto;}
-#modal-image-viewer .modal-dialog {max-width: fit-content;}
-#modal-image-viewer .img-fluid {max-height: 85vh; object-fit: contain;}
 
 @media (min-width: 1200px) {nav {min-height: 100vh;}}
 @media (min-width: 1920px) {.col-xl-2 {width:12.5%;}.col-xl-10 {width:87.5%;}}
