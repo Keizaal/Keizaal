@@ -10,7 +10,7 @@ Keizaal is a simple modlist that seeks to enhance and expand on Skyrim without c
 3. **Mods must have decent longevity.** This modlist wants to be somewhat relevant, in theory, forever.
 4. **Stability is the most important thing.** This rule basically supersedes all the above. If a mod introduces major stability concerns, it will be quickly cut.
 
-You can find a full list of the mods included in Keizaal [here](http://www.wabbajack.org/search/Keizaal/keizaal). If you feel like this modlist is for you, click [here](https://keiza.al/installation) to go straight to the installation guide. If you want to know more, I have included a brief overview below.
+You can find a full list of the mods included in Keizaal [here](http://www.wabbajack.org/search/Keizaal/keizaal). If you feel like this modlist is for you, click [here](/installation) to go straight to the installation guide. If you want to know more, I have included a brief overview below.
 
 # Overview
 
@@ -112,6 +112,6 @@ Tamrielic Distribution is a mod designed for Keizaal. It is basically an all-enc
 
 # Closing
 
-I hope this overview of Keizaal was helpful to you. If you like what you've read, consider giving the modlist a try; click [here](https://keiza.al/installation) to go to the installation guide. 
+I hope this overview of Keizaal was helpful to you. If you like what you've read, consider giving the modlist a try; click [here](/installation) to go to the installation guide. 
 
 If you have any specific questions about the modlist, feel free to contact me (Tate Taylor) on [my community Discord server](https://discord.gg/eYZJFP8) to learn more.
