@@ -3,11 +3,11 @@ title: Bug Reports
 description: The process for reporting a bug in Keizaal.
 redirect_from: /BUGREPORTS.html/
 ---
-**Do not** report bugs with the Wabbajack client, *only* issues you experience in-game. Consider bringing your issue up in the [Discord server](https://keiza.al/discord) before submitting a formal bug report.
+**Do not** report bugs with the Wabbajack client, *only* issues you experience in-game. Consider bringing your issue up in the [Discord server](/discord) before submitting a formal bug report.
 
 Submit your bug report to [Nexus' Bugs tab](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=bugs).
 
-![Bugs Tab Image](https://keiza.al/assets/img/pages/bugs/BugsTab.jpg)
+![Bugs Tab Image](/assets/img/pages/bugs/BugsTab.jpg)
 
 When submitting a bug report please use the following template:
 
