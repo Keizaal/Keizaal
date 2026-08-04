@@ -8,7 +8,7 @@ defaults:
       path: ""
     values:
       layout: page
-      image: "https://keiza.al/assets/img/thumbnail.png"
+      image: "/assets/img/thumbnail.png"
 
 plugins:
   - jekyll-redirect-from
