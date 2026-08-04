@@ -7,7 +7,7 @@ redirect_from: /INSTALLATIONGUIDE.html/
 
 This modlist takes up roughly 115GB of hard drive space (77GB installation with 38GB of downloads) and will likely take a few hours to download depending on your internet speed. It is recommended that you install it on a solid-state drive for optimal performance. You will run into very long loading times and stuttering with a standard hard disk drive. 
 
-If you run into any issues installing Keizaal, please refer to the [Troubleshooting Guide](https://keiza.al/troubleshooting). It covers all of the common errors that may occur and will walk you through how to fix them.
+If you run into any issues installing Keizaal, please refer to the [Troubleshooting Guide](/troubleshooting). It covers all of the common errors that may occur and will walk you through how to fix them.
 
 ### Automated Downloads
 
@@ -27,7 +27,7 @@ A clean install of Skyrim is **required** to correctly install Keizaal.
 
 Navigate to your Skyrim installation on Steam. Right-click on Skyrim and click the "Uninstall" button.
 
-![Uninstall Image](https://keiza.al/assets/img/pages/installation/Uninstall.png)
+![Uninstall Image](/assets/img/pages/installation/Uninstall.png)
 
 Reinstall Skyrim in a location **outside of the Program Files**. If you have issues reinstalling Skyrim outside of Program Files, try using the [Steam Library Setup Tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
 
@@ -43,7 +43,7 @@ Download the latest version of [Wabbajack](https://github.com/wabbajack-tools/wa
 
 Create a new folder called “Wabbajack” in a location **outside of the Program Files**. Extract Wabbjack.exe into this folder.
 
-![Wabbajack Setup Image](https://keiza.al/assets/img/pages/installation/WabbajackSetup.png)
+![Wabbajack Setup Image](/assets/img/pages/installation/WabbajackSetup.png)
 
 ### Keizaal Installation 
 
@@ -53,7 +53,7 @@ Open Wabbajack.exe and select the Keizaal modlist from the Wabbajack UI.
 
 Once the installation window opens, ensure that the “Installation Location” matches the Keizaal folder you just created. The download location should populate automatically.
 
-![Keizaal Installation Image](https://keiza.al/assets/img/pages/installation/Installing.png)
+![Keizaal Installation Image](/assets/img/pages/installation/Installing.png)
 
 When you’re ready, press the triangular start button.
 
@@ -67,19 +67,19 @@ Navigate back to your Keizaal installation folder and run ModOrganizer.exe.
 
 You should now be on a screen that displays all of your installed mods on the left and all of your plugin files on the right.
 
-![Mod Organizer 2 Image](https://keiza.al/assets/img/pages/installation/MO2.png)
+![Mod Organizer 2 Image](/assets/img/pages/installation/MO2.png)
 
 You will now have to launch Skyrim by selecting “Keizaal” from the drop-down menu directly above the right plugins pane and pressing “Play”. Beneath the Play button, there is a way to add a Skyrim shortcut to your desktop for added convenience.
 
 Whenever you launch Skyrim from Mod Organizer, this message will pop up:
 
-![Launch Pop-up Image](https://keiza.al/assets/img/pages/installation/LaunchPopup.png)
+![Launch Pop-up Image](/assets/img/pages/installation/LaunchPopup.png)
 
 **THIS IS NOT AN ERROR, DO NOT PRESS "UNLOCK"**. Simply wait a bit, and Skyrim will open normally.
 
 ### Creation Content
 
-While Keizaal requires the [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/), not all Anniversary Edition content is included in the modlist. For details on Anniversary Edition and Verified Creations, visit the [Creation Content](https://keiza.al/creations) page.
+While Keizaal requires the [Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153/), not all Anniversary Edition content is included in the modlist. For details on Anniversary Edition and Verified Creations, visit the [Creation Content](/creations) page.
 
 ### Profiles
 
@@ -87,7 +87,7 @@ Keizaal is designed to enhance and expand upon what the vanilla game offers. Whi
 
 If you're looking for a different experience, Keizaal also includes a secondary profile that integrates the complete [SimonRim](https://next.nexusmods.com/profile/SimonMagus/mods?gameId=1704) suite into the mod list. To switch to this profile, simply select it from the drop-down menu at the top of Mod Organizer.
 
-![SimonRim Image](https://keiza.al/assets/img/pages/installation/SimonRim.jpg)
+![SimonRim Image](/assets/img/pages/installation/SimonRim.jpg)
 
 **Savegames are linked to each profile**, so make sure to select the correct one before launching the game. If you don’t, you might not find your saved progress!
 
@@ -120,30 +120,30 @@ If you attempt to update a modified installation of Keizaal, **Wabbajack will de
 
 This means that any additional mods you have installed on top of Keizaal will be deleted. To prevent this, you can add the prefix **[NoDelete]** to the names of the mods you want to keep and Wabbajack will ensure they are ignored during updates.
 
-![No Delete Image](https://keiza.al/assets/img/pages/installation/NoDelete.png)
+![No Delete Image](/assets/img/pages/installation/NoDelete.png)
 
 ### Mod Notes
 
 Several mods in Keizaal's Mod Organizer have notes attached to them. If the note icon appears next to a mod, hover over it to read the notes. These notes will give you some additional context about how the mod has been configured.
 
-![Mod Notes Image](https://keiza.al/assets/img/pages/installation/Notes.png)
+![Mod Notes Image](/assets/img/pages/installation/Notes.png)
 
 
 ### Settings
 
 If you want to edit some of Skyrim's settings, you can do so by manually editing your base game's .ini files. You can do so by navigating to the top of Mod Organizer, clicking on the puzzle piece, then selecting "INI Editor".
 
-![Settings Image](https://keiza.al/assets/img/pages/installation/INIs.png)
+![Settings Image](/assets/img/pages/installation/INIs.png)
 
 Keizaal's preconfigured mod settings can be found in the "Keizaal Settings" mod in Mod Organizer.
 
-![Keizaal Settings](https://keiza.al/assets/img/pages/installation/Settings.png)
+![Keizaal Settings](/assets/img/pages/installation/Settings.png)
 
 ## Support
 ---
-If you run into any issues installing Keizaal, please refer to the [Troubleshooting Guide](https://keiza.al/troubleshooting). It covers all of the common errors that may occur and will walk you through how to fix them.
+If you run into any issues installing Keizaal, please refer to the [Troubleshooting Guide](/troubleshooting). It covers all of the common errors that may occur and will walk you through how to fix them.
 
-Join [Tate Taylor's community Discord server](https://keiza.al/discord) for individual help and guidance.
+Join [Tate Taylor's community Discord server](/discord) for individual help and guidance.
 
 Offical support for modified verions of Keizaal **WILL NOT** be provided. 
 
