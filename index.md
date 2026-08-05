@@ -1,5 +1,4 @@
 ---
-title: Main Page
 image_align: center
 ---
 Hello there! I’m [Tate Taylor](https://tatetayloroh.com/readme), the curator of Keizaal, and I’m excited to share what my modlist has to offer!
