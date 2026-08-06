@@ -1,7 +1,8 @@
 ---
-title: Bug Reports
-description: The process for reporting a bug in Keizaal.
-redirect_from: /BUGREPORTS.html/
+title: "Bug Reports"
+description: "The process for reporting a bug in Keizaal."
+permalink: "/bugs"
+redirect_from: "/BUGREPORTS.html"
 ---
 **Do not** report bugs with the Wabbajack client, *only* issues you experience in-game. Consider bringing your issue up in the [Discord server](/discord) before submitting a formal bug report.
 
