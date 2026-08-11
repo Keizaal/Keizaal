@@ -87,6 +87,7 @@ A number of smaller mods will also be removed in this update. Keizaal includes m
 - Updated [Pirates Wield Cutlasses](https://www.nexusmods.com/skyrimspecialedition/mods/31753)
 - Updated [powerofthree's Papyrus Extender](https://www.nexusmods.com/skyrimspecialedition/mods/22854)
 - Updated [Realistic Pirate Sounds](https://www.nexusmods.com/skyrimspecialedition/mods/110672)
+- Updated [Skyrim Extended Cut - Saints and Seducers](https://www.nexusmods.com/skyrimspecialedition/mods/72772)
 - Updated [Tamrielic Distribution](https://www.nexusmods.com/skyrimspecialedition/mods/71372)
 - Updated [Versatile Item and Group Re-Assignment - C.O.C.K.S. Enhanced](https://www.nexusmods.com/skyrimspecialedition/mods/85419)
 - Updated [Vigilance the Husky](https://www.nexusmods.com/skyrimspecialedition/mods/49935)
