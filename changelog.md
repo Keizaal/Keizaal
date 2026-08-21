@@ -239,11 +239,11 @@ __SimonRim Profile:__
 - Removed [TGC Winterhold - The Frosted Hammer](https://www.nexusmods.com/skyrimspecialedition/mods/77219)
 
 ## [7.1.0b - The Everything is Fine Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=462710)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/refs/heads/main/assets/images/releases/7.1.0b.png)
+![](/assets/img/releases/7.1.0b.png)
 - Brought Keizaal back online following Skyrim patch 1.6.1170
 
 ## [7.1.0a - The This is Fine Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=454608)
-![](https://raw.githubusercontent.com/Keizaal/Keizaal/refs/heads/main/assets/images/releases/7.1.0a.png)
+![](/assets/img/releases/7.1.0a.png)
 - Brought Keizaal back online following Skyrim patch 1.6.1130
 
 ## [7.1.0 - The Starfield Update](https://www.nexusmods.com/skyrimspecialedition/mods/68997?tab=files&file_id=422367)
