@@ -42,12 +42,12 @@ redirect_from: "/CHANGELOG.html"
 - Added [Local Map Upgrade](https://www.nexusmods.com/skyrimspecialedition/mods/129756)
 - Added [M.I.N.T. - Mint-Issued National Tenders](https://www.nexusmods.com/skyrimspecialedition/mods/178940)
 - Added [Names for the Nameless](https://www.nexusmods.com/skyrimspecialedition/mods/46504)
+- Added [Open Equipment Fixes](https://www.nexusmods.com/skyrimspecialedition/mods/)
 - Added [Partial Form Patcher](https://www.nexusmods.com/skyrimspecialedition/mods/161274) (hopefully this will help patch some stray minor incompatibilities in the SimonRim Profile)
 - Added [Perk Trees - Unlocked Mechanics and Tweaks](https://www.nexusmods.com/skyrimspecialedition/mods/134760)
 - Added [QUI](https://www.nexusmods.com/skyrimspecialedition/mods/65343)
 - Added [Real Tutorial Prompts](https://www.nexusmods.com/skyrimspecialedition/mods/182843)
 - Added [Red Mountain Plume Visible from Skyrim](https://www.nexusmods.com/skyrimspecialedition/mods/66048)
-- Added [REDACTED]
 - Added [Reimperialized Fort Frostmoth - Location Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/134592)
 - Added [Scene Tweak - Companions Werewolf Bloodritual](https://www.nexusmods.com/skyrimspecialedition/mods/46687)
 - Added [Simple Werewolf Favourite Howls Menu](https://www.nexusmods.com/skyrimspecialedition/mods/35736)
