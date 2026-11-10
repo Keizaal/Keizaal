@@ -4,6 +4,8 @@ description: "The complete version changelog for Keizaal."
 permalink: "/changelog"
 redirect_from: "/CHANGELOG.html"
 ---
+# [9.0.0 - The Back to Basics Update]()
+![](/assets/img/releases/9.0.0.png)
 - Added **Anniversary Edition Content:** [Alternative Armors - Dragon Plate](https://creations.bethesda.net/en/skyrim/details/d4f7c5bc-a653-4ee0-83de-87fabab0e22f/Alternative_Armors___Dragon_Plate)
 - Added **Anniversary Edition Content:** [Alternative Armors - Dwarven Plate](https://creations.bethesda.net/en/skyrim/details/77364928-82ba-42d5-ad1d-3ce32fa67cc9/Alternative_Armors___Dwarven_Plate)
 - Added **Anniversary Edition Content:** [Alternative Armors - Orcish Plate](https://creations.bethesda.net/en/skyrim/details/b0e189fa-56f4-4210-be64-30edb8a17a6c/Alternative_Armors___Orcish_Plate)
