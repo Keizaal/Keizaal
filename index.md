@@ -55,11 +55,6 @@ Skyrim generally gives you a good amount of choice in morally questionable quest
 
 Another quest that sorely needed a "good" path was House of Horrors. This quest is one of the worst offenders in this category because it tricks the Player into thinking they are starting a quest suited for good guys and then they are quickly blindsided into a Daedric quest where there is no alternative to being a bad guy beyond letting the quest sit in your journal forever incomplete. House of Horrors - Quest Expansion adds a new route to take that will allow you to spite the evil prince and will unlock use of a brand new follower. The same author also made [The Only Cure - Quest Expansion](https://www.nexusmods.com/skyrimspecialedition/mods/57683), also featured in Keizaal, which seeks to achieve the same thing but for Peryite's Daedric quest.
 
-### [Lawbringer](https://www.nexusmods.com/skyrimspecialedition/mods/29882)
-![](https://staticdelivery.nexusmods.com/mods/1704/images/29882/29882-1571724157-1690149741.png)
-
-There are a lot of locations around Skyrim that are inhabited with bandits and make travel in those places dangerous. You are unable to clear these places permanently; they will always respawn with bandits, and the circle of banditry will never end. Lawbringer is a great mod that allows you to claim locations around Skyrim for a faction of your choice, ensuring that it will only respawn in the future with friendly NPCs. It is really enjoyable to claim locations and see a tangible impact on the world around you. Places like Valtheim Keep and Pine Watch Bridge are fun locations because they are bandit camps stationed on the roadway, so claiming feels very impactful. Lawbringer only covers the Skyrim worldspace itself but I have personally expanded functionality to several other worldspaces in my mods [House Rule](https://www.nexusmods.com/skyrimspecialedition/mods/57243), [Wyrm Tamer](https://www.nexusmods.com/skyrimspecialedition/mods/55190), and [Imperial Law](https://www.nexusmods.com/skyrimspecialedition/mods/57099).
-
 ### [Lucien - Immersive Fully Voiced Male Follower](https://www.nexusmods.com/skyrimspecialedition/mods/20035)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/20035/20035-1537353342-139023144.png)
 
@@ -89,16 +84,6 @@ I don't mind the reuse of farmhouse architecture outside of the hold capitals, s
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/20514/20514-1577465929-696808686.png)
 
 Obscure's College of Winterhold is one of the best single-location overhauls I've used. It doesn't do dramatically different things that change the College of Winterhold, but it does naturally expand what is there and make it feel like an actual academic campus. While the changes in some areas are extreme, they just *feel* right. It indirectly improves the College questline and generally just makes the place more interesting to visit and live in.
-
-### [Wyrmstooth](https://www.nexusmods.com/skyrimspecialedition/mods/45565)
-![](https://staticdelivery.nexusmods.com/mods/1704/images/45565/45565-1613032746-1992524601.jpeg)
-
-While expansions of the Vanilla worldspace are fantastic, there is something to be said about exploring a completely new land. Wyrmstooth is one of Skyrim's oldest New Lands mods and it shows. The world is beautiful and filled with a ton of content and everything feels right at home next to Vanilla. Wyrmstooth doesn't do anything earth-shattering; it feels a lot like More Skyrim, but that isn't a bad thing.
-
-### [Beyond Skyrim - Bruma](https://www.nexusmods.com/skyrimspecialedition/mods/10917)
-![](https://staticdelivery.nexusmods.com/mods/1704/images/84946-0-1498689983.jpg)
-
-Beyond Skyrim is one of the most anticipated mod projects currently in development. Currently, only one piece of released content exists: Bruma. While it is definitely just a slice of a larger whole, what is there is quality. The mod adds the city of Bruma just south of the Skyrim border in Cyrodiil. Beyond the city proper, the mod also adds the rest of county Bruma open for the Player to explore and the whole space really maintains the distinct Bethesda feel. The county has a lot of interesting places to explore including a brand new type of dungeon, several new enemies unique to Cyrodiil, and a lot of quests to keep you busy. While this may just be a preview of what is to come in the full Beyond Skyrim - Cyrodiil release, it is still quality content that can be used for some interesting roleplay opportunities for your character.
 
 ### [CoMAP - Common Marker Addon Project](https://www.nexusmods.com/skyrimspecialedition/mods/56123)
 ![](https://staticdelivery.nexusmods.com/mods/1704/images/56123/56123-1633296446-147092038.png)
