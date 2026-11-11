@@ -24,7 +24,7 @@
     "links": {
       "image": "https://keiza.al/assets/img/releases/down.png",
       "readme": "https://keiza.al/installation",
-      "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_9918a909-fcbd-4821-83c5-b700567195a7",
+      "download": "https://authored-files.wabbajack.org/Keizaal.wabbajack_194b1dfd-080c-426f-80c7-19f1f5737448",
       "machineURL": "keizaal",
       "discordURL": "https://discord.gg/eYZJFP8",
       "websiteURL": "https://keiza.al",
@@ -36,17 +36,17 @@
       }
     },
     "download_metadata": {
-      "Hash": "/sQN76aZTjk=",
-      "Size": 13063471,
-      "NumberOfArchives": 1011,
-      "SizeOfArchives": 40597427505,
-      "NumberOfInstalledFiles": 195179,
-      "SizeOfInstalledFiles": 82976451121,
-      "TotalSize": 123573878626
+      "Hash": "vEY2Yet09mE=",
+      "Size": 202954709,
+      "NumberOfArchives": 773,
+      "SizeOfArchives": 31845756129,
+      "NumberOfInstalledFiles": 63813,
+      "SizeOfInstalledFiles": 43491772970,
+      "TotalSize": 75337529099
     },
-    "version": "8.0.1.1",
+    "version": "9.0.0",
     "dateCreated": "2020-02-16T00:00:00Z",
-    "dateUpdated": "2024-11-02T21:43:22.3329047Z",
+    "dateUpdated": "2026-11-11T05:00:08.3325088Z",
     "repositoryName": ""
   }
 ]
